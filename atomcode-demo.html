@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AtomCode 能力演示</title>
+<style>
+  :root {
+    --bg: #0a0e1a;
+    --surface: #111827;
+    --surface2: #1a2035;
+    --text: #e0edf8;
+    --text2: #8899b0;
+    --accent: #6b9eff;
+    --accent2: #a78bfa;
+    --green: #34d399;
+    --orange: #fbbf24;
+    --red: #f87171;
+    --border: #1f2a44;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+    width: 100%;
+    min-height: 100vh;
+    padding: 2.5rem 3rem;
+  }
+  .container { max-width: 2000px; margin: 0 auto; }
+
+  /* Header */
+  .header {
+    display: flex; align-items: center; justify-content: space-between;
+    padding-bottom: 2rem; border-bottom: 1px solid var(--border); margin-bottom: 2.5rem;
+  }
+  .header-left { display: flex; align-items: center; gap: 1.25rem; }
+  .logo {
+    width: 52px; height: 52px; border-radius: 14px;
+    background: linear-gradient(135deg, var(--accent), var(--accent2));
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 800; font-size: 1.5rem; color: #fff;
+  }
+  .header h1 { font-size: 2rem; font-weight: 700; letter-spacing: -0.02em; }
+  .header .subtitle { color: var(--text2); font-size: 1rem; margin-top: 0.2rem; }
+  .badge {
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    background: var(--surface2); border: 1px solid var(--border);
+    border-radius: 9999px; padding: 0.35rem 1rem;
+    font-size: 0.8rem; color: var(--text2);
+  }
+  .badge .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--green); display: inline-block; }
+
+  /* Stats Grid */
+  .stats-grid {
+    display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.25rem;
+    margin-bottom: 2.5rem;
+  }
+  .stat-card {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 16px; padding: 1.5rem;
+  }
+  .stat-card .num { font-size: 2rem; font-weight: 700; color: var(--accent); }
+  .stat-card .label { color: var(--text2); font-size: 0.9rem; margin-top: 0.3rem; }
+  .stat-card .desc { font-size: 0.8rem; color: var(--text2); margin-top: 0.5rem; opaciy: 0.7; }
+
+  /* Section */
+  .section { margin-bottom: 2.5rem; }
+  .section-title {
+    font-size: 1.4rem; font-weight: 600; margin-bottom: 1.25rem;
+    display: flex; align-items: center; gap: 0.75rem;
+  }
+  .section-title .icon {
+    width: 32px; height: 32px; border-radius: 8px;
+    display: inline-flex; align-items: center; justify-content: center; font-size: 1rem;
+  }
+
+  /* Demo Cards Grid (8 columns) */
+  .demos-grid {
+    display: grid; grid-template-columns: repeat(8, 1fr); gap: 1.25rem;
+  }
+  .demo-card {
+    grid-column: span 2;
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 16px; padding: 1.5rem;
+    transition: border-color 0.2s, transform 0.2s;
+    cursor: default;
+  }
+  .demo-card:hover { border-color: var(--accent); transform: translateY(-2px); }
+  .demo-card.wide { grid-column: span 4; }
+  .demo-card.full { grid-column: span 8; }
+  .demo-card h3 { font-size: 1.05rem; font-weight: 600; margin-bottom: 0.75rem; }
+  .demo-card h3 .tag {
+    display: inline-block; font-size: 0.65rem; font-weight: 500;
+    padding: 0.15rem 0.5rem; border-radius: 4px; margin-left: 0.5rem;
+    vertical-align: middle; letter-spacing: 0.02em;
+  }
+  .tag-green { background: rgba(52, 211, 153, 0.15); color: var(--green); }
+  .tag-blue { background: rgba(107, 158, 255, 0.15); color: var(--accent); }
+  .tag-purple { background: rgba(167, 139, 250, 0.15); color: var(--accent2); }
+  .tag-orange { background: rgba(251, 191, 36, 0.15); color: var(--orange); }
+  .tag-red { background: rgba(248, 113, 113, 0.15); color: var(--red); }
+
+  /* Code Block */
+  .code-block {
+    background: #0d1117; border: 1px solid #21262d;
+    border-radius: 10px; padding: 1rem; margin-top: 0.75rem;
+    font-family: 'JetBrains Mono', 'Cascadia Code', 'Fira Code', monospace;
+    font-size: 0.8rem; line-height: 1.6; overflow-x: auto;
+    color: #e6edf3;
+  }
+  .code-block .kw { color: #ff7b72; }
+  .code-block .str { color: #a5d6ff; }
+  .code-block .cm { color: #8b949e; }
+  .code-block .fn { color: #d2a8ff; }
+  .code-block .num { color: #79c0ff; }
+  .code-block .arrow { color: #ffa657; }
+
+  /* Timeline */
+  .timeline { position: relative; padding-left: 1.5rem; margin-top: 0.75rem; }
+  .timeline::before {
+    content: ''; position: absolute; left: 0; top: 0.2rem; bottom: 0;
+    width: 2px; background: var(--border);
+  }
+  .tl-item { position: relative; padding: 0.4rem 0 0.8rem 0.8rem; }
+  .tl-item::before {
+    content: ''; position: absolute; left: -0.4rem; top: 0.6rem;
+    width: 10px; height: 10px; border-radius: 50%;
+    background: var(--accent); border: 2px solid var(--bg);
+  }
+  .tl-item .tl-time { font-size: 0.7rem; color: var(--text2); }
+  .tl-item .tl-text { font-size: 0.85rem; margin-top: 0.15rem; }
+
+  /* Feature list */
+  .feature-list { list-style: none; margin-top: 0.75rem; }
+  .feature-list li {
+    padding: 0.35rem 0; font-size: 0.88rem;
+    display: flex; align-items: center; gap: 0.5rem;
+  }
+  .feature-list li::before { content: '▸'; color: var(--accent); font-weight: bold; }
+
+  /* Flow Diagram */
+  .flow { display: flex; align-items: center; gap: 0.75rem; margin-top: 1rem; flex-wrap: wrap; }
+  .flow-step {
+    background: var(--surface2); border: 1px solid var(--border);
+    border-radius: 8px; padding: 0.5rem 0.9rem;
+    font-size: 0.8rem; white-space: nowrap;
+  }
+  .flow-step.done { border-color: var(--green); color: var(--green); }
+  .flow-step.active { border-color: var(--accent); color: var(--accent); }
+  .flow-arrow { color: var(--text2); font-size: 1.2rem; }
+
+  /* Tags */
+  .tags { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: 0.75rem; }
+  .tags span {
+    background: var(--surface2); border: 1px solid var(--border);
+    border-radius: 4px; padding: 0.2rem 0.6rem;
+    font-size: 0.75rem; color: var(--text2);
+  }
+
+  /* Footer */
+  .footer {
+    margin-top: 3rem; padding-top: 1.5rem;
+    border-top: 1px solid var(--border);
+    text-align: center; color: var(--text2); font-size: 0.85rem;
+  }
+  .footer .stats-line { margin-top: 0.5rem; display: flex; justify-content: center; gap: 2rem; }
+
+  @media (max-width: 1920px) {
+    .demos-grid { grid-template-columns: repeat(6, 1fr); }
+    .demo-card { grid-column: span 2; }
+    .demo-card.wide { grid-column: span 3; }
+    .demo-card.full { grid-column: span 6; }
+    .stats-grid { grid-template-columns: repeat(4, 1fr); }
+  }
+  @media (max-width: 1440px) {
+    .demos-grid { grid-template-columns: repeat(4, 1fr); }
+    .demo-card { grid-column: span 2; }
+    .demo-card.wide { grid-column: span 2; }
+    .demo-card.full { grid-column: span 4; }
+    .stats-grid { grid-template-columns: repeat(2, 1fr); }
+    body { padding: 2rem; }
+  }
+  @media (max-width: 1024px) {
+    .demos-grid { grid-template-columns: repeat(2, 1fr); }
+    .demo-card { grid-column: span 1; }
+    .demo-card.wide { grid-column: span 1; }
+    .demo-card.full { grid-column: span 2; }
+    .stats-grid { grid-template-columns: repeat(2, 1fr); }
+    .header { flex-direction: column; align-items: flex-start; gap: 1rem; }
+    body { padding: 1.5rem; }
+  }
+  @media (max-width: 768px) {
+    .demos-grid { grid-template-columns: 1fr; }
+    .demo-card { grid-column: span 1; }
+    .demo-card.wide { grid-column: span 1; }
+    .demo-card.full { grid-column: span 1; }
+    .stats-grid { grid-template-columns: 1fr; }
+    .header h1 { font-size: 1.5rem; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <!-- Header -->
+  <div class="header">
+    <div class="header-left">
+      <div class="logo">⚛</div>
+      <div>
+        <h1>AtomCode</h1>
+        <div class="subtitle">AI 编码智能体 · 全能演示</div>
+      </div>
+    </div>
+    <div class="badge"><span class="dot"></span> deepseek-v4-flash 模型 · 就绪</div>
+  </div>
+
+  <!-- Stats -->
+  <div class="stats-grid">
+    <div class="stat-card">
+      <div class="num">20+</div>
+      <div class="label">文件操作工具</div>
+      <div class="desc">读、写、搜索、编辑、全局替换</div>
+    </div>
+    <div class="stat-card">
+      <div class="num">92</div>
+      <div class="label">技能指令集</div>
+      <div class="desc">10 个核心流程有完整执行规范</div>
+    </div>
+    <div class="stat-card">
+      <div class="num">5级</div>
+      <div class="label">响应式断点</div>
+      <div class="desc">2560 → 1920 → 1440 → 1024 → 768</div>
+    </div>
+    <div class="stat-card">
+      <div class="num">并行</div>
+      <div class="label">多文件并行编辑</div>
+      <div class="desc">子代理分叉处理，互不阻塞</div>
+    </div>
+  </div>
+
+  <!-- Section: Core Capabilities -->
+  <div class="section">
+    <div class="section-title">
+      <span class="icon" style="background:rgba(107,158,255,0.15);color:var(--accent)">⚡</span>
+      核心能力
+    </div>
+    <div class="demos-grid">
+
+      <!-- Card 1: 代码检索 -->
+      <div class="demo-card">
+        <h3>🔍 智能检索 <span class="tag tag-blue">grep / glob</span></h3>
+        <p style="font-size:0.85rem;color:var(--text2);line-height:1.5">
+          跨文件搜索代码结构、函数定义、字符串引用。支持正则与精确匹配，自动显示上下文。
+        </p>
+        <div class="code-block">
+          <span class="cm">// 搜索所有工具类定义</span><br>
+          <span class="kw">grep</span>(<span class="str">"class.*Plugin"</span>, <span class="str">"lib/"</span>)<br>
+          <span class="cm">// 查找文件</span><br>
+          <span class="kw">glob</span>(<span class="str">"**/*.test.js"</span>)
+        </div>
+      </div>
+
+      <!-- Card 2: 文件编辑 -->
+      <div class="demo-card">
+        <h3>✏️ 精确编辑 <span class="tag tag-green">edit_file</span></h3>
+        <p style="font-size:0.85rem;color:var(--text2);line-height:1.5">
+          行模式 / 文本模式两种编辑方式。支持多文件并行编辑，合并后自动构建验证。
+        </p>
+        <div class="code-block">
+          <span class="cm">// 替换精确文本</span><br>
+          edit_file({<br>
+          &nbsp;&nbsp;<span class="kw">old_string</span>: <span class="str">"旧代码"</span>,<br>
+          &nbsp;&nbsp;<span class="kw">new_string</span>: <span class="str">"新代码"</span><br>
+          })
+        </div>
+      </div>
+
+      <!-- Card 3: 浏览器自动化 -->
+      <div class="demo-card">
+        <h3>🌐 浏览器操控 <span class="tag tag-purple">Playwright</span></h3>
+        <p style="font-size:0.85rem;color:var(--text2);line-height:1.5">
+          导航、截图、表单填写、点击、拖拽、网络请求捕获。支持无障碍快照交互。
+        </p>
+        <div class="tags">
+          <span>browser_navigate</span>
+          <span>browser_snapshot</span>
+          <span>browser_click</span>
+          <span>browser_type</span>
+          <span>browser_screenshot</span>
+          <span>browser_network</span>
+        </div>
+      </div>
+
+      <!-- Card 4: 网页搜索 -->
+      <div class="demo-card">
+        <h3>🌍 联网搜索 <span class="tag tag-orange">web_search</span></h3>
+        <p style="font-size:0.85rem;color:var(--text2);line-height:1.5">
+          实时查询文档、API、库信息。搜索结果可直接抓取页面的 Markdown 内容。
+        </p>
+        <div class="code-block">
+          web_search(<span class="str">"tailwindcss v4 安装"</span>)<br>
+          web_fetch(<span class="str">"https://docs.rs/..."</span>)
+        </div>
+      </div>
+
+      <!-- Card 5: 知识图谱 (wide) -->
+      <div class="demo-card wide">
+        <h3>🧠 记忆系统 <span class="tag tag-purple">知识图谱</span></h3>
+        <p style="font-size:0.85rem;color:var(--text2);line-height:1.5">
+          实体-关系-观测三层存储，自动记忆用户偏好、项目状态、错误经验。跨会话持久化。
+        </p>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin-top:0.75rem">
+          <div class="code-block" style="margin:0">
+            <span class="cm">// 创建实体</span><br>
+            create_entities([<br>
+            &nbsp;&nbsp;{ <span class="kw">name</span>: <span class="str">"项目A"</span>,<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<span class="kw">type</span>: <span class="str">"project"</span>,<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<span class="kw">observations</span>: [...] }<br>
+            ])
+          </div>
+          <div class="code-block" style="margin:0">
+            <span class="cm">// 关联关系</span><br>
+            create_relations([<br>
+            &nbsp;&nbsp;{ <span class="kw">from</span>: <span class="str">"用户"</span>,<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<span class="kw">to</span>: <span class="str">"项目A"</span>,<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;<span class="kw">type</span>: <span class="str">"开发"</span> }<br>
+            ])
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 6: 技能系统 -->
+      <div class="demo-card">
+        <h3>📋 技能流程 <span class="tag tag-green">92 个技能</span></h3>
+        <p style="font-size:0.85rem;color:var(--text2);line-height:1.5">
+          任务自动匹配技能模板，按步骤执行，不可跳过。核心流程含验证闭环。
+        </p>
+        <div class="code-block" style="font-size:0.75rem">
+          <span class="cm">// 技能: auto-heal</span><br>
+          <span class="num">1</span>. 检测失败<br>
+          <span class="num">2</span>. 分析错误根因<br>
+          <span class="num">3</span>. 修复 (最多3轮)<br>
+          <span class="num">4</span>. 验证通过 ✓<br>
+          <span class="num">5</span>. 否则回滚
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Section: Workflow Demo -->
+  <div class="section">
+    <div class="section-title">
+      <span class="icon" style="background:rgba(52,211,153,0.15);color:var(--green)">▶</span>
+      典型工作流
+    </div>
+    <div class="demos-grid">
+      <div class="demo-card full">
+        <h3>🚀 Bug 修复 — 从报错到验证完成</h3>
+        <div class="flow">
+          <div class="flow-step done">① 复现错误</div>
+          <div class="flow-arrow">→</div>
+          <div class="flow-step done">② 搜索根因</div>
+          <div class="flow-arrow">→</div>
+          <div class="flow-step done">③ 编辑修复</div>
+          <div class="flow-arrow">→</div>
+          <div class="flow-step done">④ 验证通过</div>
+          <div class="flow-arrow">→</div>
+          <div class="flow-step done">⑤ Commit</div>
+        </div>
+        <div class="timeline">
+          <div class="tl-item">
+            <div class="tl-time">Step 1</div>
+            <div class="tl-text"><strong>复现</strong> — 运行报错命令，看到真实错误信息</div>
+          </div>
+          <div class="tl-item">
+            <div class="tl-time">Step 2</div>
+            <div class="tl-text"><strong>诊断</strong> — grep 搜索相关代码，确定根因</div>
+          </div>
+          <div class="tl-item">
+            <div class="tl-time">Step 3</div>
+            <div class="tl-text"><strong>修复</strong> — 编辑文件，注意全局一致性检查</div>
+          </div>
+          <div class="tl-item">
+            <div class="tl-time">Step 4</div>
+            <div class="tl-text"><strong>验证</strong> — 自动循环：修复失败则回滚，最多 3 轮</div>
+          </div>
+          <div class="tl-item">
+            <div class="tl-time">Step 5</div>
+            <div class="tl-text"><strong>提交</strong> — 里程碑自动 commit，保留验证记录</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Section: Design Rules -->
+  <div class="section">
+    <div class="section-title">
+      <span class="icon" style="background:rgba(251,191,36,0.15);color:var(--orange)">🎨</span>
+      设计规范
+    </div>
+    <div class="demos-grid">
+      <div class="demo-card">
+        <h3>🎯 输出风格</h3>
+        <ul class="feature-list">
+          <li>Bug 修复 → 温度 0.1，唯一方案</li>
+          <li>代码生成 → 温度 0.2，直接实现</li>
+          <li>架构设计 → 温度 0.4，2-3 方案对比</li>
+          <li>头脑风暴 → 温度 0.8，多角度发散</li>
+          <li>自动检测任务类型，无需手动指定</li>
+        </ul>
+      </div>
+      <div class="demo-card">
+        <h3>📐 视觉标准</h3>
+        <ul class="feature-list">
+          <li>32寸 2560×1440 大屏优先</li>
+          <li>8 列 Bento Grid 布局</li>
+          <li>8px 网格间距系统</li>
+          <li>最多 3 种主色 + 语义色</li>
+          <li>每页 ≤ 1 处动画效果</li>
+        </ul>
+      </div>
+      <div class="demo-card">
+        <h3>🛡️ 安全约束</h3>
+        <ul class="feature-list">
+          <li>无 SQL / shell 拼接</li>
+          <li>无硬编码凭据</li>
+          <li>用户输入必须校验</li>
+          <li>参数化查询优先</li>
+          <li>破坏性操作需确认</li>
+        </ul>
+      </div>
+      <div class="demo-card">
+        <h3>✅ 验证体系</h3>
+        <ul class="feature-list">
+          <li>改完必须验证，不得凭直觉</li>
+          <li>自愈循环：最多 3 轮修复</li>
+          <li>全局一致性 grep 检查</li>
+          <li>修复前先复现报错</li>
+          <li>写测试原则：新增功能 ≥ 2 测试</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <div class="footer">
+    <div>AtomCode (deepseek-v4-flash) · AI 编码智能体 by AtomGit</div>
+    <div class="stats-line">
+      <span>⚡ 本次演示: 3 次工具调用</span>
+      <span>📁 项目: aipypro-cli</span>
+      <span>🕐 环境: Windows + Node.js ≥18</span>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

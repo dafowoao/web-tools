@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>美团众包派单算法 · 县城跑单实战手册</title>
+<meta name="viewport" content="width=2560">
+<style>
+body{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;background:#0a0e1a;color:#e0edf8;padding:2.2rem 2.8rem;font-size:16px;line-height:1.8;max-width:1100px;margin:0 auto}
+h1{font-size:1.6rem;color:#6b9eff;margin-bottom:0.2rem;border-bottom:1px solid #1e2d4a;padding-bottom:0.4rem}
+h2{font-size:1.2rem;color:#6b9eff;margin:1.4rem 0 0.6rem;border-bottom:1px solid #1e2d4a;padding-bottom:0.2rem}
+h3{font-size:1rem;color:#ffbf00;margin:1rem 0 0.4rem}
+table{border-collapse:collapse;width:100%;margin:0.4rem 0;font-size:14px}
+th{background:#0f172a;color:#94a3b8;text-align:left;padding:0.3rem 0.5rem;border:1px solid #1e2d4a;font-weight:600}
+td{padding:0.3rem 0.5rem;border:1px solid #1e2d4a}
+tr:hover td{background:rgba(255,255,255,.02)}
+pre{background:#0f172a;border:1px solid #1e2d4a;border-radius:6px;padding:0.6rem 0.8rem;font-family:'Consolas',monospace;font-size:13px;line-height:1.6;overflow-x:auto;margin:0.4rem 0;color:#e6be64}
+code{background:#0f172a;color:#e6be64;padding:0 3px;border-radius:3px;font-size:14px}
+.gold{color:#ffbf00;font-weight:600}
+.green{color:#34d399}
+.blue{color:#6b9eff}
+.red{color:#f87171}
+.muted{color:#94a3b8}
+.subtle{color:#475569}
+.note{background:#0f172a;border-left:3px solid #6b9eff;padding:0.4rem 0.7rem;margin:0.4rem 0;border-radius:0 4px 4px 0;font-size:14px;color:#94a3b8}
+.script-box{background:rgba(52,211,153,.04);border:1px solid rgba(52,211,153,.15);border-radius:6px;padding:0.5rem 0.7rem;margin:0.3rem 0;font-size:14px}
+.script-box .label{color:#34d399;font-weight:600;font-size:12px;margin-bottom:2px}
+.script-box .text{color:#e0edf8;font-style:italic}
+.tag{display:inline-block;background:rgba(107,158,255,.1);color:#6b9eff;padding:0 4px;border-radius:3px;font-size:0.75rem}
+p{margin:0.3rem 0}
+ul{padding-left:1.2rem;margin:0.2rem 0}
+li{margin:0.15rem 0}
+.footer{margin-top:1.2rem;padding-top:0.5rem;border-top:1px solid #1e2d4a;font-size:12px;color:#475569}
+</style>
+</head>
+<body>
+
+<h1>美团众包派单算法 · 县城跑单实战手册</h1>
+<p class="muted" style="font-size:14px">五六线县城版 · 基于行业经验总结 · 实际受实时运力/天气/商户出餐/用户评价影响</p>
+
+<!-- ═══ 1. 评分公式 ═══ -->
+<h2>一、派单评分公式（算法核心）</h2>
+
+<div class="note">系统给每个骑手算分，分最高的拿单。公式：</div>
+
+<pre>
+Score = W₁S₁ + W₂S₂ + W₃S₃ + W₄S₄ + W₅S₅ + W₆S₆ + Bias
+
+S₁ = 距离分  — 你离商家越近分越高
+S₂ = 方向分  — 送餐方向跟你当前路线一致分越高
+S₃ = 负载分  — 你手上单越少分越高
+S₄ = 评分分  — 你的评分越高分越高
+S₅ = 在线分  — 你在线越久分越高（县城重点！）
+S₆ = 完单率  — 你完成率越高分越高
+</pre>
+
+<!-- ═══ 2. 权重表 ═══ -->
+<h2>二、各时段权重参考</h2>
+<table>
+<tr><th>时段</th><th>时间</th><th>距店</th><th>方向</th><th>负载</th><th>评分</th><th>在线</th><th>完单</th></tr>
+<tr><td class="subtle">早餐</td><td>05-08</td><td>0.85</td><td>0.60</td><td>0.40</td><td>0.30</td><td class="gold">0.70</td><td>0.50</td></tr>
+<tr><td class="subtle">上午</td><td>08-11</td><td>0.80</td><td>0.55</td><td>0.45</td><td>0.35</td><td>0.65</td><td>0.55</td></tr>
+<tr style="background:rgba(251,146,60,.06)"><td class="gold">午高峰</td><td>11-13:30</td><td>0.75</td><td>0.70</td><td>0.50</td><td>0.40</td><td>0.60</td><td>0.60</td></tr>
+<tr><td>下午</td><td>13:30-17</td><td>0.80</td><td>0.60</td><td>0.45</td><td>0.35</td><td>0.65</td><td>0.50</td></tr>
+<tr style="background:rgba(255,191,0,.06)"><td class="gold">晚高峰</td><td>17-20</td><td>0.70</td><td class="gold">0.75</td><td>0.55</td><td>0.45</td><td>0.60</td><td>0.65</td></tr>
+<tr><td>夜间</td><td>20-23</td><td>0.65</td><td class="gold">0.80</td><td>0.60</td><td>0.50</td><td>0.55</td><td>0.70</td></tr>
+<tr><td style="color:#c084fc">深夜</td><td>23-02</td><td>0.60</td><td class="gold">0.85</td><td>0.65</td><td>0.55</td><td>0.50</td><td>0.75</td></tr>
+</table>
+
+<div class="note">县城特点：顺路度(方向)和在线时长权重明显高于城市，因为县城范围小骑手少</div>
+
+<!-- ═══ 3. 县城参数差异 ═══ -->
+<h2>三、县城 vs 城市 参数差异</h2>
+<table>
+<tr><th>参数</th><th>城市</th><th>县城</th><th>对你意味着什么</th></tr>
+<tr><td>配送半径</td><td>7km</td><td class="gold">5km</td><td>超出5km的单不会派给你</td></tr>
+<tr><td>最大接单</td><td>8单</td><td class="gold">6单</td><td>手上有6单就不会再派了</td></tr>
+<tr><td>在线激励</td><td>180分钟满分</td><td class="gold">120分钟</td><td>在线2小时后派单优先</td></tr>
+<tr><td>拒单惩罚</td><td>扣0.08/次</td><td class="gold">扣0.05/次</td><td>县城拒单影响更小</td></tr>
+<tr><td>等单加价</td><td>3分钟</td><td class="gold">5分钟</td><td>订单等5分钟才加价</td></tr>
+</table>
+
+<!-- ═══ 4. 七时段策略 ═══ -->
+<h2>四、各时段策略 + 话术</h2>
+
+<h3>🌅 05:00-08:00 早餐</h3>
+<div class="note">距店权重85%最高，在线时长权重70%。系统最看重"你在哪"和"你在不在线"。</div>
+<ul>
+<li>5:30前到早餐集中区（粥店/包子铺/肯德基）蹲着别动</li>
+<li>在线就有单——县城早间没几个骑手在线</li>
+<li><span class="gold">话术：</span>"早上单少，在线就有派单优势。5点起床跑早餐，虽然累但稳定。"</li>
+<li>不要锁屏！锁屏容易漏通知</li>
+</ul>
+
+<h3>☀️ 08:00-11:00 上午平峰</h3>
+<div class="note">全程最低谷时段，适合做数据。各因子权重均衡。</div>
+<ul>
+<li>在商圈中心点挂机，辐射范围最大化</li>
+<li>有预约单就抢——县城商户备餐慢，预约单提前锁定</li>
+<li><span class="gold">话术：</span>"平峰期单价低但没竞争，系统看你在线就给你派。刷完单率和评分。跑5-8单小单把数据做漂亮。"</li>
+</ul>
+
+<h3 style="color:#ffbf00">🔥 11:00-13:30 午高峰</h3>
+<div class="note">全天单量最密集的时段，28%的日单量集中在这2.5小时。距店权重虽降到75%，但负载权重只有50%，系统鼓励多接。</div>
+<ul>
+<li><span class="gold">10:30前到单量TOP10商家附近蹲守</span>——谁离店近谁先拿单</li>
+<li>接单标准：<span class="gold">只接1.5km以内的</span>，超过3km的直接不抢</li>
+<li>取餐时跟老板套近乎："老板还有没有顺路的？帮我看看"</li>
+<li><span class="red">千万不要跑远单！高峰期跑一个3km的单=损失3-4个近单的机会</span></li>
+<li>目标：午高峰冲20单</li>
+<li><span class="gold">话术：</span>"午高峰不要贪大单，就近接、快送、再接。1km内的单秒抢，2km看方向，3km以上果断放弃。高峰期系统派单密集，送完一单通常马上派下一单。"</li>
+</ul>
+
+<h3>🌤️ 13:30-17:00 下午平峰</h3>
+<div class="note">14:00-16:00有下午茶小高峰（奶茶/咖啡）。适合刷评分。</div>
+<ul>
+<li>到中学/商业街附近等下午茶单</li>
+<li>主动接一些小单提高完单率和评分</li>
+<li><span class="gold">话术：</span>"下午单少但没竞争。主动接那些低价小单，不是为了赚钱，是为了把完单率和评分刷上去。高评分高完单率=高峰期优先派单。"</li>
+<li>检查电动车电量，为晚高峰做准备</li>
+</ul>
+
+<h3 style="color:#ffbf00">🌆 17:00-20:00 晚高峰</h3>
+<div class="note">全天单价最高的时段(均价4.5+)，方向分权重最高85%。系统最关心"你送的方向对不对"。</div>
+<ul>
+<li><span class="gold">17:00前到餐饮集中区占位</span></li>
+<li>方向原则：送住宅区/小区方向——返程单多</li>
+<li><span class="red">送工业区/偏远区容易空跑回来</span></li>
+<li>送完一单别急着休息，看系统是不是马上派了返回方向的单</li>
+<li><span class="gold">话术：</span>"晚高峰方向最重要。送到小区后别急着走，停1-2分钟等系统派返程单。县城范围小，方向对了回程就有单。往工业区送是坑——回来空跑3公里。"</li>
+<li>目标：晚高峰冲18单</li>
+</ul>
+
+<h3>🌙 20:00-23:00 夜间</h3>
+<div class="note">骑手大量下线，在线时长权重降低，方向分权重80%居首。单价5元+。</div>
+<ul>
+<li>驻守烧烤/炸鸡/麻辣烫店附近</li>
+<li>3-4km的单可以接（单价高）</li>
+<li><span class="gold">话术：</span>"夜间骑手少，系统没得选。你在线就有派单，不用抢。距离稍远的也可以接，因为单价高。注意安全！"</li>
+</ul>
+
+<h3 style="color:#c084fc">🌃 23:00-02:00 深夜</h3>
+<div class="note">基本只剩1-2个骑手，你在线≈全城单都是你的。单价6.5元最高。</div>
+<ul>
+<li>独享全城，不限距离</li>
+<li><span class="red">注意安全！县城深夜路灯暗，提前打电话让顾客出来取</span></li>
+<li><span class="gold">话术：</span>"深夜没人跟你抢，5km的单都接。但一定要提前打电话确认顾客能出来取，别送到地方没人。"</li>
+</ul>
+
+<!-- ═══ 5. 四种场景话术 ═══ -->
+<h2>五、四种核心场景话术</h2>
+
+<h3>抢单判断</h3>
+<div class="script-box"><div class="label">🧠 接到派单通知时</div>
+<div class="text">距店1km内 → "秒抢！系统优先给我了，因为我最近"<br>
+距店1-2km → "看方向，顺路就抢，不顺路等下一单"<br>
+距店2-3km → "高峰期不抢，平峰期看价格，4块以上考虑"<br>
+距店3km+ → "除非单价5元以上，否则放弃"<br>
+县城技巧："守在TOP5商户门口，系统优先派给最近骑手"</div></div>
+
+<h3>拒单时机</h3>
+<div class="script-box"><div class="label">🧠 什么时候该拒</div>
+<div class="text">方向相反+超过1.5km → "拒！跑过去再跑回来=白干"<br>
+商家出餐巨慢 → "提前拒，不影响派单率"<br>
+送到偏远工业区/乡镇 → "拒，回程空跑"<br>
+小区不让进+大单(水/米) → "拒，搬不动"<br>
+注意：雨天拒单影响派单权重，非必要不拒</div></div>
+
+<h3>路线选择</h3>
+<div class="script-box"><div class="label">🧠 每天该跑哪条线</div>
+<div class="text">核心路线：主街 → 商业街 → 住宅区（来回跑）<br>
+避开路线：老城区窄巷、工业区、学校远门<br>
+多单合并：同一商圈取2-3单再出发（省时间）<br>
+返回策略：送到小区后停门口等3分钟等返程单<br>
+电量管理：县城日跑60-100km，午高峰前充一次电</div></div>
+
+<h3>冲单技巧</h3>
+<div class="script-box"><div class="label">🧠 怎么冲单王</div>
+<div class="text">午高峰11-13点 → "只接近单(1.5km内)，送完马上接下一单"<br>
+晚高峰17:30-19:30 → "单价最高，2km内都接"<br>
+平峰期 → "刷评分和完单率，不要挑单"<br>
+新手保护期(前7天) → "系统优先派单，全力冲单王！"</div></div>
+
+<!-- ═══ 6. 决策树 ═══ -->
+<h2>六、接单决策树（一图看懂接不接）</h2>
+<pre>
+收到派单
+├─ 距店 > 3km? → 不抢，等近单
+│  └─ ≤3km? → 看方向
+├─ 方向相反? → 不抢，除非单价>5元
+│  └─ 方向顺路? → 看评分
+├─ 评分 < 4.6? → 先跑几单刷分
+│  └─ 评分 ≥ 4.6? → 看时段
+├─ 高峰期? → 只接<2.5km近单
+│  └─ 平峰期? → 可接3-4km
+└─ 深夜? → 全城独享
+</pre>
+
+<!-- ═══ 7. 数据参考 ═══ -->
+<h2>七、县城跑单数据参考</h2>
+<table>
+<tr><th>指标</th><th>数值</th><th>说明</th></tr>
+<tr><td>日均全城单量</td><td>~208单</td><td>整个县城一天的总量</td></tr>
+<tr><td>骑手日均</td><td>20-40单</td><td>看在线时长和效率</td></tr>
+<tr><td>午高峰目标</td><td class="gold">20单</td><td>11:00-13:00冲刺</td></tr>
+<tr><td>晚高峰目标</td><td class="gold">18单</td><td>17:00-19:30</td></tr>
+<tr><td>日收入目标</td><td class="gold">¥150-300</td><td>县城均价低，靠单量</td></tr>
+<tr><td>雨天单量</td><td class="gold">×1.5-2倍</td><td>县城雨天空缺更大</td></tr>
+</table>
+
+<div class="note">记住县城三条铁律：1.在线时长是关键（骑手少） 2.顺路度大于距离（范围小） 3.高峰期只接近单（效率优先）</div>
+
+<div class="footer">本手册基于行业经验总结 · 实际派单受实时运力/天气/商户出餐/用户评价等因素影响</div>
+
+</body>
+</html>

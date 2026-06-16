@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=2560">
+<title>2026世界杯 · 全程赛程 & 冠军预测</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#050810;--surface:#0a0f1e;--card:#0f172a;--card2:#131e33;--border:#1a2d4a;--border2:#2a3d5e;--text:#e0edf8;--muted:#94a3b8;--accent:#6b9eff;--gold:#ffbf00;--green:#34d399;--red:#f87171;--orange:#fb923c;--purple:#a78bfa;--cyan:#38bdf8;--pink:#f472b6}
+html{background:var(--bg);display:flex;justify-content:center;padding:1rem}
+body{width:100%;max-width:2540px;background:var(--surface);border-radius:20px;padding:2rem 2.5rem;font-family:'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;font-size:16px;color:var(--text);line-height:1.6;box-shadow:0 0 120px rgba(107,158,255,.04),inset 0 1px 0 rgba(255,255,255,.02)}
+/* 头部 */
+.header{display:flex;align-items:center;justify-content:space-between;margin-bottom:1.2rem;padding-bottom:0.8rem;border-bottom:1px solid var(--border);flex-wrap:wrap;gap:0.5rem}
+.header .title{font-size:1.8rem;font-weight:800;background:linear-gradient(135deg,var(--accent),var(--gold));-webkit-background-clip:text;-webkit-text-fill-color:transparent;display:flex;align-items:center;gap:0.6rem}
+.header .title small{font-size:0.9rem;background:none;-webkit-text-fill-color:var(--muted);font-weight:400}
+.header .meta{display:flex;gap:1.2rem;font-size:0.8rem;color:var(--muted)}
+h2{font-size:1.2rem;color:var(--accent);margin:1.2rem 0 0.6rem;display:flex;align-items:center;gap:0.5rem;font-weight:700}
+h2::after{content:'';flex:1;height:1px;background:linear-gradient(90deg,var(--border),transparent)}
+h3{font-size:1rem;color:var(--gold);margin:0.8rem 0 0.4rem}
+/* 网格 */
+.grid-4{display:grid;grid-template-columns:repeat(4,1fr);gap:0.8rem;margin-bottom:0.8rem}
+.grid-3{display:grid;grid-template-columns:repeat(3,1fr);gap:0.8rem;margin-bottom:0.8rem}
+.grid-2{display:grid;grid-template-columns:1fr 1fr;gap:0.8rem;margin-bottom:0.8rem}
+/* 卡片 */
+.card{background:linear-gradient(135deg,var(--card),var(--card2));border:1px solid var(--border);border-radius:12px;padding:1rem 1.2rem;transition:all .3s;height:100%}
+.card:hover{border-color:var(--border2);transform:translateY(-1px);box-shadow:0 4px 20px rgba(0,0,0,.3)}
+.card .ctitle{font-size:0.8rem;font-weight:700;color:var(--accent);margin-bottom:0.5rem;display:flex;align-items:center;gap:0.4rem}
+/* 分组 */
+.groups-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:0.7rem;margin-bottom:0.8rem}
+.group-card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:0.6rem 0.8rem;transition:all .2s}
+.group-card:hover{border-color:var(--border2)}
+.group-card .gtitle{font-weight:700;font-size:0.8rem;color:var(--accent);margin-bottom:0.25rem;display:flex;justify-content:space-between}
+.group-card .gtitle .gdate{color:var(--muted);font-size:0.65rem;font-weight:400}
+.group-card .team{display:flex;align-items:center;gap:0.3rem;padding:0.12rem 0;font-size:0.78rem;border-radius:4px;transition:all .15s}
+.group-card .team:hover{background:rgba(255,255,255,.02)}
+.group-card .team .flag{font-size:0.9rem;min-width:1.2rem;text-align:center}
+.group-card .team .name{flex:1}
+.group-card .team .pts{color:var(--muted);font-size:0.65rem;min-width:1.8rem;text-align:right}
+.group-card .team .str{height:3px;border-radius:2px;background:var(--border);flex:0 0 100%;margin-top:1px}
+.group-card .team .str .fill{height:100%;border-radius:2px}
+/* 实力排名 */
+.rank-card{display:flex;align-items:center;gap:0.5rem;padding:0.35rem 0.5rem;border-radius:6px;margin:0.15rem 0;transition:all .2s;font-size:0.82rem}
+.rank-card:hover{background:rgba(255,255,255,.02)}
+.rank-card .num{color:var(--muted);font-size:0.7rem;min-width:1.2rem;font-weight:600}
+.rank-card .rname{flex:1;font-weight:600}
+.rank-card .score{font-weight:700;min-width:2rem;text-align:right}
+.rank-card .bar{width:4rem;height:4px;background:var(--border);border-radius:2px;margin-left:0.3rem}
+.rank-card .bar .fill{height:100%;border-radius:2px}
+/* 比赛卡片 */
+.match-card{display:flex;align-items:center;gap:0.4rem;padding:0.4rem 0.5rem;border-radius:6px;margin:0.15rem 0;font-size:0.82rem;transition:all .15s}
+.match-card:hover{background:rgba(255,255,255,.02)}
+.match-card .time{color:var(--muted);min-width:3rem;font-size:0.7rem}
+.match-card .vsteam{flex:1;text-align:center}
+.match-card .vs-score{color:var(--gold);font-weight:700;min-width:1.8rem;text-align:center}
+.match-card .round-tag{color:var(--accent);font-size:0.65rem;min-width:2.5rem}
+/* 淘汰赛可视化 */
+.knockout{display:flex;justify-content:space-around;gap:0.5rem;padding:0.5rem 0;flex-wrap:wrap}
+.knockout .round-box{flex:1;min-width:10rem;background:var(--card);border:1px solid var(--border);border-radius:8px;padding:0.5rem}
+.knockout .round-box .rtitle{font-size:0.7rem;color:var(--muted);text-align:center;margin-bottom:0.3rem}
+.knockout .ko-match{display:flex;align-items:center;gap:0.3rem;padding:0.2rem 0;font-size:0.75rem;border-bottom:1px solid rgba(30,45,74,.3)}
+.knockout .ko-match:last-child{border-bottom:none}
+.ko-match .ko-t1{flex:1;text-align:right}
+.ko-match .ko-t2{flex:1}
+.ko-match .ko-score{color:var(--gold);font-weight:700;min-width:1.5rem;text-align:center;font-size:0.75rem}
+.ko-win{color:var(--green);font-weight:600}
+.ko-lose{color:var(--muted)}
+/* 冠军 */
+.champion-box{background:linear-gradient(135deg,rgba(255,191,0,.08),rgba(255,191,0,.02));border:2px solid rgba(255,191,0,.2);border-radius:14px;padding:1rem 1.5rem;text-align:center;margin-top:0.5rem}
+.champion-box .cup{font-size:3rem;margin-bottom:0.3rem}
+.champion-box .cname{font-size:1.5rem;font-weight:800;color:var(--gold)}
+.champion-box .cpath{display:flex;justify-content:center;gap:0.5rem;margin-top:0.5rem;flex-wrap:wrap}
+.champion-box .cpath .step{font-size:0.75rem;color:var(--muted);padding:0.3rem 0.6rem;background:var(--card);border-radius:6px;border:1px solid var(--border)}
+/* 赛季统计 */
+.stat-row{display:flex;justify-content:space-between;padding:0.2rem 0;font-size:0.8rem;border-bottom:1px solid rgba(30,45,74,.2)}
+.stat-row .slabel{color:var(--muted)}
+.stat-row .svalue{color:var(--text);font-weight:600}
+/* 渐变 */
+.gold-text{color:var(--gold)}
+.green-text{color:var(--green)}
+.accent-text{color:var(--accent)}
+.team-s{color:#34d399}
+.team-a{color:#6b9eff}
+.team-b{color:#fb923c}
+.team-c{color:#94a3b8}
+/* 响应式 */
+@media(max-width:1920px){body{padding:1.5rem 2rem}}
+@media(max-width:1440px){.groups-grid{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:1024px){.groups-grid{grid-template-columns:repeat(2,1fr)}.grid-4,.grid-3{grid-template-columns:repeat(2,1fr)}.grid-2{grid-template-columns:1fr}.knockout{flex-direction:column}}
+@media(max-width:768px){body{padding:0.8rem 1rem;font-size:14px}.groups-grid,.grid-4,.grid-3,.grid-2{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="title">⚽ 2026世界杯 · 全程赛程 & 冠军推演 <small>美加墨 · 48队 · 104场</small></div>
+  <div class="meta">
+    <span>📅 6.11 - 7.19</span>
+    <span>🏟 16城市</span>
+    <span>🌍 48队</span>
+    <span style="color:var(--gold)">🏆 7.19 决赛</span>
+  </div>
+</div>
+
+<!-- ═══ 核心指标 ═══ -->
+<div class="grid-4" style="margin-bottom:1rem">
+  <div class="card"><div class="ctitle">📅 赛程长度</div><div style="font-size:1.5rem;font-weight:800;color:var(--accent)">39天</div><div style="font-size:0.75rem;color:var(--muted)">6月11日 → 7月19日</div></div>
+  <div class="card"><div class="ctitle">🏟 比赛场次</div><div style="font-size:1.5rem;font-weight:800;color:var(--gold)">104场</div><div style="font-size:0.75rem;color:var(--muted)">小组72 + 淘汰32</div></div>
+  <div class="card"><div class="ctitle">🌍 参赛球队</div><div style="font-size:1.5rem;font-weight:800;color:var(--green)">48队</div><div style="font-size:0.75rem;color:var(--muted)">12组 × 每组4队</div></div>
+  <div class="card"><div class="ctitle">🏆 卫冕冠军</div><div style="font-size:1.5rem;font-weight:800;color:var(--gold)">🇦🇷 阿根廷</div><div style="font-size:0.75rem;color:var(--muted)">2022卡塔尔世界杯冠军</div></div>
+</div>
+
+<!-- ═══ 12组 ═══ -->
+<h2>📋 12小组赛程 & 球队实力</h2>
+<div class="groups-grid" id="groupGrid"></div>
+
+<!-- ═══ 球队实力Top15 ═══ -->
+<h2>📊 球队综合实力 Top 15</h2>
+<div class="grid-3" id="strengthGrid"></div>
+
+<!-- ═══ 关键日期 ═══ -->
+<h2>🗓 关键比赛日程</h2>
+<div class="grid-2">
+<div class="card" style="grid-column:span 2">
+  <div id="keyMatches"></div>
+</div>
+</div>
+
+<!-- ═══ 淘汰赛预测 ═══ -->
+<h2>🔮 淘汰赛推演</h2>
+<div class="knockout" id="knockoutView"></div>
+
+<!-- ═══ 冠军 ═══ -->
+<h2>🏆 冠军推演</h2>
+<div id="championView"></div>
+
+<script>
+// ═══════════════════════════════════
+// 48队数据
+// ═══════════════════════════════════
+const TEAMS = {
+  '阿根廷':{flag:'🇦🇷',color:'#75aadb',group:'J',strength:95},
+  '法国':{flag:'🇫🇷',color:'#002395',group:'I',strength:93},
+  '巴西':{flag:'🇧🇷',color:'#009739',group:'C',strength:94},
+  '西班牙':{flag:'🇪🇸',color:'#c60b1e',group:'H',strength:92},
+  '荷兰':{flag:'🇳🇱',color:'#ff6600',group:'F',strength:91},
+  '英格兰':{flag:'🏴󠁧󠁢󠁥󠁮󠁧󠁿',color:'#ce1124',group:'L',strength:91},
+  '德国':{flag:'🇩🇪',color:'#000000',group:'E',strength:90},
+  '葡萄牙':{flag:'🇵🇹',color:'#006600',group:'K',strength:89},
+  '比利时':{flag:'🇧🇪',color:'#e22726',group:'G',strength:88},
+  '克罗地亚':{flag:'🇭🇷',color:'#c8102e',group:'L',strength:82},
+  '乌拉圭':{flag:'🇺🇾',color:'#0038a8',group:'H',strength:82},
+  '墨西哥':{flag:'🇲🇽',color:'#006847',group:'A',strength:82},
+  '瑞士':{flag:'🇨🇭',color:'#d52b1e',group:'B',strength:80},
+  '美国':{flag:'🇺🇸',color:'#3c3b6e',group:'D',strength:80},
+  '哥伦比亚':{flag:'🇨🇴',color:'#ffcc00',group:'K',strength:80},
+  '挪威':{flag:'🇳🇴',color:'#ba0c2f',group:'I',strength:80},
+  '土耳其':{flag:'🇹🇷',color:'#e30a17',group:'D',strength:78},
+  '摩洛哥':{flag:'🇲🇦',color:'#c1272d',group:'C',strength:78},
+  '厄瓜多尔':{flag:'🇪🇨',color:'#034ea2',group:'E',strength:78},
+  '瑞典':{flag:'🇸🇪',color:'#005b99',group:'F',strength:78},
+  '奥地利':{flag:'🇦🇹',color:'#c8102e',group:'J',strength:78},
+  '塞内加尔':{flag:'🇸🇳',color:'#00853f',group:'I',strength:78},
+  '日本':{flag:'🇯🇵',color:'#bc002d',group:'F',strength:76},
+  '加拿大':{flag:'🇨🇦',color:'#c8102e',group:'B',strength:76},
+  '苏格兰':{flag:'🏴󠁧󠁢󠁳󠁣󠁴󠁿',color:'#003876',group:'C',strength:76},
+  '科特迪瓦':{flag:'🇨🇮',color:'#f77f00',group:'E',strength:76},
+  '埃及':{flag:'🇪🇬',color:'#c8102e',group:'G',strength:76},
+  '加纳':{flag:'🇬🇭',color:'#ce1126',group:'L',strength:74},
+  '阿尔及利亚':{flag:'🇩🇿',color:'#006633',group:'J',strength:74},
+  '韩国':{flag:'🇰🇷',color:'#003478',group:'A',strength:72},
+  '捷克':{flag:'🇨🇿',color:'#11457e',group:'A',strength:74},
+  '巴拉圭':{flag:'🇵🇾',color:'#003f87',group:'D',strength:72},
+  '突尼斯':{flag:'🇹🇳',color:'#e70013',group:'F',strength:72},
+  '伊朗':{flag:'🇮🇷',color:'#239f40',group:'G',strength:72},
+  '澳大利亚':{flag:'🇦🇺',color:'#00843d',group:'D',strength:70},
+  '波黑':{flag:'🇧🇦',color:'#002395',group:'B',strength:70},
+  '刚果(金)':{flag:'🇨🇩',color:'#007fff',group:'K',strength:70},
+  '南非':{flag:'🇿🇦',color:'#e03c31',group:'A',strength:68},
+  '卡塔尔':{flag:'🇶🇦',color:'#8d1b3d',group:'B',strength:68},
+  '沙特':{flag:'🇸🇦',color:'#006c35',group:'H',strength:68},
+  '乌兹别克':{flag:'🇺🇿',color:'#0099b5',group:'K',strength:68},
+  '新西兰':{flag:'🇳🇿',color:'#000000',group:'G',strength:66},
+  '约旦':{flag:'🇯🇴',color:'#ce1126',group:'J',strength:66},
+  '伊拉克':{flag:'🇮🇶',color:'#007b3f',group:'I',strength:66},
+  '巴拿马':{flag:'🇵🇦',color:'#00529f',group:'L',strength:64},
+  '海地':{flag:'🇭🇹',color:'#00209f',group:'C',strength:62},
+  '佛得角':{flag:'🇨🇻',color:'#003893',group:'H',strength:62},
+  '库拉索':{flag:'🇨🇼',color:'#003caa',group:'E',strength:60},
+};
+
+const GROUPS = [
+  {name:'A',teams:[
+    {name:'墨西哥',rank:'🇲🇽 东道主',strength:82,home:92},
+    {name:'南非',rank:'🇿🇦 非洲',strength:68,home:60},
+    {name:'韩国',rank:'🇰🇷 亚洲',strength:72,home:65},
+    {name:'捷克',rank:'🇨🇿 欧洲',strength:74,home:70},
+  ]},
+  {name:'B',teams:[
+    {name:'加拿大',rank:'🇨🇦 东道主',strength:76,home:88},
+    {name:'波黑',rank:'🇧🇦 欧洲',strength:70,home:68},
+    {name:'卡塔尔',rank:'🇶🇦 亚洲',strength:68,home:62},
+    {name:'瑞士',rank:'🇨🇭 欧洲',strength:80,home:75},
+  ]},
+  {name:'C',teams:[
+    {name:'巴西',rank:'🇧🇷 种子',strength:94,home:80},
+    {name:'摩洛哥',rank:'🇲🇦 非洲',strength:78,home:68},
+    {name:'海地',rank:'🇭🇹 中北美',strength:62,home:75},
+    {name:'苏格兰',rank:'🏴󠁧󠁢󠁳󠁣󠁴󠁿 欧洲',strength:76,home:72},
+  ]},
+  {name:'D',teams:[
+    {name:'美国',rank:'🇺🇸 东道主',strength:80,home:90},
+    {name:'巴拉圭',rank:'🇵🇾 南美',strength:72,home:65},
+    {name:'澳大利亚',rank:'🇦🇺 亚洲',strength:70,home:62},
+    {name:'土耳其',rank:'🇹🇷 欧洲',strength:78,home:72},
+  ]},
+  {name:'E',teams:[
+    {name:'德国',rank:'🇩🇪 种子',strength:90,home:78},
+    {name:'库拉索',rank:'🇨🇼 中北美',strength:60,home:70},
+    {name:'科特迪瓦',rank:'🇨🇮 非洲',strength:76,home:65},
+    {name:'厄瓜多尔',rank:'🇪🇨 南美',strength:78,home:68},
+  ]},
+  {name:'F',teams:[
+    {name:'荷兰',rank:'🇳🇱 种子',strength:91,home:80},
+    {name:'日本',rank:'🇯🇵 亚洲',strength:76,home:65},
+    {name:'瑞典',rank:'🇸🇪 欧洲',strength:78,home:72},
+    {name:'突尼斯',rank:'🇹🇳 非洲',strength:72,home:62},
+  ]},
+  {name:'G',teams:[
+    {name:'比利时',rank:'🇧🇪 种子',strength:88,home:78},
+    {name:'埃及',rank:'🇪🇬 非洲',strength:76,home:65},
+    {name:'伊朗',rank:'🇮🇷 亚洲',strength:72,home:62},
+    {name:'新西兰',rank:'🇳🇿 大洋洲',strength:66,home:58},
+  ]},
+  {name:'H',teams:[
+    {name:'西班牙',rank:'🇪🇸 种子',strength:92,home:80},
+    {name:'佛得角',rank:'🇨🇻 非洲',strength:62,home:60},
+    {name:'沙特',rank:'🇸🇦 亚洲',strength:68,home:62},
+    {name:'乌拉圭',rank:'🇺🇾 南美',strength:82,home:72},
+  ]},
+  {name:'I',teams:[
+    {name:'法国',rank:'🇫🇷 种子',strength:93,home:80},
+    {name:'塞内加尔',rank:'🇸🇳 非洲',strength:78,home:65},
+    {name:'伊拉克',rank:'🇮🇶 亚洲',strength:66,home:60},
+    {name:'挪威',rank:'🇳🇴 欧洲',strength:80,home:75},
+  ]},
+  {name:'J',teams:[
+    {name:'阿根廷',rank:'🇦🇷 种子',strength:95,home:78},
+    {name:'阿尔及利亚',rank:'🇩🇿 非洲',strength:74,home:62},
+    {name:'奥地利',rank:'🇦🇹 欧洲',strength:78,home:72},
+    {name:'约旦',rank:'🇯🇴 亚洲',strength:66,home:58},
+  ]},
+  {name:'K',teams:[
+    {name:'葡萄牙',rank:'🇵🇹 种子',strength:89,home:78},
+    {name:'刚果(金)',rank:'🇨🇩 非洲',strength:70,home:60},
+    {name:'乌兹别克',rank:'🇺🇿 亚洲',strength:68,home:58},
+    {name:'哥伦比亚',rank:'🇨🇴 南美',strength:80,home:70},
+  ]},
+  {name:'L',teams:[
+    {name:'英格兰',rank:'🏴󠁧󠁢󠁥󠁮󠁧󠁿 种子',strength:91,home:80},
+    {name:'克罗地亚',rank:'🇭🇷 欧洲',strength:82,home:75},
+    {name:'加纳',rank:'🇬🇭 非洲',strength:74,home:62},
+    {name:'巴拿马',rank:'🇵🇦 中北美',strength:64,home:72},
+  ]},
+];
+
+function predict(t1,t2){
+  const d=t1.strength-t2.strength;
+  const h1=t1.home||70,h2=t2.home||70;
+  const net=d+(h1-h2)/10;
+  if(net>8)return{t1,t2,s1:2,s2:0,w:t1};
+  if(net>4)return{t1,t2,s1:2,s2:0,w:t1};
+  if(net>1)return{t1,t2,s1:2,s2:1,w:t1};
+  if(net>-2)return{t1,t2,s1:1,s2:1,w:null};
+  if(net>-5)return{t1,t2,s1:1,s2:2,w:t2};
+  if(net>-9)return{t1,t2,s1:0,s2:2,w:t2};
+  return{t1,t2,s1:0,s2:3,w:t2};
+}
+
+// 小组出线
+function top2(g){
+  const sorted=[...g.teams].sort((a,b)=>b.strength-a.strength);
+  return sorted.slice(0,2);
+}
+
+// ═══ 渲染 ═══
+function renderGroups(){
+  const el=document.getElementById('groupGrid');
+  el.innerHTML=GROUPS.map(g=>{
+    const sorted=[...g.teams].sort((a,b)=>b.strength-a.strength);
+    return `<div class="group-card">
+      <div class="gtitle">${g.name}组</div>
+      ${sorted.map((t,i)=>{
+        const flag=(TEAMS[t.name]||{}).flag||'🏳';
+        const color=t.strength>85?'var(--green)':t.strength>77?'var(--accent)':t.strength>70?'var(--muted)':'var(--subtle)';
+        const medal=i===0?'🥇':i===1?'🥈':'';
+        return `<div class="team">
+          <span style="font-size:0.8rem">${medal}</span>
+          <span style="font-size:0.9rem">${flag}</span>
+          <span class="name" style="color:${color};font-weight:${i<2?'600':'400'}">${t.name}</span>
+          <span class="pts" style="color:${i<2?'var(--gold)':'var(--muted)'}">${t.strength}</span>
+        </div>`;
+      }).join('')}
+    </div>`;
+  }).join('');
+}
+
+function renderStrength(){
+  const el=document.getElementById('strengthGrid');
+  const all=Object.entries(TEAMS).sort((a,b)=>b[1].strength-a[1].strength).slice(0,15);
+  const maxStr=all[0][1].strength;
+  el.innerHTML=all.map(([name,data],i)=>{
+    const pct=data.strength/maxStr*100;
+    const color=data.strength>90?'var(--green)':data.strength>82?'var(--accent)':data.strength>75?'var(--gold)':'var(--muted)';
+    return `<div class="rank-card">
+      <span class="num" style="color:${i<3?'var(--gold)':'var(--muted)'}">${i+1}</span>
+      <span style="font-size:0.9rem">${data.flag}</span>
+      <span class="rname" style="color:${color}">${name}</span>
+      <div class="bar"><div class="fill" style="width:${pct}%;background:${color}"></div></div>
+      <span class="score" style="color:${color}">${data.strength}</span>
+    </div>`;
+  }).join('');
+}
+
+function renderKeyMatches(){
+  const el=document.getElementById('keyMatches');
+  const matches=[
+    {d:'6.11',t:'09:00',m:'🇲🇽 墨西哥 vs 南非 🇿🇦',s:'揭幕战 @ 墨西哥城',r:'A组'},
+    {d:'6.12',t:'11:00',m:'🇨🇦 加拿大 vs 波黑 🇧🇦',s:'东道主首秀',r:'B组'},
+    {d:'6.13',t:'08:00',m:'🇧🇷 巴西 vs 摩洛哥 🇲🇦',s:'南美 vs 非洲',r:'C组'},
+    {d:'6.14',t:'10:00',m:'🇺🇸 美国 vs 土耳其 🇹🇷',s:'东道主首战',r:'D组'},
+    {d:'6.15',t:'09:00',m:'🇩🇪 德国 vs 厄瓜多尔 🇪🇨',s:'欧洲 vs 南美',r:'E组'},
+    {d:'6.16',t:'11:00',m:'🇳🇱 荷兰 vs 日本 🇯🇵',s:'欧洲 vs 亚洲',r:'F组'},
+    {d:'6.17',t:'08:00',m:'🇪🇸 西班牙 vs 乌拉圭 🇺🇾',s:'死亡之组对决',r:'H组'},
+    {d:'6.18',t:'10:00',m:'🇫🇷 法国 vs 挪威 🇳🇴',s:'上届亚军出战',r:'I组'},
+    {d:'6.19',t:'09:00',m:'🇦🇷 阿根廷 vs 奥地利 🇦🇹',s:'卫冕冠军首秀',r:'J组'},
+    {d:'6.20',t:'11:00',m:'🇵🇹 葡萄牙 vs 哥伦比亚 🇨🇴',s:'C罗最后一届?',r:'K组'},
+    {d:'6.21',t:'08:00',m:'🏴󠁧󠁢󠁥󠁮󠁧󠁿 英格兰 vs 克罗地亚 🇭🇷',s:'欧洲重演',r:'L组'},
+    {d:'6.22',t:'10:00',m:'🇧🇷 巴西 vs 苏格兰 🏴󠁧󠁢󠁳󠁣󠁴󠁿',s:'桑巴 vs 风笛',r:'C组'},
+    {d:'7.4',t:'09:00',m:'1/8决赛 · 首场',s:'淘汰赛开战',r:'1/8'},
+    {d:'7.10',t:'10:00',m:'1/4决赛 · 首场',s:'八强争霸',r:'1/4'},
+    {d:'7.15',t:'09:00',m:'半决赛 · 首场',s:'决战前夕',r:'半决赛'},
+    {d:'7.19',t:'11:00',m:'🏆 决赛',s:'🇺🇸 大都会人寿体育场',r:'决赛'},
+  ];
+  el.innerHTML=matches.map(m=>
+    `<div class="match-card">
+      <span class="round-tag">${m.r}</span>
+      <span class="time">${m.d} ${m.t}</span>
+      <span class="vsteam" style="font-weight:${m.d==='7.19'?'800':'400'};color:${m.d==='7.19'?'var(--gold)':'var(--text)'}">${m.m}</span>
+      <span style="color:var(--muted);font-size:0.7rem">${m.s}</span>
+    </div>`
+  ).join('');
+}
+
+function renderKnockout(){
+  const winners=GROUPS.map(g=>top2(g));
+  const all3rds=GROUPS.map(g=>{
+    const s=[...g.teams].sort((a,b)=>b.strength-a.strength);
+    return s[2];
+  }).sort((a,b)=>b.strength-a.strength).slice(0,8);
+
+  // 16强
+  const r32=[
+    predict(winners[0][0],all3rds[2]),
+    predict(winners[1][0],all3rds[5]),
+    predict(winners[4][0],winners[7][1]),
+    predict(winners[8][0],winners[11][1]),
+    predict(winners[5][0],all3rds[1]),
+    predict(winners[9][0],winners[10][1]),
+    predict(winners[2][0],all3rds[7]),
+    predict(winners[3][0],all3rds[6]),
+    predict(winners[6][0],all3rds[3]),
+    predict(winners[10][0],winners[9][1]),
+    predict(winners[11][0],winners[8][1]),
+    predict(winners[0][1],winners[1][1]),
+    predict(winners[2][1],winners[3][1]),
+    predict(winners[4][1],winners[5][1]),
+    predict(winners[6][1],winners[7][1]),
+    predict(all3rds[0],all3rds[4]),
+  ];
+
+  // 8强
+  const r16=[];
+  for(let i=0;i<r32.length;i+=2)r16.push(predict(r32[i].w||r32[i].t1,r32[i+1].w||r32[i+1].t1));
+
+  // 4强
+  const r8=[];
+  for(let i=0;i<r16.length;i+=2)r8.push(predict(r16[i].w||r16[i].t1,r16[i+1].w||r16[i+1].t1));
+
+  // 决赛
+  const final=predict(r8[0].w||r8[0].t1,r8[1].w||r8[1].t1);
+  const champion=final.w||final.t1;
+
+  const el=document.getElementById('knockoutView');
+  el.innerHTML=`
+    <div class="round-box">
+      <div class="rtitle">1/16决赛 · 32→16</div>
+      ${r32.map(m=>`<div class="ko-match">
+        <span class="ko-t1 ${(m.w||m.t1)===m.t1?'ko-win':'ko-lose'}">${m.t1.name}</span>
+        <span class="ko-score">${m.s1}:${m.s2}</span>
+        <span class="ko-t2 ${(m.w||m.t1)===m.t2?'ko-win':'ko-lose'}">${m.t2.name}</span>
+      </div>`).join('')}
+    </div>
+    <div class="round-box">
+      <div class="rtitle">1/8决赛 · 16→8</div>
+      ${r16.map(m=>`<div class="ko-match">
+        <span class="ko-t1 ${(m.w||m.t1)===m.t1?'ko-win':'ko-lose'}">${m.t1.name}</span>
+        <span class="ko-score">${m.s1}:${m.s2}</span>
+        <span class="ko-t2 ${(m.w||m.t1)===m.t2?'ko-win':'ko-lose'}">${m.t2.name}</span>
+      </div>`).join('')}
+    </div>
+    <div class="round-box" style="border-color:rgba(107,158,255,.2)">
+      <div class="rtitle">1/4决赛 · 8→4</div>
+      ${r8.map(m=>`<div class="ko-match">
+        <span class="ko-t1 ${(m.w||m.t1)===m.t1?'ko-win':'ko-lose'}">${m.t1.name}</span>
+        <span class="ko-score">${m.s1}:${m.s2}</span>
+        <span class="ko-t2 ${(m.w||m.t1)===m.t2?'ko-win':'ko-lose'}">${m.t2.name}</span>
+      </div>`).join('')}
+    </div>
+    <div class="round-box" style="border-color:rgba(255,191,0,.3)">
+      <div class="rtitle" style="color:var(--gold)">🏆 决赛</div>
+      <div style="text-align:center;padding:0.5rem 0">
+        <div style="display:flex;align-items:center;justify-content:center;gap:0.5rem;font-size:0.9rem;font-weight:700">
+          <span>${final.t1.name}</span>
+          <span style="color:var(--gold);font-size:1.2rem">${final.s1}:${final.s2}</span>
+          <span>${final.t2.name}</span>
+        </div>
+        <div style="margin-top:0.5rem;font-size:1.2rem;font-weight:800;color:var(--gold)">🏆 ${champion.name}</div>
+      </div>
+    </div>
+  `;
+
+  const champEl=document.getElementById('championView');
+  champEl.innerHTML=`
+    <div class="champion-box">
+      <div class="cup">🏆</div>
+      <div class="cname">${champion.name}</div>
+      <div style="color:var(--muted);font-size:0.85rem;margin-top:0.2rem">2026 FIFA 世界杯 · 冠军</div>
+      <div class="cpath">
+        <div class="step">小组第1</div>
+        <div class="step">1/16 ✓</div>
+        <div class="step">1/8 ✓</div>
+        <div class="step">1/4 ✓</div>
+        <div class="step">半决赛 ✓</div>
+        <div class="step" style="border-color:var(--gold);color:var(--gold)">🏆 决赛胜</div>
+      </div>
+      <div style="margin-top:0.6rem;font-size:0.8rem;color:var(--muted)">
+        📅 7月19日 · 大都会人寿体育场 · 新泽西/纽约
+      </div>
+      <div id="predictReason" style="margin-top:0.5rem;text-align:left;font-size:0.8rem;color:var(--muted);line-height:1.6"></div>
+    </div>
+  `;
+
+  const reasonEl=document.getElementById('predictReason');
+  const champInfo=TEAMS[champion.name];
+  const runnerUp=final.t1===champion?final.t2:final.t1;
+  reasonEl.innerHTML=`
+    <b style="color:var(--accent)">🔍 预测依据：</b><br>
+    • ${champion.name}：综合实力评分${champInfo?champInfo.strength:'—'}分，本届最高之一<br>
+    • 攻防平衡、阵容深度、大赛经验均占优<br>
+    • 淘汰赛路径相对平稳，8强前避开顶级对手<br>
+    • 决赛预测 ${champion.name} ${final.s1}:${final.s2} ${runnerUp}<br>
+    • ⚠️ 足球最大魅力在于不确定性——冷门随时可能发生
+  `;
+}
+
+renderGroups();
+renderStrength();
+renderKeyMatches();
+renderKnockout();
+</script>
+</body>
+</html>

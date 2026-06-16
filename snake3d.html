@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>3D 超级贪吃蛇</title>
+<style>
+*{margin:0;padding:0;overflow:hidden}
+body{background:#0a0e1a;font-family:'Segoe UI',sans-serif}
+canvas{display:block}
+#ui{position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none}
+#score{position:absolute;top:20px;left:50%;transform:translateX(-50%);color:#7ec8ff;font-size:22px;font-weight:700;text-shadow:0 0 20px rgba(0,150,255,.5);letter-spacing:2px}
+#over{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);text-align:center;display:none}
+#over h1{color:#ff5e7c;font-size:48px;margin-bottom:12px;text-shadow:0 0 30px rgba(255,0,0,.4)}
+#over p{color:#7ec8ff;font-size:24px;margin-bottom:20px}
+#over button{padding:12px 36px;border:none;border-radius:30px;font-size:18px;font-weight:700;background:linear-gradient(135deg,#4af,#a7f);color:#fff;cursor:pointer;pointer-events:auto;box-shadow:0 4px 20px rgba(74,170,255,.4);transition:all .2s}
+#over button:hover{transform:translateY(-2px);box-shadow:0 6px 30px rgba(74,170,255,.6)}
+#hint{position:absolute;bottom:30px;left:50%;transform:translateX(-50%);color:rgba(255,255,255,.2);font-size:13px}
+</style>
+</head>
+<body>
+<div id="ui">
+  <div id="score">🏆 0</div>
+  <div id="over">
+    <h1>💥 GAME OVER</h1>
+    <p id="final">得分: 0</p>
+    <button onclick="restart()">🔄 再来一局</button>
+  </div>
+  <div id="hint">↑↓←→ 移动 · P 暂停</div>
+</div>
+<script type="importmap">
+{
+  "imports": {
+    "three": "https://unpkg.com/three@0.160.0/build/three.module.js"
+  }
+}
+</script>
+<script type="module">
+import * as THREE from 'three';
+
+// ===== 配置 =====
+const SIZE = 12;         // 网格大小
+const CELL = 1.2;        // 每格间距
+const HALF = SIZE * CELL / 2;
+
+// ===== 场景 =====
+const scene = new THREE.Scene();
+scene.background = new THREE.Color('#0a0e1a');
+scene.fog = new THREE.Fog('#0a0e1a', 20, 35);
+
+const camera = new THREE.PerspectiveCamera(50, window.innerWidth/window.innerHeight, 0.1, 50);
+camera.position.set(12, 14, 16);
+camera.lookAt(0, 0, 0);
+
+const renderer = new THREE.WebGLRenderer({ antialias: true });
+renderer.setSize(window.innerWidth, window.innerHeight);
+renderer.setPixelRatio(Math.min(devicePixelRatio, 2));
+renderer.shadowMap.enabled = true;
+renderer.shadowMap.type = THREE.PCFSoftShadowMap;
+renderer.toneMapping = THREE.ACESFilmicToneMapping;
+renderer.toneMappingExposure = 1.2;
+document.body.prepend(renderer.domElement);
+
+// ===== 光照 =====
+const ambient = new THREE.AmbientLight('#334466', .6);
+scene.add(ambient);
+const dirLight = new THREE.DirectionalLight('#ffeedd', 2);
+dirLight.position.set(8, 15, 10);
+dirLight.castShadow = true;
+dirLight.shadow.mapSize.width = 1024;
+dirLight.shadow.mapSize.height = 1024;
+scene.add(dirLight);
+const fillLight = new THREE.DirectionalLight('#4488ff', .4);
+fillLight.position.set(-5, 3, -8);
+scene.add(fillLight);
+
+// ===== 地面网格 =====
+const gridHelper = new THREE.GridHelper(SIZE * CELL, SIZE, '#334155', '#1e293b');
+gridHelper.position.y = -CELL/2;
+scene.add(gridHelper);
+
+// 地平面发光
+const floorGeo = new THREE.PlaneGeometry(SIZE * CELL, SIZE * CELL);
+const floorMat = new THREE.MeshStandardMaterial({ color: '#111827', metalness: .3, roughness: .8, transparent: true, opacity: .6 });
+const floor = new THREE.Mesh(floorGeo, floorMat);
+floor.rotation.x = -Math.PI / 2;
+floor.position.y = -CELL/2 + 0.01;
+floor.receiveShadow = true;
+scene.add(floor);
+
+// ===== 游戏状态 =====
+let snake = [{x:2,y:0},{x:1,y:0},{x:0,y:0}];
+let dir = {x:1,y:0};
+let nextDir = {x:1,y:0};
+let food = {x:5,y:3};
+let score = 0;
+let gameOver = false;
+let paused = false;
+let moveTimer = 0;
+const MOVE_INTERVAL = 0.18;
+
+// 蛇身方块
+const snakeGroup = new THREE.Group();
+scene.add(snakeGroup);
+
+function createHead() {
+  const g = new THREE.BoxGeometry(CELL*.85, CELL*.85, CELL*.85);
+  const m = new THREE.MeshStandardMaterial({ color: '#34d399', metalness: .3, roughness: .2, emissive: '#34d399', emissiveIntensity: .15 });
+  return new THREE.Mesh(g, m);
+}
+function createBody() {
+  const g = new THREE.BoxGeometry(CELL*.7, CELL*.7, CELL*.7);
+  const m = new THREE.MeshStandardMaterial({ color: '#22c55e', metalness: .2, roughness: .5 });
+  return new THREE.Mesh(g, m);
+}
+function createFood() {
+  const g = new THREE.SphereGeometry(CELL*.35, 16, 16);
+  const m = new THREE.MeshStandardMaterial({ color: '#f87171', metalness: .3, roughness: .2, emissive: '#f87171', emissiveIntensity: .3 });
+  const mesh = new THREE.Mesh(g, m);
+  // 光晕
+  const glow = new THREE.PointLight('#ff4444', .6, 3);
+  mesh.add(glow);
+  return mesh;
+}
+function createWall() {
+  const g = new THREE.BoxGeometry(CELL*.1, CELL*.6, CELL*.1);
+  const m = new THREE.MeshStandardMaterial({ color: '#334155', emissive: '#1e293b', emissiveIntensity: .2 });
+  return new THREE.Mesh(g, m);
+}
+
+// ===== 墙壁 =====
+for (let i = -HALF; i <= HALF; i += CELL) {
+  for (const z of [-HALF, HALF]) {
+    const w = createWall();
+    w.position.set(i, 0, z);
+    w.scale.set(CELL/.1, 1, 1);
+    scene.add(w);
+  }
+  for (const x of [-HALF, HALF]) {
+    const w = createWall();
+    w.position.set(x, 0, i);
+    w.scale.set(1, 1, CELL/.1);
+    scene.add(w);
+  }
+}
+
+// ===== 食物球 =====
+const foodMesh = createFood();
+scene.add(foodMesh);
+
+// ===== 渲染蛇 =====
+function renderSnake() {
+  while(snakeGroup.children.length) snakeGroup.remove(snakeGroup.children[0]);
+  snake.forEach((seg, i) => {
+    const mesh = i === 0 ? createHead() : createBody();
+    mesh.position.set(seg.x * CELL - HALF + CELL/2, 0, seg.y * CELL - HALF + CELL/2);
+    mesh.castShadow = true;
+    if (i === 0) mesh.scale.set(1, 1.1, 1);
+    snakeGroup.add(mesh);
+  });
+}
+
+function renderFood() {
+  foodMesh.position.set(food.x * CELL - HALF + CELL/2, 0, food.y * CELL - HALF + CELL/2);
+}
+
+function spawnFood() {
+  const occupied = new Set(snake.map(s => `${s.x},${s.y}`));
+  const free = [];
+  for (let x = 0; x < SIZE; x++)
+    for (let y = 0; y < SIZE; y++)
+      if (!occupied.has(`${x},${y}`)) free.push({x,y});
+  if (free.length) food = free[Math.floor(Math.random() * free.length)];
+  renderFood();
+}
+
+// ===== 重置 =====
+function restart() {
+  snake = [{x:2,y:0},{x:1,y:0},{x:0,y:0}];
+  dir = {x:1,y:0}; nextDir = {x:1,y:0};
+  score = 0; gameOver = false; paused = false;
+  document.getElementById('over').style.display = 'none';
+  document.getElementById('score').textContent = '🏆 0';
+  spawnFood();
+  renderSnake();
+}
+
+// ===== 更新 =====
+function update(dt) {
+  if (gameOver || paused) return;
+  moveTimer += dt;
+  if (moveTimer < MOVE_INTERVAL) return;
+  moveTimer = 0;
+  
+  dir = {...nextDir};
+  const head = {x: snake[0].x + dir.x, y: snake[0].y + dir.y};
+  
+  // 撞墙
+  if (head.x < 0 || head.x >= SIZE || head.y < 0 || head.y >= SIZE) {
+    gameOver = true;
+    document.getElementById('over').style.display = 'block';
+    document.getElementById('final').textContent = `得分: ${score}`;
+    return;
+  }
+  // 撞自己
+  if (snake.some(s => s.x === head.x && s.y === head.y)) {
+    gameOver = true;
+    document.getElementById('over').style.display = 'block';
+    document.getElementById('final').textContent = `得分: ${score}`;
+    return;
+  }
+  
+  snake.unshift(head);
+  if (head.x === food.x && head.y === food.y) {
+    score += 10;
+    document.getElementById('score').textContent = `🏆 ${score}`;
+    spawnFood();
+  } else {
+    snake.pop();
+  }
+  renderSnake();
+}
+
+// ===== 键盘 =====
+document.addEventListener('keydown', e => {
+  if (e.key === 'p' || e.key === 'P') { paused = !paused; return; }
+  if (gameOver) return;
+  const k = e.key;
+  if (k === 'ArrowUp' && dir.y !== 1) nextDir = {x:0,y:-1};
+  if (k === 'ArrowDown' && dir.y !== -1) nextDir = {x:0,y:1};
+  if (k === 'ArrowLeft' && dir.x !== 1) nextDir = {x:-1,y:0};
+  if (k === 'ArrowRight' && dir.x !== -1) nextDir = {x:1,y:0};
+});
+
+// ===== 窗口 =====
+window.addEventListener('resize', () => {
+  camera.aspect = window.innerWidth / window.innerHeight;
+  camera.updateProjectionMatrix();
+  renderer.setSize(window.innerWidth, window.innerHeight);
+});
+
+// ===== 自动旋转 =====
+let autoRotate = 0;
+
+// ===== 主循环 =====
+let lastTime = 0;
+function loop(time) {
+  const dt = (time - lastTime) / 1000; lastTime = time;
+  
+  if (!gameOver && !paused) update(dt);
+  
+  // 相机旋转（非游戏时）
+  const target = new THREE.Vector3(0, 0, 0);
+  const radius = 22;
+  autoRotate += dt * .15;
+  camera.position.x = Math.sin(autoRotate) * radius;
+  camera.position.z = Math.cos(autoRotate) * radius;
+  camera.position.y = 14 + Math.sin(autoRotate * .5) * 2;
+  camera.lookAt(target);
+  
+  // 食物动画
+  foodMesh.rotation.x += dt * 2;
+  foodMesh.position.y = Math.sin(time * .003) * .2;
+  
+  renderer.render(scene, camera);
+  requestAnimationFrame(loop);
+}
+
+window.restart = restart;
+spawnFood();
+renderSnake();
+loop(0);
+</script>
+</body>
+</html>
