@@ -1,20 +1,7 @@
 {
-  "updated": "2026-06-16 13:25 UTC",
-  "count": 38,
+  "updated": "2026-06-16 13:43 UTC",
+  "count": 11,
   "items": [
-    {
-      "title": "Show HN: Voice Age Verification",
-      "url": "https://agewarden.ai/",
-      "desc": "I miss the old web. As a kid I could type in &quot;a&#x2F;s&#x2F;l&quot; in AOL messenger and chat with someone my own age, without worrying about the dangers that lurk on the web today.After seeing w",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781615096,
-      "score": 5,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "AskHN:How do you handle skill atrophy from using coding agents?",
       "url": "https://news.ycombinator.com/item?id=48554309",
@@ -22,21 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781613584,
-      "score": 8,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "SpaceX to buy Cursor AI coding agent operator Anysphere for $60B",
-      "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781606664,
-      "score": 139,
-      "category": "industry",
+      "score": 9,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781601969,
-      "score": 198,
-      "category": "industry",
+      "score": 222,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +35,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781560630,
-      "score": 177,
+      "score": 180,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Corps",
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781545284,
+      "score": 146,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781540153,
-      "score": 905,
+      "score": 913,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781536180,
-      "score": 334,
-      "category": "industry",
+      "score": 338,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781534813,
-      "score": 1121,
-      "category": "industry",
+      "score": 1131,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -114,7 +101,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -129,61 +116,6 @@
       "tags": []
     },
     {
-      "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
-      "url": "https://www.36kr.com/p/210947",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "industry",
-      "tags": []
-    },
-    {
-      "title": "北京规模以上工业企业开复工率已达99.9%",
-      "url": "https://www.36kr.com/p/210946",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "china",
-      "tags": []
-    },
-    {
-      "title": "韩国：违反居家隔离措施者，需佩戴电子手环",
-      "url": "https://www.36kr.com/p/210945",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "tools",
-      "tags": []
-    },
-    {
-      "title": "马布里官方旗舰店入驻拼多多，“发光篮球”将登陆百亿补贴",
-      "url": "https://www.36kr.com/p/210944",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "llm",
-      "tags": []
-    },
-    {
-      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
-      "url": "https://www.36kr.com/p/210943",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "llm",
-      "tags": []
-    },
-    {
       "title": "瑞德西韦同情用药的数据存在局限性，中国重症临床试验已中止",
       "url": "https://www.36kr.com/p/210942",
       "desc": "",
@@ -195,116 +127,6 @@
       "tags": []
     },
     {
-      "title": "广东餐饮协会提议美团：取消独家条款，降佣5%及以上",
-      "url": "https://www.36kr.com/p/210939",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "llm",
-      "tags": []
-    },
-    {
-      "title": "小鹏汽车一季度上险量2331台",
-      "url": "https://www.36kr.com/p/210938",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "tools",
-      "tags": []
-    },
-    {
-      "title": "持续助力中小企业复苏，字节跳动抗疫支出超10亿元",
-      "url": "https://www.36kr.com/p/210937",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "china",
-      "tags": []
-    },
-    {
-      "title": "海航集团与中国旅游集团战略合作，推动海南自贸区消费升级",
-      "url": "https://www.36kr.com/p/210936",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "china",
-      "tags": []
-    },
-    {
-      "title": "拼多多百亿补贴开售全国首批SK-II限量版神仙水，1488套限量版上线后“秒光”",
-      "url": "https://www.36kr.com/p/210935",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "industry",
-      "tags": []
-    },
-    {
-      "title": "公募基金投资新三板的相关指引有望近日公布",
-      "url": "https://www.36kr.com/p/210934",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "industry",
-      "tags": []
-    },
-    {
-      "title": "新加坡暂停使用Zoom在线授课，直到安全问题解决",
-      "url": "https://www.36kr.com/p/210933",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "llm",
-      "tags": []
-    },
-    {
-      "title": "阿里巴巴和浙江德清签署“数字乡村建设合作协议”",
-      "url": "https://www.36kr.com/p/210932",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "china",
-      "tags": []
-    },
-    {
-      "title": "孙正义批评日本政府应对疫情不力：休假补贴太吝啬",
-      "url": "https://www.36kr.com/p/210931",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "industry",
-      "tags": []
-    },
-    {
-      "title": "特斯拉半数美国销售和交付人员将临时休假",
-      "url": "https://www.36kr.com/p/210930",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "llm",
-      "tags": []
-    },
-    {
       "title": "第三方曝光罗永浩第二场直播数据：带货销售额下降近70%",
       "url": "https://www.36kr.com/p/210929",
       "desc": "",
@@ -313,127 +135,6 @@
       "ts": 0,
       "score": 0,
       "category": "llm",
-      "tags": []
-    },
-    {
-      "title": "IMS（天下秀）A股上市首份年报：2019年营收19.8亿，同比增长63.5%",
-      "url": "https://www.36kr.com/p/210928",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "industry",
-      "tags": []
-    },
-    {
-      "title": "瑞德西韦治疗新冠首份临床研究：53名重度患者36人有改善",
-      "url": "https://www.36kr.com/p/210927",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "research",
-      "tags": []
-    },
-    {
-      "title": "宁德时代德国工厂正努力建设，时间方面要后挪",
-      "url": "https://www.36kr.com/p/210924",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "industry",
-      "tags": []
-    },
-    {
-      "title": "亚马逊正为一线员工建新冠病毒检测中心",
-      "url": "https://www.36kr.com/p/210923",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "industry",
-      "tags": []
-    },
-    {
-      "title": "海底捞之后，西贝也因涨价道歉",
-      "url": "https://www.36kr.com/p/210922",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "tools",
-      "tags": []
-    },
-    {
-      "title": "美国洛杉矶地区延长居家令至5月15日",
-      "url": "https://www.36kr.com/p/210921",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "llm",
-      "tags": []
-    },
-    {
-      "title": "苹果与谷歌联手，打造应用追踪新冠病毒传播",
-      "url": "https://www.36kr.com/p/210920",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "tools",
-      "tags": []
-    },
-    {
-      "title": "比尔·盖茨：美国经济无法恢复至疫情前，新冠疫苗至少要等18个月",
-      "url": "https://www.36kr.com/p/210918",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "industry",
-      "tags": []
-    },
-    {
-      "title": "奥克斯空调能效标识不合规被处罚，此前被格力举报",
-      "url": "https://www.36kr.com/p/210917",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "llm",
-      "tags": []
-    },
-    {
-      "title": "Facebook薪酬中值25万美元，扎克伯格去年总薪酬2340万",
-      "url": "https://www.36kr.com/p/210916",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "llm",
-      "tags": []
-    },
-    {
-      "title": "不受疫情影响，软银仍推进410亿美元资产出售计划",
-      "url": "https://www.36kr.com/p/210915",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "tools",
       "tags": []
     }
   ]
