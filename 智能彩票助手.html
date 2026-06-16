@@ -1,0 +1,806 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>智能彩票号码生成器</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0a0e1a;color:#e0e4f0;font-family:-apple-system,'Segoe UI','PingFang SC',sans-serif;min-height:100vh;display:flex;justify-content:center;padding:32px}
+.container{background:#12182b;border-radius:28px;padding:40px;width:100%;max-width:960px;box-shadow:0 0 80px rgba(0,120,255,.1),0 20px 60px rgba(0,0,0,.3);border:1px solid rgba(255,255,255,.08);margin:auto}
+h1{font-size:28px;margin-bottom:24px;display:flex;align-items:center;gap:12px}
+h1 span{background:linear-gradient(135deg,#ffd700,#ff8c00);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.tabs{display:flex;gap:8px;margin-bottom:24px;border-bottom:1px solid rgba(255,255,255,.08);padding-bottom:12px}
+.tab{padding:10px 24px;border-radius:10px 10px 0 0;cursor:pointer;font-size:15px;font-weight:600;color:#667;transition:.2s;border-bottom:3px solid transparent}
+.tab:hover{color:#aab}
+.tab.active{color:#ffd700;border-bottom-color:#ffd700}
+.selector{display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin-bottom:20px}
+.sel-btn{padding:12px;border:1px solid rgba(255,255,255,.1);border-radius:12px;background:rgba(255,255,255,.04);color:#aab;font-size:14px;cursor:pointer;transition:.2s;text-align:center}
+.sel-btn:hover{background:rgba(255,255,255,.1);transform:translateY(-1px)}
+.sel-btn.active{border-color:#ffd700;background:rgba(255,215,0,.12);color:#ffd700;box-shadow:0 0 24px rgba(255,215,0,.08)}
+.mode-tabs{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap}
+.mode-tab{padding:8px 20px;border-radius:10px;cursor:pointer;font-size:14px;font-weight:600;color:#667;background:rgba(255,255,255,.04);border:1px solid transparent;transition:.2s}
+.mode-tab:hover{background:rgba(255,255,255,.08);color:#889}
+.mode-tab.active{color:#00e5ff;background:rgba(0,229,255,.12);border-color:rgba(0,229,255,.4);box-shadow:0 0 20px rgba(0,229,255,.06)}
+.balls{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;min-height:80px;padding:32px 0 24px}
+.ball{width:52px;height:52px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:20px;font-weight:700;animation:pop .35s cubic-bezier(.34,1.56,.64,1)}
+@keyframes pop{0%{transform:scale(0)}65%{transform:scale(1.12)}100%{transform:scale(1)}}
+.ball.red{background:linear-gradient(135deg,#e53935,#c62828);color:#fff;box-shadow:0 0 20px rgba(229,57,53,.35)}
+.ball.blue{background:linear-gradient(135deg,#1e88e5,#1565c0);color:#fff;box-shadow:0 0 20px rgba(30,136,229,.35)}
+.ball.gold{background:linear-gradient(135deg,#ffd700,#ff8c00);color:#1a1a2e;box-shadow:0 0 20px rgba(255,215,0,.25)}
+.ball.green{background:linear-gradient(135deg,#43a047,#2e7d32);color:#fff;box-shadow:0 0 20px rgba(67,160,71,.25)}
+.ball.purple{background:linear-gradient(135deg,#ab47bc,#7b1fa2);color:#fff;box-shadow:0 0 20px rgba(171,71,188,.25)}
+.ball.teal{background:linear-gradient(135deg,#00acc1,#00838f);color:#fff;box-shadow:0 0 20px rgba(0,172,193,.25)}
+.ball.small{width:38px;height:38px;font-size:14px;box-shadow:none!important}
+.ball.locked{box-shadow:0 0 0 3px #ffd700,0 0 20px rgba(255,215,0,.5)!important;cursor:pointer}
+.ball.clickable{cursor:pointer}
+.ball.clickable:hover{transform:scale(1.08);filter:brightness(1.15)}
+.controls{display:flex;gap:12px;margin:16px 0}
+.controls button{flex:1;padding:14px;border:none;border-radius:14px;font-size:16px;font-weight:700;cursor:pointer;transition:.25s}
+.btn-gen{background:linear-gradient(135deg,#ffd700,#ff8c00);color:#1a1a2e}
+.btn-gen:hover{transform:translateY(-2px);box-shadow:0 8px 32px rgba(255,215,0,.3)}
+.btn-bet{background:linear-gradient(135deg,#43a047,#2e7d32);color:#fff}
+.btn-bet:hover{transform:translateY(-2px);box-shadow:0 8px 32px rgba(76,175,80,.3)}
+.btn-bet:disabled{opacity:.35;cursor:not-allowed;transform:none;box-shadow:none}
+.btn-clear{background:rgba(255,255,255,.06);color:#889;border:1px solid rgba(255,255,255,.08)!important}
+.btn-clear:hover{background:rgba(255,255,255,.1)}
+.action-row{display:flex;justify-content:center;gap:12px;margin-bottom:16px}
+.action-row button{padding:10px 20px;border:1px solid rgba(255,255,255,.08);border-radius:10px;background:rgba(255,255,255,.04);color:#889;font-size:13px;cursor:pointer;transition:.2s}
+.action-row button:hover{background:rgba(255,255,255,.1);color:#aab}
+.desc{text-align:center;color:#556;font-size:13px;margin-bottom:12px}
+.analysis{padding:20px;border-radius:16px;background:rgba(255,255,255,.03);margin-bottom:16px}
+.analysis h3{font-size:15px;color:#889;margin-bottom:12px}
+.analysis .freq-row{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
+.analysis .freq-row .num{width:36px;height:36px;border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:600;position:relative;flex-direction:column}
+.analysis .freq-row .num .bar{position:absolute;bottom:0;left:0;right:0;border-radius:0 0 8px 8px;opacity:.25}
+.analysis .tag{display:inline-block;padding:3px 10px;border-radius:5px;font-size:12px;margin:2px}
+.analysis .tag.hot{background:rgba(255,87,34,.2);color:#ff5722}
+.analysis .tag.cold{background:rgba(33,150,243,.15);color:#42a5f5}
+.latest-box{background:rgba(255,255,255,.04);border-radius:16px;padding:14px 20px;margin-bottom:18px;border:1px solid rgba(255,215,0,.12);display:none}
+.latest-box .lb-hd{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
+.latest-box .lb-hd span:first-child{color:#ffd700;font-size:15px;font-weight:600}
+.latest-box .lb-hd span:last-child{color:#556;font-size:12px}
+.latest-box .lb-bd{display:flex;align-items:center;gap:14px}
+.latest-box .lb-bd .lb-type{color:#667;font-size:14px;font-weight:600;min-width:56px}
+.latest-box .lb-bd .lb-date{color:#445;font-size:12px;margin-left:auto}
+.latest-box .mini-ball{display:inline-flex;width:32px;height:32px;border-radius:50%;align-items:center;justify-content:center;font-size:13px;font-weight:600;color:#fff}
+.wallet{background:rgba(255,215,0,.06);border-radius:16px;padding:20px;margin-bottom:18px;border:1px solid rgba(255,215,0,.15)}
+.wallet .wl-row{display:flex;justify-content:space-around;text-align:center;gap:12px}
+.wallet .wl-item{flex:1;padding:8px}
+.wallet .wl-item .wl-num{font-size:28px;font-weight:800}
+.wallet .wl-item .wl-label{font-size:12px;color:#667;margin-top:4px}
+.wallet .wl-green{color:#4caf50}
+.wallet .wl-red{color:#e53935}
+.wallet .wl-gold{color:#ffd700}
+.bet-list{max-height:360px;overflow-y:auto}
+.bet-item{display:flex;align-items:center;gap:10px;padding:10px 14px;border-radius:10px;background:rgba(255,255,255,.02);margin-bottom:6px;font-size:13px;transition:.2s}
+.bet-item:hover{background:rgba(255,255,255,.05)}
+.bet-item .bi-nums{display:flex;gap:3px;flex-wrap:wrap}
+.bet-item .bi-nums span{width:24px;height:24px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:600;color:#fff}
+.bet-item .bi-nums span.r{background:#c62828}
+.bet-item .bi-nums span.b{background:#1565c0}
+.bet-item .bi-status{font-size:11px;padding:3px 8px;border-radius:5px;margin-left:auto;white-space:nowrap}
+.bet-item .bi-status.win{background:rgba(255,215,0,.15);color:#ffd740}
+.bet-item .bi-status.lose{background:rgba(255,255,255,.05);color:#556}
+.bet-item .bi-prize{font-size:13px;font-weight:700;color:#ffd700;min-width:60px;text-align:right}
+.history{max-height:240px;overflow-y:auto;margin-top:8px;border-top:1px solid rgba(255,255,255,.06);padding-top:14px}
+.history h3{font-size:14px;color:#667;margin-bottom:8px}
+.toast{position:fixed;top:24px;left:50%;transform:translateX(-50%) translateY(-80px);background:rgba(0,200,100,.15);backdrop-filter:blur(12px);border:1px solid rgba(0,200,100,.3);color:#4caf50;padding:12px 32px;border-radius:12px;font-size:14px;font-weight:600;transition:transform .4s cubic-bezier(.34,1.56,.64,1);pointer-events:none;z-index:999}
+.toast.show{transform:translateX(-50%) translateY(0)}
+.toast.err{background:rgba(244,67,54,.15);border-color:rgba(244,67,54,.3);color:#ef5350}
+.tag-hot{display:inline-flex;align-items:center;gap:6px;padding:8px 16px;border-radius:10px;font-size:14px;font-weight:600;margin:8px 0}
+.tag-hot.gold-bg{background:rgba(255,215,0,.1);color:#ffd740}
+.tag-hot.red-bg{background:rgba(255,87,34,.12);color:#ff8a65}
+.tag-hot.blue-bg{background:rgba(33,150,243,.1);color:#64b5f6}
+.no-data{color:#556;font-size:14px;text-align:center;padding:24px}
+</style>
+</head>
+<body>
+<div class="container">
+<div style="display:flex;justify-content:space-between;align-items:center">
+  <h1>🎯 <span>智能号码生成器</span></h1>
+  <div style="display:flex;align-items:center;gap:4px;background:rgba(255,215,0,.08);padding:4px 12px;border-radius:8px">
+    <span style="color:#ffd700;font-size:12px">💰</span>
+    <span id="walletDisplay" style="color:#ffd700;font-size:14px;font-weight:700">0.00</span>
+  </div>
+</div>
+
+<div class="tabs">
+  <div class="tab active" data-tab="gen">生成</div>
+  <div class="tab" data-tab="analysis">数据</div>
+  <div class="tab" data-tab="draws">📋 开奖</div>
+  <div class="tab" data-tab="wallet">💰 投注</div>
+</div>
+
+<div id="genTab">
+  <div class="latest-box" id="latestBox">
+    <div class="lb-hd"><span>📡 最新开奖</span><span id="latestIssue"></span></div>
+    <div class="lb-bd">
+      <span class="lb-type" id="latestType"></span>
+      <div id="latestBalls" style="display:flex;gap:4px;flex-wrap:wrap"></div>
+      <span class="lb-date" id="latestDate"></span>
+    </div>
+  </div>
+  <div class="selector" id="typeSelector"></div>
+  <div class="mode-tabs" id="modeSelector">
+    <div class="mode-tab active" data-mode="smart">🎯 智能</div>
+    <div class="mode-tab" data-mode="random">🎲 随机</div>
+    <div class="mode-tab" data-mode="hot">🔥 热号</div>
+    <div class="mode-tab" data-mode="cold">❄️ 冷号</div>
+  </div>
+  <div class="balls" id="balls"><div class="no-data">点击生成按钮</div></div>
+  <div id="analysisInfo" class="tag-hot"></div>
+  <div class="controls">
+    <button class="btn-gen" id="genBtn">🎲 生成</button>
+    <button class="btn-bet" id="betBtn" disabled>💰 2元投注</button>
+  </div>
+  <div class="action-row">
+    <button id="gen5Btn">🔄 生成5注</button>
+    <button id="lockClearBtn" style="display:none">🔓 解锁</button>
+    <button id="copyBtn">📋 复制</button>
+    <button id="clearBtn">🗑 清空</button>
+  </div>
+  <div class="desc" id="desc"></div>
+  <div class="history"><h3>📜 生成记录</h3><div id="historyList"></div></div>
+</div>
+
+<div id="analysisTab" style="display:none">
+  <div class="analysis" id="analysisContent"><div class="no-data">加载中...</div></div>
+</div>
+
+<div id="drawsTab" style="display:none">
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px">
+    <div><span style="font-size:15px;font-weight:600;color:#889">📋 开奖记录</span>
+      <span id="updateTime" style="font-size:11px;color:#445;margin-left:10px"></span></div>
+    <button id="updateDrawBtn" style="padding:8px 18px;border:none;border-radius:10px;background:linear-gradient(135deg,#00e5ff,#18ffff);color:#0a0a1a;font-size:13px;font-weight:700;cursor:pointer">🔄 更新数据</button>
+  </div>
+  <div class="selector" id="drawTypeSelector"></div>
+  <div id="drawList"><div class="no-data">点击更新获取最新数据</div></div>
+</div>
+
+<div id="walletTab" style="display:none">
+  <div class="wallet">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px">
+      <span style="font-size:16px;font-weight:700">💰 虚拟钱包</span>
+      <span style="color:#556;font-size:11px">初始 200 元</span>
+    </div>
+    <div class="wl-row">
+      <div class="wl-item"><div class="wl-num wl-red" id="wlSpent">0</div><div class="wl-label">总投入</div></div>
+      <div class="wl-item"><div class="wl-num wl-green" id="wlWon">0</div><div class="wl-label">中奖金额</div></div>
+      <div class="wl-item"><div class="wl-num wl-gold" id="wlNet">0</div><div class="wl-label">净收益</div></div>
+      <div class="wl-item"><div class="wl-num" id="wlROI" style="color:#667">0%</div><div class="wl-label">回报率</div></div>
+    </div>
+    <div style="margin-top:8px;display:flex;gap:8px">
+      <div style="flex:1;background:rgba(255,255,255,.03);border-radius:8px;padding:8px;text-align:center">
+        <div style="color:#ffd700;font-size:18px;font-weight:700" id="wlBets">0</div>
+        <div style="font-size:10px;color:#556">投注数</div>
+      </div>
+      <div style="flex:1;background:rgba(255,255,255,.03);border-radius:8px;padding:8px;text-align:center">
+        <div style="color:#4caf50;font-size:18px;font-weight:700" id="wlWins">0</div>
+        <div style="font-size:10px;color:#556">中奖次数</div>
+      </div>
+      <div style="flex:1;background:rgba(255,255,255,.03);border-radius:8px;padding:8px;text-align:center">
+        <div style="color:#64b5f6;font-size:18px;font-weight:700" id="wlBest">-</div>
+        <div style="font-size:10px;color:#556">最高奖项</div>
+      </div>
+    </div>
+  </div>
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
+    <span style="font-size:13px;font-weight:600;color:#889">📋 投注记录</span>
+    <div>
+      <button id="resetWalletBtn" style="padding:3px 10px;border:1px solid rgba(244,67,54,.3);border-radius:6px;background:rgba(244,67,54,.08);color:#ef5350;font-size:11px;cursor:pointer">重置</button>
+    </div>
+  </div>
+  <div class="bet-list" id="betList"><div class="no-data">还没有投注记录</div></div>
+</div>
+
+</div>
+<div class="toast" id="toast"></div>
+<div id="jsError" style="background:rgba(244,67,54,.15);color:#ef5350;padding:10px;border-radius:8px;margin-bottom:10px;display:none;font-size:13px"></div>
+<script src="lottery_data.js"></script>
+<script>
+// 全局错误捕获
+window.onerror=function(m,s,l,c,err){document.getElementById('jsError').style.display='';document.getElementById('jsError').textContent='JS Error: '+(err?.stack||m);return true};
+const LOTTERIES = [
+  {id:'ssq',name:'双色球',desc:'6红(1-33)+1蓝(1-16)',groups:[{count:6,min:1,max:33,color:'red'},{count:1,min:1,max:16,color:'blue'}],redRange:[1,33],blueRange:[1,16]},
+  {id:'dlt',name:'大乐透',desc:'5前区(1-35)+2后区(1-12)',groups:[{count:5,min:1,max:35,color:'red'},{count:2,min:1,max:12,color:'blue'}],redRange:[1,35],blueRange:[1,12]},
+  {id:'fc3d',name:'福彩3D',desc:'3位(0-9)',groups:[{count:3,min:0,max:9,color:'gold'}],redRange:[0,9],blueRange:[0,0]},
+  {id:'pl3',name:'排列三',desc:'3位(0-9)',groups:[{count:3,min:0,max:9,color:'gold'}],redRange:[0,9],blueRange:[0,0]},
+  {id:'pl5',name:'排列五',desc:'5位(0-9)',groups:[{count:5,min:0,max:9,color:'purple'}],redRange:[0,9],blueRange:[0,0]},
+  {id:'qlc',name:'七乐彩',desc:'7码(1-30)',groups:[{count:7,min:1,max:30,color:'green'}],redRange:[1,30],blueRange:[0,0]},
+  {id:'kl8',name:'快乐8选5',desc:'5码(1-80)',groups:[{count:5,min:1,max:80,color:'teal'}],redRange:[1,80],blueRange:[0,0]},
+];
+
+let currentType='ssq',currentMode='smart';
+let history=JSON.parse(localStorage.getItem('lotto_history')||'[]');
+let bets=JSON.parse(localStorage.getItem('lotto_bets')||'[]');
+let dataLoaded=typeof LOTTERY_DATA_EMBEDDED!=='undefined'&&LOTTERY_DATA_EMBEDDED!==null;
+let currentResult=null;
+let lockedNums=[];
+
+// SSQ 奖金对照（近似值）
+const SSQ_PRIZES={1:5000000,2:200000,3:3000,4:200,5:10,6:5};
+const DLT_PRIZES={1:10000000,2:500000,3:10000,4:3000,5:300,6:200,7:100,8:15,9:5};
+
+function shuffleRange(mn,mx,c,exclude){
+  const a=[];for(let i=mn;i<=mx;i++)if(!exclude||!exclude.includes(i))a.push(i);
+  for(let i=a.length-1;i>0;i--){const j=Math.random()*(i+1)|0;[a[i],a[j]]=[a[j],a[i]]}
+  return a.slice(0,c).sort((a,b)=>a-b);
+}
+function rand(mn,mx){return Math.random()*(mx-mn+1)|0+mn}
+function weightedPick(items,weights,count){
+  const t=weights.reduce((a,b)=>a+b,0);
+  if(!t)return items.slice(0,count);
+  const r=[],u=new Set();
+  for(let k=0;k<count;k++){
+    let s=Math.random()*t;
+    for(let i=0;i<items.length;i++){if(u.has(i))continue;s-=weights[i];if(s<=0){r.push(items[i]);u.add(i);break}}
+    if(r.length<=k)for(let i=0;i<items.length;i++){if(!u.has(i)){r.push(items[i]);u.add(i);break}}
+  }
+  return r;
+}
+function fr(n){return n<10?'0'+n:''+n}
+
+function generate(){
+  const lt=LOTTERIES.find(l=>l.id===currentType);
+  const d=dataLoaded?LOTTERY_DATA_EMBEDDED[lt.id]:null;
+  const locked=lockedNums.filter(n=>true);
+  const lockCount=locked.length;
+  if(lt.id==='fc3d'||lt.id==='pl3'){
+    const nums=[...locked];while(nums.length<3)nums.push(rand(0,9));
+    return[{nums:nums.slice(0,3),color:'gold'}];
+  }
+  if(lt.id==='pl5'){
+    const nums=[...locked];while(nums.length<5)nums.push(rand(0,9));
+    return[{nums:nums.slice(0,5),color:'purple'}];
+  }
+  if(lt.id==='qlc'){
+    const other=shuffleRange(1,30,7-lockCount,locked);
+    return[{nums:[...locked,...other].sort((a,b)=>a-b),color:'green'}];
+  }
+  if(lt.id==='kl8'){
+    const other=shuffleRange(1,80,5-lockCount,locked);
+    return[{nums:[...locked,...other].sort((a,b)=>a-b),color:'teal'}];
+  }
+  const rc=lt.groups[0].count,bc=lt.groups[1].count;
+  const redNeeded=rc-lockCount;
+  if(redNeeded<=0){
+    const reds=locked.slice(0,rc).sort((a,b)=>a-b);
+    return[{nums:reds,color:'red'},{nums:shuffleRange(lt.blueRange[0],lt.blueRange[1],bc),color:'blue'}];
+  }
+  if(currentMode==='random'||!d){
+    const other=shuffleRange(lt.groups[0].min,lt.groups[0].max,redNeeded,locked);
+    return[{nums:[...locked,...other].sort((a,b)=>a-b),color:'red'},
+           {nums:shuffleRange(lt.blueRange[0],lt.blueRange[1],bc),color:'blue'}];
+  }
+  if(currentMode==='hot'&&d.hot_reds&&d.hot_reds.length>=redNeeded){
+    const h=d.hot_reds.filter(n=>!locked.includes(n));
+    const pick=h.length>=redNeeded?shuffleRange(0,h.length-1,redNeeded).map(i=>h[i]):shuffleRange(lt.groups[0].min,lt.groups[0].max,redNeeded,locked);
+    return[{nums:[...locked,...pick].sort((a,b)=>a-b),color:'red'},
+           {nums:shuffleRange(lt.blueRange[0],lt.blueRange[1],bc),color:'blue'}];
+  }
+  if(currentMode==='cold'&&d.cold_reds&&d.cold_reds.length>=redNeeded){
+    const c=d.cold_reds.filter(n=>!locked.includes(n));
+    const pick=c.length>=redNeeded?shuffleRange(0,c.length-1,redNeeded).map(i=>c[i]):shuffleRange(lt.groups[0].min,lt.groups[0].max,redNeeded,locked);
+    return[{nums:[...locked,...pick].sort((a,b)=>a-b),color:'red'},
+           {nums:shuffleRange(lt.blueRange[0],lt.blueRange[1],bc),color:'blue'}];
+  }
+  if(d.red_freq){
+    const avail=Object.keys(d.red_freq).map(Number).filter(n=>!locked.includes(n));
+    const freqs=avail.map(n=>d.red_freq[n]||1);
+    const pick=weightedPick(avail,freqs,redNeeded);
+    return[{nums:[...locked,...pick].sort((a,b)=>a-b),color:'red'},
+           {nums:shuffleRange(lt.blueRange[0],lt.blueRange[1],bc),color:'blue'}];
+  }
+  const other=shuffleRange(lt.groups[0].min,lt.groups[0].max,redNeeded,locked);
+  return[{nums:[...locked,...other].sort((a,b)=>a-b),color:'red'},
+         {nums:shuffleRange(lt.blueRange[0],lt.blueRange[1],bc),color:'blue'}];
+}
+
+function renderBalls(r){
+  const el=document.getElementById('balls');el.innerHTML='';
+  const lockBtn=document.getElementById('lockClearBtn');
+  lockBtn.style.display=lockedNums.length?'':'none';
+  for(const g of r)for(const n of g.nums){
+    const b=document.createElement('div');
+    const isRed=g.color==='red';
+    const isLocked=isRed&&lockedNums.includes(n);
+    b.className='ball '+g.color+(isLocked?' locked':'')+(isRed?' clickable':'');
+    b.textContent=fr(n);
+    if(isRed)b.addEventListener('click',function(e){
+      e.stopPropagation();
+      const val=n;
+      const idx=lockedNums.indexOf(val);
+      if(idx>=0)lockedNums.splice(idx,1);
+      else if(lockedNums.length<8)lockedNums.push(val);
+      renderBalls(currentResult);
+    });
+    el.appendChild(b);
+  }
+  document.getElementById('betBtn').disabled=false;
+  // 号码统计
+  const lt=LOTTERIES.find(l=>l.id===currentType);
+  if(!lt||lt.id==='fc3d'||lt.id==='pl3'||lt.id==='pl5')return;
+  const allNums=r.flatMap(g=>g.nums);
+  const reds=r[0]?r[0].nums:[];
+  const sum=reds.reduce((a,b)=>a+b,0);
+  const odds=reds.filter(n=>n%2).length;
+  const evens=reds.length-odds;
+  const ranges=[reds.filter(n=>n<=11).length,reds.filter(n=>n>11&&n<=22).length,reds.filter(n=>n>22).length];
+  let statEl=document.getElementById('numStats');
+  if(!statEl){statEl=document.createElement('div');statEl.id='numStats';el.after(statEl)}
+  statEl.style.cssText='text-align:center;font-size:13px;color:#556;padding:8px 0 4px';
+  statEl.innerHTML='和值 <b style="color:#ffd740;font-size:15px">'+sum+'</b>'+
+    ' · 奇偶 <b style="color:#ff8a65">'+odds+'</b><span style="color:#556">:</span><b style="color:#64b5f6">'+evens+'</b>'+
+    ' · 区间 <b style="color:#a5d6a7">'+ranges[0]+'</b><span style="color:#556">:</span><b style="color:#90caf9">'+ranges[1]+'</b><span style="color:#556">:</span><b style="color:#ce93d8">'+ranges[2]+'</b>'+
+    (dataLoaded&&LOTTERY_DATA_EMBEDDED[lt.id]?' · 基于 <b style="color:#ffd740">'+(LOTTERY_DATA_EMBEDDED[lt.id].recent.length||0)+'</b> 期历史数据':'');
+  // 锁提示
+  let lockHint=document.getElementById('lockHint');
+  if(!lockHint){lockHint=document.createElement('div');lockHint.id='lockHint';statEl.after(lockHint)}
+  if(lockedNums.length){
+    lockHint.style.cssText='text-align:center;font-size:12px;color:#ffd740;padding:4px 0 0';
+    lockHint.innerHTML='🔒 已锁定 <b>'+lockedNums.join(', ')+'</b>，再次点击解锁';
+  }else{
+    lockHint.style.cssText='text-align:center;font-size:11px;color:#445;padding:4px 0 0';
+    lockHint.innerHTML='💡 点击号码可锁定，锁定后重新生成时保留该号码';
+  }
+}
+
+function updateAnalysisInfo(r){
+  const el=document.getElementById('analysisInfo');
+  if(!dataLoaded||currentMode==='random'||!r.length){el.innerHTML='';return}
+  const lt=LOTTERIES.find(l=>l.id===currentType);
+  const d=dataLoaded?LOTTERY_DATA_EMBEDDED[lt.id]:null;
+  if(!d||!d.red_freq){el.innerHTML='';return}
+  const fd={...d.red_freq};if(d.blue_freq)Object.assign(fd,d.blue_freq);
+  const v=Object.values(fd),avg=v.reduce((a,b)=>a+b,0)/v.length;
+  const nums=r.flatMap(g=>g.nums);
+  const hot=nums.filter(n=>fd[n]&&fd[n]>=avg).length;
+  const rest=nums.length-hot;
+  let t='',c='gold-bg';
+  if(currentMode==='hot'){t='🔥 追热号';c='red-bg'}
+  else if(currentMode==='cold'){t='❄️ 追冷号';c='blue-bg'}
+  else{t='🎯 '+hot+'个热号+'+rest+'个温冷';c='gold-bg'}
+  el.innerHTML=t;el.className='tag-hot '+c;
+}
+
+function checkPrize(reds,blues,type){
+  const lt=LOTTERIES.find(l=>l.id===type);
+  if(!lt||(lt.id!=='ssq'&&lt.id!=='dlt'))return null;
+  const d=dataLoaded?LOTTERY_DATA_EMBEDDED[lt.id]:null;
+  if(!d||!d.recent)return{level:null,prize:0,desc:'无数据',draw:null};
+  const redSet=new Set(reds),blueSet=new Set(blues);
+  let best=0,bestDraw=null;
+  for(const draw of d.recent){
+    if(!draw||!draw.reds)continue;
+    const dr=draw.reds.map(Number);
+    const db=draw.blue?draw.blue.map(Number):[];
+    const rm=dr.filter(n=>redSet.has(n)).length;
+    const bm=db.filter(n=>blueSet.has(n)).length;
+    let lv=0;
+    if(type==='ssq'){
+      if(rm===6&&bm===1)lv=1;
+      else if(rm===6)lv=2;
+      else if(rm===5&&bm===1)lv=3;
+      else if(rm===5||(rm===4&&bm===1))lv=4;
+      else if(rm===4||(rm===3&&bm===1))lv=5;
+      else if(bm===1)lv=6;
+    }else{
+      if(rm===5&&bm===2)lv=1;
+      else if(rm===5&&bm===1)lv=2;
+      else if(rm===5)lv=3;
+      else if(rm===4&&bm===2)lv=4;
+      else if(rm===4&&bm===1)lv=5;
+      else if(rm===3&&bm===2)lv=6;
+      else if(rm===4)lv=7;
+      else if((rm===3&&bm===1)||(rm===2&&bm===2))lv=8;
+      else if((rm===3)||(rm===2&&bm===1)||(rm===1&&bm===2)||(bm===2))lv=9;
+    }
+    if(lv>best){best=lv;bestDraw=draw;}
+  }
+  const prizeMap=type==='ssq'?SSQ_PRIZES:DLT_PRIZES;
+  const names=type==='ssq'?['','一等奖','二等奖','三等奖','四等奖','五等奖','六等奖']:['','一等奖','二等奖','三等奖','四等奖','五等奖','六等奖','七等奖','八等奖','九等奖'];
+  if(!best)return{level:null,prize:0,desc:'未中奖',draw:null};
+  return{level:best,prize:prizeMap[best]||0,desc:names[best]||'中奖',draw:{issue:bestDraw.issue,reds:bestDraw.reds,blue:bestDraw.blue,date:bestDraw.date}};
+}
+
+function genAndUpdate(){
+  currentResult=generate();renderBalls(currentResult);updateAnalysisInfo(currentResult);
+  const lt=LOTTERIES.find(l=>l.id===currentType);
+  if(lt.id!=='ssq'&&lt.id!=='dlt')document.getElementById('betBtn').disabled=true;
+  const flat=currentResult.flatMap(g=>g.nums.map(v=>({v:fr(v),color:g.color})));
+  history.push({type:currentType,nums:flat,time:new Date().toLocaleTimeString('zh-CN')});
+  if(history.length>50)history.shift();
+  localStorage.setItem('lotto_history',JSON.stringify(history));renderHistory();
+}
+
+function placeBet(){
+  if(!currentResult||!currentResult.length)return showToast('先生成号码','err');
+  const lt=LOTTERIES.find(l=>l.id===currentType);
+  const reds=currentResult[0].nums,blues=currentResult[1]?currentResult[1].nums:[];
+  const prize=checkPrize(reds,blues,lt.id);
+  bets.push({
+    type:lt.id,time:new Date().toLocaleString('zh-CN'),
+    reds,blues,cost:2,
+    prize:prize?prize:{level:null,prize:0,desc:'-'},
+    nums:currentResult.flatMap(g=>g.nums.map(v=>({v:fr(v),color:g.color})))
+  });
+  localStorage.setItem('lotto_bets',JSON.stringify(bets));
+  renderWallet();showToast('✅ 2元·'+(prize&&prize.level?prize.desc+'+'+prize.prize+'元':'待开奖'));
+}
+
+function renderWallet(){
+  const totalCost=bets.reduce((s,b)=>s+b.cost,0);
+  const totalPrize=bets.reduce((s,b)=>s+(b.prize?b.prize.prize||0:0),0);
+  const wins=bets.filter(b=>b.prize&&b.prize.prize>0);
+  document.getElementById('wlSpent').textContent=totalCost;
+  document.getElementById('wlWon').textContent=totalPrize;
+  document.getElementById('wlNet').textContent=totalPrize-totalCost;
+  document.getElementById('wlNet').style.color=totalPrize>=totalCost?'#4caf50':'#e53935';
+  document.getElementById('wlROI').textContent=totalCost?((totalPrize/totalCost*100).toFixed(1)+'%'):'0%';
+  document.getElementById('wlBets').textContent=bets.length;
+  document.getElementById('wlWins').textContent=wins.length;
+  const best=bets.reduce((mx,b)=>Math.max(mx,b.prize?b.prize.level||0:0),0);
+  const nm=['','一等奖','二等奖','三等奖','四等奖','五等奖','六等奖','七等奖','八等奖','九等奖'];
+  document.getElementById('wlBest').textContent=best?nm[best]||best:'-';
+  document.getElementById('walletDisplay').textContent=(200-totalCost+totalPrize).toFixed(2);
+  renderBetList();
+}
+
+function renderBetList(){
+  const el=document.getElementById('betList');
+  if(!bets.length){el.innerHTML='<div class="no-data">还没有投注记录</div>';return}
+  const cm={red:'r',blue:'b',gold:'g',green:'g',purple:'p',teal:'b'};
+  el.innerHTML=bets.slice().reverse().map(b=>{
+    const p=b.prize||{};
+    const draw=p.draw||{};
+    const hasDraw=draw.reds&&draw.reds.length;
+    let drawHtml='';
+    if(hasDraw){
+      const dr=[...(draw.reds||[])].map(v=>fr(Number(v)));
+      const db=[...(Array.isArray(draw.blue)?draw.blue:[draw.blue])].map(v=>fr(Number(v)));
+      drawHtml='<div style="font-size:10px;color:#556;margin-top:2px">中奖期: '+(draw.issue||'')+' · '+
+        '<span style="color:#e53935">'+dr.join(' ')+'</span>'+
+        (db.length?' <span style="color:#1e88e5">'+db.join(' ')+'</span>':'')+
+        '</div>';
+    }
+    return '<div class="bet-item" style="flex-direction:column;align-items:stretch">'+
+      '<div style="display:flex;align-items:center;gap:8px">'+
+      '<span style="color:#667;font-size:10px;min-width:60px">'+b.time.split(' ')[1]+'</span>'+
+      '<div class="bi-nums">'+b.nums.map(n=>'<span class="'+cm[n.color]+'">'+n.v+'</span>').join('')+'</div>'+
+      (p.color?'':'')+
+      '<span class="bi-prize">'+(p.prize?'+'+p.prize:'')+'</span>'+
+      '<span class="bi-status '+(p.level?'win':'lose')+'">'+(p.level?p.desc:'未中奖')+'</span>'+
+      '</div>'+drawHtml+'</div>';
+  }).join('');
+}
+
+function resetWallet(){
+  if(bets.length&&!confirm('确定重置所有投注记录？'))return;
+  bets=[];localStorage.removeItem('lotto_bets');renderWallet();
+}
+
+function renderHistory(){
+  const el=document.getElementById('historyList');
+  if(!history.length){el.innerHTML='<div class="no-data">暂无</div>';return}
+  const cm={red:'r',blue:'b',gold:'g',green:'g',purple:'p',teal:'b'};
+  el.innerHTML=history.slice().reverse().map(h=>{
+    const lt=LOTTERIES.find(l=>l.id===h.type);
+    return '<div style="display:flex;align-items:center;gap:6px;padding:4px 8px;border-radius:6px;background:rgba(255,255,255,.02);margin-bottom:3px;font-size:12px">'
+      +'<span style="color:#778;font-size:11px;min-width:40px">'+(lt?lt.name:h.type)+'</span>'
+      +'<div style="display:flex;gap:4px;flex-wrap:wrap">'+h.nums.map(n=>'<span class="'+(cm[n.color]||'r')+'" style="width:32px;height:32px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:600;color:#fff">'+n.v+'</span>').join('')+'</div>'
+      +'<span style="color:#445;font-size:10px;margin-left:auto">'+(h.time||'')+'</span></div>';
+  }).join('');
+}
+
+function showLatestResult(){
+  const el=document.getElementById('latestBox');
+  if(!dataLoaded){el.style.display='none';return}
+  const lt=LOTTERIES.find(l=>l.id===currentType);
+  if(!lt||lt.id==='fc3d'||lt.id==='pl3'||lt.id==='pl5'||lt.id==='qlc'||lt.id==='kl8'){el.style.display='none';return}
+  const d=LOTTERY_DATA_EMBEDDED[lt.id];
+  if(!d||!d.recent||!d.recent.length){el.style.display='none';return}
+  const last=d.recent[d.recent.length-1];
+  if(!last||!last.reds||!last.reds.length){el.style.display='none';return}
+  el.style.display='';
+  document.getElementById('latestType').textContent=lt.name;
+  document.getElementById('latestIssue').textContent=last.issue?'第'+last.issue+'期':'';
+  document.getElementById('latestDate').textContent=last.date||'';
+  const c=document.getElementById('latestBalls');c.innerHTML='';
+  for(const r of last.reds){
+    const b=document.createElement('span');b.className='mini-ball';
+    b.style.background='linear-gradient(135deg,#e53935,#c62828)';
+    b.textContent=fr(Number(r));c.appendChild(b);
+  }
+  const blueArr=Array.isArray(last.blue)?last.blue:(last.blue?[last.blue]:[]);
+  for(const bv of blueArr){
+    const b=document.createElement('span');b.className='mini-ball';
+    b.style.background='linear-gradient(135deg,#1e88e5,#1565c0)';
+    b.textContent=fr(Number(bv));c.appendChild(b);
+  }
+}
+
+function renderAnalysis(){
+  const el=document.getElementById('analysisContent');
+  if(!dataLoaded){el.innerHTML='<div class="no-data">lottery_data.js 未加载</div>';return}
+  let html='';
+  for(const lt of LOTTERIES){
+    const d=LOTTERY_DATA_EMBEDDED[lt.id];
+    if(!d||!d.red_freq)continue;
+    const rk=Object.keys(d.red_freq).map(Number).sort((a,b)=>a-b);
+    const mf=Math.max(...Object.values(d.red_freq));
+    html+='<div style="margin-bottom:18px"><h3 style="color:#ffd700;font-size:15px;margin-bottom:8px">'+lt.name+'</h3>';
+    html+='<div style="font-size:12px;color:#889;margin-bottom:6px">红球频率</div><div class="freq-row">';
+    for(const n of rk){
+      const p=d.red_freq[n]/mf;
+      const c=d.hot_reds&&d.hot_reds.includes(n)?'#ff5722':(d.cold_reds&&d.cold_reds.includes(n)?'#42a5f5':'#889');
+      html+='<div class="num" style="color:'+c+'">'+fr(n)+'<div class="bar" style="height:'+(p*100)+'%;background:'+c+'"></div></div>';
+    }
+    html+='</div>';
+    if(d.blue_freq){
+      const bk=Object.keys(d.blue_freq).map(Number).sort((a,b)=>a-b);
+      const bm=Math.max(...Object.values(d.blue_freq));
+      html+='<div style="font-size:12px;color:#889;margin:6px 0 4px">蓝球</div><div class="freq-row">';
+      for(const n of bk){
+        const p=d.blue_freq[n]/bm;
+        const c=d.hot_blues&&d.hot_blues.includes(n)?'#ffd740':'#64b5f6';
+        html+='<div class="num" style="color:'+c+';width:32px;height:32px;font-size:11px">'+fr(n)+'<div class="bar" style="height:'+(p*100)+'%;background:'+c+'"></div></div>';
+      }
+      html+='</div>';
+    }
+    const hs=d.hot_reds&&d.hot_reds.length?d.hot_reds.join(', '):'-';
+        const cs=d.cold_reds&&d.cold_reds.length?d.cold_reds.join(', '):'-';
+        html+='<div style="margin-top:6px"><span class="tag hot">🔥 '+hs+'</span><span class="tag cold">❄️ '+cs+'</span></div>';
+
+        // 遗漏值（距上次出现已过多少期）
+        if(d.recent&&d.recent.length){
+              const lastSeen={};const total=d.recent.length;
+              for(let i=0;i<d.recent.length;i++){
+                const draw=d.recent[i];
+                if(!draw||!draw.reds)continue;
+                for(const r of draw.reds.map(Number))lastSeen[r]=i;
+                if(draw.blue)for(const b of draw.blue.map(Number))if(d.blue_freq&&d.blue_freq[b])lastSeen[b]=i;
+              }
+              html+='<div style="font-size:12px;color:#667;margin:8px 0 4px">遗漏值（期）</div><div class="freq-row">';
+              const rk=Object.keys(d.red_freq).map(Number).sort((a,b)=>a-b);
+              for(const n of rk){
+                const miss=lastSeen[n]!==undefined?total-1-lastSeen[n]:total;
+                const c=miss<=3?'#4caf50':(miss<=10?'#ffd740':(miss<=20?'#ff9800':'#e53935'));
+                html+='<div class="num" style="color:'+c+';width:36px;height:36px;font-size:11px" title="号码'+n+'已遗漏'+miss+'期">'+fr(n)+'<div class="bar" style="height:'+Math.min(miss/total*100,100)+'%;background:'+c+'"></div></div>';
+              }
+              html+='</div>';
+
+              // Canvas 走势图（最后30期）
+              const chartCount=Math.min(d.recent.length,30);
+                const canvasId='trend_'+lt.id;
+              html+='<div style="margin-top:12px"><div style="font-size:12px;color:#667;margin-bottom:6px">走势图（最近'+chartCount+'期）</div>'+
+                '<canvas id="'+canvasId+'" width="780" height="240" style="width:100%;height:240px;background:rgba(255,255,255,.02);border-radius:8px"></canvas></div>'+
+                '<div style="text-align:center;margin-top:4px">'+
+                '<button onclick="drawTrendChart(\''+lt.id+'\',0)" style="padding:4px 12px;border:1px solid rgba(255,255,255,.1);border-radius:6px;background:rgba(0,229,255,.08);color:#00e5ff;font-size:11px;cursor:pointer;margin:2px">📊 红球</button>'+
+                '<button onclick="drawTrendChart(\''+lt.id+'\',1)" style="padding:4px 12px;border:1px solid rgba(255,255,255,.1);border-radius:6px;background:rgba(33,150,243,.08);color:#64b5f6;font-size:11px;cursor:pointer;margin:2px">🔵 蓝球</button>'+
+                '</div>';
+            } // close 遗漏值 if
+            // 开奖记录（最近15期）
+            if(d.recent&&d.recent.length){
+              const recCount=Math.min(d.recent.length,15);
+              const recs=d.recent.slice(-recCount).reverse();
+              html+='<div style="margin-top:12px"><div style="display:flex;justify-content:space-between;align-items:center">'+
+                '<span style="font-size:12px;color:#667">📋 开奖记录（最近'+recCount+'期）</span>'+
+                '<span style="font-size:10px;color:#445">点击走势图查看完整期号</span></div>'+
+                '<div style="max-height:240px;overflow-y:auto;margin-top:6px">';
+              for(const rec of recs){
+                const reds=(rec.reds||[]).slice(0,6);
+                const blues=Array.isArray(rec.blue)?rec.blue:(rec.blue?[rec.blue]:[]);
+                html+='<div style="display:flex;align-items:center;gap:6px;padding:4px 6px;border-radius:6px;background:rgba(255,255,255,.015);margin-bottom:2px;font-size:11px">'+
+                  '<span style="color:#556;min-width:50px">'+(rec.issue||'')+'</span>'+
+                  '<span style="color:#e53935;font-weight:600">'+reds.map(v=>fr(Number(v))).join(' ')+'</span>'+
+                  (blues.length?' <span style="color:#1e88e5;font-weight:600">'+blues.map(v=>fr(Number(v))).join(' ')+'</span>':'')+
+                  '<span style="color:#445;margin-left:auto;font-size:10px">'+(rec.date||'')+'</span></div>';
+              }
+              html+='</div></div>';
+            }
+    html+='</div>'; // close lottery section
+  }
+  el.innerHTML=html||'<div class="no-data">暂无数据</div>';
+}
+
+// 开奖记录独立页面
+function renderDraws(){
+  const sel=document.getElementById('drawTypeSelector');
+  if(!sel.innerHTML)sel.innerHTML=LOTTERIES.filter(l=>LOTTERY_DATA_EMBEDDED[l.id]).map(l=>'<div class="sel-btn'+(l.id==='ssq'?' active':'')+'" data-id="'+l.id+'">'+l.name+'</div>').join('');
+  const active= sel.querySelector('.active');
+  const type=active?active.dataset.id:'ssq';
+  const d=LOTTERY_DATA_EMBEDDED[type];
+  if(!d||!d.recent||!d.recent.length){document.getElementById('drawList').innerHTML='<div class="no-data">暂无数据</div>';return}
+  
+  const lt=LOTTERIES.find(l=>l.id===type);
+  // 显示更新时间（最新一期日期）
+  const newest=d.recent[0];
+  const newestDate=newest?`最新 ${newest.issue}期 (${newest.date})`:'';
+  document.getElementById('updateTime').textContent=newestDate;
+  let html='<div style="font-size:13px;color:#667;margin-bottom:8px">共 '+d.recent.length+' 期记录</div>';
+  // 每行一条
+  for(const rec of d.recent){
+    const reds=(rec.reds||[]).map(v=>fr(Number(v)));
+    const blues=Array.isArray(rec.blue)?rec.blue.map(v=>fr(Number(v))):(rec.blue?[fr(Number(rec.blue))]:[]);
+    html+='<div style="display:flex;align-items:center;gap:10px;padding:8px 12px;border-radius:10px;background:rgba(255,255,255,.02);margin-bottom:4px;transition:.2s;font-size:13px">'+
+      '<span style="color:#556;min-width:60px;font-size:12px">'+(rec.issue||'')+'</span>'+
+      '<div style="display:flex;gap:4px;flex-wrap:wrap">'+
+      reds.map(r=>'<span style="display:inline-flex;width:30px;height:30px;border-radius:50%;align-items:center;justify-content:center;font-size:13px;font-weight:600;background:linear-gradient(135deg,#e53935,#c62828);color:#fff">'+r+'</span>').join('')+
+      (blues.length?'<span style="color:#556;margin:0 2px">+</span>':'')+
+      blues.map(b=>'<span style="display:inline-flex;width:30px;height:30px;border-radius:50%;align-items:center;justify-content:center;font-size:13px;font-weight:600;background:linear-gradient(135deg,#1e88e5,#1565c0);color:#fff">'+b+'</span>').join('')+
+      '</div>'+
+      '<span style="color:#445;margin-left:auto;font-size:11px">'+(rec.date||'')+'</span></div>';
+  }
+  document.getElementById('drawList').innerHTML=html;
+}
+
+// 开奖记录选择器切换
+document.getElementById('drawTypeSelector').addEventListener('click',function(e){
+  const b=e.target.closest('.sel-btn');if(!b)return;
+  this.querySelectorAll('.sel-btn').forEach(x=>x.classList.remove('active'));
+  b.classList.add('active');renderDraws();
+});
+function drawTrendChart(type,mode){
+  try{
+  const d=LOTTERY_DATA_EMBEDDED[type];
+  if(!d||!d.recent||!d.recent.length)return;
+  const canvas=document.getElementById('trend_'+type);
+  if(!canvas)return;
+  const ctx=canvas.getContext('2d');
+  const W=canvas.width,H=canvas.height;
+  ctx.clearRect(0,0,W,H);
+
+  const chartCount=Math.min(d.recent.length,30);
+  const data=d.recent.slice(-chartCount);
+  const isBlue=mode===1;
+  const maxVal=isBlue?(type==='dlt'?12:16):(type==='dlt'?35:33);
+  const pad={t:25,b:20,l:35,r:15};
+  const cw=W-pad.l-pad.r,ch=H-pad.t-pad.b;
+  const stepX=cw/(chartCount-1||1);
+
+  // 背景网格
+  ctx.strokeStyle='rgba(255,255,255,.04)';
+  ctx.lineWidth=1;
+  for(let i=0;i<=maxVal;i+=5){
+    const y=pad.t+ch-ch*i/maxVal;
+    ctx.beginPath();ctx.moveTo(pad.l,y);ctx.lineTo(W-pad.r,y);ctx.stroke();
+    ctx.fillStyle='#445';ctx.font='10px sans-serif';ctx.textAlign='right';
+    ctx.fillText(i,pad.l-4,y+3);
+  }
+
+  // X轴标签
+  for(let i=0;i<chartCount;i++){
+    const x=pad.l+stepX*i;
+    const label=data[i].issue||'';
+    ctx.fillStyle='#445';ctx.font='8px sans-serif';ctx.textAlign='center';
+    ctx.fillText(label.slice(-4),x,H-4);
+  }
+
+  // 画数据点
+  for(let i=0;i<chartCount;i++){
+    const draw=data[i];
+    if(!draw||!draw.reds)continue;
+    const nums=isBlue?(Array.isArray(draw.blue)?draw.blue:[draw.blue||[]]):draw.reds;
+    const x=pad.l+stepX*i;
+    for(const nv of nums){
+      const val=Number(nv);
+      if(!val)continue;
+      const y=pad.t+ch-ch*val/maxVal;
+      ctx.beginPath();
+      ctx.arc(x,y,isBlue?4:3,0,Math.PI*2);
+      ctx.fillStyle=isBlue?'rgba(30,136,229,.7)':'rgba(229,57,53,.7)';
+      ctx.fill();
+      if(isBlue){ctx.strokeStyle='rgba(30,136,229,.3)';ctx.lineWidth=1;ctx.stroke();}
+    }
+  }
+
+  // 轴标签
+  ctx.fillStyle='#556';ctx.font='11px sans-serif';ctx.textAlign='center';
+  ctx.fillText(isBlue?'蓝球':'红球',W/2,14);
+  }catch(e){}
+}
+
+function gen5(){
+  const el=document.getElementById('balls');el.innerHTML='';
+  for(let i=0;i<5;i++){
+    const r=generate();
+    for(const g of r)for(const n of g.nums){
+      const b=document.createElement('div');b.className='ball small '+g.color;
+      b.textContent=fr(n);el.appendChild(b);
+    }
+  }
+  document.getElementById('betBtn').disabled=true;
+  document.getElementById('analysisInfo').innerHTML='';
+}
+
+function copyNums(){
+  const lt=LOTTERIES.find(l=>l.id===currentType);
+  const balls=document.getElementById('balls');
+  if(!balls.children.length)return showToast('还没有号码','err');
+  const p=[];
+  for(const g of lt.groups){
+    const n=[...balls.querySelectorAll('.ball.'+g.color)].map(b=>b.textContent).join(' ');
+    if(n)p.push(n);
+  }
+  navigator.clipboard.writeText(lt.name+': '+p.join(' | ')).then(()=>showToast('已复制')).catch(()=>showToast('复制失败'));
+}
+function showToast(m,c){const t=document.getElementById('toast');t.textContent=m;t.className='toast'+(c==='err'?' err':'')+' show';setTimeout(()=>t.classList.remove('show'),2000)}
+
+// init
+document.getElementById('typeSelector').innerHTML=LOTTERIES.map(l=>'<div class="sel-btn'+(l.id===currentType?' active':'')+'" data-id="'+l.id+'">'+l.name+'</div>').join('');
+document.getElementById('typeSelector').addEventListener('click',e=>{
+  const b=e.target.closest('.sel-btn');if(!b)return;
+  document.querySelectorAll('.sel-btn').forEach(x=>x.classList.remove('active'));
+  b.classList.add('active');currentType=b.dataset.id;
+  lockedNums=[];document.getElementById('lockClearBtn').style.display='none';
+  document.getElementById('balls').innerHTML='<div class="no-data">点击生成</div>';
+  document.getElementById('analysisInfo').innerHTML='';
+  document.getElementById('betBtn').disabled=true;showLatestResult();
+  const lt=LOTTERIES.find(l=>l.id===currentType);
+  document.getElementById('desc').textContent=lt.desc;
+});
+document.getElementById('modeSelector').addEventListener('click',e=>{
+  const b=e.target.closest('.mode-tab');if(!b)return;
+  document.querySelectorAll('.mode-tab').forEach(x=>x.classList.remove('active'));
+  b.classList.add('active');
+  currentMode=b.dataset.mode||'smart';
+  document.getElementById('analysisInfo').innerHTML='';
+});
+const tabMap={gen:'genTab',analysis:'analysisTab',draws:'drawsTab',wallet:'walletTab'};
+document.querySelectorAll('.tab').forEach(t=>t.addEventListener('click',function(){
+  const tabId=this.dataset.tab;
+  document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
+  this.classList.add('active');
+  Object.entries(tabMap).forEach(([k,v])=>document.getElementById(v).style.display=k===tabId?'':'none');
+  if(tabId==='wallet')renderWallet();
+  if(tabId==='analysis'&&dataLoaded){renderAnalysis();setTimeout(function(){
+    ['ssq','dlt'].forEach(function(t){if(LOTTERY_DATA_EMBEDDED[t])drawTrendChart(t,0);});
+  },50);}
+  if(tabId==='draws'&&dataLoaded)renderDraws();
+}));
+document.getElementById('genBtn').addEventListener('click',genAndUpdate);
+document.getElementById('betBtn').addEventListener('click',placeBet);
+document.getElementById('gen5Btn').addEventListener('click',gen5);
+document.getElementById('copyBtn').addEventListener('click',copyNums);
+document.getElementById('clearBtn').addEventListener('click',()=>{
+  history=[];localStorage.removeItem('lotto_history');renderHistory();
+  document.getElementById('balls').innerHTML='<div class="no-data">已清空</div>';
+  document.getElementById('analysisInfo').innerHTML='';
+  document.getElementById('betBtn').disabled=true;
+});
+document.getElementById('resetWalletBtn').addEventListener('click',resetWallet);
+document.getElementById('lockClearBtn').addEventListener('click',function(){lockedNums=[];if(currentResult)renderBalls(currentResult);this.style.display='none';});
+document.getElementById('updateDrawBtn').addEventListener('click',function(){
+  // 检测是否是 file:// 协议
+  if(window.location.protocol==='file:'){
+    showToast('请用 http://localhost:8900/ 打开，或双击 "智能彩票助手/update_data.bat" 更新','err');
+    return;
+  }
+  const btn=this;const txt=btn.textContent;
+  btn.textContent='⏳ 更新中...';btn.disabled=true;
+  fetch('/update').then(r=>r.json()).then(d=>{
+    if(d.ok){
+      // 重新加载数据变量并刷新UI
+      LOTTERY_DATA_EMBEDDED=null;
+      const s=document.createElement('script');s.src='lottery_data.js?'+Date.now();
+      s.onload=function(){dataLoaded=true;renderDraws();showToast('✅ 已更新到最新');renderAnalysis();};
+      document.body.appendChild(s);
+    }else showToast('更新失败: '+d.error,'err');
+  }).catch(e=>showToast('连接失败','err'))
+  .finally(()=>{btn.textContent=txt;btn.disabled=false;});
+});
+
+// 键盘快捷键
+document.addEventListener('keydown',function(e){
+  if(e.target.tagName==='INPUT'||e.target.tagName==='TEXTAREA')return;
+  if(e.code==='Space'||e.code==='Enter'){e.preventDefault();genAndUpdate();}
+});
+
+const lt0=LOTTERIES.find(l=>l.id===currentType);
+document.getElementById('desc').textContent=lt0.desc;
+renderHistory();renderWallet();showLatestResult();
+if(dataLoaded){renderAnalysis();setTimeout(function(){['ssq','dlt'].forEach(function(t){if(LOTTERY_DATA_EMBEDDED[t])drawTrendChart(t,0);});},100);}
+</script>
+</body>
+</html>
