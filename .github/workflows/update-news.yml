@@ -18,9 +18,6 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: 安装依赖
-        run: pip install deep-translator
-
       - name: 获取 AI 新闻
         run: python update_news.py
 

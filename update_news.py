@@ -94,6 +94,9 @@ SOURCES = {
     "OSCHINA AI": {"rss": "/oschina/news?tags=AI&limit=10", "color": "#00a86b"},
     "品玩 AI": {"rss": "/pingwest/tag/AI?limit=10", "color": "#ff5722"},
     "DoNews AI": {"rss": "/donews?tag=AI&limit=10", "color": "#9c27b0"},
+    "AI 科技评论": {"rss": "/leiphone?category=ai&limit=10", "color": "#00bcd4"},
+    "新浪 AI": {"rss": "/sina/news?tag=AI&limit=8", "color": "#ff6a6a"},
+    "腾讯 AI": {"rss": "/tencent/news/tag/AI/?limit=8", "color": "#2196f3"},
 }
 
 CAT_CN_KEYWORDS = {
@@ -113,14 +116,8 @@ def classify_cn(title, desc=""):
 
 def main():
     print("=" * 40)
-    print("AI 每日新闻更新")
+    print("AI 每日新闻更新（国内源）")
     print("=" * 40)
-
-    translator = get_translator()
-    if translator:
-        print("✅ 翻译引擎就绪")
-    else:
-        print("⚠️ 未安装翻译库，英文标题保持原样")
 
     # 中文源
     all_items = []
@@ -135,52 +132,6 @@ def main():
             it["tags"] = []
         all_items.extend(items)
         print(f"{len(items)} 条")
-
-    # Hacker News（英文，翻译成中文）
-    print("\n📡 获取 Hacker News 并翻译...")
-    try:
-        from deep_translator import GoogleTranslator
-        hn_trans = GoogleTranslator(source="en", target="zh-CN")
-    except:
-        hn_trans = None
-    try:
-        top = get("https://hacker-news.firebaseio.com/v0/topstories.json")[:40]
-        hn_count = 0
-        for sid in top:
-            try:
-                s = get(f"https://hacker-news.firebaseio.com/v0/item/{sid}.json")
-                if not s or not s.get("title"): continue
-                title_en = s["title"]
-                text = (title_en + " " + (s.get("text") or "")).lower()
-                # AI 关键词匹配（英文）
-                akw = ["ai", "artificial intelligence", "machine learning", "deep learning",
-                       "llm", "large language model", "gpt", "chatgpt", "openai", "claude",
-                       "anthropic", "gemini", "llama", "mistral", "copilot", "neural",
-                       "transformer", "diffusion", "rag", "agent", "autonomous",
-                       "fine-tuning", "multimodal", "encoder", "decoder", "attention"]
-                if not any(k in text for k in akw):
-                    continue
-                # 翻译标题
-                title_cn = translate_text(hn_trans, title_en)
-                desc = s.get("text") or ""
-                if desc:
-                    desc = re.sub(r'<[^>]+>', '', desc)[:200]
-                    desc = translate_text(hn_trans, desc)
-                score = s.get("score", 0)
-                url = s.get("url") or f"https://news.ycombinator.com/item?id={sid}"
-                cat = classify_cn(title_cn, desc)
-                tags = ["热门"] if score > 50 else []
-                all_items.append({
-                    "title": title_cn, "url": url, "desc": desc,
-                    "source": "Hacker News（译）", "sourceColor": "#ff6600",
-                    "ts": s.get("time", 0), "score": score,
-                    "category": cat, "tags": tags,
-                })
-                hn_count += 1
-            except: continue
-        print(f"  {hn_count} 条")
-    except Exception as e:
-        print(f"  HN 错误: {e}")
 
     # 合并去重
     seen = set()
