@@ -1,5 +1,421 @@
 {
-  "updated": "2026-06-16 13:02 UTC",
-  "count": 0,
-  "items": []
+  "updated": "2026-06-16 13:17 UTC",
+  "count": 35,
+  "items": [
+    {
+      "title": "orange2ai/renwei-writing",
+      "url": "https://github.com/orange2ai/renwei-writing",
+      "desc": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+      "source": "GitHub Trending",
+      "sourceColor": "#24292e",
+      "ts": 1781300748,
+      "score": 708,
+      "category": "tools",
+      "tags": [
+        "🔥 热门"
+      ]
+    },
+    {
+      "title": "[Python] nolangz/pixel2motion",
+      "url": "https://github.com/nolangz/pixel2motion",
+      "desc": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+      "source": "GitHub Trending",
+      "sourceColor": "#24292e",
+      "ts": 1781238317,
+      "score": 553,
+      "category": "tools",
+      "tags": [
+        "🔥 热门"
+      ]
+    },
+    {
+      "title": "[JavaScript] DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "source": "GitHub Trending",
+      "sourceColor": "#24292e",
+      "ts": 1781225557,
+      "score": 20711,
+      "category": "tools",
+      "tags": [
+        "🔥 热门"
+      ]
+    },
+    {
+      "title": "[Python] omnigent-ai/omnigent",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "desc": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check",
+      "source": "GitHub Trending",
+      "sourceColor": "#24292e",
+      "ts": 1781180293,
+      "score": 2275,
+      "category": "tools",
+      "tags": [
+        "🔥 热门"
+      ]
+    },
+    {
+      "title": "[Shell] SkyBlue997/enableMacosAI",
+      "url": "https://github.com/SkyBlue997/enableMacosAI",
+      "desc": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+      "source": "GitHub Trending",
+      "sourceColor": "#24292e",
+      "ts": 1781097819,
+      "score": 1323,
+      "category": "tools",
+      "tags": [
+        "🔥 热门"
+      ]
+    },
+    {
+      "title": "[Zig] coder/boo",
+      "url": "https://github.com/coder/boo",
+      "desc": "A GNU screen style terminal multiplexer built on libghostty.",
+      "source": "GitHub Trending",
+      "sourceColor": "#24292e",
+      "ts": 1781056381,
+      "score": 625,
+      "category": "tools",
+      "tags": [
+        "🔥 热门"
+      ]
+    },
+    {
+      "title": "[JavaScript] alchaincyf/fanbox",
+      "url": "https://github.com/alchaincyf/fanbox",
+      "desc": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+      "source": "GitHub Trending",
+      "sourceColor": "#24292e",
+      "ts": 1781053302,
+      "score": 601,
+      "category": "tools",
+      "tags": [
+        "🔥 热门"
+      ]
+    },
+    {
+      "title": "[Python] xiaohuailabs/xiaohu-video-translate",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "desc": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "source": "GitHub Trending",
+      "sourceColor": "#24292e",
+      "ts": 1780912555,
+      "score": 523,
+      "category": "tools",
+      "tags": [
+        "🔥 热门"
+      ]
+    },
+    {
+      "title": "[Swift] apple/coreai-models",
+      "url": "https://github.com/apple/coreai-models",
+      "desc": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "source": "GitHub Trending",
+      "sourceColor": "#24292e",
+      "ts": 1780893147,
+      "score": 959,
+      "category": "tools",
+      "tags": [
+        "🔥 热门"
+      ]
+    },
+    {
+      "title": "[Python] GordenSun/GordenSuperPPTSkills",
+      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+      "desc": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "source": "GitHub Trending",
+      "sourceColor": "#24292e",
+      "ts": 1780849213,
+      "score": 979,
+      "category": "tools",
+      "tags": [
+        "🔥 热门"
+      ]
+    },
+    {
+      "title": "[JavaScript] JimLiu/baoyu-design",
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "desc": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4",
+      "source": "GitHub Trending",
+      "sourceColor": "#24292e",
+      "ts": 1780794978,
+      "score": 1213,
+      "category": "tools",
+      "tags": [
+        "🔥 热门"
+      ]
+    },
+    {
+      "title": "amElnagdy/guard-skills",
+      "url": "https://github.com/amElnagdy/guard-skills",
+      "desc": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+      "source": "GitHub Trending",
+      "sourceColor": "#24292e",
+      "ts": 1780765167,
+      "score": 776,
+      "category": "tools",
+      "tags": [
+        "🔥 热门"
+      ]
+    },
+    {
+      "title": "[Go] tastyeffectco/sandboxd",
+      "url": "https://github.com/tastyeffectco/sandboxd",
+      "desc": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+      "source": "GitHub Trending",
+      "sourceColor": "#24292e",
+      "ts": 1780512902,
+      "score": 648,
+      "category": "tools",
+      "tags": [
+        "🔥 热门"
+      ]
+    },
+    {
+      "title": "[TypeScript] superloglabs/superlog",
+      "url": "https://github.com/superloglabs/superlog",
+      "desc": "Open-source observability tool that uses AI agents to self-heal your software",
+      "source": "GitHub Trending",
+      "sourceColor": "#24292e",
+      "ts": 1780427628,
+      "score": 831,
+      "category": "tools",
+      "tags": [
+        "🔥 热门"
+      ]
+    },
+    {
+      "title": "[Python] jd-opensource/JoyAI-Echo",
+      "url": "https://github.com/jd-opensource/JoyAI-Echo",
+      "desc": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+      "source": "GitHub Trending",
+      "sourceColor": "#24292e",
+      "ts": 1780370751,
+      "score": 1588,
+      "category": "tools",
+      "tags": [
+        "🔥 热门"
+      ]
+    },
+    {
+      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
+      "url": "https://www.36kr.com/p/210949",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "industry",
+      "tags": []
+    },
+    {
+      "title": "三大运营商年内推出5G消息",
+      "url": "https://www.36kr.com/p/210948",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "industry",
+      "tags": []
+    },
+    {
+      "title": "欧洲在线订餐服务Takeaway.com：外卖订单开始强劲复苏",
+      "url": "https://www.36kr.com/p/210947",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "llm",
+      "tags": []
+    },
+    {
+      "title": "北京规模以上工业企业开复工率已达99.9%",
+      "url": "https://www.36kr.com/p/210946",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "china",
+      "tags": []
+    },
+    {
+      "title": "韩国：违反居家隔离措施者，需佩戴电子手环",
+      "url": "https://www.36kr.com/p/210945",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "industry",
+      "tags": []
+    },
+    {
+      "title": "马布里官方旗舰店入驻拼多多，“发光篮球”将登陆百亿补贴",
+      "url": "https://www.36kr.com/p/210944",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "industry",
+      "tags": []
+    },
+    {
+      "title": "好未来《熊猫博士》3D动画片登陆央视少儿频道",
+      "url": "https://www.36kr.com/p/210943",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "tools",
+      "tags": []
+    },
+    {
+      "title": "瑞德西韦同情用药的数据存在局限性，中国重症临床试验已中止",
+      "url": "https://www.36kr.com/p/210942",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "china",
+      "tags": []
+    },
+    {
+      "title": "广东餐饮协会提议美团：取消独家条款，降佣5%及以上",
+      "url": "https://www.36kr.com/p/210939",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "tools",
+      "tags": []
+    },
+    {
+      "title": "小鹏汽车一季度上险量2331台",
+      "url": "https://www.36kr.com/p/210938",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "tools",
+      "tags": []
+    },
+    {
+      "title": "持续助力中小企业复苏，字节跳动抗疫支出超10亿元",
+      "url": "https://www.36kr.com/p/210937",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "china",
+      "tags": []
+    },
+    {
+      "title": "海航集团与中国旅游集团战略合作，推动海南自贸区消费升级",
+      "url": "https://www.36kr.com/p/210936",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "china",
+      "tags": []
+    },
+    {
+      "title": "拼多多百亿补贴开售全国首批SK-II限量版神仙水，1488套限量版上线后“秒光”",
+      "url": "https://www.36kr.com/p/210935",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "industry",
+      "tags": []
+    },
+    {
+      "title": "公募基金投资新三板的相关指引有望近日公布",
+      "url": "https://www.36kr.com/p/210934",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "industry",
+      "tags": []
+    },
+    {
+      "title": "新加坡暂停使用Zoom在线授课，直到安全问题解决",
+      "url": "https://www.36kr.com/p/210933",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "tools",
+      "tags": []
+    },
+    {
+      "title": "阿里巴巴和浙江德清签署“数字乡村建设合作协议”",
+      "url": "https://www.36kr.com/p/210932",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "china",
+      "tags": []
+    },
+    {
+      "title": "孙正义批评日本政府应对疫情不力：休假补贴太吝啬",
+      "url": "https://www.36kr.com/p/210931",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "llm",
+      "tags": []
+    },
+    {
+      "title": "特斯拉半数美国销售和交付人员将临时休假",
+      "url": "https://www.36kr.com/p/210930",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "tools",
+      "tags": []
+    },
+    {
+      "title": "第三方曝光罗永浩第二场直播数据：带货销售额下降近70%",
+      "url": "https://www.36kr.com/p/210929",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "tools",
+      "tags": []
+    },
+    {
+      "title": "IMS（天下秀）A股上市首份年报：2019年营收19.8亿，同比增长63.5%",
+      "url": "https://www.36kr.com/p/210928",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "industry",
+      "tags": []
+    }
+  ]
 }
