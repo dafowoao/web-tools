@@ -14,13 +14,19 @@ def get(url, headers=None):
         return json.loads(data)
 
 def fetch_36kr(limit=30):
-    """从 36氪获取最新资讯"""
+    """从 36氪获取 AI 相关资讯"""
     items = []
+    ai_kw = ["ai", "人工智能", "大模型", "语言模型", "模型", "算法", "数据", "芯片", "gpu",
+             "gpt", "chatgpt", "openai", "编程", "代码", "机器人", "自动化", "深度学习",
+             "机器学习", "智能", "自动驾驶", "视觉", "语音", "数字人", "云计算",
+             "saas", "物联网", "5g", "量子", "大数据", "ai助手", "自动驾驶"]
     try:
         data = get(f"https://36kr.com/api/newsflash?per_page={limit}")
         for item in data.get("data", {}).get("items", []):
             title = item.get("title", "")
             if not title: continue
+            txt = (title + " " + (item.get("summary","") or "")).lower()
+            if not any(k in txt for k in ai_kw): continue
             url = f"https://www.36kr.com/p/{item.get('id', '')}"
             desc = item.get("summary", "")[:200]
             ts = item.get("published_at", 0)
