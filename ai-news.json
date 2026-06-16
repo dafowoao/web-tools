@@ -1,1 +1,185 @@
-{"updated": "等待首次自动更新...", "count": 0, "items": []}
+{
+  "updated": "2026-06-16 12:52 UTC",
+  "count": 12,
+  "items": [
+    {
+      "title": "Celebrating seven years of the Fairphone 3",
+      "url": "https://www.fairphone.com/stories/celebrating-seven-years-of-the-fairphone-3",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781606843,
+      "score": 6,
+      "category": "industry",
+      "tags": [
+        "industry",
+        "ai"
+      ]
+    },
+    {
+      "title": "SpaceX to buy Cursor AI coding agent operator Anysphere for $60B",
+      "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781606664,
+      "score": 121,
+      "category": "tools",
+      "tags": [
+        "hot",
+        "tools",
+        "ai"
+      ]
+    },
+    {
+      "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
+      "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781601969,
+      "score": 154,
+      "category": "tools",
+      "tags": [
+        "hot",
+        "tools",
+        "ai"
+      ]
+    },
+    {
+      "title": "OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B",
+      "url": "https://www.wheresyoured.at/exclusive-openai-financials/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781582748,
+      "score": 98,
+      "category": "tools",
+      "tags": [
+        "hot",
+        "tools",
+        "ai"
+      ]
+    },
+    {
+      "title": "Why I email complete strangers",
+      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781560630,
+      "score": 173,
+      "category": "tools",
+      "tags": [
+        "hot",
+        "tools",
+        "ai"
+      ]
+    },
+    {
+      "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
+      "url": "https://grassdx.com/",
+      "desc": "I know, it&#x27;s kind of weird. What is a veterinarian doing creating an analysis tool for lawn problems?Frankly, the idea was born of my own lawn care struggles. Endless lawn care company fees witho",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781546160,
+      "score": 66,
+      "category": "tools",
+      "tags": [
+        "hot",
+        "tools",
+        "ai"
+      ]
+    },
+    {
+      "title": "Claude Corps",
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781545284,
+      "score": 146,
+      "category": "llm",
+      "tags": [
+        "hot",
+        "llm",
+        "claude"
+      ]
+    },
+    {
+      "title": "Launch HN: Drafted (YC P26) – Models for residential architecture",
+      "url": "https://news.ycombinator.com/item?id=48543908",
+      "desc": "I’m Nick, founder of Drafted (https:&#x2F;&#x2F;www.drafted.ai). We’re training models that generate residential architecture from structured design constraints.Product demo: https:&#x2F;&#x2F;www.you",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781542041,
+      "score": 55,
+      "category": "llm",
+      "tags": [
+        "hot",
+        "llm",
+        "ai"
+      ]
+    },
+    {
+      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "url": "https://tinywind.io",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781540153,
+      "score": 896,
+      "category": "industry",
+      "tags": [
+        "hot",
+        "industry",
+        "ai"
+      ]
+    },
+    {
+      "title": "My Homelab AI Dev Platform",
+      "url": "https://rsgm.dev/post/ai-dev-platform/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781536180,
+      "score": 326,
+      "category": "tools",
+      "tags": [
+        "hot",
+        "tools",
+        "ai"
+      ]
+    },
+    {
+      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+      "url": "https://news.ycombinator.com/item?id=48542100",
+      "desc": "Has anyone here fully swapped Claude&#x2F;GPT for a local model as their main coding tool, not just for side experiments? If so, please share your setup and performance (e.g tok&#x2F;s)",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781534813,
+      "score": 1100,
+      "category": "llm",
+      "tags": [
+        "hot",
+        "llm",
+        "ai"
+      ]
+    },
+    {
+      "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+      "url": "https://fata.dev",
+      "desc": "Hi HN, I&#x27;m Djoumé. I&#x27;ve been a developer for over 20 years, and like a lot of you I&#x27;ve been coding almost exclusively through an agent in the past few months.It&#x27;s been amazing to v",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781179023,
+      "score": 103,
+      "category": "tools",
+      "tags": [
+        "hot",
+        "tools",
+        "ai"
+      ]
+    }
+  ]
+}
