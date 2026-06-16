@@ -1,94 +1,107 @@
 {
-  "updated": "2026-06-16 13:43 UTC",
-  "count": 11,
+  "updated": "2026-06-16 19:36 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "AskHN:How do you handle skill atrophy from using coding agents?",
-      "url": "https://news.ycombinator.com/item?id=48554309",
-      "desc": "It&#x27;s impossible to retain a skill if you dont use it. I&#x27;ve reached a point where I use AI exclusively for all tasks, because it&#x27;s far faster and efficient to do so. \nWhat kind of activi",
+      "title": "GPT‑NL: a sovereign language model for the Netherlands",
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781613584,
-      "score": 9,
+      "ts": 1781632442,
+      "score": 43,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Pen and paper resource development game with an emergent world",
+      "url": "https://www.jameshylands.co.uk/2026/06/sortis-paper-empire-game.html",
+      "desc": "I&#x27;ve been working for a while on trying to curate a game that has the emergence of procedurally generated computer games but that can be played with only pen and paper. Here I present the best ve",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781632194,
+      "score": 4,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude: Elevated errors across many models",
+      "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781631030,
+      "score": 142,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Has AI already killed self-help nonfiction books?",
+      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781629865,
+      "score": 28,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz",
+      "url": "https://twitter.com/fguzmanai/status/2065832668172845209",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781626346,
+      "score": 32,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
+      "title": "After AI Takes Everything",
+      "url": "https://ursb.me/en/posts/after-ai-takes-everything/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781623205,
+      "score": 73,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
       "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781601969,
-      "score": 222,
-      "category": "tools",
+      "score": 500,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Why I email complete strangers",
-      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
-      "desc": "",
+      "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+      "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2064095424420487226",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781560630,
-      "score": 180,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Corps",
-      "url": "https://www.anthropic.com/news/claude-corps",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781545284,
-      "score": 146,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "url": "https://tinywind.io",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781540153,
-      "score": 913,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "My Homelab AI Dev Platform",
-      "url": "https://rsgm.dev/post/ai-dev-platform/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781536180,
-      "score": 338,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "url": "https://news.ycombinator.com/item?id=48542100",
-      "desc": "Has anyone here fully swapped Claude&#x2F;GPT for a local model as their main coding tool, not just for side experiments? If so, please share your setup and performance (e.g tok&#x2F;s)",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781534813,
-      "score": 1131,
-      "category": "tools",
+      "ts": 1781585895,
+      "score": 785,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -112,7 +125,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -134,7 +147,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
