@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+<head><meta content="default-src 'none'; style-src * 'unsafe-inline'; script-src * 'unsafe-inline'; img-src * data: blob:; font-src * data:; media-src * data: blob:; connect-src 'none'; form-action 'none'; frame-src 'none'; object-src 'none'; base-uri 'none'" http-equiv="Content-Security-Policy"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>武穴双站列车时刻详细报告</title>
+<script src="https://image.uc.cn/s/uae/g/3n/mos-production/fontawesome-free-7.1.0-web/js/all.min.js"></script>
+<link href="https://image.uc.cn/s/uae/g/3n/mos-production/fontawesome-free-7.1.0-web/css/fontawesome.min.css" rel="stylesheet"/>
+<script src="https://image.uc.cn/s/uae/g/3n/mos-production/0915/3.4.17.js"></script>
+<script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#3b82f6',
+                        secondary: '#1e40af'
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        .tab-content { display: none; }
+        .tab-content.active { display: block; }
+        .train-type-tag {
+            padding: 0.25rem 0.5rem;
+            border-radius: 9999px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+        .origin-tag {
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+        .table-row:hover {
+            background-color: rgba(59, 130, 246, 0.1);
+        }
+        @media (max-width: 768px) {
+            .station-tabs {
+                flex-direction: column;
+            }
+            .station-tab {
+                width: 100%;
+                margin-bottom: 0.5rem;
+            }
+        }
+    </style>
+</head>
+<body class="bg-gray-900 text-gray-100 min-h-screen">
+
+<header class="bg-gradient-to-r from-blue-800 to-indigo-900 py-8 px-4 text-center">
+<h1 class="text-3xl md:text-4xl font-bold mb-2">武穴双站列车时刻详细报告</h1>
+<p class="text-blue-200">数据更新时间：2026年4月14日最新数据</p>
+</header>
+
+<div class="container mx-auto px-4 py-6">
+<div class="station-tabs flex justify-center space-x-2 mb-8">
+<button class="station-tab bg-blue-700 hover:bg-blue-600 text-white px-6 py-2 rounded-lg transition-colors active" data-target="wusue">
+                武穴站
+            </button>
+<button class="station-tab bg-blue-700 hover:bg-blue-600 text-white px-6 py-2 rounded-lg transition-colors" data-target="wusue-north">
+                武穴北站
+            </button>
+</div>
+
+<section class="tab-content active" id="wusue">
+<div class="bg-gray-800 rounded-lg shadow-lg p-6 mb-8">
+<h2 class="text-2xl font-bold mb-4 text-blue-300 flex items-center">
+<i class="fas fa-train mr-2"></i>武穴站（普速站）
+                </h2>
+<p class="text-gray-300 mb-4">
+                    武穴站位于京九铁路上，为三等站，主要办理普速列车（K/T字头）业务
+                </p>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-700">
+<thead class="bg-gray-700">
+<tr>
+<th class="px-4 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">列车编号</th>
+<th class="px-4 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">类型</th>
+<th class="px-4 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">始发站</th>
+<th class="px-4 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">终到站</th>
+<th class="px-4 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">发车时间</th>
+<th class="px-4 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">到达时间</th>
+<th class="px-4 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">中途停靠站</th>
+<th class="px-4 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">始发</th>
+<th class="px-4 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">备注</th>
+</tr>
+</thead>
+<tbody class="divide-y divide-gray-700">
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">K4068/K4065</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-yellow-600 text-yellow-100">快速</span></td>
+<td class="px-4 py-3">武穴</td>
+<td class="px-4 py-3">广州</td>
+<td class="px-4 py-3">07:30</td>
+<td class="px-4 py-3">21:45</td>
+<td class="px-4 py-3">蕲春、浠水、黄州、武汉、岳阳、长沙、衡阳、韶关</td>
+<td class="px-4 py-3"><span class="origin-tag bg-red-600 text-red-100">否</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">6026</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-orange-600 text-orange-100">普快</span></td>
+<td class="px-4 py-3">武穴</td>
+<td class="px-4 py-3">南昌</td>
+<td class="px-4 py-3">08:15</td>
+<td class="px-4 py-3">12:40</td>
+<td class="px-4 py-3">蕲春、浠水、黄州、鄂州、大冶、阳新</td>
+<td class="px-4 py-3"><span class="origin-tag bg-red-600 text-red-100">否</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">K822/K823</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-yellow-600 text-yellow-100">快速</span></td>
+<td class="px-4 py-3">武穴</td>
+<td class="px-4 py-3">深圳</td>
+<td class="px-4 py-3">09:20</td>
+<td class="px-4 py-3">次日06:10</td>
+<td class="px-4 py-3">蕲春、浠水、黄州、武汉、长沙、郴州、广州</td>
+<td class="px-4 py-3"><span class="origin-tag bg-green-600 text-green-100">是</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">K4094</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-yellow-600 text-yellow-100">快速</span></td>
+<td class="px-4 py-3">武穴</td>
+<td class="px-4 py-3">上海南</td>
+<td class="px-4 py-3">10:05</td>
+<td class="px-4 py-3">次日05:30</td>
+<td class="px-4 py-3">蕲春、浠水、黄州、麻城、阜阳、徐州、南京、苏州</td>
+<td class="px-4 py-3"><span class="origin-tag bg-green-600 text-green-100">是</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">3270</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-orange-600 text-orange-100">普快</span></td>
+<td class="px-4 py-3">武穴</td>
+<td class="px-4 py-3">武汉</td>
+<td class="px-4 py-3">11:40</td>
+<td class="px-4 py-3">15:20</td>
+<td class="px-4 py-3">蕲春、浠水、黄州、鄂州</td>
+<td class="px-4 py-3"><span class="origin-tag bg-green-600 text-green-100">是</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">K4758/K4755</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-yellow-600 text-yellow-100">快速</span></td>
+<td class="px-4 py-3">武穴</td>
+<td class="px-4 py-3">北京西</td>
+<td class="px-4 py-3">13:15</td>
+<td class="px-4 py-3">次日10:45</td>
+<td class="px-4 py-3">蕲春、浠水、黄州、麻城、阜阳、商丘、菏泽、衡水、保定</td>
+<td class="px-4 py-3"><span class="origin-tag bg-green-600 text-green-100">是</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">K876/K877</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-yellow-600 text-yellow-100">快速</span></td>
+<td class="px-4 py-3">武穴</td>
+<td class="px-4 py-3">成都</td>
+<td class="px-4 py-3">14:50</td>
+<td class="px-4 py-3">次日18:30</td>
+<td class="px-4 py-3">蕲春、浠水、黄州、武汉、宜昌、恩施、重庆、内江</td>
+<td class="px-4 py-3"><span class="origin-tag bg-green-600 text-green-100">是</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">K4260</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-yellow-600 text-yellow-100">快速</span></td>
+<td class="px-4 py-3">武穴</td>
+<td class="px-4 py-3">西安</td>
+<td class="px-4 py-3">16:30</td>
+<td class="px-4 py-3">次日08:15</td>
+<td class="px-4 py-3">蕲春、浠水、黄州、信阳、南阳、商洛</td>
+<td class="px-4 py-3"><span class="origin-tag bg-green-600 text-green-100">是</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">K753/K752</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-yellow-600 text-yellow-100">快速</span></td>
+<td class="px-4 py-3">武穴</td>
+<td class="px-4 py-3">杭州</td>
+<td class="px-4 py-3">18:05</td>
+<td class="px-4 py-3">次日07:20</td>
+<td class="px-4 py-3">蕲春、浠水、黄州、安庆、池州、黄山、金华</td>
+<td class="px-4 py-3"><span class="origin-tag bg-green-600 text-green-100">是</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">K1454</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-yellow-600 text-yellow-100">快速</span></td>
+<td class="px-4 py-3">武穴</td>
+<td class="px-4 py-3">昆明</td>
+<td class="px-4 py-3">19:10</td>
+<td class="px-4 py-3">第三日06:45</td>
+<td class="px-4 py-3">蕲春、浠水、黄州、武汉、长沙、贵阳、曲靖</td>
+<td class="px-4 py-3"><span class="origin-tag bg-green-600 text-green-100">是</span></td>
+<td class="px-4 py-3">发车时间存在19:02与19:10两个版本</td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">T156/T157</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-purple-600 text-purple-100">特快</span></td>
+<td class="px-4 py-3">武穴</td>
+<td class="px-4 py-3">广州东</td>
+<td class="px-4 py-3">20:40</td>
+<td class="px-4 py-3">次日09:15</td>
+<td class="px-4 py-3">蕲春、浠水、黄州、南昌、赣州、韶关</td>
+<td class="px-4 py-3"><span class="origin-tag bg-green-600 text-green-100">是</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">K4165</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-yellow-600 text-yellow-100">快速</span></td>
+<td class="px-4 py-3">武穴</td>
+<td class="px-4 py-3">厦门</td>
+<td class="px-4 py-3">22:20</td>
+<td class="px-4 py-3">次日16:40</td>
+<td class="px-4 py-3">蕲春、浠水、黄州、南昌、抚州、三明、漳州</td>
+<td class="px-4 py-3"><span class="origin-tag bg-green-600 text-green-100">是</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class="mt-4 text-sm text-gray-400">总计：12 趟列车</p>
+</div>
+</section>
+
+<section class="tab-content" id="wusue-north">
+<div class="bg-gray-800 rounded-lg shadow-lg p-6 mb-8">
+<h2 class="text-2xl font-bold mb-4 text-blue-300 flex items-center">
+<i class="fas fa-train mr-2"></i>武穴北站（高铁站）
+                </h2>
+<p class="text-gray-300 mb-4">
+                    武穴北站位于黄黄高铁线上，为高速铁路车站，主要办理动车组（D/C字头）列车业务
+                </p>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-gray-700">
+<thead class="bg-gray-700">
+<tr>
+<th class="px-4 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">列车编号</th>
+<th class="px-4 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">类型</th>
+<th class="px-4 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">始发站</th>
+<th class="px-4 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">终到站</th>
+<th class="px-4 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">发车时间</th>
+<th class="px-4 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">到达时间</th>
+<th class="px-4 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">中途停靠站</th>
+<th class="px-4 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">始发</th>
+<th class="px-4 py-3 text-left text-xs font-medium text-gray-300 uppercase tracking-wider">备注</th>
+</tr>
+</thead>
+<tbody class="divide-y divide-gray-700">
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">D5778/D5779</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-blue-600 text-blue-100">高速动车</span></td>
+<td class="px-4 py-3">武穴北</td>
+<td class="px-4 py-3">十堰东</td>
+<td class="px-4 py-3">07:05</td>
+<td class="px-4 py-3">10:50</td>
+<td class="px-4 py-3">蕲春南、浠水南、黄冈东、武汉、随州、襄阳东、丹江口</td>
+<td class="px-4 py-3"><span class="origin-tag bg-green-600 text-green-100">是</span></td>
+<td class="px-4 py-3">该车次于2025年10月停运</td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">C5632</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-cyan-600 text-cyan-100">城际</span></td>
+<td class="px-4 py-3">武穴北</td>
+<td class="px-4 py-3">武汉</td>
+<td class="px-4 py-3">08:20</td>
+<td class="px-4 py-3">09:35</td>
+<td class="px-4 py-3">蕲春南、浠水南、黄冈东</td>
+<td class="px-4 py-3"><span class="origin-tag bg-green-600 text-green-100">是</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">C5096</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-cyan-600 text-cyan-100">城际</span></td>
+<td class="px-4 py-3">武穴北</td>
+<td class="px-4 py-3">武汉</td>
+<td class="px-4 py-3">10:10</td>
+<td class="px-4 py-3">11:25</td>
+<td class="px-4 py-3">蕲春南、浠水南</td>
+<td class="px-4 py-3"><span class="origin-tag bg-green-600 text-green-100">是</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">D7012</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-blue-600 text-blue-100">高速动车</span></td>
+<td class="px-4 py-3">武穴北</td>
+<td class="px-4 py-3">武汉东</td>
+<td class="px-4 py-3">12:05</td>
+<td class="px-4 py-3">13:15</td>
+<td class="px-4 py-3">蕲春南、黄冈东</td>
+<td class="px-4 py-3"><span class="origin-tag bg-green-600 text-green-100">是</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">D9342</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-blue-600 text-blue-100">高速动车</span></td>
+<td class="px-4 py-3">武穴北</td>
+<td class="px-4 py-3">武汉东</td>
+<td class="px-4 py-3">12:05</td>
+<td class="px-4 py-3">13:15</td>
+<td class="px-4 py-3">蕲春南、黄冈东</td>
+<td class="px-4 py-3"><span class="origin-tag bg-green-600 text-green-100">是</span></td>
+<td class="px-4 py-3">时刻与D7012完全相同</td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">C5068</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-cyan-600 text-cyan-100">城际</span></td>
+<td class="px-4 py-3">武穴北</td>
+<td class="px-4 py-3">武汉</td>
+<td class="px-4 py-3">14:30</td>
+<td class="px-4 py-3">15:45</td>
+<td class="px-4 py-3">蕲春南、浠水南、黄冈东</td>
+<td class="px-4 py-3"><span class="origin-tag bg-green-600 text-green-100">是</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">D7020</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-blue-600 text-blue-100">高速动车</span></td>
+<td class="px-4 py-3">武穴北</td>
+<td class="px-4 py-3">武汉</td>
+<td class="px-4 py-3">16:15</td>
+<td class="px-4 py-3">17:30</td>
+<td class="px-4 py-3">蕲春南、浠水南</td>
+<td class="px-4 py-3"><span class="origin-tag bg-green-600 text-green-100">是</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">D7016</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-blue-600 text-blue-100">高速动车</span></td>
+<td class="px-4 py-3">武穴北</td>
+<td class="px-4 py-3">仙桃</td>
+<td class="px-4 py-3">18:40</td>
+<td class="px-4 py-3">20:10</td>
+<td class="px-4 py-3">蕲春南、黄冈东、武汉</td>
+<td class="px-4 py-3"><span class="origin-tag bg-green-600 text-green-100">是</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">D5886/D5887</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-blue-600 text-blue-100">高速动车</span></td>
+<td class="px-4 py-3">武穴北</td>
+<td class="px-4 py-3">武汉</td>
+<td class="px-4 py-3">20:50</td>
+<td class="px-4 py-3">22:05</td>
+<td class="px-4 py-3">蕲春南、浠水南、黄冈东</td>
+<td class="px-4 py-3"><span class="origin-tag bg-green-600 text-green-100">是</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">D5784/D5781</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-blue-600 text-blue-100">高速动车</span></td>
+<td class="px-4 py-3">利川</td>
+<td class="px-4 py-3">武穴北</td>
+<td class="px-4 py-3">06:30</td>
+<td class="px-4 py-3">10:20</td>
+<td class="px-4 py-3">恩施、宜昌东、荆州、潜江、武汉、黄冈东、浠水南</td>
+<td class="px-4 py-3"><span class="origin-tag bg-red-600 text-red-100">否</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">D2167/D2166</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-blue-600 text-blue-100">高速动车</span></td>
+<td class="px-4 py-3">南京南</td>
+<td class="px-4 py-3">武汉</td>
+<td class="px-4 py-3">08:15</td>
+<td class="px-4 py-3">12:10</td>
+<td class="px-4 py-3">合肥南、六安、金寨、麻城北、红安西、黄冈东、浠水南、蕲春南</td>
+<td class="px-4 py-3"><span class="origin-tag bg-red-600 text-red-100">否</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">C5505</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-cyan-600 text-cyan-100">城际</span></td>
+<td class="px-4 py-3">武汉</td>
+<td class="px-4 py-3">武穴北</td>
+<td class="px-4 py-3">09:40</td>
+<td class="px-4 py-3">10:55</td>
+<td class="px-4 py-3">黄冈东、浠水南</td>
+<td class="px-4 py-3"><span class="origin-tag bg-red-600 text-red-100">否</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">D5888/D5885</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-blue-600 text-blue-100">高速动车</span></td>
+<td class="px-4 py-3">武汉</td>
+<td class="px-4 py-3">武穴北</td>
+<td class="px-4 py-3">13:20</td>
+<td class="px-4 py-3">14:35</td>
+<td class="px-4 py-3">黄冈东、浠水南、蕲春南</td>
+<td class="px-4 py-3"><span class="origin-tag bg-red-600 text-red-100">否</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">D2181</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-blue-600 text-blue-100">高速动车</span></td>
+<td class="px-4 py-3">上海虹桥</td>
+<td class="px-4 py-3">武汉</td>
+<td class="px-4 py-3">07:05</td>
+<td class="px-4 py-3">12:45</td>
+<td class="px-4 py-3">苏州、无锡、常州、南京南、合肥南、六安、金寨、麻城北、红安西、黄冈东、浠水南、蕲春南</td>
+<td class="px-4 py-3"><span class="origin-tag bg-red-600 text-red-100">否</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">D2171/0</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-blue-600 text-blue-100">高速动车</span></td>
+<td class="px-4 py-3">杭州东</td>
+<td class="px-4 py-3">武汉</td>
+<td class="px-4 py-3">08:50</td>
+<td class="px-4 py-3">14:20</td>
+<td class="px-4 py-3">湖州、南京南、合肥南、六安、金寨、麻城北、红安西、黄冈东、浠水南、蕲春南</td>
+<td class="px-4 py-3"><span class="origin-tag bg-red-600 text-red-100">否</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">D2184/5</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-blue-600 text-blue-100">高速动车</span></td>
+<td class="px-4 py-3">上海虹桥</td>
+<td class="px-4 py-3">汉口</td>
+<td class="px-4 py-3">10:15</td>
+<td class="px-4 py-3">16:05</td>
+<td class="px-4 py-3">苏州、无锡、常州、南京南、合肥南、六安、金寨、麻城北、红安西、黄冈东、浠水南、蕲春南</td>
+<td class="px-4 py-3"><span class="origin-tag bg-red-600 text-red-100">否</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">D2186/3</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-blue-600 text-blue-100">高速动车</span></td>
+<td class="px-4 py-3">汉口</td>
+<td class="px-4 py-3">上海虹桥</td>
+<td class="px-4 py-3">16:30</td>
+<td class="px-4 py-3">22:20</td>
+<td class="px-4 py-3">蕲春南、浠水南、黄冈东、红安西、麻城北、金寨、六安、合肥南、南京南、常州、无锡、苏州</td>
+<td class="px-4 py-3"><span class="origin-tag bg-red-600 text-red-100">否</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">D7015</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-blue-600 text-blue-100">高速动车</span></td>
+<td class="px-4 py-3">仙桃</td>
+<td class="px-4 py-3">武穴北</td>
+<td class="px-4 py-3">15:40</td>
+<td class="px-4 py-3">17:10</td>
+<td class="px-4 py-3">武汉、黄冈东、蕲春南</td>
+<td class="px-4 py-3"><span class="origin-tag bg-red-600 text-red-100">否</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+<tr class="table-row">
+<td class="px-4 py-3 whitespace-nowrap">D7017</td>
+<td class="px-4 py-3"><span class="train-type-tag bg-blue-600 text-blue-100">高速动车</span></td>
+<td class="px-4 py-3">武汉东</td>
+<td class="px-4 py-3">武穴北</td>
+<td class="px-4 py-3">19:20</td>
+<td class="px-4 py-3">20:30</td>
+<td class="px-4 py-3">黄冈东、浠水南</td>
+<td class="px-4 py-3"><span class="origin-tag bg-red-600 text-red-100">否</span></td>
+<td class="px-4 py-3"></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class="mt-4 text-sm text-gray-400">总计：19 趟列车</p>
+</div>
+</section>
+</div>
+
+<footer class="bg-gray-800 py-6 px-4 text-center text-gray-400">
+<p class="mb-2">数据来源：2026年4月14日最新列车时刻表，源自武穴车站路线图_可视化.html</p>
+<p class="mb-2">注：部分车次可能存在数据重复或调度变化，请以实际运营为准。</p>
+<p>本内容由AI生成，可能存在错误或不准确之处</p>
+</footer>
+<script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const tabs = document.querySelectorAll('.station-tab');
+            const contents = document.querySelectorAll('.tab-content');
+            
+            tabs.forEach(tab => {
+                tab.addEventListener('click', () => {
+                    // Remove active class from all tabs and contents
+                    tabs.forEach(t => t.classList.remove('active'));
+                    contents.forEach(c => c.classList.remove('active'));
+                    
+                    // Add active class to clicked tab
+                    tab.classList.add('active');
+                    
+                    // Show corresponding content
+                    const target = tab.getAttribute('data-target');
+                    document.getElementById(target).classList.add('active');
+                });
+            });
+        });
+    </script>
+</body>
+</html>

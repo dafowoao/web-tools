@@ -1,0 +1,2631 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    .ppt_iframe_parent {
+      max-width: 1280px;
+      width: 100%;
+      height: 100vh;
+      margin: 0 auto;
+      scroll-snap-type: y mandatory;
+      overflow-y: auto;
+    }
+    .ppt_page_iframe_content {
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      overflow: hidden;
+      border-radius: 12px;
+      scroll-snap-align: start;
+      margin-bottom: 24px;
+    }
+    .ppt_page_iframe {
+      display: block;
+      border: none;
+      flex-shrink: 0;
+      overflow: hidden;
+      width: 1280px;
+      height: 720px;
+      transform: scale(var(--ppt-html-zoom, 1));
+      transform-origin: left top;
+    }
+  </style>
+  <script>
+    function updateElementZoom() {
+      const element = document.querySelector('.ppt_iframe_parent');
+      if (element instanceof HTMLElement) {
+        element.style.setProperty('--ppt-html-zoom', '' + element.clientWidth / 1280);
+      }
+    }
+    window.addEventListener('DOMContentLoaded', updateElementZoom);
+    window.addEventListener('resize', updateElementZoom);
+  </script>
+</head>
+<body>
+  <div class="ppt_iframe_parent">
+    <div class="ppt_page_iframe_content">
+      <iframe class="ppt_page_iframe" srcdoc="<!DOCTYPE html>
+<html lang=&quot;zh-CN&quot;>
+<head>
+    <meta charset=&quot;UTF-8&quot;>
+    <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+    <title>人工智能重塑未来职场</title>
+    <link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css&quot;>
+    <script src=&quot;https://image.uc.cn/s/uae/g/3n/mos-production/0915/3.4.17.js&quot;></script>
+    <style>
+        /* 1. 主题与颜色变量 */
+        :root {
+            --color-background: #F8FAFC;
+            --color-primary: #2563EB;
+            --color-accent: #F97316;
+            --color-text: #1E293B;
+            --color-highlight: #FBBF24;
+            --font-serif: &quot;Noto Serif SC&quot;, &quot;Songti SC&quot;, serif;
+            --font-sans: &quot;Noto Sans SC&quot;, &quot;PingFang SC&quot;, sans-serif;
+        }
+
+        /* 2. 基础布局框架 */
+        body {
+            margin: 0;
+            font-family: var(--font-sans);
+            background-color: #f0f0f0;
+        }
+
+        .slide-container {
+            width: 1280px;
+            height: 720px; /* 使用固定高度以确保比例 */
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        
+        /* 3. 辅助样式 */
+        .title {
+            font-family: var(--font-serif);
+        }
+
+    </style>
+</head>
+<body>
+    
+        <div id=&quot;slide-container&quot; class=&quot;slide-container&quot;>
+            
+            <!-- 背景图片 -->
+            <div class=&quot;absolute top-0 left-0 w-full h-full z-0&quot;>
+                <img src=&quot;https://agent.qianwen.com/mos/aae332748b5c43be9dae3e5e42ace621/60f73d095fc0e8589bf17ed1835a9b4a&quot; class=&quot;w-full h-full object-cover&quot; alt=&quot;Technological background&quot;>
+            </div>
+
+            <!-- 内容容器 -->
+            <div class=&quot;relative z-10 flex flex-col flex-1 h-full justify-center items-center text-center px-12&quot;>
+                
+                <!-- 主标题 -->
+                <h1 class=&quot;title text-7xl font-bold&quot; style=&quot;color: #2563EB;&quot;>
+                    <span style=&quot;color: #FBBF24;&quot;>人工智能</span>重塑未来职场
+                </h1>
+                
+                <!-- 装饰线 -->
+                <div class=&quot;w-40 h-1.5 my-8&quot; style=&quot;background-color: #2563EB;&quot;></div>
+
+                <!-- 副标题 -->
+                <h2 class=&quot;text-4xl font-medium&quot; style=&quot;font-family: var(--font-sans); color: #2563EB;&quot;>
+                    基于2024-2026年权威数据
+                </h2>
+
+                <!-- 报告信息 -->
+                <div class=&quot;mt-16 text-xl space-y-3&quot; style=&quot;font-family: var(--font-sans); color: #F97316;&quot;>
+                    <p>2026年01月12日星期一</p>
+                    <p>汇报人：xxx</p>
+                </div>
+            </div>
+
+            <!-- 页码 (首页不显示，但保留结构供后续使用) -->
+            <footer class=&quot;absolute bottom-5 right-10 text-sm font-light&quot; style=&quot;color: #2563EB; opacity: 0.7;&quot;>
+                <p>1 / 13</p>
+            </footer>
+
+        </div>
+</body>
+</html>"></iframe>
+    </div>
+    <div class="ppt_page_iframe_content">
+      <iframe class="ppt_page_iframe" srcdoc="<!DOCTYPE html>
+<html lang=&quot;zh-CN&quot;>
+    <head>
+        <meta charset=&quot;utf-8&quot;/>
+        <meta content=&quot;width=device-width, initial-scale=1.0&quot; name=&quot;viewport&quot;/>
+        <title>
+            目录 - 人工智能重塑未来职场
+        </title>
+        <link href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css&quot; rel=&quot;stylesheet&quot;/>
+        <script src=&quot;https://image.uc.cn/s/uae/g/3n/mos-production/0915/3.4.17.js&quot;>
+        </script>
+        <style>
+            /* 1. 主题与颜色变量 */
+        :root {
+            --color-background: #F8FAFC;
+            --color-primary: #2563EB;
+            --color-accent: #F97316;
+            --color-text: #1E293B;
+            --color-highlight: #FBBF24;
+            --font-serif: &quot;Noto Serif SC&quot;, &quot;Songti SC&quot;, serif;
+            --font-sans: &quot;Noto Sans SC&quot;, &quot;PingFang SC&quot;, sans-serif;
+        }
+
+        /* 2. 基础布局框架 */
+        body {
+            margin: 0;
+            font-family: var(--font-sans);
+            background-color: #f0f0f0;
+        }
+
+        .slide-container {
+            width: 1280px;
+            height: 720px;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            background-color: #F8FAFC;
+            overflow: hidden;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        
+        /* 3. 辅助样式 */
+        .title {
+            font-family: var(--font-serif);
+        }
+        .header-line {
+            width: 100px; /* Shorter for a shorter title &quot;目录&quot; */
+            height: 3px;
+            background-color: #F97316;
+            margin-top: 0.5rem;
+        }
+        .leader {
+            flex-grow: 1;
+            border-bottom: 2px dotted rgba(37, 99, 235, 0.4); /* #2563EB with alpha */
+            margin: 0 0.75rem;
+            position: relative;
+            bottom: 6px; /* Align with text baseline */
+        }
+        </style>
+    </head>
+    <body>
+        
+            <div class=&quot;slide-container&quot; id=&quot;slide-container&quot;>
+                <!-- Top decorative bar -->
+                <div class=&quot;absolute top-0 left-0 h-2 w-full bg-gradient-to-r from-[#2563EB] to-[#F97316] z-20&quot;>
+                </div>
+                <!-- Background decorative element -->
+                <div class=&quot;absolute -bottom-24 -right-24 text-blue-100 opacity-50 z-10&quot;>
+                    <i class=&quot;fa-solid fa-sitemap fa-fw&quot; style=&quot;font-size: 36rem;&quot;>
+                    </i>
+                </div>
+                <header class=&quot;slide-header px-16 pt-12 pb-6 z-20&quot;>
+                    <h1 class=&quot;title text-4xl font-black&quot; style=&quot;color: #1E293B;&quot;>
+                        目录
+                    </h1>
+                    <div class=&quot;header-line&quot;>
+                    </div>
+                </header>
+                <main class=&quot;slide-content flex-grow min-h-0 px-16 py-4 z-20&quot;>
+                    <div class=&quot;grid grid-cols-2 gap-x-20 h-full&quot;>
+                        <!-- Left Column -->
+                        <div class=&quot;flex flex-col gap-y-8&quot;>
+                            <section>
+                                <h2 class=&quot;text-2xl font-bold flex items-center mb-6&quot; style=&quot;color: #2563EB;&quot;>
+                                    <i class=&quot;fa-solid fa-microchip fa-fw w-8 mr-3 text-3xl&quot;>
+                                    </i>
+                                    AI现状与行业影响
+                                </h2>
+                                <ul class=&quot;space-y-5 text-xl&quot; style=&quot;color: #1E293B;&quot;>
+                                    <li class=&quot;flex items-baseline&quot;>
+                                        <p>
+                                            AI发展现状概览
+                                        </p>
+                                        <span class=&quot;leader&quot;>
+                                        </span>
+                                        <p>
+                                            3
+                                        </p>
+                                    </li>
+                                    <li class=&quot;flex items-baseline&quot;>
+                                        <p>
+                                            制造业自动化影响
+                                        </p>
+                                        <span class=&quot;leader&quot;>
+                                        </span>
+                                        <p>
+                                            4
+                                        </p>
+                                    </li>
+                                    <li class=&quot;flex items-baseline&quot;>
+                                        <p>
+                                            服务业自动化影响
+                                        </p>
+                                        <span class=&quot;leader&quot;>
+                                        </span>
+                                        <p>
+                                            5
+                                        </p>
+                                    </li>
+                                    <li class=&quot;flex items-baseline&quot;>
+                                        <p>
+                                            高风险流失岗位分析
+                                        </p>
+                                        <span class=&quot;leader&quot;>
+                                        </span>
+                                        <p>
+                                            6
+                                        </p>
+                                    </li>
+                                </ul>
+                            </section>
+                            <section>
+                                <h2 class=&quot;text-2xl font-bold flex items-center mb-6&quot; style=&quot;color: #2563EB;&quot;>
+                                    <i class=&quot;fa-solid fa-users-gear fa-fw w-8 mr-3 text-3xl&quot;>
+                                    </i>
+                                    岗位演变新图景
+                                </h2>
+                                <ul class=&quot;space-y-5 text-xl&quot; style=&quot;color: #1E293B;&quot;>
+                                    <li class=&quot;flex items-baseline&quot;>
+                                        <p>
+                                            新兴职位类型涌现
+                                        </p>
+                                        <span class=&quot;leader&quot;>
+                                        </span>
+                                        <p>
+                                            7
+                                        </p>
+                                    </li>
+                                    <li class=&quot;flex items-baseline&quot;>
+                                        <p>
+                                            岗位替代与创造矩阵
+                                        </p>
+                                        <span class=&quot;leader&quot;>
+                                        </span>
+                                        <p>
+                                            8
+                                        </p>
+                                    </li>
+                                </ul>
+                            </section>
+                        </div>
+                        <!-- Right Column -->
+                        <div class=&quot;flex flex-col gap-y-8&quot;>
+                            <section>
+                                <h2 class=&quot;text-2xl font-bold flex items-center mb-6&quot; style=&quot;color: #2563EB;&quot;>
+                                    <i class=&quot;fa-solid fa-chalkboard-user fa-fw w-8 mr-3 text-3xl&quot;>
+                                    </i>
+                                    技能再培训实践
+                                </h2>
+                                <ul class=&quot;space-y-5 text-xl&quot; style=&quot;color: #1E293B;&quot;>
+                                    <li class=&quot;flex items-baseline&quot;>
+                                        <p>
+                                            企业再培训成功模式
+                                        </p>
+                                        <span class=&quot;leader&quot;>
+                                        </span>
+                                        <p>
+                                            9
+                                        </p>
+                                    </li>
+                                    <li class=&quot;flex items-baseline&quot;>
+                                        <p>
+                                            政府主导培训项目
+                                        </p>
+                                        <span class=&quot;leader&quot;>
+                                        </span>
+                                        <p>
+                                            10
+                                        </p>
+                                    </li>
+                                    <li class=&quot;flex items-baseline&quot;>
+                                        <p>
+                                            政企协同生态构建
+                                        </p>
+                                        <span class=&quot;leader&quot;>
+                                        </span>
+                                        <p>
+                                            11
+                                        </p>
+                                    </li>
+                                </ul>
+                            </section>
+                            <section>
+                                <h2 class=&quot;text-2xl font-bold flex items-center mb-6&quot; style=&quot;color: #2563EB;&quot;>
+                                    <i class=&quot;fa-solid fa-lightbulb fa-fw w-8 mr-3 text-3xl&quot;>
+                                    </i>
+                                    未来能力建议
+                                </h2>
+                                <ul class=&quot;space-y-5 text-xl&quot; style=&quot;color: #1E293B;&quot;>
+                                    <li class=&quot;flex items-baseline&quot;>
+                                        <p>
+                                            未来核心能力框架
+                                        </p>
+                                        <span class=&quot;leader&quot;>
+                                        </span>
+                                        <p>
+                                            12
+                                        </p>
+                                    </li>
+                                    <li class=&quot;flex items-baseline&quot;>
+                                        <p>
+                                            长期职场演进展望
+                                        </p>
+                                        <span class=&quot;leader&quot;>
+                                        </span>
+                                        <p>
+                                            13
+                                        </p>
+                                    </li>
+                                </ul>
+                            </section>
+                        </div>
+                    </div>
+                </main>
+                <footer class=&quot;absolute bottom-5 right-10 text-sm font-light z-20&quot; style=&quot;color: #2563EB;&quot;>
+                    <p>
+                        2 / 13
+                    </p>
+                </footer>
+                <!-- Bottom decorative bar -->
+                <div class=&quot;absolute bottom-0 left-0 h-2 w-full bg-gradient-to-r from-[#F97316] to-[#2563EB] z-20&quot;>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+"></iframe>
+    </div>
+    <div class="ppt_page_iframe_content">
+      <iframe class="ppt_page_iframe" srcdoc="<!DOCTYPE html>
+<html lang=&quot;zh-CN&quot;>
+    <head>
+        <meta charset=&quot;utf-8&quot;/>
+        <meta content=&quot;width=device-width, initial-scale=1.0&quot; name=&quot;viewport&quot;/>
+        <title>
+            AI发展现状概览
+        </title>
+        <link href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css&quot; rel=&quot;stylesheet&quot;/>
+        <script src=&quot;https://image.uc.cn/s/uae/g/3n/mos-production/0915/3.4.17.js&quot;>
+        </script>
+        <script src=&quot;https://image.uc.cn/s/uae/g/3n/mos-production/0915/echarts.min.js&quot;>
+        </script>
+        <style>
+            /* 1. 主题与颜色变量 */
+        :root {
+            --color-background: #F8FAFC;
+            --color-primary: #2563EB;
+            --color-accent: #F97316;
+            --color-text: #1E293B;
+            --color-highlight: #FBBF24;
+            --font-serif: &quot;Noto Serif SC&quot;, &quot;Songti SC&quot;, serif;
+            --font-sans: &quot;Noto Sans SC&quot;, &quot;PingFang SC&quot;, sans-serif;
+            
+            /* Chart Palette */
+            --chart-color-1: #2563EB;
+            --chart-color-2: #F97316;
+            --chart-color-3: #4ADE80;
+            --chart-color-4: #8B5CF6;
+            --chart-color-5: #EC4899;
+            --chart-color-6: #0D9488;
+        }
+
+        /* 2. 基础布局框架 */
+        body {
+            margin: 0;
+            font-family: var(--font-sans);
+            background-color: #f0f0f0;
+        }
+
+        .slide-container {
+            width: 1280px;
+            height: 720px;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            background-color: #F8FAFC;
+            overflow: hidden;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        
+        /* 3. 辅助样式 */
+        .title {
+            font-family: var(--font-serif);
+        }
+        .header-line {
+            width: 150px; /* Adapts to title length */
+            height: 3px;
+            background-color: #F97316;
+            margin-top: 0.5rem;
+        }
+        </style>
+    </head>
+    <body>
+        
+            <div class=&quot;slide-container&quot; id=&quot;slide-container&quot;>
+                <!-- Top decorative bar -->
+                <div class=&quot;absolute top-0 left-0 h-2 w-full bg-gradient-to-r from-[#2563EB] to-[#F97316]&quot;>
+                </div>
+                <header class=&quot;slide-header px-12 pt-10 pb-4&quot;>
+                    <h1 class=&quot;title text-4xl font-black&quot; style=&quot;color: #1E293B;&quot;>
+                        AI发展现状概览
+                    </h1>
+                    <div class=&quot;header-line&quot;>
+                    </div>
+                </header>
+                <main class=&quot;slide-content flex-grow min-h-0 flex items-center px-12 py-4 gap-8&quot;>
+                    <!-- Left Content: Text Blocks -->
+                    <div class=&quot;w-5/12 flex flex-col justify-center gap-10&quot;>
+                        <div>
+                            <h2 class=&quot;text-2xl font-bold flex items-center mb-4&quot; style=&quot;color: #2563EB;&quot;>
+                                <i class=&quot;fas fa-globe-asia fa-fw mr-3 text-2xl&quot;>
+                                </i>
+                                全球渗透与区域领先
+                            </h2>
+                            <ul class=&quot;space-y-3 text-lg&quot; style=&quot;color: #1E293B;&quot;>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-chart-pie text-xl mt-1 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <p>
+                                        全球
+                                        <span class=&quot;font-semibold&quot; style=&quot;color: #2563EB;&quot;>
+                                            88%
+                                        </span>
+                                        企业已应用AI，但仅
+                                        <span class=&quot;font-semibold&quot; style=&quot;color: #2563EB;&quot;>
+                                            39%
+                                        </span>
+                                        实现明确财务回报
+                                    </p>
+                                </li>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-flag text-xl mt-1 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <p>
+                                        中国
+                                        <span class=&quot;font-semibold&quot; style=&quot;color: #2563EB;&quot;>
+                                            45%
+                                        </span>
+                                        企业实现AI规模化部署，显著超越全球平均水平
+                                    </p>
+                                </li>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-robot text-xl mt-1 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <p>
+                                        高达
+                                        <span class=&quot;font-semibold&quot; style=&quot;color: #2563EB;&quot;>
+                                            83%
+                                        </span>
+                                        的中国企业已将生成式AI融入日常运营
+                                    </p>
+                                </li>
+                            </ul>
+                        </div>
+                        <div>
+                            <h2 class=&quot;text-2xl font-bold flex items-center mb-4&quot; style=&quot;color: #2563EB;&quot;>
+                                <i class=&quot;fas fa-microchip fa-fw mr-3 text-2xl&quot;>
+                                </i>
+                                技术趋势加速落地
+                            </h2>
+                            <ul class=&quot;space-y-3 text-lg&quot; style=&quot;color: #1E293B;&quot;>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-brain text-xl mt-1 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <p>
+                                        智能体成核心，
+                                        <span class=&quot;font-semibold&quot; style=&quot;color: #2563EB;&quot;>
+                                            81%
+                                        </span>
+                                        企业计划在2026年前完成部署
+                                    </p>
+                                </li>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-server text-xl mt-1 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <p>
+                                        边缘AI硬件渗透率预计在2026年接近
+                                        <span class=&quot;font-semibold&quot; style=&quot;color: #2563EB;&quot;>
+                                            20%
+                                        </span>
+                                    </p>
+                                </li>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-sitemap text-xl mt-1 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <p>
+                                        多智能体系统正推动复杂业务流程的深度自动化
+                                    </p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- Right Content: Chart -->
+                    <div class=&quot;w-7/12 h-full flex flex-col justify-center items-center pl-6&quot;>
+                        <div class=&quot;w-full h-[450px]&quot; id=&quot;main-chart&quot;>
+                        </div>
+                        <h3 class=&quot;text-base font-semibold text-center -mt-2&quot; style=&quot;color: #1E293B;&quot;>
+                            图表：2025年中国企业AI应用关键指标
+                        </h3>
+                    </div>
+                </main>
+                <footer class=&quot;absolute bottom-5 right-10 text-sm font-light&quot; style=&quot;color: #2563EB;&quot;>
+                    <p>
+                        3 / 13
+                    </p>
+                </footer>
+                <!-- Bottom decorative bar -->
+                <div class=&quot;absolute bottom-0 left-0 h-2 w-full bg-gradient-to-r from-[#F97316] to-[#2563EB]&quot;>
+                </div>
+            </div>
+        </div>
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+            const chartDom = document.getElementById('main-chart');
+            const myChart = echarts.init(chartDom);
+            
+            // 从CSS变量获取颜色
+            const computedStyle = getComputedStyle(document.documentElement);
+            const textColor = '#1E293B';
+            const chartColor1 = '#2563EB';
+
+            const option = {
+                tooltip: {
+                    trigger: 'axis',
+                    axisPointer: {
+                        type: 'shadow'
+                    },
+                    formatter: '{b}: {c}%'
+                },
+                grid: {
+                    left: '3%',
+                    right: '10%',
+                    bottom: '3%',
+                    top: '10%',
+                    containLabel: true
+                },
+                xAxis: {
+                    type: 'value',
+                    boundaryGap: [0, 0.01],
+                    axisLabel: {
+                        formatter: '{value}%',
+                        color: textColor,
+                        fontFamily: 'var(--font-sans)',
+                    },
+                     splitLine: {
+                        show: true,
+                        lineStyle: {
+                            color: '#e0e6f1',
+                            type: 'dashed'
+                        }
+                    }
+                },
+                yAxis: {
+                    type: 'category',
+                    data: ['规模化或全面部署', '常态化使用生成式AI', '企业AI嵌入经营环节'],
+                    axisLabel: {
+                        color: textColor,
+                        fontSize: 14,
+                        fontFamily: 'var(--font-sans)',
+                    },
+                    axisTick: {
+                        alignWithLabel: true
+                    }
+                },
+                series: [
+                    {
+                        name: '比例',
+                        type: 'bar',
+                        barWidth: 30,
+                        data: [45, 83, 89.84],
+                        itemStyle: {
+                            color: chartColor1,
+                            borderRadius: [0, 5, 5, 0]
+                        },
+                        label: {
+                            show: true,
+                            position: 'right',
+                            formatter: '{c}%',
+                            color: textColor,
+                            fontSize: 14,
+                            fontWeight: 'bold'
+                        }
+                    }
+                ]
+            };
+
+            myChart.setOption(option);
+            
+            window.addEventListener('resize', function() {
+                myChart.resize();
+            });
+        });
+        </script>
+    </body>
+</html>
+"></iframe>
+    </div>
+    <div class="ppt_page_iframe_content">
+      <iframe class="ppt_page_iframe" srcdoc="<!DOCTYPE html>
+<html lang=&quot;zh-CN&quot;>
+    <head>
+        <meta charset=&quot;utf-8&quot;/>
+        <meta content=&quot;width=device-width, initial-scale=1.0&quot; name=&quot;viewport&quot;/>
+        <title>
+            制造业自动化影响
+        </title>
+        <link href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css&quot; rel=&quot;stylesheet&quot;/>
+        <script src=&quot;https://image.uc.cn/s/uae/g/3n/mos-production/0915/3.4.17.js&quot;>
+        </script>
+        <style>
+            /* 1. 主题与颜色变量 */
+        :root {
+            --color-background: #F8FAFC;
+            --color-primary: #2563EB;
+            --color-accent: #F97316;
+            --color-text: #1E293B;
+            --color-highlight: #FBBF24;
+            --color-text-on-dark: #F8FAFC;
+            --font-serif: &quot;Noto Serif SC&quot;, &quot;Songti SC&quot;, serif;
+            --font-sans: &quot;Noto Sans SC&quot;, &quot;PingFang SC&quot;, sans-serif;
+        }
+
+        /* 2. 基础布局框架 */
+        body {
+            margin: 0;
+            font-family: var(--font-sans);
+            background-color: #f0f0f0;
+        }
+
+        .slide-container {
+            width: 1280px;
+            height: 720px;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            background-color: #F8FAFC;
+            overflow: hidden;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        
+        /* 3. 辅助样式 */
+        .title {
+            font-family: var(--font-serif);
+        }
+        
+        .content-card {
+            background-color: rgba(30, 41, 59, 0.5); /* Semi-transparent dark slate */
+            border-left: 4px solid;
+            backdrop-filter: blur(8px);
+        }
+        </style>
+    </head>
+    <body>
+        
+            <div class=&quot;slide-container&quot; id=&quot;slide-container&quot;>
+                <!-- Background Image -->
+                <div class=&quot;absolute inset-0 z-0&quot;>
+                    <img alt=&quot;等距插画风格的现代智能工厂场景&quot; class=&quot;w-full h-full object-cover&quot; src=&quot;https://agent.qianwen.com/mos/aae332748b5c43be9dae3e5e42ace621/ebebc3c5db1e592bac14538bac715536&quot;/>
+                </div>
+                <!-- Gradient Overlay for Text Readability -->
+                <div class=&quot;absolute inset-0 z-10 bg-gradient-to-r from-slate-900/60 via-slate-900/20 to-transparent&quot;>
+                </div>
+                <!-- Top decorative bar -->
+                <div class=&quot;absolute top-0 left-0 h-2 w-full bg-gradient-to-r from-[#2563EB] to-[#F97316] z-30&quot;>
+                </div>
+                <!-- Main Content -->
+                <main class=&quot;relative z-20 flex flex-col justify-center h-full w-full px-16 py-12&quot;>
+                    <div class=&quot;w-2/5 space-y-8&quot;>
+                        <!-- Title Section -->
+                        <div>
+                            <h1 class=&quot;title text-4xl font-black text-white&quot;>
+                                制造业自动化影响
+                            </h1>
+                            <div class=&quot;mt-4 h-1 w-24 bg-[#F97316]&quot;>
+                            </div>
+                        </div>
+                        <!-- Content Cards -->
+                        <div class=&quot;space-y-6&quot;>
+                            <!-- Card 1: Job Replacement -->
+                            <div class=&quot;content-card p-6 rounded-lg border-[#FBBF24]&quot;>
+                                <div class=&quot;flex items-start gap-4&quot;>
+                                    <i class=&quot;fa-solid fa-arrow-down-trend-up text-3xl text-[#FBBF24] mt-1&quot;>
+                                    </i>
+                                    <div>
+                                        <h2 class=&quot;text-2xl font-bold text-white mb-2&quot;>
+                                            岗位替代
+                                        </h2>
+                                        <p class=&quot;text-xl text-slate-200&quot;>
+                                            流水线工人、质检员等岗位替代率超
+                                            <span class=&quot;text-4xl font-black text-[#FBBF24]&quot;>
+                                                70%
+                                            </span>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Card 2: Job Creation -->
+                            <div class=&quot;content-card p-6 rounded-lg border-[#F97316]&quot;>
+                                <div class=&quot;flex items-start gap-4&quot;>
+                                    <i class=&quot;fa-solid fa-microchip text-3xl text-[#F97316] mt-1&quot;>
+                                    </i>
+                                    <div>
+                                        <h2 class=&quot;text-2xl font-bold text-white mb-2&quot;>
+                                            角色新生
+                                        </h2>
+                                        <p class=&quot;text-xl text-slate-200&quot;>
+                                            催生
+                                            <span class=&quot;font-semibold text-white&quot;>
+                                                运维工程师
+                                            </span>
+                                            、
+                                            <span class=&quot;font-semibold text-white&quot;>
+                                                人机协作调度
+                                            </span>
+                                            等新角色
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </main>
+                <!-- Footer -->
+                <footer class=&quot;absolute bottom-5 right-10 text-sm font-light z-20 text-slate-300&quot;>
+                    <p>
+                        4 / 13
+                    </p>
+                </footer>
+                <!-- Bottom decorative bar -->
+                <div class=&quot;absolute bottom-0 left-0 h-2 w-full bg-gradient-to-r from-[#F97316] to-[#2563EB] z-30&quot;>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+"></iframe>
+    </div>
+    <div class="ppt_page_iframe_content">
+      <iframe class="ppt_page_iframe" srcdoc="<!DOCTYPE html>
+<html lang=&quot;zh-CN&quot;>
+    <head>
+        <meta charset=&quot;utf-8&quot;/>
+        <meta content=&quot;width=device-width, initial-scale=1.0&quot; name=&quot;viewport&quot;/>
+        <title>
+            服务业自动化影响
+        </title>
+        <link href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css&quot; rel=&quot;stylesheet&quot;/>
+        <script src=&quot;https://image.uc.cn/s/uae/g/3n/mos-production/0915/3.4.17.js&quot;>
+        </script>
+        <script src=&quot;https://image.uc.cn/s/uae/g/3n/mos-production/0915/echarts.min.js&quot;>
+        </script>
+        <style>
+            /* 1. 主题与颜色变量 */
+        :root {
+            --color-background: #F8FAFC;
+            --color-primary: #2563EB;
+            --color-accent: #F97316;
+            --color-text: #1E293B;
+            --color-highlight: #FBBF24;
+            --font-serif: &quot;Noto Serif SC&quot;, &quot;Songti SC&quot;, serif;
+            --font-sans: &quot;Noto Sans SC&quot;, &quot;PingFang SC&quot;, sans-serif;
+            
+            /* Chart Palette */
+            --chart-color-1: #2563EB;
+            --chart-color-2: #F97316;
+        }
+
+        /* 2. 基础布局框架 */
+        body {
+            margin: 0;
+            font-family: var(--font-sans);
+            background-color: #f0f0f0;
+        }
+
+        .slide-container {
+            width: 1280px;
+            height: 720px;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            background-color: #F8FAFC;
+            overflow: hidden;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        
+        /* 3. 辅助样式 */
+        .title {
+            font-family: var(--font-serif);
+        }
+        .header-line {
+            width: 150px; /* Adapts to title length */
+            height: 3px;
+            background-color: #F97316;
+            margin-top: 0.5rem;
+        }
+        </style>
+    </head>
+    <body>
+        
+            <div class=&quot;slide-container&quot; id=&quot;slide-container&quot;>
+                <!-- Top decorative bar -->
+                <div class=&quot;absolute top-0 left-0 h-2 w-full bg-gradient-to-r from-[#2563EB] to-[#F97316] z-10&quot;>
+                </div>
+                <header class=&quot;slide-header px-12 pt-10 pb-4&quot;>
+                    <h1 class=&quot;title text-4xl font-black&quot; style=&quot;color: #1E293B;&quot;>
+                        服务业自动化影响
+                    </h1>
+                    <div class=&quot;header-line&quot;>
+                    </div>
+                </header>
+                <main class=&quot;slide-content flex-grow min-h-0 flex px-12 pb-4 pt-2&quot;>
+                    <div class=&quot;grid grid-cols-12 gap-x-8 w-full h-full items-center&quot;>
+                        <!-- Left Column: Text Content -->
+                        <div class=&quot;col-span-7 flex flex-col justify-center gap-y-10 h-full&quot;>
+                            <div class=&quot;bg-white p-4 rounded-lg&quot;>
+                                <h2 class=&quot;text-2xl font-bold flex items-center mb-4&quot; style=&quot;color: #2563EB;&quot;>
+                                    <i class=&quot;fa-solid fa-arrow-trend-down fa-fw mr-3 text-2xl&quot;>
+                                    </i>
+                                    岗位替代趋势
+                                </h2>
+                                <ul class=&quot;space-y-4 text-lg&quot; style=&quot;color: #1E293B;&quot;>
+                                    <li class=&quot;flex items-start&quot;>
+                                        <i class=&quot;fa-solid fa-cogs text-xl mt-1 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                        </i>
+                                        <p>
+                                            AI优先替代规则明确、流程重复的标准化岗位
+                                        </p>
+                                    </li>
+                                    <li class=&quot;flex items-start&quot;>
+                                        <i class=&quot;fa-solid fa-headset text-xl mt-1 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                        </i>
+                                        <p>
+                                            客服、电销、柜员等基础岗位加速重构
+                                        </p>
+                                    </li>
+                                    <li class=&quot;flex items-start&quot;>
+                                        <i class=&quot;fa-solid fa-users-slash text-xl mt-1 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                        </i>
+                                        <p>
+                                            岗位净减少，但技术支持与开发等岗位同步新增
+                                        </p>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class=&quot;bg-blue-50/50 p-4 rounded-lg border-l-4 border-[#2563EB]&quot;>
+                                <h2 class=&quot;text-2xl font-bold flex items-center mb-4&quot; style=&quot;color: #2563EB;&quot;>
+                                    <i class=&quot;fa-solid fa-arrow-trend-up fa-fw mr-3 text-2xl&quot;>
+                                    </i>
+                                    转型方向
+                                </h2>
+                                <ul class=&quot;space-y-4 text-lg&quot; style=&quot;color: #1E293B;&quot;>
+                                    <li class=&quot;flex items-start&quot;>
+                                        <i class=&quot;fa-solid fa-user-tie text-xl mt-1 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                        </i>
+                                        <p>
+                                            人力将聚焦于处理复杂投诉与维系高价值客户
+                                        </p>
+                                    </li>
+                                    <li class=&quot;flex items-start&quot;>
+                                        <i class=&quot;fa-solid fa-palette text-xl mt-1 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                        </i>
+                                        <p>
+                                            向体验设计与复杂交互管理等高阶服务升级
+                                        </p>
+                                    </li>
+                                    <li class=&quot;flex items-start&quot;>
+                                        <i class=&quot;fa-solid fa-people-arrows text-xl mt-1 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                        </i>
+                                        <p>
+                                            人机协同模式成为主流，提升服务效率与质量
+                                        </p>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- Right Column: Chart -->
+                        <div class=&quot;col-span-5 flex flex-col justify-center h-full&quot;>
+                            <div class=&quot;w-full h-[400px]&quot; id=&quot;service-chart&quot;>
+                            </div>
+                            <h3 class=&quot;text-base font-semibold text-center -mt-2&quot; style=&quot;color: #1E293B;&quot;>
+                                图表：服务业主要岗位AI替代率
+                            </h3>
+                        </div>
+                    </div>
+                </main>
+                <footer class=&quot;absolute bottom-5 right-10 text-sm font-light z-10&quot; style=&quot;color: #2563EB;&quot;>
+                    <p>
+                        5 / 13
+                    </p>
+                </footer>
+                <!-- Bottom decorative bar -->
+                <div class=&quot;absolute bottom-0 left-0 h-2 w-full bg-gradient-to-r from-[#F97316] to-[#2563EB] z-10&quot;>
+                </div>
+            </div>
+        </div>
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+            const chartDom = document.getElementById('service-chart');
+            const myChart = echarts.init(chartDom);
+            
+            const computedStyle = getComputedStyle(document.documentElement);
+            const textColor = '#1E293B';
+            const primaryColor = '#2563EB';
+
+            const option = {
+                tooltip: {
+                    trigger: 'axis',
+                    axisPointer: {
+                        type: 'shadow'
+                    },
+                    formatter: '{b}: {c}%'
+                },
+                grid: {
+                    left: '5%',
+                    right: '15%',
+                    bottom: '5%',
+                    top: '5%',
+                    containLabel: true
+                },
+                xAxis: {
+                    type: 'value',
+                    axisLabel: {
+                        formatter: '{value}%',
+                        color: textColor,
+                        fontFamily: 'var(--font-sans)',
+                    },
+                    splitLine: {
+                        show: true,
+                        lineStyle: {
+                            color: '#e0e6f1',
+                            type: 'dashed'
+                        }
+                    }
+                },
+                yAxis: {
+                    type: 'category',
+                    data: ['银行基础柜员', '电话销售员', '基础客服'],
+                    axisLabel: {
+                        color: textColor,
+                        fontSize: 16,
+                        fontFamily: 'var(--font-sans)',
+                    },
+                    axisTick: { show: false },
+                    inverse: true
+                },
+                series: [{
+                    name: '替代率',
+                    type: 'bar',
+                    barWidth: 40,
+                    data: [70, 75, 80],
+                    itemStyle: {
+                        color: new echarts.graphic.LinearGradient(0, 0, 1, 0, [
+                            { offset: 0, color: '#818cf8' },
+                            { offset: 1, color: primaryColor }
+                        ]),
+                        borderRadius: [0, 8, 8, 0]
+                    },
+                    label: {
+                        show: true,
+                        position: 'right',
+                        formatter: '{c}%',
+                        color: textColor,
+                        fontSize: 16,
+                        fontWeight: 'bold'
+                    }
+                }]
+            };
+
+            myChart.setOption(option);
+            
+            window.addEventListener('resize', function() {
+                myChart.resize();
+            });
+        });
+        </script>
+    </body>
+</html>
+"></iframe>
+    </div>
+    <div class="ppt_page_iframe_content">
+      <iframe class="ppt_page_iframe" srcdoc="<!DOCTYPE html>
+<html lang=&quot;zh-CN&quot;>
+    <head>
+        <meta charset=&quot;utf-8&quot;/>
+        <meta content=&quot;width=device-width, initial-scale=1.0&quot; name=&quot;viewport&quot;/>
+        <title>
+            高风险流失岗位分析
+        </title>
+        <link href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css&quot; rel=&quot;stylesheet&quot;/>
+        <script src=&quot;https://image.uc.cn/s/uae/g/3n/mos-production/0915/3.4.17.js&quot;>
+        </script>
+        <style>
+            /* 1. 主题与颜色变量 */
+        :root {
+            --color-background: #F8FAFC;
+            --color-primary: #2563EB;
+            --color-accent: #F97316;
+            --color-text: #1E293B;
+            --color-highlight: #FBBF24;
+            --font-serif: &quot;Noto Serif SC&quot;, &quot;Songti SC&quot;, serif;
+            --font-sans: &quot;Noto Sans SC&quot;, &quot;PingFang SC&quot;, sans-serif;
+        }
+
+        /* 2. 基础布局框架 */
+        body {
+            margin: 0;
+            font-family: var(--font-sans);
+            background-color: #f0f0f0;
+        }
+
+        .slide-container {
+            width: 1280px;
+            height: 720px;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            background-color: #F8FAFC;
+            overflow: hidden;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        
+        /* 3. 辅助样式 */
+        .title {
+            font-family: var(--font-serif);
+        }
+
+        .header-line {
+            width: 150px;
+            height: 3px;
+            background-color: #F97316;
+            margin-top: 0.5rem;
+        }
+        </style>
+    </head>
+    <body>
+        
+            <div class=&quot;slide-container&quot; id=&quot;slide-container&quot;>
+                <!-- Top decorative bar -->
+                <div class=&quot;absolute top-0 left-0 h-2 w-full bg-gradient-to-r from-[#2563EB] to-[#F97316] z-20&quot;>
+                </div>
+                <!-- Background decorative element -->
+                <div class=&quot;absolute inset-0 flex justify-center items-center z-0&quot;>
+                    <i class=&quot;fa-solid fa-triangle-exclamation text-blue-100/50&quot; style=&quot;font-size: 28rem; transform: rotate(-15deg);&quot;>
+                    </i>
+                </div>
+                <header class=&quot;slide-header px-12 pt-10 pb-4 z-10&quot;>
+                    <h1 class=&quot;title text-4xl font-black&quot; style=&quot;color: #1E293B;&quot;>
+                        高风险流失岗位分析
+                    </h1>
+                    <div class=&quot;header-line&quot;>
+                    </div>
+                </header>
+                <main class=&quot;slide-content flex-grow min-h-0 flex flex-col justify-center px-12 py-4 gap-6 z-10&quot;>
+                    <!-- 岗位特征 -->
+                    <div class=&quot;bg-white/80 backdrop-blur-sm rounded-xl shadow-sm p-4 flex items-center gap-6&quot;>
+                        <div class=&quot;flex-shrink-0 text-center w-24&quot;>
+                            <i class=&quot;fa-solid fa-list-check text-4xl mb-1&quot; style=&quot;color: #2563EB;&quot;>
+                            </i>
+                            <h2 class=&quot;text-xl font-bold&quot; style=&quot;color: #1E293B;&quot;>
+                                岗位特征
+                            </h2>
+                        </div>
+                        <div class=&quot;w-px self-stretch bg-slate-200&quot;>
+                        </div>
+                        <div class=&quot;flex-grow text-lg space-y-1&quot; style=&quot;color: #1E293B;&quot;>
+                            <p>
+                                <strong>
+                                    核心特点：
+                                </strong>
+                                规则明确、流程重复、标准化程度高
+                            </p>
+                            <p>
+                                <strong>
+                                    技能需求：
+                                </strong>
+                                主要集中于中等技能的重复性工作
+                            </p>
+                        </div>
+                    </div>
+                    <!-- 高风险岗位分类 -->
+                    <div class=&quot;flex-grow flex flex-col min-h-0&quot;>
+                        <div class=&quot;grid grid-cols-3 gap-6 flex-grow min-h-0&quot;>
+                            <!-- 行政与文职类 -->
+                            <div class=&quot;bg-white/80 backdrop-blur-sm rounded-xl shadow-lg flex flex-col p-4 border-t-4&quot; style=&quot;border-color: #2563EB;&quot;>
+                                <div class=&quot;flex items-center gap-3 mb-3&quot;>
+                                    <i class=&quot;fa-solid fa-pen-ruler text-2xl&quot; style=&quot;color: #2563EB;&quot;>
+                                    </i>
+                                    <h3 class=&quot;text-2xl font-bold&quot; style=&quot;color: #2563EB;&quot;>
+                                        行政与文职类
+                                    </h3>
+                                </div>
+                                <p class=&quot;text-base flex-grow&quot; style=&quot;color: #1E293B;&quot;>
+                                    数据录入员 · 文书助理 · 行政助理 · 传统银行出纳 · 初级会计 · 客服代表
+                                </p>
+                            </div>
+                            <!-- 技术与内容类 -->
+                            <div class=&quot;bg-white/80 backdrop-blur-sm rounded-xl shadow-lg flex flex-col p-4 border-t-4&quot; style=&quot;border-color: #F97316;&quot;>
+                                <div class=&quot;flex items-center gap-3 mb-3&quot;>
+                                    <i class=&quot;fa-solid fa-code text-2xl&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <h3 class=&quot;text-2xl font-bold&quot; style=&quot;color: #F97316;&quot;>
+                                        技术与内容类
+                                    </h3>
+                                </div>
+                                <p class=&quot;text-base flex-grow&quot; style=&quot;color: #1E293B;&quot;>
+                                    初级程序员 · 软件工程师 · 基础法务助理 · 初级律师 · 文案 · 编辑 · 设计师
+                                </p>
+                            </div>
+                            <!-- 制造与服务类 -->
+                            <div class=&quot;bg-white/80 backdrop-blur-sm rounded-xl shadow-lg flex flex-col p-4 border-t-4&quot; style=&quot;border-color: #FBBF24;&quot;>
+                                <div class=&quot;flex items-center gap-3 mb-3&quot;>
+                                    <i class=&quot;fa-solid fa-truck-fast text-2xl&quot; style=&quot;color: #FBBF24;&quot;>
+                                    </i>
+                                    <h3 class=&quot;text-2xl font-bold&quot; style=&quot;color: #FBBF24;&quot;>
+                                        制造与服务类
+                                    </h3>
+                                </div>
+                                <p class=&quot;text-base flex-grow&quot; style=&quot;color: #1E293B;&quot;>
+                                    制造业流水线工人 · 质检员 · 分拣员 · 卡车司机
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 重构趋势 -->
+                    <div class=&quot;bg-white/80 backdrop-blur-sm rounded-xl shadow-sm p-4 flex items-center gap-6&quot;>
+                        <div class=&quot;flex-shrink-0 text-center w-24&quot;>
+                            <i class=&quot;fa-solid fa-arrows-rotate text-4xl mb-1&quot; style=&quot;color: #2563EB;&quot;>
+                            </i>
+                            <h2 class=&quot;text-xl font-bold&quot; style=&quot;color: #1E293B;&quot;>
+                                重构趋势
+                            </h2>
+                        </div>
+                        <div class=&quot;w-px self-stretch bg-slate-200&quot;>
+                        </div>
+                        <div class=&quot;flex-grow text-lg space-y-1&quot; style=&quot;color: #1E293B;&quot;>
+                            <p>
+                                <strong>
+                                    演变路径：
+                                </strong>
+                                岗位面临重塑而非全岗消失
+                            </p>
+                            <p>
+                                <strong>
+                                    核心模式：
+                                </strong>
+                                普遍表现为“岗位重构 + 人力精简”
+                            </p>
+                        </div>
+                    </div>
+                </main>
+                <footer class=&quot;absolute bottom-5 right-10 text-sm font-light z-10&quot; style=&quot;color: #2563EB;&quot;>
+                    <p>
+                        6 / 13
+                    </p>
+                </footer>
+                <!-- Bottom decorative bar -->
+                <div class=&quot;absolute bottom-0 left-0 h-2 w-full bg-gradient-to-r from-[#F97316] to-[#2563EB] z-20&quot;>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+"></iframe>
+    </div>
+    <div class="ppt_page_iframe_content">
+      <iframe class="ppt_page_iframe" srcdoc="<!DOCTYPE html>
+<html lang=&quot;zh-CN&quot;>
+    <head>
+        <meta charset=&quot;utf-8&quot;/>
+        <meta content=&quot;width=device-width, initial-scale=1.0&quot; name=&quot;viewport&quot;/>
+        <title>
+            新兴职位类型涌现
+        </title>
+        <link href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css&quot; rel=&quot;stylesheet&quot;/>
+        <script src=&quot;https://image.uc.cn/s/uae/g/3n/mos-production/0915/3.4.17.js&quot;>
+        </script>
+        <style>
+            /* 1. 主题与颜色变量 */
+        :root {
+            --color-background: #F8FAFC;
+            --color-primary: #2563EB;
+            --color-accent: #F97316;
+            --color-text: #1E293B;
+            --color-highlight: #FBBF24;
+            --font-serif: &quot;Noto Serif SC&quot;, &quot;Songti SC&quot;, serif;
+            --font-sans: &quot;Noto Sans SC&quot;, &quot;PingFang SC&quot;, sans-serif;
+        }
+
+        /* 2. 基础布局框架 */
+        body {
+            margin: 0;
+            font-family: var(--font-sans);
+            background-color: #f0f0f0;
+        }
+
+        .slide-container {
+            width: 1280px;
+            height: 720px;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            background-color: #F8FAFC;
+            overflow: hidden;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        
+        /* 3. 辅助与特定页面样式 */
+        .title {
+            font-family: var(--font-serif);
+        }
+        
+        .header-line {
+            width: 150px;
+            height: 3px;
+            background-color: #F97316;
+            margin-top: 0.5rem;
+        }
+
+        /* 自定义表格样式 */
+        .content-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 16px; /* text-base */
+        }
+        .content-table th, .content-table td {
+            padding: 10px 12px;
+            text-align: left;
+            vertical-align: top;
+            border-bottom: 1px solid #E2E8F0; /* slate-200 */
+        }
+        .content-table th {
+            background-color: #2563EB;
+            color: white;
+            font-weight: 700; /* font-bold */
+            font-size: 18px; /* text-lg */
+        }
+        .content-table tr:nth-child(even) td {
+             background-color: #f1f5f9; /* slate-100 */
+        }
+        .content-table td:first-child {
+            font-weight: 600; /* font-semibold */
+            color: #2563EB;
+            min-width: 120px;
+        }
+        
+        .content-table ul {
+            list-style-position: inside;
+            padding-left: 0;
+            margin: 0;
+        }
+
+        .content-table li {
+            margin-bottom: 4px;
+        }
+        </style>
+    </head>
+    <body>
+        
+            <div class=&quot;slide-container&quot; id=&quot;slide-container&quot;>
+                <!-- Top decorative bar -->
+                <div class=&quot;absolute top-0 left-0 h-2 w-full bg-gradient-to-r from-[#2563EB] to-[#F97316] z-20&quot;>
+                </div>
+                <header class=&quot;slide-header px-12 pt-10 pb-4&quot;>
+                    <h1 class=&quot;title text-4xl font-black&quot; style=&quot;color: #1E293B;&quot;>
+                        新兴职位类型涌现
+                    </h1>
+                    <div class=&quot;header-line&quot;>
+                    </div>
+                </header>
+                <main class=&quot;slide-content flex-grow min-h-0 flex px-12 py-4 gap-x-8&quot;>
+                    <!-- Left Section: Table -->
+                    <div class=&quot;w-[65%] flex flex-col justify-center&quot;>
+                        <div class=&quot;overflow-y-auto pr-2&quot;>
+                            <table class=&quot;content-table&quot;>
+                                <thead>
+                                    <tr>
+                                        <th>
+                                            岗位类别
+                                        </th>
+                                        <th>
+                                            具体岗位示例
+                                        </th>
+                                        <th>
+                                            国家认证/政策支持
+                                        </th>
+                                        <th>
+                                            扩张情况与需求
+                                        </th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>
+                                            技术支撑类
+                                        </td>
+                                        <td>
+                                            大模型算法工程师、AI训练师、人工智能训练师、AI运维工程师、机器人系统工程师
+                                        </td>
+                                        <td>
+                                            AI训练师2020年纳入国家职业分类目录；2024年人社部新增“生成式人工智能系统应用员”
+                                        </td>
+                                        <td>
+                                            2025年AI训练师招聘需求同比增长592%，人才缺口达80万人
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            应用融合类
+                                        </td>
+                                        <td>
+                                            智能影像艺术师、AI教育设计师、数字演艺设计师、AI内容策划师、提示词工程师
+                                        </td>
+                                        <td>
+                                            人社部2025年5月拟新增“生成式人工智能动画制作员”等新工种
+                                        </td>
+                                        <td>
+                                            广东、浙江已将AI训练师纳入紧缺工种目录
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            治理与合规类
+                                        </td>
+                                        <td>
+                                            AI伦理顾问、算法审计员、数据合规官、模型监控专家、AI合规顾问
+                                        </td>
+                                        <td>
+                                            《算法推荐管理规定》要求企业配置算法合规人员；欧盟《AI法案》催生合规岗位
+                                        </td>
+                                        <td>
+                                            岗位数量年增200%，预计2030年全球需200万AI伦理顾问，中国占比超30%
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            人机协同类
+                                        </td>
+                                        <td>
+                                            AI客服审校、AI招聘助理、智能设备辅助操作工、人机协作培训师
+                                        </td>
+                                        <td>
+                                            国家推动“人工智能+”行动，支持人机协同新就业形态
+                                        </td>
+                                        <td>
+                                            阿里巴巴生态已培养20万名持证AI训练师
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <!-- Right Section: Image & Info -->
+                    <div class=&quot;w-[35%] flex flex-col justify-center items-center pl-4&quot;>
+                        <div class=&quot;image-container flex items-center justify-center rounded-lg&quot; style=&quot;max-width: 400px; max-height: 225px; min-height: 0; max-width: 100%; max-height: 100%; overflow: hidden;&quot;>
+                            <img alt=&quot;未来科技办公室场景示意图&quot; class=&quot;w-full h-full object-cover&quot; src=&quot;https://agent.qianwen.com/mos/aae332748b5c43be9dae3e5e42ace621/d725e54550658bd5e58d2d407dd56478&quot; style=&quot;object-fit: cover;&quot;/>
+                        </div>
+                        <div class=&quot;mt-8 p-6 rounded-lg bg-blue-50 border-l-4 border-[#2563EB]&quot;>
+                            <h3 class=&quot;text-xl font-bold mb-3&quot; style=&quot;color: #2563EB;&quot;>
+                                AI催生新职业浪潮
+                            </h3>
+                            <p class=&quot;text-lg&quot; style=&quot;color: #1E293B;&quot;>
+                                随着AI技术与产业深度融合，全新的职位生态正在形成。这些岗位不仅要求技术能力，更强调
+                                <strong class=&quot;font-semibold&quot; style=&quot;color:#F97316&quot;>
+                                    跨界融合、人机协作与伦理治理
+                                </strong>
+                                ，预示着未来职场对复合型人才的迫切需求
+                            </p>
+                        </div>
+                    </div>
+                </main>
+                <footer class=&quot;absolute bottom-5 right-10 text-sm font-light z-20&quot; style=&quot;color: #2563EB;&quot;>
+                    <p>
+                        7 / 13
+                    </p>
+                </footer>
+                <!-- Bottom decorative bar -->
+                <div class=&quot;absolute bottom-0 left-0 h-2 w-full bg-gradient-to-r from-[#F97316] to-[#2563EB] z-20&quot;>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+"></iframe>
+    </div>
+    <div class="ppt_page_iframe_content">
+      <iframe class="ppt_page_iframe" srcdoc="<!DOCTYPE html>
+<html lang=&quot;zh-CN&quot;>
+    <head>
+        <meta charset=&quot;utf-8&quot;/>
+        <meta content=&quot;width=device-width, initial-scale=1.0&quot; name=&quot;viewport&quot;/>
+        <title>
+            岗位替代与创造矩阵
+        </title>
+        <link href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css&quot; rel=&quot;stylesheet&quot;/>
+        <script src=&quot;https://image.uc.cn/s/uae/g/3n/mos-production/0915/3.4.17.js&quot;>
+        </script>
+        <script src=&quot;https://image.uc.cn/s/uae/g/3n/mos-production/0915/echarts.min.js&quot;>
+        </script>
+        <style>
+            /* 1. 主题与颜色变量 */
+        :root {
+            --color-background: #F8FAFC;
+            --color-primary: #2563EB;
+            --color-accent: #F97316;
+            --color-text: #1E293B;
+            --color-highlight: #FBBF24;
+            --font-serif: &quot;Noto Serif SC&quot;, &quot;Songti SC&quot;, serif;
+            --font-sans: &quot;Noto Sans SC&quot;, &quot;PingFang SC&quot;, sans-serif;
+            
+            /* Chart Palette */
+            --chart-color-1: #2563EB; /* 创造岗位 */
+            --chart-color-2: #F97316; /* 替代岗位 */
+        }
+
+        /* 2. 基础布局框架 */
+        body {
+            margin: 0;
+            font-family: var(--font-sans);
+            background-color: #f0f0f0;
+        }
+        .slide-container {
+            width: 1280px;
+            height: 720px;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            background-color: #F8FAFC;
+            overflow: hidden;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        
+        /* 3. 辅助样式 */
+        .title {
+            font-family: var(--font-serif);
+        }
+        .header-line {
+            width: 150px;
+            height: 3px;
+            background-color: #F97316;
+            margin-top: 0.5rem;
+        }
+        </style>
+    </head>
+    <body>
+        
+            <div class=&quot;slide-container&quot; id=&quot;slide-container&quot;>
+                <!-- Top decorative bar -->
+                <div class=&quot;absolute top-0 left-0 h-2 w-full bg-gradient-to-r from-[#2563EB] to-[#F97316] z-20&quot;>
+                </div>
+                <!-- Background decorative element -->
+                <div class=&quot;absolute -bottom-24 -left-24 text-gray-100 opacity-80 z-0&quot;>
+                    <i class=&quot;fa-solid fa-braille&quot; style=&quot;font-size: 32rem;&quot;>
+                    </i>
+                </div>
+                <header class=&quot;slide-header px-12 pt-10 pb-4 z-10&quot;>
+                    <h1 class=&quot;title text-4xl font-black&quot; style=&quot;color: #1E293B;&quot;>
+                        岗位替代与创造矩阵
+                    </h1>
+                    <div class=&quot;header-line&quot;>
+                    </div>
+                </header>
+                <main class=&quot;slide-content flex-grow min-h-0 relative px-12 py-4 z-10&quot;>
+                    <!-- Chart Area -->
+                    <div class=&quot;absolute left-10 top-1/2 -translate-y-1/2 w-[48%] h-[480px]&quot;>
+                        <div class=&quot;w-full h-full&quot; id=&quot;matrix-chart&quot;>
+                        </div>
+                    </div>
+                    <!-- Text Content Area -->
+                    <div class=&quot;absolute right-12 top-8 bottom-8 w-[45%] flex flex-col justify-center gap-6&quot;>
+                        <!-- Card 1: Creative Destruction -->
+                        <div class=&quot;bg-white/80 backdrop-blur-sm rounded-xl shadow-lg p-4 border border-gray-200&quot;>
+                            <h2 class=&quot;text-2xl font-bold flex items-center mb-3&quot; style=&quot;color: #2563EB;&quot;>
+                                <i class=&quot;fa-solid fa-arrows-spin fa-fw mr-3 text-2xl&quot;>
+                                </i>
+                                创造性破坏特征
+                            </h2>
+                            <ul class=&quot;space-y-2 text-lg text-slate-700&quot;>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-check text-base mt-1.5 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <p>
+                                        AI净增岗位体现“创造性破坏”，替代与创造同步进行
+                                    </p>
+                                </li>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-check text-base mt-1.5 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <p>
+                                        推动就业结构从重复性劳动向创造性、战略性角色持续升级
+                                    </p>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- Card 2: AI+ Transformation -->
+                        <div class=&quot;bg-white/80 backdrop-blur-sm rounded-xl shadow-lg p-4 border border-gray-200&quot;>
+                            <h2 class=&quot;text-2xl font-bold flex items-center mb-3&quot; style=&quot;color: #2563EB;&quot;>
+                                <i class=&quot;fa-solid fa-people-arrows fa-fw mr-3 text-2xl&quot;>
+                                </i>
+                                传统岗位AI+转型
+                            </h2>
+                            <ul class=&quot;space-y-2 text-lg text-slate-700&quot;>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-plus text-base mt-1.5 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <p>
+                                        <strong>
+                                            医疗:
+                                        </strong>
+                                        医生从常规诊断转向复杂病例专家
+                                    </p>
+                                </li>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-plus text-base mt-1.5 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <p>
+                                        <strong>
+                                            教育:
+                                        </strong>
+                                        教师从知识传授转向个性化育人与能力引导
+                                    </p>
+                                </li>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-plus text-base mt-1.5 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <p>
+                                        <strong>
+                                            制造:
+                                        </strong>
+                                        工程师从设备维护者成为智能产线设计师
+                                    </p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </main>
+                <footer class=&quot;absolute bottom-5 right-10 text-sm font-light z-10&quot; style=&quot;color: #2563EB;&quot;>
+                    <p>
+                        8 / 13
+                    </p>
+                </footer>
+                <!-- Bottom decorative bar -->
+                <div class=&quot;absolute bottom-0 left-0 h-2 w-full bg-gradient-to-r from-[#F97316] to-[#2563EB] z-20&quot;>
+                </div>
+            </div>
+        </div>
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+    const chartDom = document.getElementById('matrix-chart');
+    const myChart = echarts.init(chartDom);
+    
+    const computedStyle = getComputedStyle(document.documentElement);
+    const textColor = '#1E293B';
+    const colorCreate = '#2563EB';
+    const colorDisplace = '#F97316';
+
+    const option = {
+        title: {
+            text: '2030年AI岗位替代与创造规模',
+            subtext: '单位：万个',
+            left: 'center',
+            top: '5%',
+            textStyle: {
+                color: textColor,
+                fontSize: 18,
+                fontWeight: 'bold',
+                fontFamily: 'var(--font-sans)',
+            },
+            subtextStyle: {
+                color: textColor,
+                fontSize: 14,
+                fontFamily: 'var(--font-sans)',
+            }
+        },
+        tooltip: {
+            trigger: 'item',
+            formatter: '{b}: {c} 万个 ({d}%)'
+        },
+        legend: {
+            orient: 'horizontal',
+            left: 'center',
+            bottom: '5%',
+            data: ['创造岗位', '替代岗位'],
+            textStyle: {
+                color: textColor,
+                fontSize: 14,
+            }
+        },
+        series: [
+            {
+                name: '岗位变动',
+                type: 'pie',
+                radius: ['45%', '70%'],
+                center: ['50%', '55%'],
+                avoidLabelOverlap: true,
+                itemStyle: {
+                    borderRadius: 10,
+                    borderColor: '#F8FAFC',
+                    borderWidth: 4
+                },
+                label: {
+                    show: true,
+                    position: 'outer',
+                    formatter: '{b}\n{c}万',
+                    color: textColor,
+                    fontSize: 15,
+                    lineHeight: 22,
+                },
+                emphasis: {
+                    label: {
+                        show: true,
+                        fontSize: 18,
+                        fontWeight: 'bold'
+                    }
+                },
+                labelLine: {
+                    show: true,
+                    length: 15,
+                    length2: 15
+                },
+                data: [
+                    { value: 7800, name: '创造岗位', itemStyle: { color: colorCreate } },
+                    { value: 9200, name: '替代岗位', itemStyle: { color: colorDisplace } }
+                ]
+            }
+        ]
+    };
+
+    myChart.setOption(option);
+    
+    window.addEventListener('resize', function() {
+        myChart.resize();
+    });
+});
+        </script>
+    </body>
+</html>
+"></iframe>
+    </div>
+    <div class="ppt_page_iframe_content">
+      <iframe class="ppt_page_iframe" srcdoc="<!DOCTYPE html>
+<html lang=&quot;zh-CN&quot;>
+    <head>
+        <meta charset=&quot;utf-8&quot;/>
+        <meta content=&quot;width=device-width, initial-scale=1.0&quot; name=&quot;viewport&quot;/>
+        <title>
+            企业再培训成功模式
+        </title>
+        <link href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css&quot; rel=&quot;stylesheet&quot;/>
+        <script src=&quot;https://image.uc.cn/s/uae/g/3n/mos-production/0915/3.4.17.js&quot;>
+        </script>
+        <style>
+            /* 1. 主题与颜色变量 */
+        :root {
+            --color-background: #F8FAFC;
+            --color-primary: #2563EB;
+            --color-accent: #F97316;
+            --color-text: #1E293B;
+            --color-highlight: #FBBF24;
+            --color-card-bg: #FFFFFF;
+            --font-serif: &quot;Noto Serif SC&quot;, &quot;Songti SC&quot;, serif;
+            --font-sans: &quot;Noto Sans SC&quot;, &quot;PingFang SC&quot;, sans-serif;
+        }
+
+        /* 2. 基础布局框架 */
+        body {
+            margin: 0;
+            font-family: var(--font-sans);
+            background-color: #f0f0f0;
+        }
+
+        .slide-container {
+            width: 1280px;
+            height: 720px;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            background-color: #F8FAFC;
+            overflow: hidden;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        
+        /* 3. 辅助样式 */
+        .title {
+            font-family: var(--font-serif);
+        }
+        .header-line {
+            width: 150px;
+            height: 3px;
+            background-color: #F97316;
+            margin-top: 0.5rem;
+        }
+        .image-container {
+            min-height: 0;
+            max-width: 100%;
+            max-height: 100%;
+            overflow: hidden;
+        }
+        </style>
+    </head>
+    <body>
+        
+            <div class=&quot;slide-container&quot; id=&quot;slide-container&quot;>
+                <!-- Top decorative bar -->
+                <div class=&quot;absolute top-0 left-0 h-2 w-full bg-gradient-to-r from-[#2563EB] to-[#F97316] z-20&quot;>
+                </div>
+                <header class=&quot;slide-header px-12 pt-10 pb-6 z-10&quot;>
+                    <h1 class=&quot;title text-4xl font-black&quot; style=&quot;color: #1E293B;&quot;>
+                        企业再培训成功模式
+                    </h1>
+                    <div class=&quot;header-line&quot;>
+                    </div>
+                </header>
+                <main class=&quot;slide-content flex-grow min-h-0 flex flex-col px-12 py-2&quot;>
+                    <!-- Image Section -->
+                    <div class=&quot;image-container rounded-lg&quot; style=&quot;height: 290px; max-height: 290px;&quot;>
+                        <img alt=&quot;等距插画风格的现代企业AI培训中心场景&quot; class=&quot;w-full h-full object-cover&quot; src=&quot;https://agent.qianwen.com/mos/aae332748b5c43be9dae3e5e42ace621/119ba84436818c9c3c116d64037fe834&quot;/>
+                    </div>
+                    <!-- Content Grid Section -->
+                    <div class=&quot;grid grid-cols-3 gap-6 flex-grow min-h-0 pt-6&quot;>
+                        <!-- Column 1: Core Models -->
+                        <div class=&quot;flex flex-col p-4 rounded-lg bg-[#FFFFFF] shadow-sm&quot;>
+                            <h2 class=&quot;text-2xl font-bold flex items-center mb-4&quot; style=&quot;color: #2563EB;&quot;>
+                                <i class=&quot;fa-solid fa-gears fa-fw w-8 mr-2 text-3xl&quot;>
+                                </i>
+                                AI驱动四大核心模式
+                            </h2>
+                            <ul class=&quot;space-y-3 text-lg&quot; style=&quot;color: #1E293B;&quot;>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-circle-check mt-1.5 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <span>
+                                        <span class=&quot;text-[#FBBF24] font-semibold&quot;>
+                                            个性化学习路径
+                                        </span>
+                                        ：GenAI生成千人千面培训地图
+                                    </span>
+                                </li>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-circle-check mt-1.5 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <span>
+                                        <span class=&quot;text-[#FBBF24] font-semibold&quot;>
+                                            沉浸式实战模拟
+                                        </span>
+                                        ：AI角色扮演高拟真演练
+                                    </span>
+                                </li>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-circle-check mt-1.5 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <span>
+                                        <span class=&quot;text-[#FBBF24] font-semibold&quot;>
+                                            知识图谱评估
+                                        </span>
+                                        ：构建能力画像量化效果
+                                    </span>
+                                </li>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-circle-check mt-1.5 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <span>
+                                        <span class=&quot;text-[#FBBF24] font-semibold&quot;>
+                                            AI闭环培养
+                                        </span>
+                                        ：“三分学、七分练、满分用”
+                                    </span>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- Column 2: Enterprise Practices -->
+                        <div class=&quot;flex flex-col p-4 rounded-lg bg-[#FFFFFF] shadow-sm&quot;>
+                            <h2 class=&quot;text-2xl font-bold flex items-center mb-4&quot; style=&quot;color: #2563EB;&quot;>
+                                <i class=&quot;fa-solid fa-building-user fa-fw w-8 mr-2 text-3xl&quot;>
+                                </i>
+                                代表性企业实践
+                            </h2>
+                            <ul class=&quot;space-y-3 text-lg&quot; style=&quot;color: #1E293B;&quot;>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-circle-check mt-1.5 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <span>
+                                        <span class=&quot;text-[#FBBF24] font-semibold&quot;>
+                                            立讯智造
+                                        </span>
+                                        ：5G+AI数字人教官，实时动作比对
+                                    </span>
+                                </li>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-circle-check mt-1.5 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <span>
+                                        <span class=&quot;text-[#FBBF24] font-semibold&quot;>
+                                            山西零售企业
+                                        </span>
+                                        ：AI模拟顾客投诉、推销场景
+                                    </span>
+                                </li>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-circle-check mt-1.5 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <span>
+                                        <span class=&quot;text-[#FBBF24] font-semibold&quot;>
+                                            长久物流
+                                        </span>
+                                        ：AI做课助手自动生成课程
+                                    </span>
+                                </li>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-circle-check mt-1.5 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <span>
+                                        <span class=&quot;text-[#FBBF24] font-semibold&quot;>
+                                            再惠科技
+                                        </span>
+                                        ：AI学习助手推荐个性化路径
+                                    </span>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- Column 3: Key Outcomes -->
+                        <div class=&quot;flex flex-col p-4 rounded-lg bg-[#FFFFFF] shadow-sm&quot;>
+                            <h2 class=&quot;text-2xl font-bold flex items-center mb-4&quot; style=&quot;color: #2563EB;&quot;>
+                                <i class=&quot;fa-solid fa-chart-simple fa-fw w-8 mr-2 text-3xl&quot;>
+                                </i>
+                                关键成效领域
+                            </h2>
+                            <ul class=&quot;space-y-3 text-lg&quot; style=&quot;color: #1E293B;&quot;>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-circle-check mt-1.5 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <span>
+                                        <span class=&quot;text-[#FBBF24] font-semibold&quot;>
+                                            效率提升
+                                        </span>
+                                        ：培训周期与人力投入显著下降
+                                    </span>
+                                </li>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-circle-check mt-1.5 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <span>
+                                        <span class=&quot;text-[#FBBF24] font-semibold&quot;>
+                                            质量改善
+                                        </span>
+                                        ：考核通过率与学习参与率提高
+                                    </span>
+                                </li>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-circle-check mt-1.5 mr-3&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    <span>
+                                        <span class=&quot;text-[#FBBF24] font-semibold&quot;>
+                                            全球覆盖
+                                        </span>
+                                        ：多语言课程快速部署
+                                    </span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </main>
+                <footer class=&quot;absolute bottom-5 right-10 text-sm font-light z-10&quot; style=&quot;color: #2563EB;&quot;>
+                    <p>
+                        9 / 13
+                    </p>
+                </footer>
+                <!-- Bottom decorative bar -->
+                <div class=&quot;absolute bottom-0 left-0 h-2 w-full bg-gradient-to-r from-[#F97316] to-[#2563EB] z-20&quot;>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+"></iframe>
+    </div>
+    <div class="ppt_page_iframe_content">
+      <iframe class="ppt_page_iframe" srcdoc="<!DOCTYPE html>
+<html lang=&quot;zh-CN&quot;>
+    <head>
+        <meta charset=&quot;utf-8&quot;/>
+        <meta content=&quot;width=device-width, initial-scale=1.0&quot; name=&quot;viewport&quot;/>
+        <title>
+            政府主导培训项目
+        </title>
+        <link href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css&quot; rel=&quot;stylesheet&quot;/>
+        <script src=&quot;https://image.uc.cn/s/uae/g/3n/mos-production/0915/3.4.17.js&quot;>
+        </script>
+        <style>
+            /* 1. 主题与颜色变量 */
+        :root {
+            --color-background: #F8FAFC;
+            --color-primary: #2563EB;
+            --color-accent: #F97316;
+            --color-text: #1E293B;
+            --color-highlight: #FBBF24;
+            --font-serif: &quot;Noto Serif SC&quot;, &quot;Songti SC&quot;, serif;
+            --font-sans: &quot;Noto Sans SC&quot;, &quot;PingFang SC&quot;, sans-serif;
+        }
+
+        /* 2. 基础布局框架 */
+        body {
+            margin: 0;
+            font-family: var(--font-sans);
+            background-color: #f0f0f0;
+        }
+
+        .slide-container {
+            width: 1280px;
+            height: 720px;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            background-color: #F8FAFC;
+            overflow: hidden;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        
+        /* 3. 辅助样式 */
+        .title {
+            font-family: var(--font-serif);
+        }
+        .header-line {
+            width: 150px;
+            height: 3px;
+            background-color: #F97316;
+            margin-top: 0.5rem;
+        }
+        </style>
+    </head>
+    <body>
+        
+            <div class=&quot;slide-container&quot; id=&quot;slide-container&quot;>
+                <!-- Top decorative bar -->
+                <div class=&quot;absolute top-0 left-0 h-2 w-full bg-gradient-to-r from-[#2563EB] to-[#F97316] z-20&quot;>
+                </div>
+                <!-- Background decorative element -->
+                <div class=&quot;absolute -bottom-16 -left-16 text-blue-100 opacity-60 z-0&quot;>
+                    <i class=&quot;fa-solid fa-building-columns fa-fw&quot; style=&quot;font-size: 28rem; transform: rotate(-15deg);&quot;>
+                    </i>
+                </div>
+                <header class=&quot;slide-header px-12 pt-10 pb-6 z-10&quot;>
+                    <h1 class=&quot;title text-4xl font-black&quot; style=&quot;color: #1E293B;&quot;>
+                        政府主导培训项目
+                    </h1>
+                    <div class=&quot;header-line&quot;>
+                    </div>
+                </header>
+                <main class=&quot;slide-content flex-grow min-h-0 px-12 py-4 z-10&quot;>
+                    <div class=&quot;grid grid-cols-2 grid-rows-2 gap-x-6 gap-y-5 h-full&quot; style=&quot;min-height: 0;&quot;>
+                        <!-- Card 1: 国家级行动方案 -->
+                        <div class=&quot;bg-white/70 backdrop-blur-sm rounded-lg shadow-sm p-4 flex flex-col border-l-4&quot; style=&quot;border-color: #2563EB;&quot;>
+                            <div class=&quot;flex items-center mb-3&quot;>
+                                <i class=&quot;fa-solid fa-flag text-3xl w-10 text-center&quot; style=&quot;color: #2563EB;&quot;>
+                                </i>
+                                <h2 class=&quot;text-2xl font-bold ml-2&quot; style=&quot;color: #1E293B;&quot;>
+                                    国家级行动方案
+                                </h2>
+                            </div>
+                            <ul class=&quot;space-y-2 text-lg pl-12 flex-grow&quot;>
+                                <li>
+                                    实施数字技术工程师培育项目
+                                </li>
+                                <li>
+                                    推进数字技能提升行动，支持企业认定
+                                </li>
+                                <li>
+                                    开展数字职业技术技能竞赛
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- Card 2: 地方创新举措 -->
+                        <div class=&quot;bg-white/70 backdrop-blur-sm rounded-lg shadow-sm p-4 flex flex-col border-l-4&quot; style=&quot;border-color: #FBBF24;&quot;>
+                            <div class=&quot;flex items-center mb-3&quot;>
+                                <i class=&quot;fa-solid fa-map-location-dot text-3xl w-10 text-center&quot; style=&quot;color: #2563EB;&quot;>
+                                </i>
+                                <h2 class=&quot;text-2xl font-bold ml-2&quot; style=&quot;color: #1E293B;&quot;>
+                                    地方创新举措
+                                </h2>
+                            </div>
+                            <ul class=&quot;space-y-2 text-lg pl-12 flex-grow&quot;>
+                                <li>
+                                    上海发放算力、模型、语料券
+                                </li>
+                                <li>
+                                    深圳“数字技能学堂”开设公益课程
+                                </li>
+                                <li>
+                                    辽宁将AI职业纳入急需紧缺目录
+                                </li>
+                                <li>
+                                    四川取消户籍限制，提高数字课程占比
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- Card 3: 培训成效数据 -->
+                        <div class=&quot;bg-white/70 backdrop-blur-sm rounded-lg shadow-sm p-4 flex flex-col border-l-4&quot; style=&quot;border-color: #F97316;&quot;>
+                            <div class=&quot;flex items-center mb-3&quot;>
+                                <i class=&quot;fa-solid fa-chart-line text-3xl w-10 text-center&quot; style=&quot;color: #2563EB;&quot;>
+                                </i>
+                                <h2 class=&quot;text-2xl font-bold ml-2&quot; style=&quot;color: #1E293B;&quot;>
+                                    培训成效数据 (2024)
+                                </h2>
+                            </div>
+                            <ul class=&quot;space-y-2 text-lg pl-12 flex-grow&quot;>
+                                <li>
+                                    补贴性培训
+                                    <strong class=&quot;font-semibold&quot; style=&quot;color: #F97316;&quot;>
+                                        1425万
+                                    </strong>
+                                    人次
+                                </li>
+                                <li>
+                                    发放技能补贴
+                                    <strong class=&quot;font-semibold&quot; style=&quot;color: #F97316;&quot;>
+                                        51.3亿
+                                    </strong>
+                                    元
+                                </li>
+                                <li>
+                                    培训后就业率
+                                    <strong class=&quot;font-semibold&quot; style=&quot;color: #F97316;&quot;>
+                                        68%
+                                    </strong>
+                                </li>
+                                <li>
+                                    四川参训人员收入平均提升
+                                    <strong class=&quot;font-semibold&quot; style=&quot;color: #F97316;&quot;>
+                                        23%
+                                    </strong>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- Card 4: 协同生态构建 -->
+                        <div class=&quot;bg-white/70 backdrop-blur-sm rounded-lg shadow-sm p-4 flex flex-col border-l-4&quot; style=&quot;border-color: #4ADE80;&quot;>
+                            <div class=&quot;flex items-center mb-3&quot;>
+                                <i class=&quot;fa-solid fa-people-group text-3xl w-10 text-center&quot; style=&quot;color: #2563EB;&quot;>
+                                </i>
+                                <h2 class=&quot;text-2xl font-bold ml-2&quot; style=&quot;color: #1E293B;&quot;>
+                                    协同生态构建
+                                </h2>
+                            </div>
+                            <ul class=&quot;space-y-2 text-lg pl-12 flex-grow&quot;>
+                                <li>
+                                    形成“国家+地方+企业”三级联动
+                                </li>
+                                <li>
+                                    推行工学一体化、订单式培养
+                                </li>
+                                <li>
+                                    通过竞赛、基地、平台完善人才生态
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </main>
+                <footer class=&quot;absolute bottom-5 right-10 text-sm font-light z-10&quot; style=&quot;color: #2563EB;&quot;>
+                    <p>
+                        10 / 13
+                    </p>
+                </footer>
+                <!-- Bottom decorative bar -->
+                <div class=&quot;absolute bottom-0 left-0 h-2 w-full bg-gradient-to-r from-[#F97316] to-[#2563EB] z-20&quot;>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+"></iframe>
+    </div>
+    <div class="ppt_page_iframe_content">
+      <iframe class="ppt_page_iframe" srcdoc="<!DOCTYPE html>
+<html lang=&quot;zh-CN&quot;>
+    <head>
+        <meta charset=&quot;utf-8&quot;/>
+        <meta content=&quot;width=device-width, initial-scale=1.0&quot; name=&quot;viewport&quot;/>
+        <title>
+            政企协同生态构建
+        </title>
+        <link href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css&quot; rel=&quot;stylesheet&quot;/>
+        <script src=&quot;https://image.uc.cn/s/uae/g/3n/mos-production/0915/3.4.17.js&quot;>
+        </script>
+        <style>
+            /* 1. 主题与颜色变量 */
+        :root {
+            --color-background: #F8FAFC;
+            --color-primary: #2563EB;
+            --color-accent: #F97316;
+            --color-text: #1E293B;
+            --color-highlight: #FBBF24;
+            --font-serif: &quot;Noto Serif SC&quot;, &quot;Songti SC&quot;, serif;
+            --font-sans: &quot;Noto Sans SC&quot;, &quot;PingFang SC&quot;, sans-serif;
+        }
+
+        /* 2. 基础布局框架 */
+        body {
+            margin: 0;
+            font-family: var(--font-sans);
+            background-color: #f0f0f0;
+        }
+
+        .slide-container {
+            width: 1280px;
+            height: 720px;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            background-color: #F8FAFC;
+            overflow: hidden;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        
+        /* 3. 辅助样式 */
+        .title {
+            font-family: var(--font-serif);
+        }
+        .header-line {
+            width: 200px; /* Adjust to title length */
+            height: 3px;
+            background-color: #F97316;
+            margin-top: 0.5rem;
+        }
+        </style>
+    </head>
+    <body>
+        
+            <div class=&quot;slide-container&quot; id=&quot;slide-container&quot;>
+                <!-- Top decorative bar -->
+                <div class=&quot;absolute top-0 left-0 h-2 w-full bg-gradient-to-r from-[#2563EB] to-[#F97316] z-10&quot;>
+                </div>
+                <header class=&quot;slide-header px-12 pt-10 pb-4 z-10&quot;>
+                    <h1 class=&quot;title text-4xl font-black&quot; style=&quot;color: #1E293B;&quot;>
+                        政企协同生态构建
+                    </h1>
+                    <div class=&quot;header-line&quot;>
+                    </div>
+                </header>
+                <main class=&quot;slide-content flex-grow min-h-0 flex flex-col px-12 py-2 z-10&quot;>
+                    <!-- Image Section -->
+                    <div class=&quot;image-container flex items-center justify-center w-full&quot; style=&quot;max-height: 320px; min-height: 0;&quot;>
+                        <img alt=&quot;等距插画风格，抽象表现“国家-地方-企业”三级联动与技能提升闭环体系&quot; class=&quot;object-contain h-full w-full&quot; src=&quot;https://agent.qianwen.com/mos/aae332748b5c43be9dae3e5e42ace621/023207102a3ff5c82a03ab263e0e640a&quot;/>
+                    </div>
+                    <!-- Text Content Section -->
+                    <div class=&quot;grid grid-cols-2 gap-x-12 flex-grow min-h-0 pt-6&quot;>
+                        <!-- Left Column: Three-level Linkage Mechanism -->
+                        <div class=&quot;flex flex-col&quot;>
+                            <h2 class=&quot;text-2xl font-bold flex items-center mb-4&quot; style=&quot;color: #2563EB;&quot;>
+                                <i class=&quot;fas fa-sitemap fa-fw mr-3 text-3xl&quot; style=&quot;color: #F97316;&quot;>
+                                </i>
+                                三级联动机制
+                            </h2>
+                            <ul class=&quot;space-y-4 text-lg&quot; style=&quot;color: #1E293B;&quot;>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-square-caret-right mt-1.5 mr-3&quot; style=&quot;color: #2563EB;&quot;>
+                                    </i>
+                                    <div>
+                                        <strong class=&quot;font-semibold&quot;>
+                                            国家方案：
+                                        </strong>
+                                        人社部等发布顶层设计方案《数字人才培育行动方案（2024-2026年）》
+                                    </div>
+                                </li>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-square-caret-right mt-1.5 mr-3&quot; style=&quot;color: #2563EB;&quot;>
+                                    </i>
+                                    <div>
+                                        <strong class=&quot;font-semibold&quot;>
+                                            地方试点：
+                                        </strong>
+                                        上海发算力券、深圳开“数字技能学堂”、辽宁建培训基地
+                                    </div>
+                                </li>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-square-caret-right mt-1.5 mr-3&quot; style=&quot;color: #2563EB;&quot;>
+                                    </i>
+                                    <div>
+                                        <strong class=&quot;font-semibold&quot;>
+                                            企业创新：
+                                        </strong>
+                                        北森AI Learning、立讯智造数字人教官等实战化培训模式涌现
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- Right Column: Closed-loop Ecosystem Elements -->
+                        <div class=&quot;flex flex-col&quot;>
+                            <h2 class=&quot;text-2xl font-bold flex items-center mb-4&quot; style=&quot;color: #2563EB;&quot;>
+                                <i class=&quot;fas fa-recycle fa-fw mr-3 text-3xl&quot; style=&quot;color: #F97316;&quot;>
+                                </i>
+                                闭环生态要素
+                            </h2>
+                            <ul class=&quot;space-y-4 text-lg&quot; style=&quot;color: #1E293B;&quot;>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-square-caret-right mt-1.5 mr-3&quot; style=&quot;color: #2563EB;&quot;>
+                                    </i>
+                                    <div>
+                                        <strong class=&quot;font-semibold&quot;>
+                                            产教融合：
+                                        </strong>
+                                        职业院校与企业推行工学一体化、订单式培养
+                                    </div>
+                                </li>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-square-caret-right mt-1.5 mr-3&quot; style=&quot;color: #2563EB;&quot;>
+                                    </i>
+                                    <div>
+                                        <strong class=&quot;font-semibold&quot;>
+                                            数据闭环：
+                                        </strong>
+                                        培训全流程（需求分析→过程监控→效果评估）实现数据化管理
+                                    </div>
+                                </li>
+                                <li class=&quot;flex items-start&quot;>
+                                    <i class=&quot;fa-solid fa-square-caret-right mt-1.5 mr-3&quot; style=&quot;color: #2563EB;&quot;>
+                                    </i>
+                                    <div>
+                                        <strong class=&quot;font-semibold&quot;>
+                                            激励体系：
+                                        </strong>
+                                        通过竞赛、基地、平台建设形成人才培养-评价-使用-激励的完整链条
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </main>
+                <footer class=&quot;absolute bottom-5 right-10 text-sm font-light z-10&quot; style=&quot;color: #2563EB;&quot;>
+                    <p>
+                        11 / 13
+                    </p>
+                </footer>
+                <!-- Bottom decorative bar -->
+                <div class=&quot;absolute bottom-0 left-0 h-2 w-full bg-gradient-to-r from-[#F97316] to-[#2563EB] z-10&quot;>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+"></iframe>
+    </div>
+    <div class="ppt_page_iframe_content">
+      <iframe class="ppt_page_iframe" srcdoc="<!DOCTYPE html>
+<html lang=&quot;zh-CN&quot;>
+    <head>
+        <meta charset=&quot;utf-8&quot;/>
+        <meta content=&quot;width=device-width, initial-scale=1.0&quot; name=&quot;viewport&quot;/>
+        <title>
+            未来核心能力框架
+        </title>
+        <link href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css&quot; rel=&quot;stylesheet&quot;/>
+        <script src=&quot;https://image.uc.cn/s/uae/g/3n/mos-production/0915/3.4.17.js&quot;>
+        </script>
+        <style>
+            /* 1. 主题与颜色变量 */
+        :root {
+            --color-background: #F8FAFC;
+            --color-primary: #2563EB;
+            --color-accent: #F97316;
+            --color-text: #1E293B;
+            --color-highlight: #FBBF24;
+            --font-serif: &quot;Noto Serif SC&quot;, &quot;Songti SC&quot;, serif;
+            --font-sans: &quot;Noto Sans SC&quot;, &quot;PingFang SC&quot;, sans-serif;
+        }
+
+        /* 2. 基础布局框架 */
+        body {
+            margin: 0;
+            font-family: var(--font-sans);
+            background-color: #f0f0f0;
+        }
+
+        .slide-container {
+            width: 1280px;
+            height: 720px;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            background-color: #F8FAFC;
+            overflow: hidden;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        
+        /* 3. 辅助样式 */
+        .title {
+            font-family: var(--font-serif);
+        }
+        .header-line {
+            width: 150px;
+            height: 3px;
+            background-color: #F97316;
+            margin-top: 0.5rem;
+        }
+        </style>
+    </head>
+    <body>
+        
+            <div class=&quot;slide-container&quot; id=&quot;slide-container&quot;>
+                <!-- Top decorative bar -->
+                <div class=&quot;absolute top-0 left-0 h-2 w-full bg-gradient-to-r from-[#2563EB] to-[#F97316] z-20&quot;>
+                </div>
+                <header class=&quot;slide-header px-12 pt-10 pb-4 z-10&quot;>
+                    <h1 class=&quot;title text-4xl font-black&quot; style=&quot;color: #1E293B;&quot;>
+                        未来核心能力框架
+                    </h1>
+                    <div class=&quot;header-line&quot;>
+                    </div>
+                </header>
+                <main class=&quot;slide-content flex-grow min-h-0 flex items-center px-12 py-4 z-10&quot;>
+                    <div class=&quot;grid grid-cols-12 gap-8 w-full h-full&quot;>
+                        <!-- Left Column: Text Content -->
+                        <div class=&quot;col-span-5 flex flex-col justify-around h-full py-8&quot;>
+                            <!-- 技术层 -->
+                            <div class=&quot;flex flex-col gap-y-4&quot;>
+                                <h2 class=&quot;text-2xl font-bold flex items-center&quot; style=&quot;color: #2563EB;&quot;>
+                                    <i class=&quot;fa-solid fa-microchip fa-fw w-8 mr-3 text-3xl&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    技术层
+                                </h2>
+                                <div class=&quot;flex flex-wrap gap-3 pl-11&quot;>
+                                    <span class=&quot;bg-blue-100 text-blue-800 text-base font-medium px-4 py-2 rounded-lg shadow-sm&quot;>
+                                        RAG技术
+                                    </span>
+                                    <span class=&quot;bg-blue-100 text-blue-800 text-base font-medium px-4 py-2 rounded-lg shadow-sm&quot;>
+                                        Agent开发
+                                    </span>
+                                    <span class=&quot;bg-blue-100 text-blue-800 text-base font-medium px-4 py-2 rounded-lg shadow-sm&quot;>
+                                        模型微调
+                                    </span>
+                                    <span class=&quot;bg-blue-100 text-blue-800 text-base font-medium px-4 py-2 rounded-lg shadow-sm&quot;>
+                                        LangChain, LoRA
+                                    </span>
+                                </div>
+                            </div>
+                            <!-- 应用层 -->
+                            <div class=&quot;flex flex-col gap-y-4&quot;>
+                                <h2 class=&quot;text-2xl font-bold flex items-center&quot; style=&quot;color: #2563EB;&quot;>
+                                    <i class=&quot;fa-solid fa-layer-group fa-fw w-8 mr-3 text-3xl&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    应用层
+                                </h2>
+                                <div class=&quot;flex flex-wrap gap-3 pl-11&quot;>
+                                    <span class=&quot;bg-orange-100 text-orange-800 text-base font-medium px-4 py-2 rounded-lg shadow-sm&quot;>
+                                        行业知识与AI工具融合
+                                    </span>
+                                    <span class=&quot;bg-orange-100 text-orange-800 text-base font-medium px-4 py-2 rounded-lg shadow-sm&quot;>
+                                        医疗AI需掌握DICOM标准
+                                    </span>
+                                </div>
+                            </div>
+                            <!-- 伦理层 -->
+                            <div class=&quot;flex flex-col gap-y-4&quot;>
+                                <h2 class=&quot;text-2xl font-bold flex items-center&quot; style=&quot;color: #2563EB;&quot;>
+                                    <i class=&quot;fa-solid fa-shield-halved fa-fw w-8 mr-3 text-3xl&quot; style=&quot;color: #F97316;&quot;>
+                                    </i>
+                                    伦理层
+                                </h2>
+                                <div class=&quot;flex flex-wrap gap-3 pl-11&quot;>
+                                    <span class=&quot;bg-gray-200 text-gray-800 text-base font-medium px-4 py-2 rounded-lg shadow-sm&quot;>
+                                        数据安全
+                                    </span>
+                                    <span class=&quot;bg-gray-200 text-gray-800 text-base font-medium px-4 py-2 rounded-lg shadow-sm&quot;>
+                                        算法公平
+                                    </span>
+                                    <span class=&quot;bg-gray-200 text-gray-800 text-base font-medium px-4 py-2 rounded-lg shadow-sm&quot;>
+                                        AI合规
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Right Column: Image -->
+                        <div class=&quot;col-span-7 flex items-center justify-center h-full&quot;>
+                            <div class=&quot;image-container flex items-center justify-center w-full h-full&quot; style=&quot;max-width: 700px; max-height: 394px; min-height: 0; max-width: 100%; max-height: 100%;&quot;>
+                                <img alt=&quot;三维能力框架图&quot; class=&quot;w-full h-full object-contain rounded-lg&quot; src=&quot;https://agent.qianwen.com/mos/aae332748b5c43be9dae3e5e42ace621/3ffdccfd4f577bafd32b928693ff4228&quot;/>
+                            </div>
+                        </div>
+                    </div>
+                </main>
+                <footer class=&quot;absolute bottom-5 right-10 text-sm font-light z-20&quot; style=&quot;color: #2563EB;&quot;>
+                    <p>
+                        12 / 13
+                    </p>
+                </footer>
+                <!-- Bottom decorative bar -->
+                <div class=&quot;absolute bottom-0 left-0 h-2 w-full bg-gradient-to-r from-[#F97316] to-[#2563EB] z-20&quot;>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+"></iframe>
+    </div>
+    <div class="ppt_page_iframe_content">
+      <iframe class="ppt_page_iframe" srcdoc="<!DOCTYPE html>
+<html lang=&quot;zh-CN&quot;>
+    <head>
+        <meta charset=&quot;utf-8&quot;/>
+        <meta content=&quot;width=device-width, initial-scale=1.0&quot; name=&quot;viewport&quot;/>
+        <title>
+            长期职场演进展望
+        </title>
+        <link href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css&quot; rel=&quot;stylesheet&quot;/>
+        <script src=&quot;https://image.uc.cn/s/uae/g/3n/mos-production/0915/3.4.17.js&quot;>
+        </script>
+        <style>
+            :root {
+            --color-background: #F8FAFC;
+            --color-primary: #2563EB;
+            --color-accent: #F97316;
+            --color-text: #1E293B;
+            --color-highlight: #FBBF24;
+            --font-serif: &quot;Noto Serif SC&quot;, &quot;Songti SC&quot;, serif;
+            --font-sans: &quot;Noto Sans SC&quot;, &quot;PingFang SC&quot;, sans-serif;
+        }
+
+        body {
+            margin: 0;
+            font-family: var(--font-sans);
+            background-color: #f0f0f0;
+        }
+
+        .slide-container {
+            width: 1280px;
+            height: 720px;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            background-color: #F8FAFC;
+            overflow: hidden;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+
+        .title {
+            font-family: var(--font-serif);
+        }
+
+        .stage-item {
+            position: relative;
+            padding-left: 2.5rem;
+            padding-bottom: 1rem;
+            border-left: 2px solid #DBEAFE; /* light blue */
+        }
+        .stage-item:last-child {
+            border-left: 2px solid transparent;
+        }
+        .stage-dot {
+            position: absolute;
+            left: -0.7rem;
+            top: 0.2rem;
+            width: 1.25rem;
+            height: 1.25rem;
+            border-radius: 9999px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            color: white;
+        }
+        </style>
+    </head>
+    <body>
+        
+            <div class=&quot;slide-container flex-row&quot; id=&quot;slide-container&quot;>
+                <!-- Left Title Panel -->
+                <div class=&quot;w-1/3 h-full bg-gradient-to-b from-[#2563EB] to-blue-700 flex flex-col justify-center items-center p-8 text-white relative&quot;>
+                    <div class=&quot;text-center&quot;>
+                        <i class=&quot;fa-solid fa-flag-checkered text-6xl mb-6 opacity-80&quot;>
+                        </i>
+                        <h1 class=&quot;title text-5xl font-black leading-tight&quot;>
+                            长期职场
+                            <br/>
+                            演进展望
+                        </h1>
+                    </div>
+                    <div class=&quot;absolute bottom-8 text-lg font-light opacity-70&quot;>
+                        <p>
+                            THE FINAL OUTLOOK
+                        </p>
+                    </div>
+                </div>
+                <!-- Right Content Area -->
+                <div class=&quot;w-2/3 h-full flex flex-col relative px-12 py-10&quot;>
+                    <!-- Decorative background icon -->
+                    <i class=&quot;fa-solid fa-rocket absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-[#2563EB] opacity-5 text-[20rem] -z-0&quot;>
+                    </i>
+                    <main class=&quot;slide-content flex-grow min-h-0 flex flex-col justify-around z-10&quot;>
+                        <!-- Section 1: Three Stages -->
+                        <div>
+                            <h2 class=&quot;text-2xl font-bold flex items-center mb-4&quot; style=&quot;color: #2563EB;&quot;>
+                                <i class=&quot;fa-solid fa-layer-group fa-fw mr-3 text-2xl&quot; style=&quot;color: #F97316;&quot;>
+                                </i>
+                                AI重塑劳动力市场三阶段
+                            </h2>
+                            <div class=&quot;relative&quot;>
+                                <div class=&quot;stage-item&quot;>
+                                    <div class=&quot;stage-dot&quot; style=&quot;background-color: #F97316;&quot;>
+                                        <span class=&quot;text-sm&quot;>
+                                            1
+                                        </span>
+                                    </div>
+                                    <p class=&quot;text-lg font-medium&quot; style=&quot;color: #1E293B;&quot;>
+                                        <span class=&quot;text-[#FBBF24] font-semibold&quot;>
+                                            短期(1-5年):
+                                        </span>
+                                        效率提升与局部调整，低技能岗位招聘放缓
+                                    </p>
+                                </div>
+                                <div class=&quot;stage-item&quot;>
+                                    <div class=&quot;stage-dot&quot; style=&quot;background-color: #FBBF24;&quot;>
+                                        <span class=&quot;text-sm&quot;>
+                                            2
+                                        </span>
+                                    </div>
+                                    <p class=&quot;text-lg font-medium&quot; style=&quot;color: #1E293B;&quot;>
+                                        <span class=&quot;text-[#FBBF24] font-semibold&quot;>
+                                            中期(5-25年):
+                                        </span>
+                                        职业重构高峰，约14%劳动者需改变职业方向
+                                    </p>
+                                </div>
+                                <div class=&quot;stage-item&quot;>
+                                    <div class=&quot;stage-dot&quot; style=&quot;background-color: #2563EB;&quot;>
+                                        <span class=&quot;text-sm&quot;>
+                                            3
+                                        </span>
+                                    </div>
+                                    <p class=&quot;text-lg font-medium&quot; style=&quot;color: #1E293B;&quot;>
+                                        <span class=&quot;text-[#FBBF24] font-semibold&quot;>
+                                            长期(25年后):
+                                        </span>
+                                        生态重塑期，AI成为基础工具包
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Section 2: Core Competencies -->
+                        <div>
+                            <h2 class=&quot;text-2xl font-bold flex items-center mb-3&quot; style=&quot;color: #2563EB;&quot;>
+                                <i class=&quot;fa-solid fa-brain fa-fw mr-3 text-2xl&quot; style=&quot;color: #F97316;&quot;>
+                                </i>
+                                核心竞争力转变
+                            </h2>
+                            <p class=&quot;text-xl ml-10 font-medium bg-blue-50 px-4 py-2 rounded-lg&quot; style=&quot;color: #1E293B;&quot;>
+                                共情力、创造力、复杂决策能力成为不可替代的人类优势
+                            </p>
+                        </div>
+                        <!-- Section 3: Social Evolution (Conclusion) -->
+                        <div class=&quot;bg-blue-100 p-6 rounded-xl text-center shadow-lg border-t-4 border-[#F97316]&quot;>
+                            <h2 class=&quot;text-2xl font-bold mb-2&quot; style=&quot;color: #2563EB;&quot;>
+                                社会形态演进：从“就业社会”迈向“乐业社会”
+                            </h2>
+                            <p class=&quot;text-xl font-medium&quot; style=&quot;color: #1E293B;&quot;>
+                                工作不再是谋生手段，而是出于热爱与自我实现的主动选择
+                            </p>
+                        </div>
+                    </main>
+                    <!-- Footer -->
+                    <footer class=&quot;absolute bottom-5 right-10 text-sm font-light z-20&quot; style=&quot;color: #2563EB;&quot;>
+                        <p>
+                            13 / 13
+                        </p>
+                    </footer>
+                </div>
+                <!-- Decorative Bars for consistency -->
+                <div class=&quot;absolute top-0 left-0 h-2 w-full bg-gradient-to-r from-[#2563EB] to-[#F97316]&quot;>
+                </div>
+                <div class=&quot;absolute bottom-0 left-0 h-2 w-full bg-gradient-to-r from-[#F97316] to-[#2563EB]&quot;>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+"></iframe>
+    </div>
+  </div>
+</body>
+</html>
