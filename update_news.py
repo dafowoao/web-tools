@@ -117,17 +117,17 @@ def main():
 
     all_items = []
 
-    print("\n📡 知乎 AI...")
+    print("= 知乎 AI...")
     zhihu = fetch_zhihu()
     all_items.extend(zhihu)
     print(f"  {len(zhihu)} 条")
 
-    print("📡 GitHub AI 趋势...")
+    print("= GitHub AI 趋势...")
     github = fetch_github_trending()
     all_items.extend(github)
     print(f"  {len(github)} 条")
 
-    print("📡 36氪...")
+    print("= 36氪...")
     kr36 = fetch_36kr()
     all_items.extend(kr36)
     print(f"  {len(kr36)} 条")
