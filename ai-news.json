@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-16 19:36 UTC",
-  "count": 12,
+  "updated": "2026-06-16 22:12 UTC",
+  "count": 9,
   "items": [
+    {
+      "title": "Silicon Motion exec: Retail SSD market has almost disappeared",
+      "url": "https://www.tomshardware.com/pc-components/ssds/the-retail-ssd-market-has-almost-disappeared-says-silicon-motion-exec-pc-oems-are-buying-third-party-drives-as-direct-nand-supply-dries-up",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781644393,
+      "score": 8,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Apple is about to make Hide My Email useless",
+      "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781635041,
+      "score": 283,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "GPT‑NL: a sovereign language model for the Netherlands",
       "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
@@ -9,34 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781632442,
-      "score": 43,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Pen and paper resource development game with an emergent world",
-      "url": "https://www.jameshylands.co.uk/2026/06/sortis-paper-empire-game.html",
-      "desc": "I&#x27;ve been working for a while on trying to curate a game that has the emergence of procedurally generated computer games but that can be played with only pen and paper. Here I present the best ve",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781632194,
-      "score": 4,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude: Elevated errors across many models",
-      "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781631030,
-      "score": 142,
-      "category": "tools",
+      "score": 101,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,47 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781629865,
-      "score": 28,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GateGPT: 56k tokens per second Transformer (KV cache) on FPGA at 80 MHz",
-      "url": "https://twitter.com/fguzmanai/status/2065832668172845209",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781626346,
-      "score": 32,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "After AI Takes Everything",
-      "url": "https://ursb.me/en/posts/after-ai-takes-everything/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781623205,
-      "score": 73,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
-      "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781601969,
-      "score": 500,
-      "category": "llm",
+      "score": 82,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781585895,
-      "score": 785,
-      "category": "llm",
+      "score": 837,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -125,7 +86,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -147,7 +108,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
