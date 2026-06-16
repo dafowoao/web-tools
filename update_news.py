@@ -87,6 +87,9 @@ def fetch_36kr():
             url = f"https://www.36kr.com/p/{item.get('id', '')}"
             desc = item.get("summary", "")[:200]
             ts = item.get("published_at", 0)
+            if isinstance(ts, str):
+                try: ts = int(datetime.strptime(ts[:19], "%Y-%m-%dT%H:%M:%S").timestamp())
+                except: ts = 0
             items.append({
                 "title": title, "url": url, "desc": desc,
                 "source": "36氪", "sourceColor": "#1db48c",
