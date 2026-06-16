@@ -1,116 +1,222 @@
 #!/usr/bin/env python3
-"""AI 每日新闻更新脚本 — 从 Hacker News 获取 AI 相关资讯"""
-import urllib.request, json, gzip, re, os, random
+"""AI 每日新闻更新脚本 — 全中文，多源聚合"""
+import urllib.request, json, gzip, re, os, random, html
 from datetime import datetime, timezone
+from xml.etree import ElementTree
 
 CACHE = {}
 
-def get(url):
+def get(url, binary=False, xml=False):
     req = urllib.request.Request(url, headers={
         "User-Agent": "Mozilla/5.0 (compatible; AI-News-Bot/1.0)"
     })
-    with urllib.request.urlopen(req, timeout=15) as r:
+    with urllib.request.urlopen(req, timeout=20) as r:
         data = r.read()
         if r.headers.get("Content-Encoding") == "gzip":
             data = gzip.decompress(data)
+        if xml:
+            return ElementTree.fromstring(data)
+        if binary:
+            return data
         return json.loads(data)
 
-# AI 关键词（匹配标题和描述）
-AI_KEYWORDS = [
-    "ai", "artificial intelligence", "machine learning", "deep learning",
-    "llm", "large language model", "gpt", "chatgpt", "openai", "claude",
-    "anthropic", "gemini", "llama", "mistral", "copilot", "neural",
-    "transformer", "diffusion", "embedding", "rag", "agentic",
-    "autonomous agent", "fine-tuning", "multimodal", "vision model",
-    "open source ai", "hugging face", "pytorch", "tensorflow",
-    "langchain", "vector database", "ai coding", "code generation",
-    "ai assistant", "deepseek", "qwen", "yi-34b", "minimax",
+def fetch_rsshub(path):
+    """从 RSSHub 获取中文新闻"""
+    items = []
+    url = f"https://rsshub.app{path}"
+    try:
+        xml_data = get(url, xml=True)
+        namespace = {"rss": "http://purl.org/rss/1.0/", "dc": "http://purl.org/dc/elements/1.1/",
+                     "content": "http://purl.org/rss/1.0/modules/content/"}
+        for item in xml_data.findall(".//item", namespace) or xml_data.findall("channel/item"):
+            title = item.findtext("title", "")
+            link = item.findtext("link", "")
+            desc = item.findtext("description", "") or item.findtext("content:encoded", "") or ""
+            if desc:
+                desc = re.sub(r'<[^>]+>', '', html.unescape(desc))[:200]
+            pub_str = item.findtext("pubDate", "") or item.findtext("dc:date", "")
+            ts = 0
+            if pub_str:
+                try:
+                    dt = datetime.strptime(pub_str[:19], "%Y-%m-%dT%H:%M:%S")
+                    ts = int(dt.replace(tzinfo=timezone.utc).timestamp())
+                except:
+                    try:
+                        dt = datetime.strptime(pub_str[:25], "%a, %d %b %Y %H:%M:%S")
+                        ts = int(dt.replace(tzinfo=timezone.utc).timestamp())
+                    except: pass
+            if title:
+                items.append({"title": title, "url": link, "desc": desc,
+                            "ts": ts, "raw": True})
+    except Exception as e:
+        print(f"  RSSHub {path} 错误: {e}")
+    return items
+
+def get_translator():
+    """初始化翻译器"""
+    try:
+        from deep_translator import GoogleTranslator
+        return GoogleTranslator(source="en", target="zh-CN")
+    except:
+        return None
+
+def translate_text(translator, text):
+    """翻译英文到中文"""
+    if not translator or not text or len(text) < 3:
+        return text
+    try:
+        # 检测是否含中文
+        if re.search(r'[\u4e00-\u9fff]', text):
+            return text
+        result = translator.translate(text[:800])
+        return result or text
+    except:
+        return text
+
+# ========== 中文 AI 关键词 ==========
+AI_KEYWORDS_CN = [
+    "ai", "人工智能", "机器学习", "深度学习", "大模型", "大语言模型",
+    "gpt", "chatgpt", "openai", "claude", "anthropic", "gemini",
+    "llama", "mistral", "copilot", "神经网络", "扩散模型", "嵌入",
+    "rag", "智能体", "微调", "多模态", "视觉模型", "hugging face",
+    "pytorch", "tensorflow", "langchain", "向量数据库",
+    "ai编程", "代码生成", "ai助手", "deepseek", "通义千问",
+    "文心一言", "智谱", "kimi", "月之暗面", "minimax",
+    "字节跳动", "百度", "阿里巴巴", "腾讯", "华为",
 ]
 
-# 来源颜色
-SOURCE_COLORS = {
-    "Hacker News": "#ff6600", "TechCrunch": "#0a9e01",
-    "The Verge": "#1b7fed", "ArXiv": "#b31b1b",
-    "GitHub": "#24292e", "Medium": "#00ab6c",
-    "VentureBeat": "#f05a28", "其他": "#6b9eff",
+# ========== 来源配置 ==========
+SOURCES = {
+    "量子位": {"rss": "/qbitai", "color": "#2196f3"},
+    "机器之心": {"rss": "/jiqizhixin", "color": "#e91e63"},
+    "36氪 AI": {"rss": "/36kr/motif/ai?limit=10", "color": "#1db48c"},
+    "IT之家 AI": {"rss": "/ithome/tag/AI?limit=10", "color": "#ff6a00"},
+    "OSCHINA AI": {"rss": "/oschina/news?tags=AI&limit=10", "color": "#00a86b"},
+    "品玩 AI": {"rss": "/pingwest/tag/AI?limit=10", "color": "#ff5722"},
+    "DoNews AI": {"rss": "/donews?tag=AI&limit=10", "color": "#9c27b0"},
 }
 
-def fetch_hackernews():
-    """从 Hacker News 获取 AI 相关热门"""
-    items = []
+CAT_CN_KEYWORDS = {
+    "llm": ["大模型", "语言模型", "gpt", "chatgpt", "claude", "gemini", "llama", "模型"],
+    "tools": ["工具", "编程", "代码", "copilot", "cursor", "开发", "开源", "github"],
+    "research": ["研究", "论文", "arxiv", "实验", "科学", "数据集"],
+    "industry": ["融资", "投资", "市场", "上市", "营收", "监管", "政策", "法规", "财报"],
+    "china": ["中国", "北京", "上海", "深圳", "华为", "百度", "阿里", "腾讯", "字节", "深度求索"],
+}
+
+def classify_cn(title, desc=""):
+    t = (title + " " + desc)
+    for cat, kws in CAT_CN_KEYWORDS.items():
+        if any(k in t for k in kws):
+            return cat
+    return random.choice(["llm", "tools", "industry"])
+
+def main():
+    print("=" * 40)
+    print("AI 每日新闻更新")
+    print("=" * 40)
+
+    translator = get_translator()
+    if translator:
+        print("✅ 翻译引擎就绪")
+    else:
+        print("⚠️ 未安装翻译库，英文标题保持原样")
+
+    # 中文源
+    all_items = []
+    print("\n📡 获取中文源...")
+    for name, cfg in SOURCES.items():
+        print(f"  {name}...", end=" ", flush=True)
+        items = fetch_rsshub(cfg["rss"])
+        for it in items:
+            it["source"] = name
+            it["sourceColor"] = cfg["color"]
+            it["category"] = classify_cn(it["title"], it.get("desc", ""))
+            it["tags"] = []
+        all_items.extend(items)
+        print(f"{len(items)} 条")
+
+    # Hacker News（英文，翻译成中文）
+    print("\n📡 获取 Hacker News 并翻译...")
     try:
-        top = get("https://hacker-news.firebaseio.com/v0/topstories.json")[:60]
+        from deep_translator import GoogleTranslator
+        hn_trans = GoogleTranslator(source="en", target="zh-CN")
+    except:
+        hn_trans = None
+    try:
+        top = get("https://hacker-news.firebaseio.com/v0/topstories.json")[:40]
+        hn_count = 0
         for sid in top:
             try:
                 s = get(f"https://hacker-news.firebaseio.com/v0/item/{sid}.json")
                 if not s or not s.get("title"): continue
-                title = s["title"]
-                text = (title + " " + (s.get("text") or "")).lower()
-                # 检查是否匹配 AI 关键词
-                matches = [kw for kw in AI_KEYWORDS if kw in text]
-                if not matches: continue
-                url = s.get("url") or f"https://news.ycombinator.com/item?id={sid}"
+                title_en = s["title"]
+                text = (title_en + " " + (s.get("text") or "")).lower()
+                # AI 关键词匹配（英文）
+                akw = ["ai", "artificial intelligence", "machine learning", "deep learning",
+                       "llm", "large language model", "gpt", "chatgpt", "openai", "claude",
+                       "anthropic", "gemini", "llama", "mistral", "copilot", "neural",
+                       "transformer", "diffusion", "rag", "agent", "autonomous",
+                       "fine-tuning", "multimodal", "encoder", "decoder", "attention"]
+                if not any(k in text for k in akw):
+                    continue
+                # 翻译标题
+                title_cn = translate_text(hn_trans, title_en)
                 desc = s.get("text") or ""
-                if desc: desc = re.sub(r'<[^>]+>', '', desc)[:200]
+                if desc:
+                    desc = re.sub(r'<[^>]+>', '', desc)[:200]
+                    desc = translate_text(hn_trans, desc)
                 score = s.get("score", 0)
-                # 智能分类
-                cat = classify(title, desc)
-                tags = ["hot"] if score > 50 else []
-                tags.append(random.choice(cat.split()))
-                if matches:
-                    tags.append(matches[0][:12] if len(matches[0])<=12 else matches[0])
-                items.append({
-                    "title": title, "url": url, "desc": desc,
-                    "source": "Hacker News", "sourceColor": SOURCE_COLORS["Hacker News"],
+                url = s.get("url") or f"https://news.ycombinator.com/item?id={sid}"
+                cat = classify_cn(title_cn, desc)
+                tags = ["热门"] if score > 50 else []
+                all_items.append({
+                    "title": title_cn, "url": url, "desc": desc,
+                    "source": "Hacker News（译）", "sourceColor": "#ff6600",
                     "ts": s.get("time", 0), "score": score,
-                    "category": cat, "tags": tags[:4],
+                    "category": cat, "tags": tags,
                 })
+                hn_count += 1
             except: continue
+        print(f"  {hn_count} 条")
     except Exception as e:
-        print(f"HN 错误: {e}")
-    return items
+        print(f"  HN 错误: {e}")
 
-def classify(title, desc=""):
-    """基于关键词分类"""
-    t = (title + " " + desc).lower()
-    if any(k in t for k in ["china", "chinese", "bytedance", "baidu", "alibaba", "tencent", "deepseek", "qwen", "zhipu", "minimax", "kimi"]):
-        return "china"
-    if any(k in t for k in ["model", "llm", "gpt", "claude", "gemini", "llama", "mistral", "deepseek", "transformer"]):
-        return "llm"
-    if any(k in t for k in ["tool", "code", "copilot", "cursor", "dev", "programming", "github", "open source"]):
-        return "tools"
-    if any(k in t for k in ["paper", "research", "arxiv", "study", "scientific", "benchmark", "dataset"]):
-        return "research"
-    if any(k in t for k in ["startup", "funding", "invest", "market", "revenue", "ipo", "regulation", "law", "policy"]):
-        return "industry"
-    return random.choice(["llm", "tools", "industry"])
-
-def main():
-    print("获取 AI 新闻...")
-    items = fetch_hackernews()
+    # 合并去重
+    seen = set()
+    unique = []
+    for it in all_items:
+        key = it["title"][:30]
+        if key in seen: continue
+        seen.add(key)
+        unique.append(it)
 
     # 按时间排序
-    items.sort(key=lambda x: x["ts"], reverse=True)
+    unique.sort(key=lambda x: x["ts"], reverse=True)
 
-    # 限制数量
-    items = items[:40]
+    # 截断
+    unique = unique[:50]
 
     output = {
         "updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
-        "count": len(items),
-        "items": items,
+        "count": len(unique),
+        "items": unique,
     }
 
     path = os.path.join(os.path.dirname(__file__) or ".", "ai-news.json")
     with open(path, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
-    print(f"已保存 {len(items)} 条新闻到 {path}")
 
-    # 分类统计
+    # 统计
     cats = {}
-    for i in items:
+    srcs = {}
+    for i in unique:
         cats[i["category"]] = cats.get(i["category"], 0) + 1
-    print("分类统计:", json.dumps(cats, ensure_ascii=False))
+        srcs[i["source"]] = srcs.get(i["source"], 0) + 1
+    print(f"\n✅ 总计 {len(unique)} 条新闻")
+    print(f"分类: {json.dumps(cats, ensure_ascii=False)}")
+    print(f"来源: {json.dumps(srcs, ensure_ascii=False)}")
+    print(f"保存到: {path}")
 
 if __name__ == "__main__":
     main()
