@@ -26,52 +26,24 @@ def fetch_rsshub(path):
     url = f"https://rsshub.app{path}"
     try:
         xml_data = get(url, xml=True)
-        namespace = {"rss": "http://purl.org/rss/1.0/", "dc": "http://purl.org/dc/elements/1.1/",
-                     "content": "http://purl.org/rss/1.0/modules/content/"}
-        for item in xml_data.findall(".//item", namespace) or xml_data.findall("channel/item"):
+        for item in xml_data.findall(".//item") or xml_data.findall("channel/item"):
             title = item.findtext("title", "")
             link = item.findtext("link", "")
-            desc = item.findtext("description", "") or item.findtext("content:encoded", "") or ""
+            desc = item.findtext("description", "") or ""
             if desc:
                 desc = re.sub(r'<[^>]+>', '', html.unescape(desc))[:200]
-            pub_str = item.findtext("pubDate", "") or item.findtext("dc:date", "")
+            pub_str = item.findtext("pubDate", "") or ""
             ts = 0
             if pub_str:
                 try:
-                    dt = datetime.strptime(pub_str[:19], "%Y-%m-%dT%H:%M:%S")
+                    dt = datetime.strptime(pub_str[:25], "%a, %d %b %Y %H:%M:%S")
                     ts = int(dt.replace(tzinfo=timezone.utc).timestamp())
-                except:
-                    try:
-                        dt = datetime.strptime(pub_str[:25], "%a, %d %b %Y %H:%M:%S")
-                        ts = int(dt.replace(tzinfo=timezone.utc).timestamp())
-                    except: pass
+                except: pass
             if title:
-                items.append({"title": title, "url": link, "desc": desc,
-                            "ts": ts, "raw": True})
+                items.append({"title": title, "url": link, "desc": desc, "ts": ts})
     except Exception as e:
         print(f"  RSSHub {path} 错误: {e}")
     return items
-
-def get_translator():
-    """初始化翻译器"""
-    try:
-        from deep_translator import GoogleTranslator
-        return GoogleTranslator(source="en", target="zh-CN")
-    except:
-        return None
-
-def translate_text(translator, text):
-    """翻译英文到中文"""
-    if not translator or not text or len(text) < 3:
-        return text
-    try:
-        # 检测是否含中文
-        if re.search(r'[\u4e00-\u9fff]', text):
-            return text
-        result = translator.translate(text[:800])
-        return result or text
-    except:
-        return text
 
 # ========== 中文 AI 关键词 ==========
 AI_KEYWORDS_CN = [
