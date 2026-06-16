@@ -13,11 +13,11 @@ def get(url, headers=None):
             data = gzip.decompress(data)
         return json.loads(data)
 
-def fetch_36kr_cat(cat, limit=15):
-    """从 36氪获取指定分类文章"""
+def fetch_36kr(limit=30):
+    """从 36氪获取最新资讯"""
     items = []
     try:
-        data = get(f"https://36kr.com/api/newsflash?per_page={limit}&b_id={cat}")
+        data = get(f"https://36kr.com/api/newsflash?per_page={limit}")
         for item in data.get("data", {}).get("items", []):
             title = item.get("title", "")
             if not title: continue
@@ -85,9 +85,9 @@ def main():
     print("=" * 40)
     all_items = []
 
-    # 36氪 AI 快讯
-    print("36氪 AI...")
-    kr = fetch_36kr_cat("ai", 30)
+    # 36氪
+    print("36氪...")
+    kr = fetch_36kr(30)
     all_items.extend(kr)
     print(f"  {len(kr)} 条")
 
