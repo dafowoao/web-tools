@@ -1,7 +1,150 @@
 {
-  "updated": "2026-06-17 12:16 UTC",
-  "count": 13,
+  "updated": "2026-06-17 18:16 UTC",
+  "count": 21,
   "items": [
+    {
+      "title": "AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781717660,
+      "score": 9,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Competitive Moat That AI Can't Replicate",
+      "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781716461,
+      "score": 7,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+      "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781716052,
+      "score": 139,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
+      "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781715602,
+      "score": 1,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: An 8-bit live gamecast for baseball",
+      "url": "https://ribbie.tv/watch",
+      "desc": "Hey HN, I built a website to watch live baseball games in an 8-bit broadcast. It takes live MLB data streams and converts them into near real-time pixel art gamecasts.Been waiting to share this for wh",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781714655,
+      "score": 87,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "desc": "Hey HN! I&#x27;m Zach from Adam (https:&#x2F;&#x2F;adam.new&#x2F;). We&#x27;re building AI agents for mechanical CAD software. We’ve built the company on two fundamental beliefs:- AI will be the prima",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781712844,
+      "score": 59,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "TREX: An AI code reviewer that runs your code",
+      "url": "https://www.greptile.com/blog/trex-code-execution",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781710141,
+      "score": 15,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Agentic coding deserves more than a chat box bolted onto VS Code",
+      "url": "https://github.com/evanklem/polypore",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781709989,
+      "score": 54,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)",
+      "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781706367,
+      "score": 58,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI demands more engineering discipline. Not less",
+      "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781706044,
+      "score": 198,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+      "url": "https://wpvip.com/future-of-the-web-2026/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781698287,
+      "score": 813,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: High-Res Neural Cellular Automata",
       "url": "https://cells2pixels.github.io/",
@@ -9,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781688516,
-      "score": 79,
+      "score": 158,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,21 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781679882,
-      "score": 110,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
-      "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781660422,
-      "score": 285,
-      "category": "industry",
+      "score": 156,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,47 +178,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781650414,
-      "score": 294,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GPT‑NL: a sovereign language model for the Netherlands",
-      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781632442,
-      "score": 225,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Has AI already killed self-help nonfiction books?",
-      "url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781629865,
-      "score": 330,
+      "score": 345,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Making 'food out of thin air' (2024)",
-      "url": "https://www.noemamag.com/making-food-out-of-thin-air/",
-      "desc": "",
+      "title": "Show HN: Deconvolution – a Rust image deconvolution and restoration crate",
+      "url": "https://github.com/pbkx/deconvolution",
+      "desc": "I&#x27;ve been working on deconvolution, a comprehensive Rust image deconvolution and restoration library. Deconvolution implements 28 different image deconvolution&#x2F;restoration methods which rang",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781473550,
-      "score": 28,
-      "category": "tools",
+      "ts": 1781527231,
+      "score": 17,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,7 +204,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781465121,
-      "score": 12,
+      "score": 122,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,8 +217,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781435996,
-      "score": 37,
-      "category": "llm",
+      "score": 120,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -138,7 +242,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -160,7 +264,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
