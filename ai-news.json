@@ -1,16 +1,42 @@
 {
-  "updated": "2026-06-16 22:12 UTC",
-  "count": 9,
+  "updated": "2026-06-17 04:08 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Silicon Motion exec: Retail SSD market has almost disappeared",
-      "url": "https://www.tomshardware.com/pc-components/ssds/the-retail-ssd-market-has-almost-disappeared-says-silicon-motion-exec-pc-oems-are-buying-third-party-drives-as-direct-nand-supply-dries-up",
+      "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
+      "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781644393,
-      "score": 8,
+      "ts": 1781660422,
+      "score": 51,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781651744,
+      "score": 112,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Humiliating IIS servers for fun and jail time",
+      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781650414,
+      "score": 136,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781635041,
-      "score": 283,
+      "score": 424,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781632442,
-      "score": 101,
-      "category": "industry",
+      "score": 154,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781629865,
-      "score": 82,
+      "score": 197,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781585895,
-      "score": 837,
+      "score": 868,
       "category": "tools",
       "tags": [
         "国际"
@@ -75,7 +101,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -86,7 +112,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -108,7 +134,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
