@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-17 04:08 UTC",
-  "count": 11,
+  "updated": "2026-06-17 12:16 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "Show HN: High-Res Neural Cellular Automata",
+      "url": "https://cells2pixels.github.io/",
+      "desc": "Neural CAs model self-organizing pattern formation.Now they can generate patterns at HD resolution in real-time, enabled by turning each CA cell into a Neural Field.Try 3 demos: grow a pattern from a ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781688516,
+      "score": 79,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The founder's playbook: Building an AI-native startup",
+      "url": "https://claude.com/blog/the-founders-playbook",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781679882,
+      "score": 110,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
       "url": "https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
@@ -9,20 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781660422,
-      "score": 51,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781651744,
-      "score": 112,
+      "score": 285,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,20 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781650414,
-      "score": 136,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Apple is about to make Hide My Email useless",
-      "url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781635041,
-      "score": 424,
+      "score": 294,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781632442,
-      "score": 154,
-      "category": "tools",
+      "score": 225,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,21 +74,47 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781629865,
-      "score": 197,
-      "category": "industry",
+      "score": 330,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
-      "url": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-      "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;ID_AA_Carmack&#x2F;status&#x2F;2064095424420487226",
+      "title": "Making 'food out of thin air' (2024)",
+      "url": "https://www.noemamag.com/making-food-out-of-thin-air/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781585895,
-      "score": 868,
+      "ts": 1781473550,
+      "score": 28,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Abandoned and Little-Known Airfields",
+      "url": "https://airfields-freeman.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781465121,
+      "score": 12,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Capacitor Alarm Clock",
+      "url": "https://github.com/ArcaEge/capacitor-alarm-clock",
+      "desc": "I made an alarm clock that blows up capacitors to wake you up.There are more details on the Github repo but it&#x27;s made from an esp32-c3 as the microcontroller, with 3 capacitor slots. There are re",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781435996,
+      "score": 37,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -101,7 +127,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -112,7 +138,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -134,7 +160,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     }
   ]
