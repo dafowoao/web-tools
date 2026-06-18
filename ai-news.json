@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-18 15:24 UTC",
-  "count": 9,
+  "updated": "2026-06-18 18:26 UTC",
+  "count": 11,
   "items": [
+    {
+      "title": "The founder of Craigslist has given away half a billion dollars",
+      "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781801725,
+      "score": 82,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
       "url": "https://tester.army",
@@ -9,21 +22,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781794184,
-      "score": 14,
+      "score": 55,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving",
+      "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
+      "url": "https://gerrymandle.cc/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781792185,
+      "score": 56,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Emacs 31 is around the corner: The changes I'm daily driving",
       "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781784653,
-      "score": 217,
-      "category": "tools",
+      "score": 312,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781781618,
-      "score": 57,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
-      "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781715602,
-      "score": 1,
-      "category": "tools",
+      "score": 79,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781712844,
-      "score": 198,
-      "category": "tools",
+      "score": 201,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Notes from Tired Egyptian Whose Job Is Explaining That Humans Built the Pyramids",
+      "url": "https://www.mcsweeneys.net/articles/notes-from-a-tired-egyptian-guy-whose-job-is-explaining-that-humans-built-the-pyramids",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781602590,
+      "score": 21,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -75,7 +101,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -86,7 +112,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -108,7 +134,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
