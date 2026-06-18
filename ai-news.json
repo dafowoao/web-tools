@@ -1,42 +1,42 @@
 {
-  "updated": "2026-06-18 08:52 UTC",
-  "count": 12,
+  "updated": "2026-06-18 15:24 UTC",
+  "count": 9,
   "items": [
     {
-      "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
-      "url": "https://www.acma.gov.au/sms-sender-id-register",
+      "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+      "url": "https://tester.army",
+      "desc": "Hey HN - we’re Oskar, Szymon, and Piotr, and we’re building TesterArmy (https:&#x2F;&#x2F;tester.army). TesterArmy is an agentic testing platform that runs end-to-end checks before deployment and in p",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781794184,
+      "score": 14,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving",
+      "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781763804,
-      "score": 74,
+      "ts": 1781784653,
+      "score": 217,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "AI Compute Extensions (ACE) Specification",
-      "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+      "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
+      "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781749921,
-      "score": 34,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "ChatGPT's image generator can be manipulated to produce violent, sexual content",
-      "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781742244,
-      "score": 96,
-      "category": "llm",
+      "ts": 1781781618,
+      "score": 57,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -49,20 +49,7 @@
       "sourceColor": "#ff6600",
       "ts": 1781715602,
       "score": 1,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: An 8-bit live gamecast for baseball",
-      "url": "https://ribbie.tv/watch",
-      "desc": "Hey HN, I built a website to watch live baseball games in an 8-bit broadcast. It takes live MLB data streams and converts them into near real-time pixel art gamecasts.Been waiting to share this for wh",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781714655,
-      "score": 229,
-      "category": "llm",
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,34 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781712844,
-      "score": 181,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The founder's playbook: Building an AI-native startup",
-      "url": "https://claude.com/blog/the-founders-playbook",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781679882,
-      "score": 228,
+      "score": 198,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Spin Lab",
-      "url": "https://srijanshukla.com/artifacts/spin-lab/",
-      "desc": "Hey HN, I built Spin Lab: a browser-based interactive explainer for table-tennis spin. It visualizes topspin&#x2F;backspin, spin rate, ball trajectory, bounce behavior, and why the opponent’s return r",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781612171,
-      "score": 34,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -114,7 +75,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -125,7 +86,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -147,7 +108,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     }
   ]
