@@ -1,41 +1,41 @@
 {
-  "updated": "2026-06-18 03:58 UTC",
-  "count": 16,
+  "updated": "2026-06-18 08:52 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "[x86] AI Compute Extensions (ACE) Specification",
-      "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+      "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
+      "url": "https://www.acma.gov.au/sms-sender-id-register",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781749921,
-      "score": 13,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
-      "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781730007,
-      "score": 193,
+      "ts": 1781763804,
+      "score": 74,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Using AI to improve a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction/",
+      "title": "AI Compute Extensions (ACE) Specification",
+      "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781717660,
-      "score": 51,
+      "ts": 1781749921,
+      "score": 34,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "ChatGPT's image generator can be manipulated to produce violent, sexual content",
+      "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781742244,
+      "score": 96,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781714655,
-      "score": 214,
-      "category": "tools",
+      "score": 229,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,34 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781712844,
-      "score": 167,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "TREX: An AI code reviewer that runs your code",
-      "url": "https://www.greptile.com/blog/trex-code-execution",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781710141,
-      "score": 53,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI demands more engineering discipline. Not less",
-      "url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781706044,
-      "score": 350,
-      "category": "tools",
+      "score": 181,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781679882,
-      "score": 215,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: BlitzGraph – Supabase for graphs, built for LLM agents",
-      "url": "https://blitzgraph.com",
-      "desc": "Hello HN\nAfter becoming allergic to SQL, I opened 120+ issues in Dgraph, Typedb and surrealdb looking for the perfect graphDB. None of them was built for agents nor were they the perfect fit for what ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781624462,
-      "score": 8,
-      "category": "industry",
+      "score": 228,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781612171,
-      "score": 13,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Abandoned and Little-Known Airfields",
-      "url": "https://airfields-freeman.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781465121,
-      "score": 144,
+      "score": 34,
       "category": "industry",
       "tags": [
         "国际"
