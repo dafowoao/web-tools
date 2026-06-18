@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-18 18:26 UTC",
-  "count": 11,
+  "updated": "2026-06-18 22:08 UTC",
+  "count": 16,
   "items": [
+    {
+      "title": "Show HN: Are You in the Weights?",
+      "url": "https://www.intheweights.com/",
+      "desc": "With more traffic moving off-web and into LLMs, I got curious about what traces we leave &quot;in the weights&quot;. My design partner and I built a site in the past few weeks that checks recognition ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781815743,
+      "score": 87,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "The founder of Craigslist has given away half a billion dollars",
       "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
@@ -9,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781801725,
-      "score": 82,
+      "score": 259,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781794184,
-      "score": 55,
-      "category": "llm",
+      "score": 87,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781792185,
-      "score": 56,
-      "category": "llm",
+      "score": 113,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+      "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "desc": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260618100028&#x2F;https:&#x2F;&#x2F;www.wired...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781786649,
+      "score": 55,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781784653,
-      "score": 312,
+      "score": 393,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,34 +87,73 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781781618,
-      "score": 79,
-      "category": "llm",
+      "score": 93,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-      "url": "https://github.com/Adam-CAD/CADAM",
-      "desc": "Hey HN! I&#x27;m Zach from Adam (https:&#x2F;&#x2F;adam.new&#x2F;). We&#x27;re building AI agents for mechanical CAD software. We’ve built the company on two fundamental beliefs:- AI will be the prima",
+      "title": "Ask HN: Is anyone using the A2A protocol?",
+      "url": "https://news.ycombinator.com/item?id=48582679",
+      "desc": "The A2A protocol is an agent to agent protocol from Google. I was looking at it 6 months back but it didn&#x27;t feel like I really understood how to use it at that point. Probably because we were all",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781712844,
-      "score": 201,
+      "ts": 1781772765,
+      "score": 53,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Noam Shazeer Joins OpenAI",
+      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+      "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;NoamShazeer&#x2F;status&#x2F;2067400851438932297https:&#x2F;&#x2F;www.reuters.com&#x2F;technology&#x2F;googles-gemini-co-lead-no...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781742366,
+      "score": 205,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Notes from Tired Egyptian Whose Job Is Explaining That Humans Built the Pyramids",
+      "title": "Agentic Resource Discovery Specification",
+      "url": "https://agenticresourcediscovery.org/introduction/",
+      "desc": "https:&#x2F;&#x2F;developers.googleblog.com&#x2F;en&#x2F;announcing-the-agentic-...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781715797,
+      "score": 35,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Notes from tired Egyptian whose job is explaining that humans built the pyramids",
       "url": "https://www.mcsweeneys.net/articles/notes-from-a-tired-egyptian-guy-whose-job-is-explaining-that-humans-built-the-pyramids",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781602590,
-      "score": 21,
-      "category": "llm",
+      "score": 149,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Dutch Railways offers unlimited off-peak train travel nationwide for €49/month",
+      "url": "https://www.ns.nl/en/season-tickets/dal-vrij",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781541894,
+      "score": 144,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -101,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -134,7 +199,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
