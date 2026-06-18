@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-17 22:01 UTC",
+  "updated": "2026-06-18 03:58 UTC",
   "count": 16,
   "items": [
     {
-      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-      "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
+      "title": "[x86] AI Compute Extensions (ACE) Specification",
+      "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781731895,
-      "score": 30,
-      "category": "llm",
+      "ts": 1781749921,
+      "score": 13,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781730007,
-      "score": 58,
+      "score": 193,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,21 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781717660,
-      "score": 40,
+      "score": 51,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Competitive Moat That AI Can't Replicate",
-      "url": "https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781716461,
-      "score": 80,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -62,7 +49,7 @@
       "sourceColor": "#ff6600",
       "ts": 1781715602,
       "score": 1,
-      "category": "tools",
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781714655,
-      "score": 168,
+      "score": 214,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781712844,
-      "score": 121,
-      "category": "llm",
+      "score": 167,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781710141,
-      "score": 44,
+      "score": 53,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781706044,
-      "score": 299,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: High-Res Neural Cellular Automata",
-      "url": "https://cells2pixels.github.io/",
-      "desc": "Neural CAs model self-organizing pattern formation.Now they can generate patterns at HD resolution in real-time, enabled by turning each CA cell into a Neural Field.Try 3 demos: grow a pattern from a ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781688516,
-      "score": 176,
-      "category": "industry",
+      "score": 350,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,7 +113,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781679882,
-      "score": 192,
+      "score": 215,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: BlitzGraph – Supabase for graphs, built for LLM agents",
+      "url": "https://blitzgraph.com",
+      "desc": "Hello HN\nAfter becoming allergic to SQL, I opened 120+ issues in Dgraph, Typedb and surrealdb looking for the perfect graphDB. None of them was built for agents nor were they the perfect fit for what ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781624462,
+      "score": 8,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Spin Lab",
+      "url": "https://srijanshukla.com/artifacts/spin-lab/",
+      "desc": "Hey HN, I built Spin Lab: a browser-based interactive explainer for table-tennis spin. It visualizes topspin&#x2F;backspin, spin rate, ball trajectory, bounce behavior, and why the opponent’s return r",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781612171,
+      "score": 13,
       "category": "tools",
       "tags": [
         "国际"
@@ -152,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781465121,
-      "score": 141,
-      "category": "tools",
+      "score": 144,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -166,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -177,7 +177,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -199,7 +199,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
