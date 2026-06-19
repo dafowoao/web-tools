@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-19 04:18 UTC",
-  "count": 18,
+  "updated": "2026-06-19 12:06 UTC",
+  "count": 17,
   "items": [
+    {
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781850957,
+      "score": 210,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
       "url": "https://www.flexport.com/company/careers/",
@@ -16,27 +29,27 @@
       ]
     },
     {
+      "title": "The AirPods Effect",
+      "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781824115,
+      "score": 135,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
       "title": "Show HN: Are You in the Weights?",
       "url": "https://www.intheweights.com/",
       "desc": "With more traffic moving off-web and into LLMs, I got curious about what traces we leave &quot;in the weights&quot;. My design partner and I built a site in the past few weeks that checks recognition ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781815743,
-      "score": 246,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The founder of Craigslist has given away half a billion dollars",
-      "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781801725,
-      "score": 338,
-      "category": "llm",
+      "score": 366,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781794313,
-      "score": 31,
-      "category": "llm",
+      "score": 89,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781794184,
-      "score": 109,
-      "category": "tools",
+      "score": 121,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781792185,
-      "score": 148,
+      "score": 177,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781788244,
-      "score": 21,
+      "score": 60,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,34 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781786649,
-      "score": 104,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Emacs 31 is around the corner: The changes I'm daily driving",
-      "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781784653,
-      "score": 423,
+      "score": 115,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Is anyone using the A2A protocol?",
-      "url": "https://news.ycombinator.com/item?id=48582679",
-      "desc": "The A2A protocol is an agent to agent protocol from Google. I was looking at it 6 months back but it didn&#x27;t feel like I really understood how to use it at that point. Probably because we were all",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781772765,
-      "score": 72,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781742366,
-      "score": 305,
+      "score": 335,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781715797,
-      "score": 58,
-      "category": "industry",
+      "score": 69,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -165,21 +152,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781705038,
-      "score": 61,
-      "category": "llm",
+      "score": 113,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Dutch Railways offers unlimited off-peak train travel nationwide for €49/month",
-      "url": "https://www.ns.nl/en/season-tickets/dal-vrij",
+      "title": "Zen and the Art of Machine Learning Research",
+      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781541894,
-      "score": 206,
-      "category": "tools",
+      "ts": 1781570750,
+      "score": 88,
+      "category": "industry",
       "tags": [
         "国际"
       ]
