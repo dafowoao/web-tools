@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-19 12:06 UTC",
-  "count": 17,
+  "updated": "2026-06-19 17:58 UTC",
+  "count": 16,
   "items": [
+    {
+      "title": "A New Bill Takes Aim at Government Pressure to Silence Lawful Online Speech",
+      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781890468,
+      "score": 16,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Hyundai buys Boston Dynamics, Atlas humanoid to be used at vehicle plant by 2028",
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781886500,
+      "score": 88,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
       "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
@@ -9,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781850957,
-      "score": 210,
-      "category": "llm",
+      "score": 444,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -23,7 +49,7 @@
       "sourceColor": "#ff6600",
       "ts": 1781830873,
       "score": 1,
-      "category": "industry",
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,59 +61,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781824115,
-      "score": 135,
-      "category": "industry",
+      "score": 307,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Are You in the Weights?",
-      "url": "https://www.intheweights.com/",
-      "desc": "With more traffic moving off-web and into LLMs, I got curious about what traces we leave &quot;in the weights&quot;. My design partner and I built a site in the past few weeks that checks recognition ",
+      "title": "Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages",
+      "url": "https://github.com/Amal-David/pagecast",
+      "desc": "I built this because I kept generating HTML&#x2F;Markdown reports from Claude Code&#x2F;Codex and needed a permanent share link instead of a localhost tunnel. Pagecast is a local CLI that publishes th",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781815743,
-      "score": 366,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Building a robotics research setup that lives next to my desk",
-      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-      "desc": "Quick framing, since the post is long: I did robotic manipulation research at OpenAI from 2017–2020, and the tabletop setup back then cost roughly 10x this one and took a team to run. This project is ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781794313,
-      "score": 89,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
-      "url": "https://tester.army",
-      "desc": "Hey HN - we’re Oskar, Szymon, and Piotr, and we’re building TesterArmy (https:&#x2F;&#x2F;tester.army). TesterArmy is an agentic testing platform that runs end-to-end checks before deployment and in p",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781794184,
-      "score": 121,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
-      "url": "https://gerrymandle.cc/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781792185,
-      "score": 177,
+      "ts": 1781811774,
+      "score": 4,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781788244,
-      "score": 60,
+      "score": 85,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,34 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781786649,
-      "score": 115,
+      "score": 128,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Noam Shazeer Joins OpenAI",
-      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
-      "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;NoamShazeer&#x2F;status&#x2F;2067400851438932297https:&#x2F;&#x2F;www.reuters.com&#x2F;technology&#x2F;googles-gemini-co-lead-no...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781742366,
-      "score": 335,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Agentic Resource Discovery Specification",
-      "url": "https://agenticresourcediscovery.org/introduction/",
-      "desc": "https:&#x2F;&#x2F;developers.googleblog.com&#x2F;en&#x2F;announcing-the-agentic-...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781715797,
-      "score": 69,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,8 +113,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781705038,
-      "score": 113,
-      "category": "tools",
+      "score": 153,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Reinventing the Renaissance",
+      "url": "https://drb.ie/article/reinventing-the-renaissance/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781648772,
+      "score": 22,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
+      "url": "https://metiq.space",
+      "desc": "The concept for metiq.space came after playing Global Magnates with friends and realizing how fragmented live global data is. ships, aircraft, satellites, ports, weather, hazards, infrastructure, cybe",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781621018,
+      "score": 18,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -165,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781570750,
-      "score": 88,
-      "category": "industry",
+      "score": 188,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -179,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -190,7 +177,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -212,7 +199,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
