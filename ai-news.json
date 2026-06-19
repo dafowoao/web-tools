@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-18 22:08 UTC",
-  "count": 16,
+  "updated": "2026-06-19 04:18 UTC",
+  "count": 18,
   "items": [
+    {
+      "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
+      "url": "https://www.flexport.com/company/careers/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781830873,
+      "score": 1,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Are You in the Weights?",
       "url": "https://www.intheweights.com/",
@@ -9,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781815743,
-      "score": 87,
+      "score": 246,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,8 +35,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781801725,
-      "score": 259,
-      "category": "tools",
+      "score": 338,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Building a robotics research setup that lives next to my desk",
+      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+      "desc": "Quick framing, since the post is long: I did robotic manipulation research at OpenAI from 2017–2020, and the tabletop setup back then cost roughly 10x this one and took a team to run. This project is ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781794313,
+      "score": 31,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781794184,
-      "score": 87,
-      "category": "industry",
+      "score": 109,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781792185,
-      "score": 113,
+      "score": 148,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
+      "url": "https://github.com/cajal-technologies/talos",
+      "desc": "At Cajal (YC W26) we’re excited to share Talos (https:&#x2F;&#x2F;github.com&#x2F;cajal-technologies&#x2F;talos), an open source framework for formal verification of WebAssembly modules in Lean.AI is ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781788244,
+      "score": 21,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781786649,
-      "score": 55,
-      "category": "industry",
+      "score": 104,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781784653,
-      "score": 393,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
-      "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781781618,
-      "score": 93,
+      "score": 423,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781772765,
-      "score": 53,
-      "category": "industry",
+      "score": 72,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781742366,
-      "score": 205,
+      "score": 305,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,21 +152,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781715797,
-      "score": 35,
+      "score": 58,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Notes from tired Egyptian whose job is explaining that humans built the pyramids",
-      "url": "https://www.mcsweeneys.net/articles/notes-from-a-tired-egyptian-guy-whose-job-is-explaining-that-humans-built-the-pyramids",
+      "title": "How Japan's railways stayed one while splitting apart",
+      "url": "https://arun.is/blog/jr-logo/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781602590,
-      "score": 149,
-      "category": "industry",
+      "ts": 1781705038,
+      "score": 61,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,8 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781541894,
-      "score": 144,
-      "category": "industry",
+      "score": 206,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -166,7 +192,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
