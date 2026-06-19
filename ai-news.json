@@ -1,29 +1,81 @@
 {
-  "updated": "2026-06-19 17:58 UTC",
-  "count": 16,
+  "updated": "2026-06-19 21:11 UTC",
+  "count": 19,
   "items": [
     {
-      "title": "A New Bill Takes Aim at Government Pressure to Silence Lawful Online Speech",
-      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+      "title": "Amazon drops Sam Altman movie after announcing OpenAI partnership",
+      "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781890468,
-      "score": 16,
+      "ts": 1781899396,
+      "score": 92,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Hyundai buys Boston Dynamics, Atlas humanoid to be used at vehicle plant by 2028",
+      "title": "Companies rein in AI usage as costs strain budgets",
+      "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
+      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;z24oE",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781899038,
+      "score": 31,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Big Banana Car",
+      "url": "https://bigbananacar.com/",
+      "desc": "https:&#x2F;&#x2F;cowboystatedaily.com&#x2F;2026&#x2F;06&#x2F;18&#x2F;giant-banana-pulled-...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781892851,
+      "score": 84,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "John Jumper to join Anthropic",
+      "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781891580,
+      "score": 41,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "A new bill takes aim at government pressure to silence lawful online speech",
+      "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781890468,
+      "score": 161,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Hyundai buys Boston Dynamics",
       "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781886500,
-      "score": 88,
-      "category": "llm",
+      "score": 453,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781850957,
-      "score": 444,
-      "category": "industry",
+      "score": 508,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -49,7 +101,7 @@
       "sourceColor": "#ff6600",
       "ts": 1781830873,
       "score": 1,
-      "category": "tools",
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781824115,
-      "score": 307,
+      "score": 348,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,33 +126,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781811774,
+      "score": 17,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: How do you separate intentional test boilerplate from real duplication?",
+      "url": "https://news.ycombinator.com/item?id=48574082",
+      "desc": "I am maintaining an open-source project (deterministic open source duplicate-code detector) and a user asked for a feature which I don’t have a clear answer on how to implement.This seems a very hard ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781718877,
       "score": 4,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
-      "url": "https://github.com/cajal-technologies/talos",
-      "desc": "At Cajal (YC W26) we’re excited to share Talos (https:&#x2F;&#x2F;github.com&#x2F;cajal-technologies&#x2F;talos), an open source framework for formal verification of WebAssembly modules in Lean.AI is ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781788244,
-      "score": 85,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
-      "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-      "desc": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260618100028&#x2F;https:&#x2F;&#x2F;www.wired...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781786649,
-      "score": 128,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781705038,
-      "score": 153,
-      "category": "industry",
+      "score": 175,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781648772,
-      "score": 22,
-      "category": "industry",
+      "score": 33,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,7 +178,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781621018,
-      "score": 18,
+      "score": 54,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,8 +191,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781570750,
-      "score": 188,
-      "category": "llm",
+      "score": 221,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -166,7 +205,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -177,7 +216,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
