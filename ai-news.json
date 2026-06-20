@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-20 10:32 UTC",
-  "count": 20,
+  "updated": "2026-06-20 14:03 UTC",
+  "count": 19,
   "items": [
+    {
+      "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+      "url": "https://bootimus.com",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781952918,
+      "score": 21,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "LLMs Are Complicated Now",
       "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
@@ -9,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781918714,
-      "score": 15,
-      "category": "llm",
+      "score": 79,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781892851,
-      "score": 156,
-      "category": "llm",
+      "score": 164,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781891580,
-      "score": 135,
+      "score": 151,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781886500,
-      "score": 833,
-      "category": "industry",
+      "score": 879,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781885485,
-      "score": 173,
+      "score": 320,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781884995,
-      "score": 675,
+      "score": 739,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781850957,
-      "score": 596,
-      "category": "industry",
+      "score": 620,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781824115,
-      "score": 413,
-      "category": "llm",
+      "score": 431,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,34 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781794313,
-      "score": 150,
-      "category": "industry",
+      "score": 165,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "How Japan's railways stayed one while splitting apart",
-      "url": "https://arun.is/blog/jr-logo/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781705038,
-      "score": 183,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Digital Printing of Arabic: explaining the problem",
+      "title": "Digital Printing of Arabic: explaining the problem (2017)",
       "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781648584,
-      "score": 56,
-      "category": "industry",
+      "score": 68,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -152,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781646717,
-      "score": 129,
-      "category": "tools",
+      "score": 157,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -165,20 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781634279,
-      "score": 30,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Meet Nikolai Evreinov, the 19th century Nathan Fielder",
-      "url": "https://mssv.net/2026/06/16/meet-nikolai-evreinov-the-19th-century-nathan-fielder/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781622030,
-      "score": 23,
+      "score": 52,
       "category": "tools",
       "tags": [
         "国际"
@@ -191,8 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781621018,
-      "score": 125,
-      "category": "tools",
+      "score": 134,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -204,7 +191,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781570750,
-      "score": 261,
+      "score": 272,
       "category": "industry",
       "tags": [
         "国际"
@@ -251,7 +238,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
