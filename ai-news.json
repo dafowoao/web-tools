@@ -1,33 +1,7 @@
 {
-  "updated": "2026-06-20 03:40 UTC",
+  "updated": "2026-06-20 07:50 UTC",
   "count": 19,
   "items": [
-    {
-      "title": "We built a lab to evaluate data agents – Hex",
-      "url": "https://hex.tech/blog/evaluate-data-agents/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781914988,
-      "score": 5,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Aikido Code Audit",
-      "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781913294,
-      "score": 25,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "Big Banana Car",
       "url": "https://bigbananacar.com/",
@@ -35,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781892851,
-      "score": 124,
-      "category": "llm",
+      "score": 145,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781891580,
-      "score": 84,
+      "score": 118,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781890468,
-      "score": 251,
-      "category": "industry",
+      "score": 274,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,7 +48,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781886500,
-      "score": 698,
+      "score": 782,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "url": "https://arrowtsx.dev/bigger-models/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781885485,
+      "score": 92,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781884995,
-      "score": 495,
-      "category": "industry",
+      "score": 614,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781850957,
-      "score": 548,
+      "score": 586,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781824115,
-      "score": 386,
-      "category": "tools",
+      "score": 411,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,8 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781794313,
-      "score": 124,
-      "category": "tools",
+      "score": 144,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How Japan's railways stayed one while splitting apart",
+      "url": "https://arun.is/blog/jr-logo/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781705038,
+      "score": 183,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,34 +139,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781648584,
-      "score": 29,
+      "score": 50,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Data Compression Explained",
+      "title": "Data Compression Explained (2012)",
       "url": "https://mattmahoney.net/dc/dce.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781646717,
-      "score": 8,
-      "category": "industry",
+      "score": 95,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Meet Nikolai Evreinov, the 19th century Nathan Fielder",
-      "url": "https://mssv.net/2026/06/16/meet-nikolai-evreinov-the-19th-century-nathan-fielder/",
+      "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
+      "url": "https://ironicsans.ghost.io/the-color-strike/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781622030,
-      "score": 5,
-      "category": "llm",
+      "ts": 1781634279,
+      "score": 8,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -178,8 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781621018,
-      "score": 95,
-      "category": "llm",
+      "score": 116,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -191,8 +191,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781570750,
-      "score": 240,
-      "category": "tools",
+      "score": 255,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -238,7 +238,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     }
   ]
