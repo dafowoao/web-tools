@@ -1,29 +1,29 @@
 {
-  "updated": "2026-06-19 21:11 UTC",
+  "updated": "2026-06-20 03:40 UTC",
   "count": 19,
   "items": [
     {
-      "title": "Amazon drops Sam Altman movie after announcing OpenAI partnership",
-      "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
+      "title": "We built a lab to evaluate data agents – Hex",
+      "url": "https://hex.tech/blog/evaluate-data-agents/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781899396,
-      "score": 92,
-      "category": "llm",
+      "ts": 1781914988,
+      "score": 5,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Companies rein in AI usage as costs strain budgets",
-      "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;z24oE",
+      "title": "Aikido Code Audit",
+      "url": "https://www.aikido.dev/blog/introducing-code-audit-find-complex-vulnerabilities-hidden-in-your-codebase",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781899038,
-      "score": 31,
-      "category": "tools",
+      "ts": 1781913294,
+      "score": 25,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781892851,
-      "score": 84,
-      "category": "tools",
+      "score": 124,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781891580,
-      "score": 41,
+      "score": 84,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781890468,
-      "score": 161,
-      "category": "tools",
+      "score": 251,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781886500,
-      "score": 453,
-      "category": "tools",
+      "score": 698,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Norway imposes near ban on AI in elementary school",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781884995,
+      "score": 495,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781850957,
-      "score": 508,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
-      "url": "https://www.flexport.com/company/careers/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781830873,
-      "score": 1,
-      "category": "llm",
+      "score": 548,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,60 +113,60 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781824115,
-      "score": 348,
+      "score": 386,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Building a robotics research setup that lives next to my desk",
+      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+      "desc": "Quick framing, since the post is long: I did robotic manipulation research at OpenAI from 2017–2020, and the tabletop setup back then cost roughly 10x this one and took a team to run. This project is ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781794313,
+      "score": 124,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Digital Printing of Arabic: explaining the problem",
+      "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781648584,
+      "score": 29,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages",
-      "url": "https://github.com/Amal-David/pagecast",
-      "desc": "I built this because I kept generating HTML&#x2F;Markdown reports from Claude Code&#x2F;Codex and needed a permanent share link instead of a localhost tunnel. Pagecast is a local CLI that publishes th",
+      "title": "Data Compression Explained",
+      "url": "https://mattmahoney.net/dc/dce.html",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781811774,
-      "score": 17,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: How do you separate intentional test boilerplate from real duplication?",
-      "url": "https://news.ycombinator.com/item?id=48574082",
-      "desc": "I am maintaining an open-source project (deterministic open source duplicate-code detector) and a user asked for a feature which I don’t have a clear answer on how to implement.This seems a very hard ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781718877,
-      "score": 4,
+      "ts": 1781646717,
+      "score": 8,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "How Japan's railways stayed one while splitting apart",
-      "url": "https://arun.is/blog/jr-logo/",
+      "title": "Meet Nikolai Evreinov, the 19th century Nathan Fielder",
+      "url": "https://mssv.net/2026/06/16/meet-nikolai-evreinov-the-19th-century-nathan-fielder/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781705038,
-      "score": 175,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Reinventing the Renaissance",
-      "url": "https://drb.ie/article/reinventing-the-renaissance/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781648772,
-      "score": 33,
-      "category": "tools",
+      "ts": 1781622030,
+      "score": 5,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -178,7 +178,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781621018,
-      "score": 54,
+      "score": 95,
       "category": "llm",
       "tags": [
         "国际"
@@ -191,7 +191,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781570750,
-      "score": 221,
+      "score": 240,
       "category": "tools",
       "tags": [
         "国际"
@@ -205,7 +205,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -216,7 +216,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -238,7 +238,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
