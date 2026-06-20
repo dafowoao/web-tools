@@ -1,41 +1,15 @@
 {
-  "updated": "2026-06-20 17:26 UTC",
-  "count": 15,
+  "updated": "2026-06-20 21:18 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Iran says it's closing Strait of Hormuz, accusing Israel, US of violating truce",
-      "url": "https://www.cnn.com/2026/06/20/world/live-news/iran-war-trump-israel-lebanon",
+      "title": "UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence",
+      "url": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781973520,
-      "score": 21,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Lobsters Bug Allows Unauthorized Email Access",
-      "url": "https://lobste.rs/s/7heurd",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781970956,
-      "score": 9,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "US Scientist John Jumper to Leave Google DeepMind for Anthropic",
-      "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781965935,
-      "score": 44,
+      "ts": 1781988066,
+      "score": 13,
       "category": "tools",
       "tags": [
         "国际"
@@ -43,25 +17,38 @@
     },
     {
       "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69",
-      "desc": "",
+      "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
+      "desc": "https:&#x2F;&#x2F;www.thegamer.com&#x2F;ubisoft-co-founder-claude-guillemot...",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781964770,
-      "score": 80,
+      "score": 138,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: We post-trained a model that pen tests instead of refusing",
+      "url": "https://www.argusred.com/cli",
+      "desc": "Anthropic and OpenAI&#x27;s publicly available models are explicitly guard-railed so that they refuse offensive tasks. And their cyber-focussed models are gated for enterprises. This leaves SMEs and m",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781963343,
+      "score": 50,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Temporary Cloudflare Accounts for AI Agents",
+      "title": "Temporary Cloudflare accounts for AI agents",
       "url": "https://blog.cloudflare.com/temporary-accounts/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781954345,
-      "score": 55,
+      "score": 117,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,33 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781952918,
-      "score": 71,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LLMs Are Complicated Now",
-      "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781918714,
-      "score": 124,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Hyundai buys Boston Dynamics",
-      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781886500,
-      "score": 910,
+      "score": 93,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781885485,
-      "score": 413,
-      "category": "tools",
+      "score": 475,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,20 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781646717,
-      "score": 174,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
-      "url": "https://ironicsans.ghost.io/the-color-strike/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781634279,
-      "score": 76,
+      "score": 183,
       "category": "tools",
       "tags": [
         "国际"
@@ -153,7 +101,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -164,7 +112,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
