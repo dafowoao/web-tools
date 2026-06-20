@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-20 14:03 UTC",
-  "count": 19,
+  "updated": "2026-06-20 17:26 UTC",
+  "count": 15,
   "items": [
+    {
+      "title": "Iran says it's closing Strait of Hormuz, accusing Israel, US of violating truce",
+      "url": "https://www.cnn.com/2026/06/20/world/live-news/iran-war-trump-israel-lebanon",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781973520,
+      "score": 21,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Lobsters Bug Allows Unauthorized Email Access",
+      "url": "https://lobste.rs/s/7heurd",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781970956,
+      "score": 9,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "US Scientist John Jumper to Leave Google DeepMind for Anthropic",
+      "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781965935,
+      "score": 44,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781964770,
+      "score": 80,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Temporary Cloudflare Accounts for AI Agents",
+      "url": "https://blog.cloudflare.com/temporary-accounts/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781954345,
+      "score": 55,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
       "url": "https://bootimus.com",
@@ -9,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781952918,
-      "score": 21,
-      "category": "tools",
+      "score": 71,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,33 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781918714,
-      "score": 79,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Big Banana Car",
-      "url": "https://bigbananacar.com/",
-      "desc": "https:&#x2F;&#x2F;cowboystatedaily.com&#x2F;2026&#x2F;06&#x2F;18&#x2F;giant-banana-pulled-...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781892851,
-      "score": 164,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "John Jumper to join Anthropic",
-      "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781891580,
-      "score": 151,
+      "score": 124,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781886500,
-      "score": 879,
-      "category": "tools",
+      "score": 910,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,72 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781885485,
-      "score": 320,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Norway imposes near ban on AI in elementary school",
-      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781884995,
-      "score": 739,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781850957,
-      "score": 620,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The AirPods Effect",
-      "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781824115,
-      "score": 431,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Building a robotics research setup that lives next to my desk",
-      "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-      "desc": "Quick framing, since the post is long: I did robotic manipulation research at OpenAI from 2017–2020, and the tabletop setup back then cost roughly 10x this one and took a team to run. This project is ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781794313,
-      "score": 165,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Digital Printing of Arabic: explaining the problem (2017)",
-      "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781648584,
-      "score": 68,
+      "score": 413,
       "category": "tools",
       "tags": [
         "国际"
@@ -152,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781646717,
-      "score": 157,
+      "score": 174,
       "category": "llm",
       "tags": [
         "国际"
@@ -165,34 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781634279,
-      "score": 52,
+      "score": 76,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
-      "url": "https://metiq.space",
-      "desc": "The concept for metiq.space came after playing Global Magnates with friends and realizing how fragmented live global data is. ships, aircraft, satellites, ports, weather, hazards, infrastructure, cybe",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781621018,
-      "score": 134,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Zen and the Art of Machine Learning Research",
-      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781570750,
-      "score": 272,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -205,7 +153,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -216,7 +164,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
