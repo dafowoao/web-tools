@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0"><title>JSON 格式化</title>
+<style>*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0a0e1a;color:#e0edf8;font-family:'Segoe UI','PingFang SC','Consolas',monospace;min-height:100vh;display:flex;justify-content:center;align-items:center;padding:1rem}
+.card{background:#111827;border:1px solid #1f2a44;border-radius:16px;padding:1.5rem;max-width:700px;width:100%}
+h1{font-size:1.2rem;color:#6b9eff;margin-bottom:.3rem;display:flex;align-items:center;gap:.4rem}
+.sub{color:#5a6a80;font-size:.75rem;margin-bottom:.8rem}
+.actions{display:flex;gap:.5rem;margin-bottom:.6rem;flex-wrap:wrap}
+.actions button{padding:.35rem .8rem;border:none;border-radius:6px;font-size:.8rem;cursor:pointer;transition:.2s;font-family:inherit}
+.btn-fmt{background:#6b9eff;color:#fff}.btn-fmt:hover{opacity:.85}
+.btn-clr{background:#1f2a44;color:#e0edf8}.btn-clr:hover{background:#2a3a5a}
+.btn-cp{background:#1f2a44;color:#e0edf8}.btn-cp:hover{background:#2a3a5a}
+.btn-min{background:#1f2a44;color:#e0edf8;margin-left:auto}.btn-min:hover{background:#2a3a5a}
+textarea{width:100%;height:280px;background:#0d1322;border:1px solid #1f2a44;border-radius:8px;color:#e0edf8;font-family:'Consolas','Fira Code',monospace;font-size:.85rem;padding:.8rem;resize:vertical;outline:none;line-height:1.5;tab-size:2}
+textarea:focus{border-color:#6b9eff}
+.err{color:#f87171;font-size:.8rem;margin-top:.4rem;min-height:1.2rem;word-break:break-all}
+.info{color:#5a6a80;font-size:.75rem;margin-top:.3rem}
+@media(max-width:500px){.card{padding:1rem}textarea{height:200px;font-size:.78rem}}
+</style></head>
+<body>
+<div class="card">
+  <h1>📋 JSON 格式化</h1>
+  <div class="sub">格式化 / 压缩 / 校验 JSON</div>
+  <div class="actions">
+    <button class="btn-fmt" onclick="fmt(true)">格式化</button>
+    <button class="btn-min" onclick="fmt(false)">压缩</button>
+    <button class="btn-cp" onclick="copy()">复制</button>
+    <button class="btn-clr" onclick="clr()">清空</button>
+  </div>
+  <textarea id="input" placeholder="粘贴 JSON 到这里..." spellcheck="false"></textarea>
+  <div class="err" id="err"></div>
+  <div class="info" id="info"></div>
+</div>
+<script>
+function fmt(pretty){var v=document.getElementById('input').value.trim(),e=document.getElementById('err'),i=document.getElementById('info');
+  if(!v){e.textContent='';i.textContent='';return}
+  try{var p=JSON.parse(v);e.textContent='';document.getElementById('input').value=pretty?JSON.stringify(p,null,2):JSON.stringify(p);
+    var len=document.getElementById('input').value.length,lines=document.getElementById('input').value.split('\n').length;
+    i.innerHTML='✅ 有效JSON · '+len+' 字符 · '+lines+' 行'}catch(x){e.textContent='❌ '+x.message;i.textContent=''}}
+function copy(){var v=document.getElementById('input');if(!v.value)return;navigator.clipboard.writeText(v.value);var o=document.getElementById('info');o.innerHTML='📋 已复制';setTimeout(()=>{var e=document.getElementById('err');if(!e.textContent)o.innerHTML=''},1200)}
+function clr(){document.getElementById('input').value='';document.getElementById('err').textContent='';document.getElementById('info').textContent=''}
+document.getElementById('input').addEventListener('keydown',function(e){if(e.key==='Tab'){e.preventDefault();var s=this.selectionStart;this.value=this.value.substring(0,s)+'  '+this.value.substring(this.selectionEnd);this.selectionStart=this.selectionEnd=s+2}});
+</script>
+</body></html>

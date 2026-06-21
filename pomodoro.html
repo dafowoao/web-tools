@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0"><title>番茄时钟</title>
+<style>@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700&display=swap');
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0a0e1a;color:#e0edf8;font-family:'Inter',sans-serif;min-height:100vh;display:flex;justify-content:center;align-items:center;padding:1rem}
+.card{background:#111827;border:1px solid #1f2a44;border-radius:20px;padding:2.5rem;text-align:center;max-width:400px;width:100%;box-shadow:0 0 40px rgba(107,158,255,.06)}
+h1{font-size:1.5rem;font-weight:700;color:#6b9eff;margin-bottom:.3rem}
+.sub{color:#5a6a80;font-size:.85rem;margin-bottom:1.5rem}
+.mode{display:flex;gap:.5rem;justify-content:center;margin-bottom:1.2rem}
+.mode button{padding:.4rem 1rem;border-radius:20px;border:1px solid #1f2a44;background:transparent;color:#5a6a80;font-size:.85rem;cursor:pointer;transition:.2s}
+.mode button.active{background:#6b9eff;color:#fff;border-color:#6b9eff}
+.timer{font-size:5.5rem;font-weight:300;letter-spacing:4px;font-variant-numeric:tabular-nums;margin:.5rem 0}
+.timer.work{color:#f97316}.timer.break{color:#34d399}
+.controls{display:flex;gap:.8rem;justify-content:center;margin:.8rem 0}
+.controls button{padding:.7rem 2rem;border:none;border-radius:30px;font-size:1rem;font-weight:600;cursor:pointer;transition:.2s}
+.btn-start{background:#6b9eff;color:#fff}.btn-start:hover{opacity:.85}
+.btn-stop{background:#ef4444;color:#fff}.btn-stop:hover{opacity:.85}
+.btn-reset{background:#1f2a44;color:#e0edf8}.btn-reset:hover{background:#2a3a5a}
+.count{font-size:.8rem;color:#5a6a80;margin-top:1rem}
+.progress{height:4px;background:#1f2a44;border-radius:2px;margin-top:1.2rem;overflow:hidden}
+.progress .fill{height:100%;background:#6b9eff;border-radius:2px;transition:width .3s}
+@media(max-width:400px){.card{padding:1.5rem}.timer{font-size:4rem}}
+</style></head>
+<body>
+<div class="card">
+  <h1>🍅 番茄时钟</h1>
+  <div class="sub">专注 25 分钟 · 休息 5 分钟</div>
+  <div class="mode">
+    <button class="active" data-m="work" onclick="setMode('work')">🍅 工作</button>
+    <button data-m="break" onclick="setMode('break')">☕ 休息</button>
+  </div>
+  <div class="timer work" id="display">25:00</div>
+  <div class="controls">
+    <button class="btn-start" id="startBtn" onclick="toggle()">▶ 开始</button>
+    <button class="btn-reset" onclick="reset()">↺ 重置</button>
+  </div>
+  <div class="count">已完成 <b id="doneCount">0</b> 个番茄</div>
+  <div class="progress"><div class="fill" id="progressFill" style="width:0%"></div></div>
+</div>
+<script>
+let mode='work',running=false,time=1500,total=1500,interval=null,done=0;
+const d=document.getElementById('display'),s=document.getElementById('startBtn'),
+  p=document.getElementById('progressFill'),dc=document.getElementById('doneCount');
+function fmt(s){var m=Math.floor(s/60);return String(m).padStart(2,'0')+':'+String(s%60).padStart(2,'0')}
+function upd(){d.textContent=fmt(time);p.style.width=((total-time)/total*100)+'%'}
+function setMode(m){mode=m;clearInterval(interval);running=false;s.textContent='▶ 开始';s.className='btn-start';
+  document.querySelectorAll('.mode button').forEach(b=>b.classList.toggle('active',b.dataset.m===m));
+  total=m==='work'?1500:300;time=total;d.className='timer '+(m==='work'?'work':'break');upd()}
+function toggle(){if(running){clearInterval(interval);running=false;s.textContent='▶ 继续';return}
+  running=true;s.textContent='⏸ 暂停';s.className='btn-stop';
+  interval=setInterval(()=>{time--;upd();if(time<=0){clearInterval(interval);running=false;if(mode==='work'){done++;dc.textContent=done;setMode('break')
+    }else setMode('work');s.textContent='▶ 开始';s.className='btn-start'}},1000)}
+function reset(){clearInterval(interval);running=false;s.textContent='▶ 开始';s.className='btn-start';setMode(mode)}
+function ntf(t){if(Notification.permission==='granted')new Notification('番茄时钟',{body:t,icon:'🍅'})}
+if(Notification.permission==='default')Notification.requestPermission();
+</script>
+</body></html>
