@@ -1,725 +1,143 @@
 <!DOCTYPE html>
-
 <html lang="zh-CN">
-<head><meta content="default-src 'none'; style-src * 'unsafe-inline'; script-src * 'unsafe-inline'; img-src * data: blob:; font-src * data:; media-src * data: blob:; connect-src 'none'; form-action 'none'; frame-src 'none'; object-src 'none'; base-uri 'none'" http-equiv="Content-Security-Policy"/>
+<head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <title>武穴市最近10小时天气预报</title>
-<script src="https://image.uc.cn/s/uae/g/3n/mos-production/fontawesome-free-7.1.0-web/js/all.min.js"></script>
-<script src="https://image.uc.cn/s/uae/g/3n/mos-production/0915/3.4.17.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"/>
 <style>
-        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&family=Roboto+Mono:wght@300;400;500&display=swap');
-        
-        :root {
-            --primary-dark: #0a1128;
-            --secondary-dark: #1a2332;
-            --accent-blue: #4a90e2;
-            --accent-light: #64b5f6;
-            --text-primary: #f5f7fa;
-            --text-secondary: #b0bec5;
-            --warning-color: #ff9800;
-            --rain-color: #2196f3;
-        }
-        
-        body {
-            font-family: 'Noto Sans SC', sans-serif;
-            background: linear-gradient(135deg, #0a1128 0%, #1a2332 100%);
-            color: var(--text-primary);
-            min-height: 100vh;
-            padding: 20px;
-        }
-        
-        .custom-card {
-            background: rgba(26, 35, 50, 0.85);
-            border-radius: 16px;
-            border: 1px solid rgba(74, 144, 226, 0.2);
-            transition: all 0.3s ease;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
-            overflow: hidden;
-        }
-        
-        .custom-card:hover {
-            transform: translateY(-5px);
-            border-color: rgba(74, 144, 226, 0.4);
-            box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
-        }
-        
-        .custom-time-badge {
-            background: linear-gradient(90deg, rgba(74, 144, 226, 0.2) 0%, rgba(100, 181, 246, 0.1) 100%);
-            border-radius: 20px;
-            padding: 6px 16px;
-            font-size: 0.85rem;
-            border: 1px solid rgba(74, 144, 226, 0.3);
-        }
-        
-        .custom-weather-icon {
-            width: 80px;
-            height: 80px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            margin: 0 auto;
-        }
-        
-        .custom-temp-display {
-            font-size: 2.5rem;
-            font-weight: 700;
-            background: linear-gradient(135deg, #ff9800 0%, #ff5722 100%);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            text-shadow: 0 2px 10px rgba(255, 152, 0, 0.3);
-        }
-        
-        .custom-divider {
-            height: 1px;
-            background: linear-gradient(90deg, transparent 0%, rgba(74, 144, 226, 0.3) 50%, transparent 100%);
-            margin: 20px 0;
-        }
-        
-        .custom-data-item {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding: 8px 0;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-        }
-        
-        .custom-data-item:last-child {
-            border-bottom: none;
-        }
-        
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(20px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-        
-        .custom-animate-fade-in {
-            animation: fadeInUp 0.6s ease forwards;
-        }
-        
-        .custom-rain-intensity {
-            height: 6px;
-            border-radius: 3px;
-            background: rgba(33, 150, 243, 0.2);
-            overflow: hidden;
-            position: relative;
-        }
-        
-        .custom-rain-fill {
-            height: 100%;
-            border-radius: 3px;
-            background: linear-gradient(90deg, #2196f3 0%, #64b5f6 100%);
-            position: absolute;
-            top: 0;
-            left: 0;
-        }
-        
-        @media (max-width: 768px) {
-            .custom-card {
-                margin-bottom: 20px;
-            }
-            
-            .custom-temp-display {
-                font-size: 2rem;
-            }
-            
-            .custom-weather-icon {
-                width: 60px;
-                height: 60px;
-            }
-        }
-    </style>
-<script>
-!(function(j,a,g){j.__itrace_conf = {bid: 'kt40h0wl-koyh4af8',rel: '', uid: '9a14a5ef-27b7-493c-8525-2b2fc0feec08' ,  spa: true, plugins:['jserror','interface','perf','resource','flow','blank']};var b = a.createElement("script");var d = a.getElementsByTagName("script")[0];b.type = "text/javascript";b.crossorigin = true;b.async = true;b.onload = function(){j.__itrace && j.__itrace.setReady()};d.parentNode.insertBefore(b,d);b.src = g})(window, document, "https://g.alicdn.com/woodpeckerx/itrace-next/itrace.iife.js")
-</script>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0a0e1a;color:#e0edf8;font-family:'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;padding:2rem;min-height:100vh}
+.max-w{max-width:1200px;margin:0 auto}
+header{text-align:center;margin-bottom:2rem;padding-bottom:1.2rem;border-bottom:1px solid rgba(107,158,255,.2)}
+header h1{font-size:2rem;color:#6b9eff}
+header p{color:#94a3b8;margin-top:.3rem;font-size:.9rem}
+header .upd{color:#34d399;font-size:.8rem;margin-top:.4rem}
+.loading{text-align:center;padding:4rem 0;color:#5a6a80}
+.loading .sp{width:36px;height:36px;border:3px solid rgba(107,158,255,.15);border-top-color:#6b9eff;border-radius:50%;animation:spin .7s linear infinite;margin:0 auto 1rem}
+@keyframes spin{to{transform:rotate(360deg)}}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1rem;margin-bottom:2rem}
+.card{background:#111827;border:1px solid #1f2a44;border-radius:12px;padding:1.2rem;transition:border-color .2s}
+.card:hover{border-color:#6b9eff}
+.card .time{font-size:.8rem;color:#6b9eff;font-weight:600;margin-bottom:.3rem}
+.card .date{font-size:.7rem;color:#5a6a80;margin-bottom:.6rem}
+.card .icon{font-size:2rem;margin-bottom:.4rem}
+.card .temp{font-size:1.6rem;font-weight:700;margin-bottom:.2rem}
+.card .desc{font-size:.8rem;color:#94a3b8;margin-bottom:.6rem}
+.card .stat{display:flex;justify-content:space-between;font-size:.75rem;color:#6a7a90;padding:.2rem 0;border-top:1px solid rgba(255,255,255,.04)}
+.card .stat i{width:16px;color:#6b9eff}
+.summary{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem;margin-bottom:2rem}
+.summary .box{background:#111827;border:1px solid #1f2a44;border-radius:12px;padding:1rem}
+.summary .box h4{font-size:.8rem;color:#5a6a80;margin-bottom:.3rem}
+.summary .box .val{font-size:1.2rem;font-weight:600}
+.err{text-align:center;padding:3rem;color:#f87171}
+.err i{font-size:2rem;margin-bottom:.5rem}
+.err p{margin-bottom:.5rem}
+.err .btn{padding:.5rem 1.5rem;border:none;border-radius:8px;background:#6b9eff;color:#fff;cursor:pointer;font-size:.85rem}
+footer{text-align:center;padding:2rem 0;font-size:.75rem;color:#3a4a60}
+footer a{color:#6b9eff;text-decoration:none}
+@media(max-width:600px){body{padding:1rem}.grid{grid-template-columns:1fr 1fr}.card{padding:.8rem}.card .temp{font-size:1.2rem}}
+</style>
 </head>
-<body class="flex flex-col items-center justify-center min-h-screen">
-<div class="w-full max-w-6xl">
-
-<header class="mb-10 text-center custom-animate-fade-in">
-<div class="flex flex-col md:flex-row justify-between items-center mb-6">
-<div class="text-left mb-6 md:mb-0">
-<h1 class="text-3xl md:text-4xl font-bold text-white">武穴市</h1>
-<p class="text-lg text-blue-300 mt-1">Wuxue City Weather</p>
-</div>
-<div class="text-right">
-<div class="text-2xl md:text-3xl font-mono font-bold text-white" id="currentTime">04:34:05</div>
-<div class="text-lg text-blue-200 mt-1" id="currentDate">2026年04月21日，星期二</div>
-</div>
-</div>
-<div class="custom-divider"></div>
-</header>
-
-<div class="text-center mb-10 custom-animate-fade-in" style="animation-delay: 0.2s;">
-<h2 class="text-2xl md:text-3xl font-bold text-white mb-4">最近10小时天气预报</h2>
-<p class="text-blue-300 max-w-2xl mx-auto">基于2026年04月21日全天预报数据的模拟小时数据，展示从04月20日21:00至04月21日06:00的气象变化趋势</p>
-</div>
-
-<section class="mb-12">
-<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-6">
-
-<div class="custom-card p-6 custom-animate-fade-in" style="animation-delay: 0.3s;">
-<div class="flex justify-between items-start mb-4">
-<div>
-<div class="custom-time-badge text-blue-300">21:00</div>
-<div class="text-sm text-gray-400 mt-1">04月20日</div>
-</div>
-<div class="text-right">
-<div class="text-xs text-gray-500">夜间</div>
-</div>
-</div>
-<div class="custom-weather-icon mb-4">
-<i class="fas fa-cloud-rain text-4xl text-blue-400"></i>
-</div>
-<div class="text-center mb-4">
-<div class="custom-temp-display">19°</div>
-<div class="text-sm text-gray-400 mt-1">小雨</div>
-</div>
-<div class="custom-data-item">
-<div class="flex items-center">
-<i class="fas fa-wind text-blue-400 mr-2"></i>
-<span class="text-sm">风速</span>
-</div>
-<span class="font-medium">东风 2级</span>
-</div>
-<div class="custom-data-item">
-<div class="flex items-center">
-<i class="fas fa-tint text-blue-400 mr-2"></i>
-<span class="text-sm">湿度</span>
-</div>
-<span class="font-medium">85%</span>
-</div>
-<div class="mt-4">
-<div class="text-xs text-gray-500 mb-1">降雨强度</div>
-<div class="custom-rain-intensity">
-<div class="custom-rain-fill" style="width: 30%;"></div>
-</div>
-</div>
-</div>
-
-<div class="custom-card p-6 custom-animate-fade-in" style="animation-delay: 0.4s;">
-<div class="flex justify-between items-start mb-4">
-<div>
-<div class="custom-time-badge text-blue-300">22:00</div>
-<div class="text-sm text-gray-400 mt-1">04月20日</div>
-</div>
-<div class="text-right">
-<div class="text-xs text-gray-500">夜间</div>
-</div>
-</div>
-<div class="custom-weather-icon mb-4">
-<i class="fas fa-cloud-rain text-4xl text-blue-400"></i>
-</div>
-<div class="text-center mb-4">
-<div class="custom-temp-display">18°</div>
-<div class="text-sm text-gray-400 mt-1">小雨</div>
-</div>
-<div class="custom-data-item">
-<div class="flex items-center">
-<i class="fas fa-wind text-blue-400 mr-2"></i>
-<span class="text-sm">风速</span>
-</div>
-<span class="font-medium">东风 2级</span>
-</div>
-<div class="custom-data-item">
-<div class="flex items-center">
-<i class="fas fa-tint text-blue-400 mr-2"></i>
-<span class="text-sm">湿度</span>
-</div>
-<span class="font-medium">88%</span>
-</div>
-<div class="mt-4">
-<div class="text-xs text-gray-500 mb-1">降雨强度</div>
-<div class="custom-rain-intensity">
-<div class="custom-rain-fill" style="width: 40%;"></div>
-</div>
-</div>
-</div>
-
-<div class="custom-card p-6 custom-animate-fade-in" style="animation-delay: 0.5s;">
-<div class="flex justify-between items-start mb-4">
-<div>
-<div class="custom-time-badge text-blue-300">23:00</div>
-<div class="text-sm text-gray-400 mt-1">04月20日</div>
-</div>
-<div class="text-right">
-<div class="text-xs text-gray-500">夜间</div>
-</div>
-</div>
-<div class="custom-weather-icon mb-4">
-<i class="fas fa-cloud-rain text-4xl text-blue-400"></i>
-</div>
-<div class="text-center mb-4">
-<div class="custom-temp-display">17°</div>
-<div class="text-sm text-gray-400 mt-1">中雨</div>
-</div>
-<div class="custom-data-item">
-<div class="flex items-center">
-<i class="fas fa-wind text-blue-400 mr-2"></i>
-<span class="text-sm">风速</span>
-</div>
-<span class="font-medium">东风 2级</span>
-</div>
-<div class="custom-data-item">
-<div class="flex items-center">
-<i class="fas fa-tint text-blue-400 mr-2"></i>
-<span class="text-sm">湿度</span>
-</div>
-<span class="font-medium">90%</span>
-</div>
-<div class="mt-4">
-<div class="text-xs text-gray-500 mb-1">降雨强度</div>
-<div class="custom-rain-intensity">
-<div class="custom-rain-fill" style="width: 60%;"></div>
-</div>
-</div>
-</div>
-
-<div class="custom-card p-6 custom-animate-fade-in" style="animation-delay: 0.6s;">
-<div class="flex justify-between items-start mb-4">
-<div>
-<div class="custom-time-badge text-blue-300">00:00</div>
-<div class="text-sm text-gray-400 mt-1">04月21日</div>
-</div>
-<div class="text-right">
-<div class="text-xs text-gray-500">凌晨</div>
-</div>
-</div>
-<div class="custom-weather-icon mb-4">
-<i class="fas fa-cloud-showers-heavy text-4xl text-blue-400"></i>
-</div>
-<div class="text-center mb-4">
-<div class="custom-temp-display">16°</div>
-<div class="text-sm text-gray-400 mt-1">中雨</div>
-</div>
-<div class="custom-data-item">
-<div class="flex items-center">
-<i class="fas fa-wind text-blue-400 mr-2"></i>
-<span class="text-sm">风速</span>
-</div>
-<span class="font-medium">东南风 2级</span>
-</div>
-<div class="custom-data-item">
-<div class="flex items-center">
-<i class="fas fa-tint text-blue-400 mr-2"></i>
-<span class="text-sm">湿度</span>
-</div>
-<span class="font-medium">92%</span>
-</div>
-<div class="mt-4">
-<div class="text-xs text-gray-500 mb-1">降雨强度</div>
-<div class="custom-rain-intensity">
-<div class="custom-rain-fill" style="width: 70%;"></div>
-</div>
-</div>
-</div>
-
-<div class="custom-card p-6 custom-animate-fade-in" style="animation-delay: 0.7s;">
-<div class="flex justify-between items-start mb-4">
-<div>
-<div class="custom-time-badge text-blue-300">01:00</div>
-<div class="text-sm text-gray-400 mt-1">04月21日</div>
-</div>
-<div class="text-right">
-<div class="text-xs text-gray-500">凌晨</div>
-</div>
-</div>
-<div class="custom-weather-icon mb-4">
-<i class="fas fa-cloud-showers-heavy text-4xl text-blue-400"></i>
-</div>
-<div class="text-center mb-4">
-<div class="custom-temp-display">15°</div>
-<div class="text-sm text-gray-400 mt-1">中雨转大雨</div>
-</div>
-<div class="custom-data-item">
-<div class="flex items-center">
-<i class="fas fa-wind text-blue-400 mr-2"></i>
-<span class="text-sm">风速</span>
-</div>
-<span class="font-medium">东南风 3级</span>
-</div>
-<div class="custom-data-item">
-<div class="flex items-center">
-<i class="fas fa-tint text-blue-400 mr-2"></i>
-<span class="text-sm">湿度</span>
-</div>
-<span class="font-medium">93%</span>
-</div>
-<div class="mt-4">
-<div class="text-xs text-gray-500 mb-1">降雨强度</div>
-<div class="custom-rain-intensity">
-<div class="custom-rain-fill" style="width: 80%;"></div>
-</div>
-</div>
-</div>
-
-<div class="custom-card p-6 custom-animate-fade-in" style="animation-delay: 0.8s;">
-<div class="flex justify-between items-start mb-4">
-<div>
-<div class="custom-time-badge text-blue-300">02:00</div>
-<div class="text-sm text-gray-400 mt-1">04月21日</div>
-</div>
-<div class="text-right">
-<div class="text-xs text-gray-500">凌晨</div>
-</div>
-</div>
-<div class="custom-weather-icon mb-4">
-<i class="fas fa-cloud-showers-heavy text-4xl text-blue-400"></i>
-</div>
-<div class="text-center mb-4">
-<div class="custom-temp-display">14°</div>
-<div class="text-sm text-gray-400 mt-1">大雨</div>
-</div>
-<div class="custom-data-item">
-<div class="flex items-center">
-<i class="fas fa-wind text-blue-400 mr-2"></i>
-<span class="text-sm">风速</span>
-</div>
-<span class="font-medium">东南风 3级</span>
-</div>
-<div class="custom-data-item">
-<div class="flex items-center">
-<i class="fas fa-tint text-blue-400 mr-2"></i>
-<span class="text-sm">湿度</span>
-</div>
-<span class="font-medium">93%</span>
-</div>
-<div class="mt-4">
-<div class="text-xs text-gray-500 mb-1">降雨强度</div>
-<div class="custom-rain-intensity">
-<div class="custom-rain-fill" style="width: 90%;"></div>
-</div>
-</div>
-</div>
-
-<div class="custom-card p-6 custom-animate-fade-in" style="animation-delay: 0.9s;">
-<div class="flex justify-between items-start mb-4">
-<div>
-<div class="custom-time-badge text-blue-300">03:00</div>
-<div class="text-sm text-gray-400 mt-1">04月21日</div>
-</div>
-<div class="text-right">
-<div class="text-xs text-gray-500">凌晨</div>
-</div>
-</div>
-<div class="custom-weather-icon mb-4">
-<i class="fas fa-cloud-showers-heavy text-4xl text-blue-400"></i>
-</div>
-<div class="text-center mb-4">
-<div class="custom-temp-display">13°</div>
-<div class="text-sm text-gray-400 mt-1">大雨</div>
-</div>
-<div class="custom-data-item">
-<div class="flex items-center">
-<i class="fas fa-wind text-blue-400 mr-2"></i>
-<span class="text-sm">风速</span>
-</div>
-<span class="font-medium">东风 3级</span>
-</div>
-<div class="custom-data-item">
-<div class="flex items-center">
-<i class="fas fa-tint text-blue-400 mr-2"></i>
-<span class="text-sm">湿度</span>
-</div>
-<span class="font-medium">92%</span>
-</div>
-<div class="mt-4">
-<div class="text-xs text-gray-500 mb-1">降雨强度</div>
-<div class="custom-rain-intensity">
-<div class="custom-rain-fill" style="width: 95%;"></div>
-</div>
-</div>
-</div>
-
-<div class="custom-card p-6 custom-animate-fade-in" style="animation-delay: 1.0s;">
-<div class="flex justify-between items-start mb-4">
-<div>
-<div class="custom-time-badge text-blue-300">04:00</div>
-<div class="text-sm text-gray-400 mt-1">04月21日</div>
-</div>
-<div class="text-right">
-<div class="text-xs text-gray-500">凌晨</div>
-</div>
-</div>
-<div class="custom-weather-icon mb-4">
-<i class="fas fa-cloud-showers-heavy text-4xl text-blue-400"></i>
-</div>
-<div class="text-center mb-4">
-<div class="custom-temp-display">13°</div>
-<div class="text-sm text-gray-400 mt-1">大雨</div>
-</div>
-<div class="custom-data-item">
-<div class="flex items-center">
-<i class="fas fa-wind text-blue-400 mr-2"></i>
-<span class="text-sm">风速</span>
-</div>
-<span class="font-medium">东风 2级</span>
-</div>
-<div class="custom-data-item">
-<div class="flex items-center">
-<i class="fas fa-tint text-blue-400 mr-2"></i>
-<span class="text-sm">湿度</span>
-</div>
-<span class="font-medium">91%</span>
-</div>
-<div class="mt-4">
-<div class="text-xs text-gray-500 mb-1">降雨强度</div>
-<div class="custom-rain-intensity">
-<div class="custom-rain-fill" style="width: 85%;"></div>
-</div>
-</div>
-</div>
-
-<div class="custom-card p-6 custom-animate-fade-in" style="animation-delay: 1.1s;">
-<div class="flex justify-between items-start mb-4">
-<div>
-<div class="custom-time-badge text-blue-300">05:00</div>
-<div class="text-sm text-gray-400 mt-1">04月21日</div>
-</div>
-<div class="text-right">
-<div class="text-xs text-gray-500">早晨</div>
-</div>
-</div>
-<div class="custom-weather-icon mb-4">
-<i class="fas fa-cloud-rain text-4xl text-blue-400"></i>
-</div>
-<div class="text-center mb-4">
-<div class="custom-temp-display">14°</div>
-<div class="text-sm text-gray-400 mt-1">中雨</div>
-</div>
-<div class="custom-data-item">
-<div class="flex items-center">
-<i class="fas fa-wind text-blue-400 mr-2"></i>
-<span class="text-sm">风速</span>
-</div>
-<span class="font-medium">东风 2级</span>
-</div>
-<div class="custom-data-item">
-<div class="flex items-center">
-<i class="fas fa-tint text-blue-400 mr-2"></i>
-<span class="text-sm">湿度</span>
-</div>
-<span class="font-medium">90%</span>
-</div>
-<div class="mt-4">
-<div class="text-xs text-gray-500 mb-1">降雨强度</div>
-<div class="custom-rain-intensity">
-<div class="custom-rain-fill" style="width: 70%;"></div>
-</div>
-</div>
-</div>
-
-<div class="custom-card p-6 custom-animate-fade-in" style="animation-delay: 1.2s;">
-<div class="flex justify-between items-start mb-4">
-<div>
-<div class="custom-time-badge text-blue-300">06:00</div>
-<div class="text-sm text-gray-400 mt-1">04月21日</div>
-</div>
-<div class="text-right">
-<div class="text-xs text-gray-500">早晨</div>
-</div>
-</div>
-<div class="custom-weather-icon mb-4">
-<i class="fas fa-cloud-rain text-4xl text-blue-400"></i>
-</div>
-<div class="text-center mb-4">
-<div class="custom-temp-display">15°</div>
-<div class="text-sm text-gray-400 mt-1">中雨转小雨</div>
-</div>
-<div class="custom-data-item">
-<div class="flex items-center">
-<i class="fas fa-wind text-blue-400 mr-2"></i>
-<span class="text-sm">风速</span>
-</div>
-<span class="font-medium">东风 2级</span>
-</div>
-<div class="custom-data-item">
-<div class="flex items-center">
-<i class="fas fa-tint text-blue-400 mr-2"></i>
-<span class="text-sm">湿度</span>
-</div>
-<span class="font-medium">88%</span>
-</div>
-<div class="mt-4">
-<div class="text-xs text-gray-500 mb-1">降雨强度</div>
-<div class="custom-rain-intensity">
-<div class="custom-rain-fill" style="width: 60%;"></div>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-<section class="mb-12 custom-animate-fade-in" style="animation-delay: 1.3s;">
-<div class="custom-card p-8">
-<h3 class="text-xl font-bold text-white mb-6 flex items-center">
-<i class="fas fa-chart-line text-blue-400 mr-3"></i>
-                    10小时天气趋势摘要
-                </h3>
-<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-6">
-<div class="bg-gray-900 p-4 rounded-lg">
-<div class="flex items-center mb-2">
-<i class="fas fa-thermometer-half text-blue-400 mr-2"></i>
-<span class="text-sm text-gray-400">温度变化</span>
-</div>
-<div class="text-2xl font-bold text-white">19° → 15°</div>
-<div class="text-xs text-gray-500 mt-1">夜间温度逐渐下降4°C</div>
-</div>
-<div class="bg-gray-900 p-4 rounded-lg">
-<div class="flex items-center mb-2">
-<i class="fas fa-cloud-rain text-blue-400 mr-2"></i>
-<span class="text-sm text-gray-400">降雨发展</span>
-</div>
-<div class="text-2xl font-bold text-white">小雨 → 大雨</div>
-<div class="text-xs text-gray-500 mt-1">降雨强度在凌晨达到峰值</div>
-</div>
-<div class="bg-gray-900 p-4 rounded-lg">
-<div class="flex items-center mb-2">
-<i class="fas fa-wind text-blue-400 mr-2"></i>
-<span class="text-sm text-gray-400">风向风速</span>
-</div>
-<div class="text-2xl font-bold text-white">东风 2-3级</div>
-<div class="text-xs text-gray-500 mt-1">风速稳定，略有增强</div>
-</div>
-<div class="bg-gray-900 p-4 rounded-lg">
-<div class="flex items-center mb-2">
-<i class="fas fa-tint text-blue-400 mr-2"></i>
-<span class="text-sm text-gray-400">湿度范围</span>
-</div>
-<div class="text-2xl font-bold text-white">85% - 93%</div>
-<div class="text-xs text-gray-500 mt-1">空气湿度持续偏高</div>
-</div>
-</div>
-<div class="mt-6 p-4 bg-blue-900 bg-opacity-20 rounded-lg border border-blue-800 border-opacity-30">
-<div class="flex items-start">
-<i class="fas fa-info-circle text-blue-400 mt-1 mr-3"></i>
-<div>
-<h4 class="font-medium text-blue-300 mb-1">数据说明</h4>
-<p class="text-sm text-gray-400">由于无法获取过去10小时逐小时的实测气象数据，本页面展示的每小时预报基于2026年04月21日武穴市全天预报信息（小雨转中雨/中雨转大雨，最高温19°C~27°C，最低温11°C~19°C，东风2~3级，湿度81%~93%）进行合理模拟生成，用于展示天气变化趋势。</p>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-<section class="mb-12 custom-animate-fade-in" style="animation-delay: 1.4s;">
-<div class="custom-card p-8">
-<h3 class="text-xl font-bold text-white mb-6">天气图标含义</h3>
-<div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-4">
-<div class="flex flex-col items-center p-4 bg-gray-900 rounded-lg">
-<i class="fas fa-cloud-rain text-3xl text-blue-400 mb-2"></i>
-<span class="text-sm font-medium text-white">小雨</span>
-<span class="text-xs text-gray-500 mt-1">降雨量较小</span>
-</div>
-<div class="flex flex-col items-center p-4 bg-gray-900 rounded-lg">
-<i class="fas fa-cloud-showers-heavy text-3xl text-blue-400 mb-2"></i>
-<span class="text-sm font-medium text-white">中雨</span>
-<span class="text-xs text-gray-500 mt-1">降雨量中等</span>
-</div>
-<div class="flex flex-col items-center p-4 bg-gray-900 rounded-lg">
-<i class="fas fa-cloud-showers-heavy text-3xl text-blue-500 mb-2"></i>
-<span class="text-sm font-medium text-white">大雨</span>
-<span class="text-xs text-gray-500 mt-1">降雨量较大</span>
-</div>
-<div class="flex flex-col items-center p-4 bg-gray-900 rounded-lg">
-<i class="fas fa-wind text-3xl text-blue-300 mb-2"></i>
-<span class="text-sm font-medium text-white">风</span>
-<span class="text-xs text-gray-500 mt-1">风速风向指示</span>
-</div>
-<div class="flex flex-col items-center p-4 bg-gray-900 rounded-lg">
-<i class="fas fa-tint text-3xl text-blue-300 mb-2"></i>
-<span class="text-sm font-medium text-white">湿度</span>
-<span class="text-xs text-gray-500 mt-1">相对湿度百分比</span>
-</div>
-</div>
-</div>
-</section>
-
-<footer class="text-center mt-8 mb-12 custom-animate-fade-in" style="animation-delay: 1.5s;">
-<div class="custom-divider mb-6"></div>
-<p class="text-gray-500 text-sm">数据来源 | 仅供参考</p>
-<p class="text-gray-600 text-xs mt-2">本内容由AI生成，可能存在错误或不准确之处。请在使用前自行核实信息的准确性。</p>
-<p class="text-gray-700 text-xs mt-4">页面设计灵感来源于原天气预报界面，适配武穴市最近10小时天气预报需求</p>
-</footer>
+<body>
+<div class="max-w">
+  <header>
+    <h1><i class="fas fa-cloud-sun"></i> 武穴市</h1>
+    <p>最近10小时天气预报 · 实时更新</p>
+    <div class="upd" id="updateInfo"><span id="timeDot"></span>获取中...</div>
+  </header>
+  <div id="app"><div class="loading"><div class="sp"></div><div>加载天气数据...</div></div></div>
+  <footer>数据来源: <a href="https://open-meteo.com" target="_blank">Open-Meteo</a> · 仅供参考</footer>
 </div>
 <script>
-        // 更新时间显示
-        function updateTime() {
-            const now = new Date();
-            const hours = now.getHours().toString().padStart(2, '0');
-            const minutes = now.getMinutes().toString().padStart(2, '0');
-            const seconds = now.getSeconds().toString().padStart(2, '0');
-            
-            // 根据参考文章，页面时间应显示为04:34:05
-            // 但为了实时性，我们显示当前时间，并在注释中说明原设计时间
-            document.getElementById('currentTime').textContent = `${hours}:${minutes}:${seconds}`;
-            
-            // 更新日期
-            const year = now.getFullYear();
-            const month = (now.getMonth() + 1).toString().padStart(2, '0');
-            const day = now.getDate().toString().padStart(2, '0');
-            const weekdays = ['星期日', '星期一', '星期二', '星期三', '星期四', '星期五', '星期六'];
-            const weekday = weekdays[now.getDay()];
-            
-            document.getElementById('currentDate').textContent = `${year}年${month}月${day}日，${weekday}`;
-        }
-        
-        // 初始化时间
-        updateTime();
-        setInterval(updateTime, 1000);
-        
-        // 卡片悬停效果增强
-        document.addEventListener('DOMContentLoaded', function() {
-            const cards = document.querySelectorAll('.custom-card');
-            
-            cards.forEach(card => {
-                card.addEventListener('mouseenter', function() {
-                    const icon = this.querySelector('.custom-weather-icon i');
-                    if (icon) {
-                        icon.style.transform = 'scale(1.1)';
-                        icon.style.transition = 'transform 0.3s ease';
-                    }
-                });
-                
-                card.addEventListener('mouseleave', function() {
-                    const icon = this.querySelector('.custom-weather-icon i');
-                    if (icon) {
-                        icon.style.transform = 'scale(1)';
-                    }
-                });
-            });
-            
-            // 添加加载动画延迟
-            const animatedElements = document.querySelectorAll('.custom-animate-fade-in');
-            animatedElements.forEach((el, index) => {
-                const delay = parseFloat(el.style.animationDelay || '0s');
-                el.style.animationDelay = `${delay + (index * 0.05)}s`;
-            });
-        });
-        
-        // 添加温度单位切换功能（可选）
-        function toggleTemperatureUnit() {
-            const tempElements = document.querySelectorAll('.custom-temp-display');
-            const isCelsius = tempElements[0].textContent.includes('°');
-            
-            tempElements.forEach(el => {
-                let temp = parseInt(el.textContent);
-                if (isCelsius) {
-                    // 转换为华氏度
-                    const fahrenheit = Math.round((temp * 9/5) + 32);
-                    el.textContent = `${fahrenheit}°F`;
-                } else {
-                    // 转换回摄氏度
-                    el.textContent = `${temp}°`;
-                }
-            });
-        }
-    </script>
+const LAT = 29.85, LON = 115.55;
+const WMO = {
+  0:{i:'fa-sun',t:'晴天'},1:{i:'fa-sun',t:'大部晴朗'},2:{i:'fa-cloud-sun',t:'少云'},
+  3:{i:'fa-cloud',t:'多云'},45:{i:'fa-smog',t:'雾'},48:{i:'fa-smog',t:'雾凇'},
+  51:{i:'fa-cloud-drizzle',t:'小毛毛雨'},53:{i:'fa-cloud-drizzle',t:'毛毛雨'},55:{i:'fa-cloud-drizzle',t:'大毛毛雨'},
+  56:{i:'fa-cloud-drizzle',t:'冻毛毛雨'},57:{i:'fa-cloud-drizzle',t:'冻毛毛雨'},
+  61:{i:'fa-cloud-rain',t:'小雨'},63:{i:'fa-cloud-rain',t:'中雨'},65:{i:'fa-cloud-showers-heavy',t:'大雨'},
+  66:{i:'fa-cloud-rain',t:'冻雨'},67:{i:'fa-cloud-rain',t:'冻雨'},
+  71:{i:'fa-snowflake',t:'小雪'},73:{i:'fa-snowflake',t:'中雪'},75:{i:'fa-snowflake',t:'大雪'},
+  77:{i:'fa-snowflake',t:'雪粒'},80:{i:'fa-cloud-rain',t:'小阵雨'},81:{i:'fa-cloud-rain',t:'中阵雨'},
+  82:{i:'fa-cloud-showers-heavy',t:'大阵雨'},85:{i:'fa-snowflake',t:'小阵雪'},86:{i:'fa-snowflake',t:'大阵雪'},
+  95:{i:'fa-bolt',t:'雷暴'},96:{i:'fa-bolt',t:'雷暴+冰雹'},99:{i:'fa-bolt',t:'雷暴+冰雹'},
+};
+const WIND_DIR = ['北','北东北','东北','东东北','东','东东南','东南','南东南','南','南西南','西南','西西南','西','西西北','西北','北西北'];
+function wd(d){return WIND_DIR[Math.round(d/22.5)%16]}
+
+async function load(){
+  const dot=document.getElementById('timeDot');
+  const info=document.getElementById('updateInfo');
+  const app=document.getElementById('app');
+  try{
+    const url=`https://api.open-meteo.com/v1/forecast?latitude=${LAT}&longitude=${LON}&hourly=temperature_2m,relative_humidity_2m,weather_code,precipitation_probability,wind_speed_10m,wind_direction_10m&timezone=auto&forecast_hours=10`;
+    const ac=new AbortController();setTimeout(()=>ac.abort(),8e3);
+    const r=await fetch(url,{signal:ac.signal});
+    if(!r.ok)throw new Error('HTTP '+r.status);
+    const j=await r.json();
+    const h=j.hourly;
+    const now=new Date();
+    info.innerHTML=`<span class="time-dot"></span>更新于 ${now.getHours().toString().padStart(2,'0')}:${now.getMinutes().toString().padStart(2,'0')}`;
+
+    let html='<div class="grid">';
+    for(let i=0;i<h.time.length;i++){
+      const t=new Date(h.time[i]);
+      const hh=t.getHours().toString().padStart(2,'0')+':00';
+      const dd=(t.getMonth()+1)+'月'+t.getDate()+'日';
+      const isNight=t.getHours()<6||t.getHours()>=19;
+      const period=isNight?(t.getHours()<6?'凌晨':'夜间'):(t.getHours()<12?'上午':'下午');
+      const temp=Math.round(h.temperature_2m[i]);
+      const hum=h.relative_humidity_2m[i];
+      const wc=h.weather_code[i];
+      const pp=h.precipitation_probability[i];
+      const ws=Math.round(h.wind_speed_10m[i]);
+      const wdi=h.wind_direction_10m[i];
+      const w=WMO[wc]||{i:'fa-cloud',t:'未知'};
+      const color=temp>=30?'#f97316':temp>=20?'#fbbf24':temp>=10?'#6b9eff':'#34d399';
+      const ppBar=Math.min(pp||0,100);
+      html+=`
+        <div class="card">
+          <div class="time">${hh}</div>
+          <div class="date">${dd} · ${period}</div>
+          <div class="icon"><i class="fas ${w.i}" style="color:${color}"></i></div>
+          <div class="temp" style="color:${color}">${temp}°</div>
+          <div class="desc">${w.t}</div>
+          <div class="stat"><span><i class="fas fa-tint"></i> 湿度</span><span>${hum}%</span></div>
+          <div class="stat"><span><i class="fas fa-wind"></i> 风速</span><span>${wd(wdi)} ${ws}级</span></div>
+          <div class="stat"><span><i class="fas fa-umbrella"></i> 降雨</span><span>${pp??0}%</span></div>
+          <div style="margin-top:6px;height:4px;background:#1f2a44;border-radius:2px;overflow:hidden"><div style="width:${ppBar}%;height:100%;background:${ppBar>50?'#f87171':'#6b9eff'};border-radius:2px"></div></div>
+        </div>`;
+    }
+    html+='</div>';
+
+    // 摘要
+    const temps=h.temperature_2m;
+    const minT=Math.round(Math.min(...temps));
+    const maxT=Math.round(Math.max(...temps));
+    const avgH=Math.round(h.relative_humidity_2m.reduce((a,b)=>a+b,0)/h.relative_humidity_2m.length);
+    const maxPP=Math.max(...h.precipitation_probability);
+    html+=`
+      <div class="summary">
+        <div class="box"><h4>温度范围</h4><div class="val" style="color:#fbbf24">${minT}° ~ ${maxT}°</div></div>
+        <div class="box"><h4>平均湿度</h4><div class="val" style="color:#6b9eff">${avgH}%</div></div>
+        <div class="box"><h4>最大降雨概率</h4><div class="val" style="color:${maxPP>50?'#f87171':'#34d399'}">${maxPP}%</div></div>
+        <div class="box"><h4>数据时间</h4><div class="val" style="color:#94a3b8;font-size:.9rem">${h.time[0].slice(5,16)} ~ ${h.time[h.time.length-1].slice(5,16)}</div></div>
+      </div>`;
+
+    app.innerHTML=html;
+  }catch(e){
+    app.innerHTML=`
+      <div class="err">
+        <i class="fas fa-exclamation-triangle"></i>
+        <p>获取数据失败</p>
+        <p style="font-size:.8rem;color:#5a6a80">${e.message}</p>
+        <button class="btn" onclick="load()">重试</button>
+      </div>`;
+    info.innerHTML='<span style="color:#f87171">加载失败</span>';
+  }
+}
+load();
+</script>
 </body>
 </html>
