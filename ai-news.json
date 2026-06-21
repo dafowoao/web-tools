@@ -1,28 +1,28 @@
 {
-  "updated": "2026-06-20 21:18 UTC",
+  "updated": "2026-06-21 04:13 UTC",
   "count": 11,
   "items": [
     {
-      "title": "UK Home Office launches £75M 'PoliceAI' to capitalise on artificial intelligence",
-      "url": "https://www.publictechnology.net/2026/06/15/public-order-justice-and-rights/home-office-launches-75m-policeai-to-capitalise-on-artificial-intelligence/",
+      "title": "When I reject AI code even if it works",
+      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781988066,
-      "score": 13,
-      "category": "tools",
+      "ts": 1782003493,
+      "score": 76,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
-      "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
-      "desc": "https:&#x2F;&#x2F;www.thegamer.com&#x2F;ubisoft-co-founder-claude-guillemot...",
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781964770,
-      "score": 138,
+      "ts": 1781994172,
+      "score": 88,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,8 +35,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781963343,
-      "score": 50,
+      "score": 77,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+      "url": "https://github.com/mysk-research/loupe",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781957303,
+      "score": 118,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781954345,
-      "score": 117,
+      "score": 184,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
-      "url": "https://bootimus.com",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781952918,
-      "score": 93,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,20 +74,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781885485,
-      "score": 475,
-      "category": "industry",
+      "score": 509,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Data Compression Explained (2012)",
-      "url": "https://mattmahoney.net/dc/dce.html",
+      "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
+      "url": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781646717,
-      "score": 183,
+      "ts": 1781613062,
+      "score": 52,
       "category": "tools",
       "tags": [
         "国际"
@@ -101,7 +101,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -112,7 +112,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
