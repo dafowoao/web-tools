@@ -1,0 +1,103 @@
+{
+  "time": "2026-06-22T03:23:37.898688",
+  "passed": 18,
+  "total": 19,
+  "score": 94,
+  "details": [
+    {
+      "name": "规则已写入",
+      "ok": true,
+      "detail": "文件 10341 bytes"
+    },
+    {
+      "name": "包含了50行限制",
+      "ok": true,
+      "detail": "规则明确写了函数不超过50行"
+    },
+    {
+      "name": "函数行数检查 (235个函数)",
+      "ok": false,
+      "detail": "9/235 个函数超过50行"
+    },
+    {
+      "name": "防编造规则已写入",
+      "ok": true,
+      "detail": "SOUL.md 包含防编造规则"
+    },
+    {
+      "name": "禁止简略验证",
+      "ok": true,
+      "detail": "明确要求不能只写'测试通过'"
+    },
+    {
+      "name": "验证块必须包含原始输出",
+      "ok": true,
+      "detail": "要求粘贴原始终端输出"
+    },
+    {
+      "name": "Hermes验证块检查",
+      "ok": true,
+      "detail": "暂无日志可检查"
+    },
+    {
+      "name": "UI自检规则已写入",
+      "ok": true,
+      "detail": "CODEBUDDY.md 包含UI检查规则"
+    },
+    {
+      "name": "viewport检查要求",
+      "ok": true,
+      "detail": "要求正确的视口设置"
+    },
+    {
+      "name": "CSS变量要求",
+      "ok": true,
+      "detail": "要求至少5个CSS变量"
+    },
+    {
+      "name": "响应式断点要求",
+      "ok": true,
+      "detail": "要求至少4级断点"
+    },
+    {
+      "name": "自检验证规则已写入",
+      "ok": true,
+      "detail": "CLAUDE.md 包含自检要求"
+    },
+    {
+      "name": "记忆管理规则",
+      "ok": true,
+      "detail": "翻车要记到memory"
+    },
+    {
+      "name": "测试清理规则",
+      "ok": true,
+      "detail": "要求测试文件验证后删除"
+    },
+    {
+      "name": "分发系统v4",
+      "ok": true,
+      "detail": "当前版本支持条件规则+漂移检测"
+    },
+    {
+      "name": "漂移检测可用",
+      "ok": true,
+      "detail": "支持配置漂移检测"
+    },
+    {
+      "name": "回滚机制",
+      "ok": true,
+      "detail": "支持一键回滚"
+    },
+    {
+      "name": "监控系统",
+      "ok": true,
+      "detail": "监控后端.py 存在"
+    },
+    {
+      "name": "可视化看板",
+      "ok": true,
+      "detail": "进化看板.html 存在"
+    }
+  ]
+}

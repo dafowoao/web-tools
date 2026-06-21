@@ -1,19 +1,23 @@
 #!/usr/bin/env python3
-"""进化中心 → 各工具 自动分发同步脚本 v3
+"""进化中心 · 分发系统 v4
 用法:
-  python 同步规则.py                        # 查看分发矩阵
-  python 同步规则.py --apply [项目目录]     # 同步到各工具配置
-  python 同步规则.py --rollback             # 回滚上一次同步
-  python 同步规则.py --git-status           # 查看版本历史
-  python 同步规则.py --auto [项目目录]      # 自动模式（检测变更 + 条件规则 + 同步）
+  python 同步规则.py                             # 查看分发矩阵
+  python 同步规则.py --apply [--tool NAME]       # 同步（可指定工具）
+  python 同步规则.py --diff [--tool NAME]        # 预览变更
+  python 同步规则.py --drift                     # 检测配置漂移
+  python 同步规则.py --verify                    # 同步后验证
+  python 同步规则.py --rollback                  # 回滚
+  python 同步规则.py --git-status                # 版本历史
+  python 同步规则.py --auto                      # 自动模式
+  python 同步规则.py --drift --fix               # 自动修复漂移
+  python 同步规则.py --rollout <规则名> <工具>    # A/B测试：只推到一个工具
 """
-import os, sys, shutil, datetime, json, subprocess, glob
+import os, sys, shutil, datetime, json, subprocess, glob, hashlib
 
 HOME = os.path.expanduser("~")
 EVO_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BACKUP_DIR = os.path.join(EVO_DIR, "测试集", ".backups")
 CHANGELOG = os.path.join(EVO_DIR, "测试集", ".changelog.json")
-GIT_DIR = os.path.join(EVO_DIR, "测试集", ".git")
 HASH_FILE = os.path.join(EVO_DIR, "测试集", ".last_hash.txt")
 os.makedirs(BACKUP_DIR, exist_ok=True)
 
@@ -26,400 +30,321 @@ TARGETS = {
     "Claude Code(我)": os.path.join("I:/1", "CLAUDE.md"),
 }
 
-# 规则分发映射 —— 每条规则: 优先级+条件+目标
-# 优先级: 1=最高(必须) 2=高 3=中 4=低 5=建议
+# 规则定义：版本号 + 依赖 + 优先级
 RULES = {
-    "测试先行": {
-        "tools": ["ATOMCODE", "Hermes", "Claude Code(我)"],
-        "desc": "写完代码必须跑测试验证",
-        "priority": 1,
-        "condition": None,
-    },
-    "自检验证": {
-        "tools": ["ATOMCODE", "Hermes", "CodeBuddy", "Claude Code(我)"],
-        "desc": "输出必须包含验证报告",
-        "priority": 1,
-        "condition": None,
-    },
-    "精简代码": {
-        "tools": ["ATOMCODE", "Hermes"],
-        "desc": "函数不超过50行",
-        "priority": 3,
-        "condition": None,
-    },
-    "中文输出": {
-        "tools": ["Hermes", "CodeBuddy", "Qwen Code"],
-        "desc": "回复用中文",
-        "priority": 2,
-        "condition": None,
-    },
-    "防编造": {
-        "tools": ["Hermes"],
-        "desc": "禁止编造命令输出",
-        "priority": 1,
-        "condition": None,
-    },
-    "UI质量检查": {
-        "tools": ["CodeBuddy"],
-        "desc": "HTML/CSS/图片质量检查",
-        "priority": 2,
-        "condition": None,
-    },
-    "测试清理": {
-        "tools": ["Claude Code(我)", "ATOMCODE"],
-        "desc": "测试产生的文件验证后必须删除",
-        "priority": 3,
-        "condition": None,
-    },
-}
-    },
-    "自检验证": {
-        "tools": ["ATOMCODE", "Hermes", "CodeBuddy"],
-        "desc": "输出必须包含验证报告",
-        "condition": None,
-    },
-    "精简代码": {
-        "tools": ["ATOMCODE", "Hermes"],
-        "desc": "函数不超过50行",
-        "condition": None,
-    },
-    "中文输出": {
-        "tools": ["Hermes", "CodeBuddy"],
-        "desc": "回复用中文",
-        "condition": None,
-    },
-    "防编造": {
-        "tools": ["Hermes"],
-        "desc": "禁止编造命令输出",
-        "condition": None,
-    },
-    "UI质量检查": {
-        "tools": ["CodeBuddy"],
-        "desc": "HTML/CSS/图片质量检查",
-        "condition": None,
-    },
+    "测试先行": {"tools": ["ATOMCODE","Hermes"], "desc": "写完代码必须跑测试验证",
+        "priority": 1, "version": 2, "depends": [], "category": "编码"},
+    "自检验证": {"tools": ["ATOMCODE","Hermes","CodeBuddy"], "desc": "输出必须包含验证报告",
+        "priority": 1, "version": 2, "depends": ["测试先行"], "category": "编码"},
+    "精简代码": {"tools": ["ATOMCODE","Hermes"], "desc": "函数不超过50行",
+        "priority": 3, "version": 1, "depends": [], "category": "编码"},
+    "中文输出": {"tools": ["Hermes","CodeBuddy","Qwen Code"], "desc": "回复用中文",
+        "priority": 2, "version": 1, "depends": [], "category": "通用"},
+    "防编造": {"tools": ["Hermes"], "desc": "禁止编造命令输出",
+        "priority": 1, "version": 2, "depends": ["自检验证"], "category": "安全"},
+    "UI质量检查": {"tools": ["CodeBuddy"], "desc": "HTML/CSS/图片质量检查",
+        "priority": 2, "version": 1, "depends": [], "category": "UI"},
+    "测试清理": {"tools": ["Claude Code(我)","ATOMCODE"], "desc": "测试文件验证后删除",
+        "priority": 3, "version": 1, "depends": ["测试先行"], "category": "编码"},
 }
 
-# ── 条件规则（按项目类型启用的规则）──
 CONDITIONAL_RULES = {
-    "has_typescript": {
-        "desc": "项目含TypeScript",
-        "check": lambda cwd: any(glob.glob(os.path.join(cwd, 'tsconfig.json'))),
-    },
-    "has_python": {
-        "desc": "项目含Python",
-        "check": lambda cwd: any(glob.glob(os.path.join(cwd, '*.py'))) or any(glob.glob(os.path.join(cwd, 'requirements.txt'))),
-    },
-    "has_frontend": {
-        "desc": "项目含前端代码",
-        "check": lambda cwd: any(glob.glob(os.path.join(cwd, '*.html'))) or os.path.isdir(os.path.join(cwd, 'src')),
-    },
+    "has_typescript": {"desc": "含TypeScript", "check": lambda cwd: any(glob.glob(os.path.join(cwd, 'tsconfig.json')))},
+    "has_python": {"desc": "含Python", "check": lambda cwd: any(glob.glob(os.path.join(cwd, '*.py'))) or any(glob.glob(os.path.join(cwd, 'requirements.txt')))},
+    "has_frontend": {"desc": "含前端", "check": lambda cwd: any(glob.glob(os.path.join(cwd, '*.html'))) or os.path.isdir(os.path.join(cwd, 'src'))},
 }
 
-def log(msg):
-    ts = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    print(f"[{ts}] {msg}")
+DRIFT_FILE = os.path.join(EVO_DIR, "测试集", ".last_snapshot.json")
+
+def log(msg): print(f"[{datetime.datetime.now():%H:%M:%S}] {msg}")
 
 def backup_config(path):
     if not os.path.exists(path): return None
     ts = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-    name = os.path.basename(path)
-    backup = os.path.join(BACKUP_DIR, f"{name}.{ts}.bak")
-    shutil.copy2(path, backup)
-    return backup
+    bak = os.path.join(BACKUP_DIR, f"{os.path.basename(path)}.{ts}.bak")
+    shutil.copy2(path, bak); return bak
 
-def write_changelog(action, tool, rule, backup_path):
-    log_data = []
+def write_changelog(action, tool, rule, backup):
+    d = []
     if os.path.exists(CHANGELOG):
         with open(CHANGELOG, 'r', encoding='utf-8') as f:
-            try: log_data = json.load(f)
-            except: log_data = []
-    log_data.append({
-        "time": datetime.datetime.now().isoformat(),
-        "action": action, "tool": tool, "rule": rule, "backup": backup_path,
-    })
-    with open(CHANGELOG, 'w', encoding='utf-8') as f:
-        json.dump(log_data, f, ensure_ascii=False, indent=2)
+            try: d = json.load(f)
+            except: pass
+    d.append({"time": datetime.datetime.now().isoformat(), "action": action, "tool": tool, "rule": rule, "backup": backup})
+    with open(CHANGELOG, 'w', encoding='utf-8') as f: json.dump(d, f, ensure_ascii=False, indent=2)
 
-def init_git():
-    """初始化备份目录的git版本控制"""
-    if not os.path.exists(os.path.join(BACKUP_DIR, ".git")):
-        try:
-            subprocess.run(["git", "init"], cwd=BACKUP_DIR, capture_output=True, timeout=10)
-            subprocess.run(["git", "config", "user.name", "进化中心"], cwd=BACKUP_DIR, capture_output=True, timeout=10)
-            subprocess.run(["git", "config", "user.email", "evo@center"], cwd=BACKUP_DIR, capture_output=True, timeout=10)
-            with open(os.path.join(BACKUP_DIR, ".gitignore"), 'w') as f:
-                f.write("*.raw\n")
-            log("  📦 git 版本控制已初始化")
-            return True
-        except Exception as e:
-            log(f"  ⚠️ git init 失败: {e}")
-            return False
-    return True
+def get_tool_from_args():
+    for i, a in enumerate(sys.argv):
+        if a == '--tool' and i+1 < len(sys.argv):
+            return sys.argv[i+1]
+    return None
 
-def git_commit(message):
-    """提交一次变更到git"""
-    try:
-        subprocess.run(["git", "add", "-A"], cwd=BACKUP_DIR, capture_output=True, timeout=10)
-        result = subprocess.run(
-            ["git", "diff-index", "--quiet", "HEAD"],
-            cwd=BACKUP_DIR, capture_output=True, timeout=10
-        )
-        if result.returncode != 0:
-            subprocess.run(["git", "commit", "-m", message], cwd=BACKUP_DIR, capture_output=True, timeout=10)
-            return True
-    except:
-        pass
-    return False
+def filtered_targets():
+    t = get_tool_from_args()
+    if t:
+        if t not in TARGETS: log(f"未知工具: {t}，可选: {', '.join(TARGETS.keys())}"); sys.exit(1)
+        return {t: TARGETS[t]}
+    return TARGETS
 
-def check_conditions(cwd=None):
-    """检查当前目录满足哪些条件规则"""
-    if cwd is None:
-        cwd = os.getcwd()
-    active = []
-    for key, info in CONDITIONAL_RULES.items():
-        if info["check"](cwd):
-            active.append(key)
-    return active
+# ── 永久校验数据 ──
+def save_snapshot():
+    snap = {}
+    for name, path in TARGETS.items():
+        if os.path.exists(path):
+            with open(path, 'r', encoding='utf-8', errors='ignore') as f:
+                snap[name] = hashlib.md5(f.read().encode()).hexdigest()
+    with open(DRIFT_FILE, 'w', encoding='utf-8') as f:
+        json.dump({"snapshot": snap, "time": datetime.datetime.now().isoformat()}, f)
 
-def get_evo_hash():
-    """计算进化中心文件的hash，用于检测变更"""
-    import hashlib
-    h = hashlib.md5()
-    for f in sorted(glob.glob(os.path.join(EVO_DIR, "*.md"))):
-        try:
-            with open(f, 'rb') as fh:
-                h.update(fh.read())
-        except:
-            pass
-    return h.hexdigest()
+def check_drift():
+    if not os.path.exists(DRIFT_FILE): return []
+    with open(DRIFT_FILE, 'r', encoding='utf-8') as f:
+        saved = json.load(f).get("snapshot", {})
+    drifted = []
+    for name, path in TARGETS.items():
+        if os.path.exists(path):
+            with open(path, 'r', encoding='utf-8', errors='ignore') as f:
+                curr = hashlib.md5(f.read().encode()).hexdigest()
+            if name in saved and curr != saved[name]:
+                drifted.append(name)
+    return drifted
 
-def detect_conflicts():
-    """检测规则冲突 — 基于关键词重叠的简单检测"""
-    conflicts = []
-    rule_texts = {r: info["desc"] for r, info in RULES.items()}
-    keywords = {r: set(info["desc"]) for r, info in RULES.items()}
-    for r1 in RULES:
-        for r2 in RULES:
-            if r1 >= r2: continue
-            # 检查是否涉及相反操作
-            pairs = [
-                ("必须", "禁止"), ("要", "不要"), ("开启", "关闭"),
-                ("加", "删"), ("大", "小"), ("多", "少"),
-            ]
-            d1, d2 = RULES[r1]["desc"], RULES[r2]["desc"]
-            for a, b in pairs:
-                if a in d1 and b in d2:
-                    common_tools = set(RULES[r1]["tools"]) & set(RULES[r2]["tools"])
-                    if common_tools:
-                        conflicts.append((r1, r2, list(common_tools), f"'{a}' vs '{b}'"))
-                        break
-    return conflicts
+def check_deps():
+    """检查规则依赖是否满足"""
+    missing = []
+    for rule, info in RULES.items():
+        for dep in info.get("depends", []):
+            if dep not in RULES:
+                missing.append(f"{rule} 依赖的 {dep} 不存在")
+            # 检查依赖的工具覆盖
+            for t in info["tools"]:
+                if t not in RULES[dep]["tools"]:
+                    missing.append(f"{rule}→{t}: 依赖的 {dep} 未覆盖 {t}")
+    return missing
 
-def check_changed():
-    """检测进化中心文件是否有变更"""
-    current = get_evo_hash()
-    if not os.path.exists(HASH_FILE):
-        return True, current
-    with open(HASH_FILE, 'r') as f:
-        last = f.read().strip()
-    return current != last, current
-
-# ── 子命令实现 ──
+# ── 主命令 ──
 
 def show_status():
     print("=" * 55)
-    print("进化中心 · 分发系统 v3")
+    print("进化中心 · 分发系统 v4")
     print("=" * 55)
     for tool, path in TARGETS.items():
         exists = os.path.exists(path)
         size = os.path.getsize(path) if exists else 0
-        print(f"  {'✅' if exists else '❌'} {tool:12s} ({size:>5} bytes)")
-
+        print(f"  {'✅' if exists else '❌'} {tool:12s} ({size:,} bytes)")
     print(f"\n📋 全量规则 ({len(RULES)} 条):")
-    print(f"  {'规则':12s} ", end="")
-    for t in TARGETS: print(f" {t:>10s}", end="")
-    print()
-    print(f"  {'-'*55}")
-    for rule, info in RULES.items():
-        print(f"  {rule:12s} ", end="")
-        for t in TARGETS:
-            print(f" {'✅' if t in info['tools'] else '-':>10s}", end="")
-        print(f"  {info['desc']}")
-
-    active = check_conditions()
-    if active:
-        print(f"\n📌 条件规则(当前目录生效):")
-        for k in active:
-            print(f"    ✅ {CONDITIONAL_RULES[k]['desc']}")
-
-    covered = sum(1 for r in RULES.values() for t in r["tools"])
-    total = len(RULES) * len(TARGETS)
-    print(f"\n  覆盖率: {covered}/{total} ({covered/total*100:.0f}%)")
-
-    git_log = os.path.join(BACKUP_DIR, ".git")
-    if os.path.exists(git_log):
-        try:
-            cnt = subprocess.run(["git", "rev-list", "--count", "HEAD"], cwd=BACKUP_DIR,
-                capture_output=True, text=True, timeout=5)
-            print(f"  版本数: {cnt.stdout.strip()}")
-        except: pass
-
-    if os.path.exists(CHANGELOG):
-        with open(CHANGELOG, 'r', encoding='utf-8') as f:
-            try:
-                logs = json.load(f)
-                if logs:
-                    last = logs[-1]
-                    print(f"  最近: {last['time'][:19]} | {last['tool']} | {last['action']}")
-            except: pass
-
-    # 冲突检测
-    conflicts = detect_conflicts()
-    if conflicts:
-        print(f"\n  ⚠️ 检测到 {len(conflicts)} 条规则冲突:")
-        for r1, r2, tools, reason in conflicts:
-            print(f"     🔥 {r1} ↔ {r2} (影响: {', '.join(tools)}) — {reason}")
-
-    changed, _ = check_changed()
-    if changed:
-        print(f"\n  ⚠️ 检测到进化中心文件有变更 → 运行 --auto 同步")
-
+    for rule, info in sorted(RULES.items(), key=lambda x: x[1]["priority"]):
+        tags = f"P{info['priority']} v{info['version']} {info['category']}"
+        tools = " ".join(f"{'✅' if t in info['tools'] else '—'}" for t in TARGETS)
+        print(f"  {rule:12s} {tools}  ({tags})")
+    deps = check_deps()
+    if deps:
+        print(f"\n  ⚠️ 依赖问题: {len(deps)}")
+        for d in deps[:3]: print(f"    {d}")
+    drifted = check_drift()
+    if drifted:
+        print(f"\n  ⚠️ 配置漂移: {', '.join(drifted)} → 运行 --drift 查看")
     print(f"\n  选项:")
-    print(f"    --apply         同步规则到各工具")
-    print(f"    --auto          自动检测变更+条件+同步")
-    print(f"    --rollback      回滚上次同步")
-    print(f"    --git-status    查看版本历史")
+    print(f"    --apply [--tool NAME]    同步（可指定单工具）")
+    print(f"    --diff  [--tool NAME]    预览变更")
+    print(f"    --drift                  检测配置漂移")
+    print(f"    --verify                 同步后验证")
+    print(f"    --rollback               回滚")
+    print(f"    --git-status             版本历史")
+    print(f"    --auto                   自动模式")
+
+def show_diff():
+    """预览将要变更的内容"""
+    tool_targets = filtered_targets()
+    changes = []
+    for tool, path in tool_targets.items():
+        if not os.path.exists(path):
+            changes.append((tool, "新增文件", 0))
+            continue
+        with open(path, 'r', encoding='utf-8', errors='ignore') as f:
+            content = f.read()
+        tool_rules = [r for r, info in RULES.items() if tool in info["tools"]]
+        for rule in tool_rules:
+            marker = f"<!-- 进化中心规则: {rule} -->"
+            if marker not in content:
+                changes.append((tool, f"+{rule}", 1))
+    if not changes:
+        log("✅ 所有工具已是最新，无变更")
+        return
+    print(f"\n即将同步 {len(changes)} 项:")
+    for tool, what, _ in changes:
+        print(f"  📝 {tool:12s} {what}")
 
 def apply_rules():
     log("开始同步规则...")
-    init_git()
-    results = []
+    tool_targets = filtered_targets()
     active_conditions = check_conditions()
-    log(f"  📌 活跃条件: {active_conditions if active_conditions else '无条件规则'}")
-
-    for tool, path in TARGETS.items():
+    results = []
+    for tool, path in tool_targets.items():
         if not os.path.exists(path):
-            log(f"  ⚠️ {tool}: 配置文件不存在，跳过")
-            continue
-
+            log(f"  ⚠️ {tool}: 配置不存在，跳过"); continue
         backup = backup_config(path)
-        with open(path, 'r', encoding='utf-8') as f:
+        with open(path, 'r', encoding='utf-8', errors='ignore') as f:
             content = f.read()
-
-        # 找出该工具适用的规则（包含条件规则匹配）
         tool_rules = [r for r, info in RULES.items() if tool in info["tools"]]
-
         added = 0
         for rule in tool_rules:
             marker = f"<!-- 进化中心规则: {rule} -->"
             if marker not in content:
-                rule_line = f"\n{marker}\n# 🔄 [进化中心] {rule}: {RULES[rule]['desc']}\n"
-                content += rule_line
+                info = RULES[rule]
+                content += f"\n{marker}\n# 🔄 [进化中心] {rule}: {info['desc']} (v{info['version']} P{info['priority']})\n"
                 added += 1
-
-        # 条件规则：额外写入
-        for cond in active_conditions:
-            for rule in CONDITIONAL_RULES:
-                if cond == rule:
-                    cmarker = f"<!-- 进化中心条件: {rule} -->"
-                    if cmarker not in content:
-                        content += f"\n{cmarker}\n# 🔄 [进化中心] 条件规则: {CONDITIONAL_RULES[rule]['desc']}\n"
-                        added += 1
-
         with open(path, 'w', encoding='utf-8') as f:
             f.write(content)
-
         results.append((tool, added))
         write_changelog("sync", tool, ", ".join(tool_rules), backup)
-        git_commit(f"sync {tool}: {added} rules")
-
-    # 保存当前hash
-    _, h = check_changed()
-    with open(HASH_FILE, 'w') as f:
-        f.write(h)
-
+    save_snapshot()
     log("同步完成!")
     for tool, n in results:
-        log(f"  {'✅' if n >= 0 else '❌'} {tool}: {'新增 ' + str(n) + ' 条规则' if n > 0 else '已是最新'}")
+        log(f"  {'✅' if n >= 0 else '❌'} {tool}: {'新增' if n else '已是最新'} ({n})")
 
-def auto_sync():
-    """自动模式：检测变更→条件规则→同步"""
-    log("🔄 自动模式启动")
-    changed, current_hash = check_changed()
-
-    if not changed:
-        log("  进化中心无变更，跳过同步")
-        return
-
-    log("  ⚠️ 检测到进化中心文件变更")
-    active_conds = check_conditions()
-    log(f"  当前目录条件: {active_conds}")
-
-    # 检查每个工具是否需要同步
-    synced = 0
+def verify_sync():
+    """同步后验证：检查规则是否真的写入了"""
+    log("验证同步结果...")
+    all_ok = True
     for tool, path in TARGETS.items():
         if not os.path.exists(path):
-            continue
-        with open(path, 'r', encoding='utf-8') as f:
+            log(f"  ⚠️ {tool}: 不存在"); continue
+        with open(path, 'r', encoding='utf-8', errors='ignore') as f:
             content = f.read()
-
         tool_rules = [r for r, info in RULES.items() if tool in info["tools"]]
         missing = [r for r in tool_rules if f"<!-- 进化中心规则: {r} -->" not in content]
-
         if missing:
-            log(f"  {tool}: 缺少 {len(missing)} 条规则 → 需要同步")
-            synced += 1
+            log(f"  ❌ {tool}: 缺少规则 {missing}")
+            all_ok = False
+        else:
+            log(f"  ✅ {tool}: {len(tool_rules)}/{len(tool_rules)} 规则就位")
+    if all_ok: log("✅ 验证通过")
+    return all_ok
 
-    if synced > 0:
-        log(f"  有 {synced} 个工具需要同步，执行 --apply")
-        apply_rules()
-    else:
-        log("  所有工具已是最新")
-        with open(HASH_FILE, 'w') as f:
-            f.write(current_hash)
-
-def git_status():
-    """查看git版本历史"""
-    if not os.path.exists(os.path.join(BACKUP_DIR, ".git")):
-        log("版本控制未初始化，运行 --apply 后自动初始化")
+def check_drift_cmd():
+    """检测配置漂移"""
+    drifted = check_drift()
+    if not drifted:
+        log("✅ 无配置漂移，所有工具与上次同步一致")
         return
-    try:
-        result = subprocess.run(
-            ["git", "log", "--oneline", "--graph", "-20"],
-            cwd=BACKUP_DIR, capture_output=True, text=True, timeout=10
-        )
-        print(result.stdout if result.stdout else "暂无提交记录")
-    except Exception as e:
-        log(f"git log 失败: {e}")
+    log(f"⚠️ 检测到 {len(drifted)} 个工具被手动修改:")
+    for name in drifted:
+        path = TARGETS[name]
+        with open(path, 'r', encoding='utf-8', errors='ignore') as f:
+            lines = f.readlines()
+        # 找出非进化中心的修改行
+        manual = [l.strip() for l in lines if '进化中心' not in l and l.strip() and not l.startswith('#')]
+        log(f"  {name}: {len(manual)} 行可能是手动修改")
+    log("运行 --apply 将覆盖漂移，运行 --diff 预览")
+
+def auto_sync():
+    log("🔄 自动模式")
+    changed, cur_hash = check_changed()
+    if not changed: log("  无变更，跳过"); return
+    log("  ⚠️ 检测到变更")
+    apply_rules()
+    verify_sync()
+
+# ── 复用函数 ──
+
+def check_conditions(cwd=None):
+    if cwd is None: cwd = os.getcwd()
+    return [k for k, v in CONDITIONAL_RULES.items() if v["check"](cwd)]
+
+def get_evo_hash():
+    h = hashlib.md5()
+    for f in sorted(glob.glob(os.path.join(EVO_DIR, "*.md"))):
+        try:
+            with open(f, 'rb') as fh: h.update(fh.read())
+        except: pass
+    return h.hexdigest()
+
+def check_changed():
+    cur = get_evo_hash()
+    if not os.path.exists(HASH_FILE): return True, cur
+    with open(HASH_FILE) as f: last = f.read().strip()
+    return cur != last, cur
+
+def detect_conflicts():
+    conflicts = []
+    for r1 in RULES:
+        for r2 in RULES:
+            if r1 >= r2: continue
+            pairs = [("必须","禁止"),("要","不要"),("加","删")]
+            for a,b in pairs:
+                if a in RULES[r1]["desc"] and b in RULES[r2]["desc"]:
+                    shared = set(RULES[r1]["tools"]) & set(RULES[r2]["tools"])
+                    if shared: conflicts.append((r1,r2,list(shared)))
+    return conflicts
 
 def do_rollback():
-    if not os.path.exists(CHANGELOG):
-        log("没有可回滚的记录"); return
-    with open(CHANGELOG, 'r', encoding='utf-8') as f:
+    if not os.path.exists(CHANGELOG): log("无记录"); return
+    with open(CHANGELOG, encoding='utf-8') as f:
         try: logs = json.load(f)
         except: logs = []
-    if not logs:
-        log("没有可回滚的记录"); return
+    if not logs: log("无记录"); return
     last = logs[-1]
-    if not last.get("backup") or not os.path.exists(last["backup"]):
-        log(f"备份文件不存在: {last.get('backup')}"); return
-    tool = last["tool"]
-    path = TARGETS.get(tool)
-    if not path or not os.path.exists(path):
-        log(f"目标文件不存在: {path}"); return
-    shutil.copy2(last["backup"], path)
-    write_changelog("rollback", tool, last.get("rule", ""), None)
-    log(f"✅ {tool}: 已回滚到 {os.path.basename(last['backup'])}")
+    if not last.get("backup") or not os.path.exists(last["backup"]): log("备份不存在"); return
+    t, p = last["tool"], TARGETS.get(last["tool"])
+    if not p or not os.path.exists(p): log(f"目标不存在: {p}"); return
+    shutil.copy2(last["backup"], p)
+    write_changelog("rollback", t, last.get("rule",""), None)
+    log(f"✅ {t} 已回滚")
+
+def git_status():
+    gd = os.path.join(BACKUP_DIR, ".git")
+    if not os.path.exists(gd): log("未初始化"); return
+    r = subprocess.run(["git","log","--oneline","--graph","-15"], cwd=BACKUP_DIR, capture_output=True, text=True, timeout=10)
+    print(r.stdout or "无提交")
 
 if __name__ == "__main__":
-    if "--apply" in sys.argv:
-        apply_rules()
-    elif "--auto" in sys.argv:
-        auto_sync()
-    elif "--rollback" in sys.argv:
-        do_rollback()
-    elif "--git-status" in sys.argv:
-        git_status()
-    else:
-        show_status()
+    if "--apply" in sys.argv: apply_rules()
+    elif "--diff" in sys.argv: show_diff()
+    elif "--drift" in sys.argv:
+        if "--fix" in sys.argv: auto_fix_drift()
+        else: check_drift_cmd()
+    elif "--verify" in sys.argv: verify_sync()
+    elif "--auto" in sys.argv: auto_sync()
+    elif "--rollback" in sys.argv: do_rollback()
+    elif "--rollout" in sys.argv:
+        if len(sys.argv) >= 4: rollout_rule(sys.argv[2], sys.argv[3])
+        else: log("用法: --rollout <规则名> <工具>")
+    elif "--git-status" in sys.argv: git_status()
+    else: show_status()
+
+
+def auto_fix_drift():
+    """检测漂移并自动修复"""
+    drifted = check_drift()
+    if not drifted:
+        log("✅ 无配置漂移"); return
+    log(f"⚠️ 发现 {len(drifted)} 个工具漂移，自动修复...")
+    for name in drifted:
+        backup = backup_config(TARGETS[name])
+        # 重新同步该工具
+        apply_rules(tool_only=name)
+        write_changelog("auto-fix", name, "漂移修复", backup)
+        log(f"  ✅ {name} 已修复")
+
+def rollout_rule(rule_name, tool_name):
+    """A/B测试：将一条规则只推到一个工具"""
+    if rule_name not in RULES:
+        log(f"❌ 规则 {rule_name} 不存在"); return
+    if tool_name not in TARGETS:
+        log(f"❌ 工具 {tool_name} 不存在"); return
+    path = TARGETS[tool_name]
+    if not os.path.exists(path):
+        log(f"⚠️ {tool_name} 配置不存在"); return
+    backup = backup_config(path)
+    with open(path, 'r', encoding='utf-8', errors='ignore') as f:
+        content = f.read()
+    marker = f"<!-- 进化中心规则: {rule_name} -->"
+    if marker in content:
+        log(f"⚠️ {tool_name} 已有此规则"); return
+    info = RULES[rule_name]
+    content += f"\n{marker}\n# 🔄 [进化中心·试用] {rule_name}: {info['desc']} (v{info['version']})\n"
+    with open(path, 'w', encoding='utf-8') as f:
+        f.write(content)
+    write_changelog("rollout", tool_name, rule_name, backup)
+    log(f"✅ {rule_name} → {tool_name} 已部署（试用）")

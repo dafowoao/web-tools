@@ -60,6 +60,11 @@ def show():
     print(f"\n 分类统计:")
     for cat, cnt in sorted(m.get("by_category", {}).items(), key=lambda x: -x[1]):
         print(f"   {cat}: {cnt}次")
+    if m.get("by_rule"):
+        print(f"\n 🏆 规则排行（按抓bug数）:")
+        for rule, cnt in sorted(m.get("by_rule", {}).items(), key=lambda x: -x[1]):
+            bar = "█" * min(cnt, 15)
+            print(f"   {rule:12s} {bar} {cnt}次")
 
 if __name__ == "__main__":
     import sys
