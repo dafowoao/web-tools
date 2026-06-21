@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=2560">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>气象站 Pro</title>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400;500;600;700&display=swap');
@@ -110,6 +110,32 @@ body{background:var(--bg);color:var(--text);font-family:'Inter','Segoe UI','Ping
 @media(max-width:1440px){.g8{grid-template-columns:repeat(4,1fr)}}
 @media(max-width:1024px){.g8,.g2{grid-template-columns:repeat(2,1fr)}.hro{grid-column:span 1}}
 @media(max-width:768px){.g8,.g2{grid-template-columns:1fr}.nav-search input{width:90px}.nav-search .ci{width:56px}.tp-lg{font-size:3.2rem}}
+@media(max-width:600px){
+  body{padding:.8rem;font-size:14px}
+  .nav{flex-direction:column;align-items:stretch;gap:.6rem}
+  .nav-search input{width:100%}.nav-search .ci{width:100%}
+  .nav-search{flex-direction:column}
+  .nav-search button{width:100%}
+  .nav-brand h1{font-size:1.2rem}
+  .hro{flex-direction:column;text-align:center;gap:.6rem;padding:1rem}
+  .hro .wi-lg{width:64px;height:64px}
+  .tp-lg{font-size:3rem}
+  .tp-lg sm{font-size:1.5rem}
+  .stats{gap:.6rem;justify-content:center}
+  .stats>div{min-width:40px}
+  .stats .v{font-size:.9rem}
+  .hs{padding:.2rem 0}
+  .ht{min-width:50px}
+  .ht .tp{font-size:.8rem}
+  .dr .d{width:48px;font-size:.8rem}
+  .dr .dc{width:50px;font-size:.7rem}
+  .dr .dt{font-size:.8rem}
+  .g3{grid-template-columns:1fr 1fr}
+  .g3 .n{font-size:1.1rem}
+  .aqi-r{width:52px;height:52px;font-size:1.2rem}
+  .tc{height:56px}
+  .tb .bl{font-size:.45rem}
+}
 </style>
 </head>
 <body>
