@@ -239,8 +239,8 @@ window.addEventListener('resize', () => {
   renderer.setSize(window.innerWidth, window.innerHeight);
 });
 
-// ===== 自动旋转 =====
-let autoRotate = 0;
+// ===== 自动旋转（仅在游戏结束时） =====
+let autoRotate = -0.5;
 
 // ===== 主循环 =====
 let lastTime = 0;
@@ -249,13 +249,18 @@ function loop(time) {
   
   if (!gameOver && !paused) update(dt);
   
-  // 相机旋转（非游戏时）
+  // 相机：游戏进行中固定视角，结束时缓慢旋转
   const target = new THREE.Vector3(0, 0, 0);
-  const radius = 22;
-  autoRotate += dt * .15;
-  camera.position.x = Math.sin(autoRotate) * radius;
-  camera.position.z = Math.cos(autoRotate) * radius;
-  camera.position.y = 14 + Math.sin(autoRotate * .5) * 2;
+  if (gameOver) {
+    autoRotate += dt * .15;
+    const radius = 22;
+    camera.position.x = Math.sin(autoRotate) * radius;
+    camera.position.z = Math.cos(autoRotate) * radius;
+    camera.position.y = 14 + Math.sin(autoRotate * .5) * 2;
+  } else {
+    // 固定俯视角度
+    camera.position.set(12, 14, 16);
+  }
   camera.lookAt(target);
   
   // 食物动画
