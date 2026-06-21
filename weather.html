@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>气象站 Pro</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400;500;600;700&display=swap');
+:root{--bg:#060a14;--surface:#0d1322;--card:#121a2e;--card-hover:#182542;--border:rgba(56,80,130,0.2);--border-hover:rgba(107,158,255,0.2);--text:#e4edf9;--text2:#8ba0c4;--text3:#4f658a;--accent:#6b9eff;--accent2:#5b7def;--green:#34d399;--orange:#f97316;--red:#ef4444;--sun:#fbbf24;--radius:14px}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--text);font-family:'Inter','Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;padding:2.5rem 3rem;font-size:16px;min-height:100vh;background-image:radial-gradient(ellipse at 20% 20%,rgba(107,158,255,0.04) 0%,transparent 50%),radial-gradient(ellipse at 80% 80%,rgba(91,61,255,0.03) 0%,transparent 50%)}
+.container{max-width:2400px;margin:0 auto}
+
+/* 导航 */
+.nav{display:flex;justify-content:space-between;align-items:center;margin-bottom:2.2rem;flex-wrap:wrap;gap:1rem}
+.nav-brand{display:flex;align-items:center;gap:.6rem}
+.nav-brand .logo{width:32px;height:32px;background:linear-gradient(135deg,var(--accent),#5b7def);border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:1.1rem;color:#fff}
+.nav-brand h1{font-size:1.5rem;font-weight:600;letter-spacing:-.3px}
+.nav-brand .loc{color:var(--text3);font-weight:400;margin-left:.4rem;font-size:.9rem}
+.nav-search{display:flex;gap:.4rem;align-items:center;flex-wrap:wrap}
+.nav-search input,.nav-search .ci{background:var(--surface);border:1px solid var(--border);color:var(--text);padding:.45rem .85rem;border-radius:8px;font-size:.88rem;outline:none;width:140px;transition:border-color .2s}
+.nav-search input:focus{border-color:var(--accent)}
+.nav-search .ci{width:78px;text-align:center}
+.nav-search button{background:var(--accent);border:none;color:#fff;padding:.45rem 1rem;border-radius:8px;cursor:pointer;font-size:.88rem;font-weight:500;transition:opacity .2s}
+.nav-search button:hover{opacity:.85}
+.nav-hint{color:var(--text3);font-size:.75rem;margin-top:.2rem;width:100%}
+
+/* 网格 */
+.g8{display:grid;grid-template-columns:repeat(8,1fr);gap:.8rem;margin-bottom:.8rem}
+.g2{display:grid;grid-template-columns:1fr 1fr;gap:.8rem;margin-bottom:.8rem}
+
+/* 卡片 — 3D 浮起 */
+.cd{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:1.4rem 1.6rem;transform-style:preserve-3d;transition:transform .35s cubic-bezier(.22,1,.36,1),border-color .3s,background .3s;backface-visibility:hidden;will-change:transform}
+.cd:hover{transform:perspective(1200px) rotateX(1.5deg) translateZ(16px);border-color:var(--border-hover);background:var(--card-hover)}
+.cl{color:var(--text3);font-size:.68rem;font-weight:600;letter-spacing:.8px;text-transform:uppercase;margin-bottom:.9rem}
+
+/* 主天气 — span5 占更多空间 */
+.hro{grid-column:span 3;display:flex;align-items:center;gap:1.8rem;position:relative;overflow:hidden}
+.hro::before{content:'';position:absolute;top:-50%;right:-20%;width:200px;height:200px;background:radial-gradient(circle,rgba(107,158,255,0.06),transparent 70%);pointer-events:none}
+.hro .wi-lg{width:110px;height:110px;flex-shrink:0;filter:drop-shadow(0 0 20px rgba(107,158,255,0.15))}
+.tp-lg{font-size:5.5rem;font-weight:200;line-height:1;letter-spacing:-4px}
+.tp-lg sm{font-size:2.2rem;color:var(--text2);font-weight:300}
+.desc{font-size:1.05rem;color:var(--text2);margin:.3rem 0 .8rem}
+.stats{display:flex;gap:1.4rem}
+.stats>div{text-align:center;min-width:54px}
+.stats .v{font-size:1.1rem;font-weight:500}
+.stats .l{font-size:.72rem;color:var(--text3);margin-top:.12rem}
+
+/* 3列内网格 */
+.g3{display:grid;grid-template-columns:repeat(3,1fr);text-align:center}
+.g3 .n{font-size:1.3rem;font-weight:500;margin:.2rem 0}
+.g3 .l{font-size:.75rem;color:var(--text3)}
+.g3 .ic{font-size:1.4rem;display:block;margin-bottom:.1rem}
+
+/* AQI */
+.aqi-r{width:68px;height:68px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:1.6rem;font-weight:700;flex-shrink:0;border:2.5px solid;transition:transform .3s}
+.cd:hover .aqi-r{transform:scale(1.05)}
+
+/* 生活指数 */
+.tp{display:flex;flex-direction:column;gap:.25rem}
+.tp>div{display:flex;align-items:center;gap:.4rem;padding:.15rem 0;transition:transform .2s}
+.tp>div:hover{transform:translateX(4px)}
+.tp .i{font-size:.95rem;width:20px;text-align:center}
+.tp .vl{font-weight:500;font-size:.9rem}
+.tp .lb{font-size:.72rem;color:var(--text3)}
+
+/* 逐小时 */
+.hs{display:flex;gap:0;overflow-x:auto;padding:.4rem 0}
+.hs::-webkit-scrollbar{height:1.5px}
+.hs::-webkit-scrollbar-thumb{background:var(--border);border-radius:2px}
+.ht{text-align:center;min-width:60px;padding:.15rem .15rem;border-right:1px solid rgba(56,80,130,0.1);transition:background .15s}
+.ht:hover{background:rgba(107,158,255,0.04)}
+.ht:last-child{border-right:none}
+.ht .tm{font-size:.68rem;color:var(--text3)}
+.ht .tp{font-size:.9rem;font-weight:500;margin:.05rem 0}
+.ht .rn{font-size:.6rem;color:var(--accent)}
+.ml{display:flex;align-items:flex-end;height:28px;gap:0;margin-top:.12rem;padding:0 .1rem}
+.ml .b{width:4px;border-radius:1.5px 1.5px 0 0;min-height:2px;background:var(--accent);opacity:.3;margin:0 .4px}
+
+/* 7天 */
+.dr{display:flex;align-items:center;padding:.5rem 0;border-bottom:1px solid rgba(56,80,130,0.1)}
+.dr:last-child{border:none}
+.dr .d{width:65px;font-weight:500;font-size:.9rem}
+.dr .di{width:30px;text-align:center;flex-shrink:0}
+.dr .dc{width:68px;color:var(--text3);font-size:.8rem}
+.dr .dt{flex:1;text-align:right;font-size:.9rem}
+.dr .dt .hi{font-weight:500}
+.dr .dt .lo{color:var(--text3);margin-left:.5rem}
+.dr .rn{color:var(--accent);font-size:.68rem;margin-left:.35rem;min-width:28px;text-align:right}
+.rb{height:2.5px;background:var(--border);border-radius:1.5px;margin-top:.2rem;overflow:hidden}
+.rb .f{height:100%;border-radius:1.5px;background:var(--accent);transition:width .5s}
+
+/* 趋势 */
+.tc{display:flex;align-items:flex-end;gap:0;height:72px;padding:.15rem 0}
+.tb{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;height:100%}
+.tb .br{width:42%;border-radius:2px 2px 0 0;min-height:2px;transition:height .3s}
+.tb .br.h{background:linear-gradient(180deg,var(--accent),rgba(107,158,255,.15))}
+.tb .br.l{background:linear-gradient(180deg,#6d6bf0,rgba(109,107,240,.08));margin-top:1px}
+.tb .bl{font-size:.5rem;color:var(--text3);margin-top:.1rem}
+.lg{display:flex;gap:.8rem;justify-content:center;margin-top:.4rem}
+.lg span{display:flex;align-items:center;gap:.25rem;font-size:.6rem;color:var(--text3)}
+.lg .dot{width:6px;height:6px;border-radius:2px;display:inline-block}
+
+.ld{text-align:center;padding:4rem;color:var(--text2)}
+.sp{width:24px;height:24px;border:2px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:s .7s linear infinite;margin:0 auto .4rem}
+@keyframes s{to{transform:rotate(360deg)}}
+.er{text-align:center;padding:2rem;color:var(--red)}
+
+@media(max-width:1920px){.g8{grid-template-columns:repeat(6,1fr)}}
+@media(max-width:1440px){.g8{grid-template-columns:repeat(4,1fr)}}
+@media(max-width:1024px){.g8,.g2{grid-template-columns:repeat(2,1fr)}.hro{grid-column:span 1}}
+@media(max-width:768px){.g8,.g2{grid-template-columns:1fr}.nav-search input{width:90px}.nav-search .ci{width:56px}.tp-lg{font-size:3.2rem}}
+@media(max-width:600px){
+  body{padding:.8rem;font-size:14px}
+  .nav{flex-direction:column;align-items:stretch;gap:.6rem}
+  .nav-search input{width:100%}.nav-search .ci{width:100%}
+  .nav-search{flex-direction:column}
+  .nav-search button{width:100%}
+  .nav-brand h1{font-size:1.2rem}
+  .hro{flex-direction:column;text-align:center;gap:.6rem;padding:1rem}
+  .hro .wi-lg{width:64px;height:64px}
+  .tp-lg{font-size:3rem}
+  .tp-lg sm{font-size:1.5rem}
+  .stats{gap:.6rem;justify-content:center}
+  .stats>div{min-width:40px}
+  .stats .v{font-size:.9rem}
+  .hs{padding:.2rem 0}
+  .ht{min-width:50px}
+  .ht .tp{font-size:.8rem}
+  .dr .d{width:48px;font-size:.8rem}
+  .dr .dc{width:50px;font-size:.7rem}
+  .dr .dt{font-size:.8rem}
+  .g3{grid-template-columns:1fr 1fr}
+  .g3 .n{font-size:1.1rem}
+  .aqi-r{width:52px;height:52px;font-size:1.2rem}
+  .tc{height:56px}
+  .tb .bl{font-size:.45rem}
+}
+</style>
+</head>
+<body>
+<div class="container" id="app"><div class="ld"><div class="sp"></div><div>加载中...</div></div></div>
+
+<script>
+const C = [
+  {n:'北京',la:39.9042,lo:116.4074},{n:'上海',la:31.2304,lo:121.4737},
+  {n:'广州',la:23.1291,lo:113.2644},{n:'深圳',la:22.5431,lo:114.0579},
+  {n:'杭州',la:30.2741,lo:120.1551},{n:'成都',la:30.5728,lo:104.0668},
+  {n:'武汉',la:30.5928,lo:114.3055},{n:'南京',la:32.0603,lo:118.7969},
+  {n:'重庆',la:29.4316,lo:106.9123},{n:'西安',la:34.3416,lo:108.9398},
+  {n:'武穴',la:29.8470,lo:115.5563},{n:'武穴市',la:29.8470,lo:115.5563}
+];
+
+function wi(c,w,h){
+  w=w||90;h=h||90;
+  const A='#6b9eff',B='#fbbf24',D='#8ba0bc',E='#e4edf9';
+  if(c===0)return `<svg viewBox="0 0 100 100" width="${w}" height="${h}"><circle cx="50" cy="50" r="20" fill="${B}" opacity=".9"><animate attributeName="r" values="20;22;20" dur="4s"/></circle>${[0,45,90,135,180,225,270,315].map((x,i)=>'<line x1="'+(50+25*Math.cos(x*Math.PI/180))+'" y1="'+(50+25*Math.sin(x*Math.PI/180))+'" x2="'+(50+34*Math.cos(x*Math.PI/180))+'" y2="'+(50+34*Math.sin(x*Math.PI/180))+'" stroke="'+B+'" stroke-width="2.5" stroke-linecap="round" opacity=".5"><animate attributeName="opacity" values="0.15;0.6;0.15" dur="'+(i%2?2:3)+'s"/></line>').join('')}<circle cx="50" cy="50" r="28" fill="${B}" opacity=".03"><animate attributeName="r" values="24;36;24" dur="4s"/></circle></svg>`;
+  if(c<=2)return `<svg viewBox="0 0 100 100" width="${w}" height="${h}"><circle cx="52" cy="42" r="18" fill="${B}" opacity=".5"><animate attributeName="r" values="18;20;18" dur="5s"/></circle><path d="M26 60Q22 48 32 40Q36 30 50 34Q58 26 70 32Q80 30 78 46Q84 54 74 60Z" fill="${D}" opacity=".9"><animateTransform attributeName="transform" type="translate" values="0,0;1,-.5;0,0" dur="6s"/></path></svg>`;
+  if(c<=3)return `<svg viewBox="0 0 100 100" width="${w}" height="${h}"><path d="M20 62Q14 48 26 40Q32 26 48 32Q58 24 72 30Q84 30 80 48Q86 58 76 62Z" fill="${D}" opacity=".9"><animateTransform attributeName="transform" type="translate" values="0,0;-.5,0;0,0" dur="7s"/></path><path d="M34 52Q28 42 38 38Q44 30 56 36Q64 34 66 42Q72 44 70 50Q66 56 58 56H36Z" fill="${D}" opacity=".4"/></svg>`;
+  if(c===45||c===48)return `<svg viewBox="0 0 100 100" width="${w}" height="${h}">${[15,35,55,75].map((x,i)=>'<line x1="'+x+'" y1="28" x2="'+(x+12)+'" y2="28" stroke="'+D+'" stroke-width="3" stroke-linecap="round" opacity=".2"><animate attributeName="opacity" values="0.1;0.3;0.1" dur="'+(2+i%3)+'s"/></line>').join('')}${[20,40,60,80].map((x,i)=>'<line x1="'+x+'" y1="46" x2="'+(x+14)+'" y2="46" stroke="'+D+'" stroke-width="4" stroke-linecap="round" opacity=".3"><animate attributeName="opacity" values="0.15;0.4;0.15" dur="'+(3+i%2)+'s"/></line>').join('')}${[25,45,65].map((x,i)=>'<line x1="'+x+'" y1="64" x2="'+(x+13)+'" y2="64" stroke="'+D+'" stroke-width="3" stroke-linecap="round" opacity=".2"><animate attributeName="opacity" values="0.1;0.3;0.1" dur="'+(2.5+i%3)+'s"/></line>').join('')}</svg>`;
+  if([51,53,55,61,63,65,80,81,82].includes(c))return `<svg viewBox="0 0 100 100" width="${w}" height="${h}"><path d="M24 50Q20 38 30 32Q36 22 50 26Q60 18 72 26Q82 24 78 42Q84 48 74 54Q70 56 60 54H28Q22 54 24 50Z" fill="${D}" opacity=".9"><animateTransform attributeName="transform" type="translate" values="0,0;.5,0;0,0" dur="5s"/></path>${[30,40,50,60,70].map(function(x,i){return'<line x1="'+x+'" y1="58" x2="'+(x-3)+'" y2="70" stroke="'+A+'" stroke-width="1.8" stroke-linecap="round" opacity=".6"><animate attributeName="y1" values="58;62;58" dur="'+(.7+i*.15)+'s"/><animate attributeName="y2" values="70;75;70" dur="'+(.7+i*.15)+'s"/></line>'}).join('')}</svg>`;
+  if([71,73,75].includes(c))return `<svg viewBox="0 0 100 100" width="${w}" height="${h}"><path d="M24 50Q20 38 30 32Q36 22 50 26Q60 18 72 26Q82 24 78 42Q84 48 74 54Q70 56 60 54H28Q22 54 24 50Z" fill="${D}" opacity=".9"/>${[30,40,50,60,70].map(function(x,i){return'<circle cx="'+x+'" cy="'+(62+i*2)+'" r="2" fill="'+E+'" opacity=".7"><animate attributeName="cy" values="'+(62+i*2)+';'+(76+i*2)+';'+(62+i*2)+'" dur="'+(1.3+i*.25)+'s"/><animate attributeName="opacity" values=".7;.1;.7" dur="'+(1.3+i*.25)+'s"/></circle>'}).join('')}</svg>`;
+  if([95,96,99].includes(c))return `<svg viewBox="0 0 100 100" width="${w}" height="${h}"><path d="M18 46Q14 36 24 30Q30 20 46 24Q54 16 64 24Q74 22 70 38Q76 44 66 50H26Q20 50 18 46Z" fill="#3a2a4a" opacity=".9"/><path d="M46 50L38 66H50L42 80" stroke="${B}" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="d" values="M46 50L38 66H50L42 80;M46 48L36 66H52L44 80;M46 50L38 66H50L42 80" dur=".4s"/></path></svg>`;
+  return `<svg viewBox="0 0 100 100" width="${w}" height="${h}"><circle cx="50" cy="50" r="20" fill="${B}" opacity=".3"/></svg>`;
+}
+const WM={0:'晴',1:'少云',2:'多云',3:'阴',45:'雾',48:'雾凇',51:'毛毛雨',53:'毛毛雨',55:'大雨',61:'小雨',63:'中雨',65:'大雨',71:'小雪',73:'中雪',75:'大雪',80:'阵雨',81:'中阵雨',82:'大阵雨',95:'雷暴',96:'雷暴',99:'强雷暴'};
+function tx(c){return WM[c]||'未知'}
+function wd(d){if(d==null||isNaN(d))return'--';return['北','东北','东','东南','南','西南','西','西北'][Math.round(d/45)%8]}
+function ca(p){if(p==null||isNaN(p))return null;const b=[0,35,75,115,150,250,500],q=[0,50,100,150,200,300,500];for(let i=0;i<6;i++)if(p>=b[i]&&p<=b[i+1])return Math.round((q[i+1]-q[i])/(b[i+1]-b[i])*(p-b[i])+q[i]);return p>500?500:0}
+function al(v){if(v==null)return['--','#8ba0c4','未知',''];if(v<=50)return[v+'','#34d399','优','一级'];if(v<=100)return[v+'','#6b9eff','良','二级'];if(v<=150)return[v+'','#f97316','轻度污染','三级'];if(v<=200)return[v+'','#fb923c','中度污染','四级'];if(v<=300)return[v+'','#ef4444','重度污染','五级'];return[v+'','#dc2626','严重污染','六级']}
+const CS={'一级':'≤35μg 自然清新','二级':'≤75μg 可接受','三级':'≤115μg 敏感人群减少外出','四级':'≤150μg 进一步恶化','五级':'≤250μg 健康影响','六级':'>250μg 严重威胁'};
+
+async function gw(la,lo){
+  const k=la.toFixed(2)+','+lo.toFixed(2),c=localStorage.getItem('w_'+k);
+  if(c){const j=JSON.parse(c);if(Date.now()-j.ts<6e5)return j.v}
+  const u='https://api.open-meteo.com/v1/forecast?latitude='+la+'&longitude='+lo+'&current=temperature_2m,relative_humidity_2m,apparent_temperature,weather_code,wind_speed_10m,wind_direction_10m,pressure_msl,uv_index&hourly=temperature_2m,weather_code,precipitation_probability&daily=temperature_2m_max,temperature_2m_min,weather_code,precipitation_probability_max,sunrise,sunset&timezone=auto&forecast_days=8&forecast_hours=48';
+  const ac=new AbortController();setTimeout(()=>ac.abort(),8e3);
+  const r=await fetch(u,{signal:ac.signal}),j=await r.json();
+  localStorage.setItem('w_'+k,JSON.stringify({ts:Date.now(),v:j}));return j;
+}
+async function ga(la,lo){try{const r=await fetch('https://air-quality-api.open-meteo.com/v1/air-quality?latitude='+la+'&longitude='+lo+'&current=european_aqi,us_aqi,pm2_5,pm10,nitrogen_dioxide,ozone');if(!r.ok)return null;return await r.json()}catch{return null}}
+
+function rd(w,a,nm,lat,lon){
+  const c=w.current,d=w.daily,h=w.hourly,days=['周日','周一','周二','周三','周四','周五','周六'];
+
+  let htm='';
+  for(let i=0;i<48&&i<h.time.length;i++){
+    const t=new Date(h.time[i]),tm=t.getHours().toString().padStart(2,'0')+':00';
+    htm+='<div class="ht"><div class="tm">'+(i===0?'现在':tm)+'</div>'+wi(h.weather_code[i],26,26)+'<div class="tp">'+Math.round(h.temperature_2m[i])+'°</div>'+(h.precipitation_probability[i]?'<div class="rn">'+h.precipitation_probability[i]+'%</div>':'')+'</div>';
+  }
+  let ml='';const stp=Math.max(1,Math.floor(h.time.length/24)),hts=[];
+  for(let i=0;i<h.time.length&&hts.length<24;i+=stp)hts.push(h.temperature_2m[i]);
+  const hn=Math.min(...hts),hx=Math.max(...hts),hr=hx-hn||1;
+  for(let t of hts)ml+='<div class="b" style="height:'+((t-hn)/hr*22+2)+'px"></div>';
+
+  const ts=d.temperature_2m_max.map((v,i)=>({hi:v,lo:d.temperature_2m_min[i]}));
+  const a2=[...ts.map(t=>t.hi),...ts.map(t=>t.lo)],t2=Math.min(...a2),t3=Math.max(...a2),t4=t3-t2||1;
+
+  let dt='';
+  for(let i=0;i<7;i++){
+    const t=new Date(d.time[i]+'T12:00:00'),nm2=i===0?'今天':i===1?'明天':days[t.getDay()];
+    dt+='<div class="dr"><div class="d">'+nm2+'</div><div class="di">'+wi(d.weather_code[i],26,26)+'</div><div class="dc">'+tx(d.weather_code[i])+'</div><div class="dt"><span class="hi">'+Math.round(ts[i].hi)+'°</span><span class="lo">'+Math.round(ts[i].lo)+'°</span></div>'+(d.precipitation_probability_max[i]>0?'<div class="rn"><div class="rb"><div class="f" style="width:'+d.precipitation_probability_max[i]+'%"></div></div>'+d.precipitation_probability_max[i]+'%</div>':'<div class="rn"></div>')+'</div>';
+  }
+
+  let ct='';
+  for(let i=0;i<7;i++){const hp=((ts[i].hi-t2)/t4*58+6),lp=((ts[i].lo-t2)/t4*58+6);ct+='<div class="tb"><div class="br h" style="height:'+hp+'%"></div><div class="br l" style="height:'+lp+'%"></div><div class="bl">'+Math.round(ts[i].hi)+'°</div></div>';}
+
+  let aq='<div style="color:var(--text3);padding:.3rem 0;font-size:.8rem">暂无数据</div>';
+  if(a&&a.current){
+    const cn=ca(a.current.pm2_5),[v,lv,cl,st]=cn?al(cn):['--','#8ba0c4','未知',''],desc=CS[st]||'';
+    aq='<div style="display:flex;gap:1rem;align-items:center"><div class="aqi-r" style="color:'+cl+';border-color:'+cl+'">'+v+'</div><div><div style="color:'+cl+';font-size:1.4rem;font-weight:600">'+st+'('+lv+')</div><div style="color:var(--text2);font-size:.9rem;margin-top:.2rem">'+desc+'</div><div style="color:var(--text3);font-size:.8rem;margin-top:.1rem">PM2.5: '+(a.current.pm2_5?Math.round(a.current.pm2_5*10)/10:'--')+'μg/m³</div></div></div>';
+  }
+
+  let tips='';
+  const ad=(ic,v,l)=>{tips+='<div><div class="i">'+ic+'</div><div><div class="vl">'+v+'</div><div class="lb">'+l+'</div></div></div>'};
+  if(c.temperature_2m>35)ad('🔥','酷暑','减少外出');
+  else if(c.temperature_2m>30)ad('🌡','炎热','注意补水防晒');
+  else if(c.temperature_2m<0)ad('❄️','严寒','注意保暖');
+  else if(c.temperature_2m<10)ad('🧥','偏凉','加件外套');
+  else ad('👍','舒适','适合外出');
+  if(c.relative_humidity_2m>80)ad('💧','潮湿','注意除湿');
+  if(c.wind_speed_10m>40)ad('💨','大风','注意安全');
+  if(c.uv_index>7)ad('☀️','紫外线强','注意防晒');
+  if([61,63,65,80,81,82,95,96,99].includes(c.weather_code))ad('☂️','预计有雨','记得带伞');
+  if(!tips)tips='<div style="color:var(--text3);font-size:.8rem">天气正常</div>';
+
+  const wds=wd(c.wind_direction_10m);
+  document.getElementById('app').innerHTML=
+    '<div class="nav"><div class="nav-brand"><div class="logo">⛅</div><h1>气象站<span class="loc">'+nm+'</span></h1></div>'+
+    '<div class="nav-search"><input id="ci" list="dl" placeholder="城市..."><datalist id="dl">'+C.map(c=>'<option value="'+c.n+'">').join('')+'</datalist>'+
+    '<input id="lt" class="ci" placeholder="纬度" value="'+lat+'"><input id="ln" class="ci" placeholder="经度" value="'+lon+'">'+
+    '<button onclick="sr()">定位</button></div><div class="nav-hint">坐标更精确 · 10分钟自动刷新</div></div>'+
+
+    '<div class="g8">'+
+      '<div class="cd hro"><div class="wi-lg">'+wi(c.weather_code,90,90)+'</div>'+
+      '<div><div class="tp-lg">'+Math.round(c.temperature_2m)+'<sm>°C</sm></div>'+
+      '<div class="desc">'+tx(c.weather_code)+' · 体感 '+Math.round(c.apparent_temperature)+'°C</div>'+
+      '<div class="stats"><div><div class="v">'+c.relative_humidity_2m+'%</div><div class="l">湿度</div></div>'+
+      '<div><div class="v">'+c.wind_speed_10m+'</div><div class="l">'+wds+'风</div></div>'+
+      '<div><div class="v">'+(c.pressure_msl?Math.round(c.pressure_msl):'--')+'</div><div class="l">气压</div></div>'+
+      '<div><div class="v">'+(c.uv_index||'--')+'</div><div class="l">紫外线</div></div></div></div></div>'+
+
+      '<div class="cd" style="grid-column:span 2"><div class="cl">日照</div><div class="g3">'+
+      '<div><span class="ic">🌅</span><div class="n">'+(d.sunrise[0]?d.sunrise[0].split('T')[1].substring(0,5):'--')+'</div><div class="l">日出</div></div>'+
+      '<div><span class="ic">🌇</span><div class="n">'+(d.sunset[0]?d.sunset[0].split('T')[1].substring(0,5):'--')+'</div><div class="l">日落</div></div>'+
+      '<div><span class="ic">🌡</span><div class="n">'+Math.round(d.temperature_2m_max[0])+'°/'+Math.round(d.temperature_2m_min[0])+'°</div><div class="l">日温差</div></div></div></div>'+
+
+      '<div class="cd" style="grid-column:span 2"><div class="cl">空气质量</div>'+aq+'</div>'+
+      '<div class="cd" style="grid-column:span 2"><div class="cl">生活指数</div><div class="tp">'+tips+'</div></div>'+
+    '</div>'+
+
+    '<div class="cd" style="margin-bottom:.8rem"><div class="cl">逐小时 <span style="text-transform:none;font-weight:400;color:var(--text3)">48h</span></div><div class="hs">'+htm+'</div><div class="ml">'+ml+'</div></div>'+
+
+    '<div class="g2">'+
+      '<div class="cd"><div class="cl">7 天预报</div>'+dt+'</div>'+
+      '<div class="cd"><div class="cl">温度趋势</div><div class="tc">'+ct+'</div>'+
+      '<div class="lg"><span><span class="dot" style="background:var(--accent)"></span>最高</span><span><span class="dot" style="background:#6d6bf0"></span>最低</span></div></div>'+
+    '</div>';
+}
+
+function sr(){
+  const v=document.getElementById('ci').value,la=parseFloat(document.getElementById('lt').value),lo=parseFloat(document.getElementById('ln').value);
+  if(la&&lo&&!isNaN(la)&&!isNaN(lo)){const c=C.find(x=>x.n.includes(v));ld(la,lo,c?c.n:la.toFixed(2)+','+lo.toFixed(2));return}
+  const c=C.find(x=>x.n.includes(v));if(c)ld(c.la,c.lo,c.n);
+}
+async function ld(la,lo,nm){
+  document.getElementById('app').innerHTML='<div class="ld"><div class="sp"></div><div>加载中...</div></div>';
+  try{const w=await gw(la,lo);let a=null;try{a=await ga(la,lo)}catch{}rd(w,a,nm,la,lo)}
+  catch(e){document.getElementById('app').innerHTML='<div class="er">'+e.message+'</div>'}
+}
+const df=C.find(x=>x.n==='武穴市');
+ld(df.la,df.lo,df.n);
+</script>
+</body>
+</html>

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=2560">
+<title>AtomCode · 升级工作流展示</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#050810;--surface:#0b1125;--card:#0f172a;--border:#1a2d4a;--text:#e0edf8;--muted:#94a3b8;--accent:#6b9eff;--green:#34d399;--gold:#ffbf00;--red:#f87171}
+html{background:var(--bg);display:flex;justify-content:center;padding:2rem}
+body{width:1200px;max-width:100%;background:var(--surface);border-radius:16px;padding:2rem;font-family:'Segoe UI','PingFang SC',sans-serif;color:var(--text)}
+h1{font-size:1.6rem;color:var(--accent);margin-bottom:0.5rem}
+h2{font-size:1.1rem;color:var(--gold);margin:1.2rem 0 0.5rem;border-bottom:1px solid var(--border);padding-bottom:0.3rem}
+.flow{display:flex;gap:0.5rem;align-items:center;flex-wrap:wrap;padding:0.5rem 0}
+.flow .step{padding:0.5rem 0.8rem;border-radius:8px;font-size:0.8rem;min-width:5rem;text-align:center}
+.step-done{background:rgba(52,211,153,.1);border:1px solid rgba(52,211,153,.3);color:var(--green)}
+.step-auto{background:rgba(107,158,255,.1);border:1px solid rgba(107,158,255,.3);color:var(--accent)}
+.step-new{background:rgba(255,191,0,.1);border:1px solid rgba(255,191,0,.3);color:var(--gold)}
+.arrow{color:var(--muted);font-size:0.7rem}
+table{width:100%;border-collapse:collapse;margin:0.5rem 0;font-size:0.85rem}
+th{text-align:left;padding:0.4rem 0.6rem;border-bottom:1px solid var(--border);color:var(--muted);font-weight:600}
+td{padding:0.35rem 0.6rem;border-bottom:1px solid rgba(30,45,74,.3)}
+tr:hover td{background:rgba(255,255,255,.02)}
+.tag{display:inline-block;padding:0.1rem 0.4rem;border-radius:3px;font-size:0.7rem;margin-left:0.3rem}
+.tag-new{background:rgba(255,191,0,.15);color:var(--gold)}
+.tag-improved{background:rgba(107,158,255,.15);color:var(--accent)}
+.code-block{background:#0a0e1a;border:1px solid var(--border);border-radius:8px;padding:0.8rem;font-family:'Consolas',monospace;font-size:0.8rem;line-height:1.5;margin:0.5rem 0;color:#e6be64;overflow-x:auto}
+.compare{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:0.5rem 0}
+.compare-box{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:0.8rem}
+.compare-box .title{font-size:0.8rem;font-weight:600;margin-bottom:0.4rem}
+.compare-box.old .title{color:var(--muted)}
+.compare-box.new .title{color:var(--green)}
+</style>
+</head>
+<body>
+
+<h1>⚡ AtomCode 工作流升级 · v2.0</h1>
+<p style="color:var(--muted);font-size:0.9rem">从"被动执行"升级为"主动完成"</p>
+
+<!-- ═══ 对比 ═══ -->
+<h2>📊 升级对比</h2>
+
+<div class="compare">
+<div class="compare-box old">
+<div class="title">⬅ 旧模式（被动）</div>
+<div class="flow">
+<span class="step step-done">听指令</span><span class="arrow">→</span>
+<span class="step step-done">写代码</span><span class="arrow">→</span>
+<span class="step" style="border:1px dashed var(--border);color:var(--muted)">等你检查</span><span class="arrow">→</span>
+<span class="step" style="border:1px dashed var(--border);color:var(--muted)">等你测试</span>
+</div>
+</div>
+<div class="compare-box new">
+<div class="title">➡ 新模式（主动）</div>
+<div class="flow">
+<span class="step step-done">你给目标</span><span class="arrow">→</span>
+<span class="step step-auto">设计方案</span><span class="arrow">→</span>
+<span class="step step-auto">写代码</span><span class="arrow">→</span>
+<span class="step step-new">✨ 自动审查</span><span class="arrow">→</span>
+<span class="step step-new">✨ 自动测试</span><span class="arrow">→</span>
+<span class="step step-new">✨ 自动修bug</span><span class="arrow">→</span>
+<span class="step step-done">交付</span>
+</div>
+</div>
+</div>
+
+<!-- ═══ 6项升级 ═══ -->
+<h2>🔧 6 项升级详情</h2>
+
+<table>
+<tr><th style="width:2rem">#</th><th style="width:8rem">升级项</th><th>以前</th><th>现在</th></tr>
+<tr>
+<td>①</td><td><span class="tag tag-new">自动审查</span></td>
+<td>写完代码等你 review</td>
+<td>写完自动检查：风格→逻辑→安全→性能→可维护性，发现问题直接修</td>
+</tr>
+<tr>
+<td>②</td><td><span class="tag tag-new">自动测试</span></td>
+<td>等你手动说"测试一下"</td>
+<td>改完代码自动找测试框架→跑测试→失败自动分析→修复→重测</td>
+</tr>
+<tr>
+<td>③</td><td><span class="tag tag-new">安全网重构</span></td>
+<td>改代码凭记忆哪用了</td>
+<td>重构前 grep 搜索所有引用→改完再 grep 确认无遗漏→跑测试验证</td>
+</tr>
+<tr>
+<td>④</td><td><span class="tag tag-new">一键脚手架</span></td>
+<td>手动创建目录+配置</td>
+<td>一句话生成完整项目结构+配置文件+入口代码+依赖安装</td>
+</tr>
+<tr>
+<td>⑤</td><td><span class="tag tag-new">自动装依赖</span></td>
+<td>运行报错了再装</td>
+<td>检测到缺失包自动 pip/npm install，不再等你发现</td>
+</tr>
+<tr>
+<td>⑥</td><td><span class="tag tag-improved">强化自愈</span></td>
+<td>失败重试3次同样的操作</td>
+<td>失败→分析根因→换方案重试→多方案递进→仍失败则给你完整诊断报告</td>
+</tr>
+</table>
+
+<!-- ═══ 演示 ═══ -->
+<h2>🎬 实际效果演示</h2>
+
+<p style="color:var(--muted);font-size:0.85rem;margin-bottom:0.3rem">你说：</p>
+<div class="code-block" style="color:var(--text);background:rgba(107,158,255,.05)">"帮我写一个 Python 命令行工具，统计目录下各类型文件数量"</div>
+
+<p style="color:var(--muted);font-size:0.85rem;margin:0.5rem 0 0.3rem">以前我会：</p>
+<div class="code-block">→ 写一个 file_counter.py<br>
+→ 告诉你"写好了，你试试"</div>
+
+<p style="color:var(--muted);font-size:0.85rem;margin:0.5rem 0 0.3rem">现在我会：</p>
+<div class="code-block" style="border-color:rgba(52,211,153,.3)">
+<span style="color:var(--green)">① 架构设计</span><br>
+<span style="color:var(--muted)">   ├ main() → 解析命令行参数</span><br>
+<span style="color:var(--muted)">   ├ count_files() → 遍历目录</span><br>
+<span style="color:var(--muted)">   └ print_report() → 输出表格</span><br>
+<br>
+<span style="color:var(--green)">② 写代码</span><br>
+<span style="color:var(--muted)">   → file_counter.py（带类型注解）</span><br>
+<br>
+<span style="color:var(--gold)">③ 自动审查 🔥</span><br>
+<span style="color:var(--muted)">   ├ 风格检查 ✓</span><br>
+<span style="color:var(--muted)">   ├ 逻辑检查 ✓</span><br>
+<span style="color:var(--muted)">   ├ 边界情况检查：空目录 ✓ 子目录 ✓ 权限不足 ✓</span><br>
+<br>
+<span style="color:var(--gold)">④ 自动测试 🔥</span><br>
+<span style="color:var(--muted)">   → 创建临时测试目录测试</span><br>
+<span style="color:var(--muted)">   → 通过 ✓</span><br>
+<br>
+<span style="color:var(--gold)">⑤ 自动装依赖 🔥</span><br>
+<span style="color:var(--muted)">   → 发现需要 argparse？Python 内置 ✓</span><br>
+<br>
+<span style="color:var(--accent)">✅ 交付：file_counter.py + 测试通过报告</span>
+</div>
+
+<!-- ═══ 升级清单 ═══ -->
+<h2>✅ 升级状态</h2>
+<table>
+<tr><th>升级项</th><th>状态</th><th>说明</th></tr>
+<tr><td>① 写完自动审查</td><td><span style="color:var(--green)">✅ 已激活</span></td><td>从现在起，每次写完代码我自动跑审查</td></tr>
+<tr><td>② 写完自动测试</td><td><span style="color:var(--green)">✅ 已激活</span></td><td>检测到项目有测试框架自动运行</td></tr>
+<tr><td>③ 安全网重构</td><td><span style="color:var(--green)">✅ 已激活</span></td><td>grep 前后确认，确保不遗漏</td></tr>
+<tr><td>④ 一键脚手架</td><td><span style="color:var(--green)">✅ 已就绪</span></td><td>说"搭个 XX 项目"即可</td></tr>
+<tr><td>⑤ 自动装依赖</td><td><span style="color:var(--green)">✅ 已激活</span></td><td>检测到缺包自动安装</td></tr>
+<tr><td>⑥ 强化自愈</td><td><span style="color:var(--green)">✅ 已激活</span></td><td>失败自动换方案，最多3种策略</td></tr>
+</table>
+
+<p style="margin-top:1rem;padding-top:0.8rem;border-top:1px solid var(--border);font-size:0.8rem;color:var(--muted)">你现在可以直接说"写个 XX"，我会自动走完整个流程。</p>
+
+</body>
+</html>

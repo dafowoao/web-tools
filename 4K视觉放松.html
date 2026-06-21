@@ -1,0 +1,87 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0"><title>视觉放松 · YouTube 4K精选</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#000;overflow:hidden;height:100vh;font-family:PingFang SC,Microsoft YaHei,sans-serif;color:#fff}
+video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transition:opacity 1.5s}
+video.on{opacity:1}
+.row{position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:5;display:flex;flex-direction:column;gap:5px;align-items:center;max-width:98vw}
+.rw{display:flex;gap:5px;flex-wrap:wrap;justify-content:center}
+.cp{padding:5px 12px;border-radius:14px;background:rgba(0,0,0,.5);color:#fff;border:1px solid rgba(255,255,255,.1);cursor:pointer;font-size:10px;backdrop-filter:blur(10px);transition:all .3s;font-family:inherit;white-space:nowrap}
+.cp:hover{background:rgba(255,255,255,.15)}.cp.on{background:rgba(91,141,232,.38);border-color:rgba(91,141,232,.5);font-weight:600}
+.lb{position:fixed;top:16px;left:50%;transform:translateX(-50%);color:rgba(255,255,255,.45);font-size:15px;font-weight:600;letter-spacing:3px;z-index:5;pointer-events:none;text-shadow:0 2px 10px rgba(0,0,0,.7)}
+.fs{position:fixed;top:14px;right:14px;z-index:10;width:36px;height:36px;border-radius:50%;background:rgba(0,0,0,.4);border:1px solid rgba(255,255,255,.15);color:rgba(255,255,255,.55);font-size:14px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .3s;font-family:inherit}
+.fs:hover{background:rgba(255,255,255,.15);color:#fff}
+.tools{position:fixed;top:14px;left:14px;z-index:10;display:flex;align-items:center;gap:6px}
+.tool{background:rgba(0,0,0,.45);border:1px solid rgba(255,255,255,.1);border-radius:18px;padding:6px 12px;font-size:10px;color:rgba(255,255,255,.65);cursor:pointer;font-family:inherit;display:flex;align-items:center;gap:4px;transition:all .3s}
+.tool:hover{color:#fff;background:rgba(255,255,255,.1)}.tool.on{background:rgba(32,191,107,.25);border-color:rgba(32,191,107,.4);color:#20bf6b}
+.tool input{width:55px;height:3px;accent-color:#5B8DE8;cursor:pointer}
+.hint{position:fixed;bottom:70px;left:50%;transform:translateX(-50%);color:rgba(255,255,255,.25);font-size:10px;letter-spacing:1px;pointer-events:none}
+</style></head><body>
+<div id="vids"></div>
+<div class="lb" id="lb">🏔️ 山峦航拍</div>
+<button class="fs" onclick="document.fullscreenElement?document.exitFullscreen():document.documentElement.requestFullscreen()">⛶</button>
+<div class="tools"><span class="tool on" id="loopBtn" onclick="toggleLoop()">🔄 单曲循环</span><span class="tool">🔊<input type="range" min="0" max="100" value="40" oninput="setVol(this.value)"></span></div>
+<div class="hint">F 全屏 · ← → 切换 · L 循环模式</div>
+<div class="row">
+<div class="rw">
+<button class="cp on" onclick="sw(0)">🏔️ 山峦</button>
+<button class="cp" onclick="sw(1)">🚀 太空站</button>
+<button class="cp" onclick="sw(2)">🌌 极光1</button>
+<button class="cp" onclick="sw(3)">🌿 自然</button>
+<button class="cp" onclick="sw(4)">🌋 火山</button>
+<button class="cp" onclick="sw(5)">☁️ 云海</button>
+<button class="cp" onclick="sw(6)">⭐ 星空</button>
+<button class="cp" onclick="sw(7)">🌊 海洋</button>
+<button class="cp" onclick="sw(8)">🏞️ 风景</button>
+</div>
+<div class="rw">
+<button class="cp" onclick="sw(9)">🏜️ 沙漠</button>
+<button class="cp" onclick="sw(10)">🌲 森林</button>
+<button class="cp" onclick="sw(11)">🍃 绿野</button>
+<button class="cp" onclick="sw(12)">🌧️ 雨景</button>
+<button class="cp" onclick="sw(13)">❄️ 雪景</button>
+<button class="cp" onclick="sw(14)">🪐 太阳系</button>
+<button class="cp" onclick="sw(15)">🌅 日出</button>
+<button class="cp" onclick="sw(16)">🌌 极光2</button>
+<button class="cp" onclick="sw(17)">💧 瀑布</button>
+</div>
+</div>
+<script>
+const labels=['🏔️ 山峦航拍','🚀 太空站','🌌 北极极光','🌿 自然延时','🌋 火山','☁️ 云海','⭐ 星空','🌊 海洋','🏞️ 风景','🏜️ 沙漠','🌲 森林','🍃 绿野','🌧️ 雨景','❄️ 雪景','🪐 太阳系','🌅 日出','🌌 极光2','💧 瀑布'];
+const files=['mountain.mp4','space.mp4','aurora2.mp4','nature.mp4','clouds.mp4','clouds.mp4','starry.mp4','ocean.mp4','landscape.mp4','desert.mp4','nature.mp4','green.mp4','rain.mp4','snow.mp4','space.mp4','sunrise.mp4','aurora2.mp4','waterfall.mp4'];
+const N=files.length;
+let cur=0,loopMode=true;
+
+let h='';for(let i=0;i<N;i++)h+='<video id="v'+i+'" loop playsinline></video>';document.getElementById('vids').innerHTML=h;
+
+function setVol(v){for(let i=0;i<N;i++){const el=document.getElementById('v'+i);if(el)el.volume=v/100}}
+function sw(i){
+  if(cur===i)return;
+  document.getElementById('v'+cur).classList.remove('on');
+  document.getElementById('v'+cur).pause();
+  cur=i;document.getElementById('lb').textContent=labels[i];
+  document.querySelectorAll('.cp').forEach((c,j)=>c.classList.toggle('on',j===i));
+  const vt=document.getElementById('v'+i);
+  vt.classList.add('on');vt.currentTime=0;vt.loop=loopMode;vt.play().catch(()=>{});
+}
+function toggleLoop(){
+  loopMode=!loopMode;const btn=document.getElementById('loopBtn');
+  if(loopMode){btn.textContent='🔄 单曲循环';btn.classList.add('on')}else{btn.innerHTML='▶ 列表播放';btn.classList.remove('on')}
+  const vt=document.getElementById('v'+cur);if(vt)vt.loop=loopMode;
+}
+function loadVid(i){
+  const v=document.getElementById('v'+i);
+  v.src=files[i];v.load();v.loop=true;
+  v.oncanplay=()=>{if(i===0){v.classList.add('on');v.play().catch(()=>{})}};
+  v.onended=()=>{if(!loopMode&&cur===i)sw((cur+1)%N)};
+}
+for(let i=0;i<N;i++)loadVid(i);
+
+window.sw=sw;window.setVol=setVol;window.toggleLoop=toggleLoop;
+document.addEventListener('keydown',e=>{
+  if((e.key==='f'||e.key==='F')&&!e.ctrlKey&&!e.metaKey)document.fullscreenElement?document.exitFullscreen():document.documentElement.requestFullscreen();
+  if(e.key==='l'||e.key==='L')toggleLoop();
+  if(e.key==='ArrowLeft')sw((cur+N-1)%N);
+  if(e.key==='ArrowRight')sw((cur+1)%N);
+});
+</script></body></html>

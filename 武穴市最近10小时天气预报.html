@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>武穴市最近10小时天气预报</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"/>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0a0e1a;color:#e0edf8;font-family:'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;padding:2rem;min-height:100vh}
+.max-w{max-width:1200px;margin:0 auto}
+header{text-align:center;margin-bottom:2rem;padding-bottom:1.2rem;border-bottom:1px solid rgba(107,158,255,.2)}
+header h1{font-size:2rem;color:#6b9eff}
+header p{color:#94a3b8;margin-top:.3rem;font-size:.9rem}
+header .upd{color:#34d399;font-size:.8rem;margin-top:.4rem}
+.loading{text-align:center;padding:4rem 0;color:#5a6a80}
+.loading .sp{width:36px;height:36px;border:3px solid rgba(107,158,255,.15);border-top-color:#6b9eff;border-radius:50%;animation:spin .7s linear infinite;margin:0 auto 1rem}
+@keyframes spin{to{transform:rotate(360deg)}}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1rem;margin-bottom:2rem}
+.card{background:#111827;border:1px solid #1f2a44;border-radius:12px;padding:1.2rem;transition:border-color .2s}
+.card:hover{border-color:#6b9eff}
+.card .time{font-size:.8rem;color:#6b9eff;font-weight:600;margin-bottom:.3rem}
+.card .date{font-size:.7rem;color:#5a6a80;margin-bottom:.6rem}
+.card .icon{font-size:2rem;margin-bottom:.4rem}
+.card .temp{font-size:1.6rem;font-weight:700;margin-bottom:.2rem}
+.card .desc{font-size:.8rem;color:#94a3b8;margin-bottom:.6rem}
+.card .stat{display:flex;justify-content:space-between;font-size:.75rem;color:#6a7a90;padding:.2rem 0;border-top:1px solid rgba(255,255,255,.04)}
+.card .stat i{width:16px;color:#6b9eff}
+.summary{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem;margin-bottom:2rem}
+.summary .box{background:#111827;border:1px solid #1f2a44;border-radius:12px;padding:1rem}
+.summary .box h4{font-size:.8rem;color:#5a6a80;margin-bottom:.3rem}
+.summary .box .val{font-size:1.2rem;font-weight:600}
+.week-title{font-size:1.1rem;font-weight:700;color:#e0edf8;margin:1.5rem 0 .8rem;display:flex;align-items:center;gap:.5rem}
+.week-title i{color:#6b9eff}
+.week-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:.7rem;margin-bottom:2rem}
+.day-card{background:#111827;border:1px solid #1f2a44;border-radius:10px;padding:.9rem;text-align:center;transition:border-color .2s}
+.day-card:hover{border-color:#6b9eff}
+.day-card .dname{font-size:.85rem;font-weight:600;color:#6b9eff;margin-bottom:.2rem}
+.day-card .ddate{font-size:.7rem;color:#5a6a80;margin-bottom:.4rem}
+.day-card .dicon{font-size:1.5rem;margin-bottom:.3rem}
+.day-card .dtemps{font-size:.9rem;margin-bottom:.2rem}
+.day-card .dtemps .hi{font-weight:700}
+.day-card .dtemps .lo{color:#6a7a90;margin-left:.3rem}
+.day-card .ddesc{font-size:.75rem;color:#94a3b8}
+.day-card .dpp{font-size:.7rem;color:#6a7a90;margin-top:.3rem}
+.err{text-align:center;padding:3rem;color:#f87171}
+.err i{font-size:2rem;margin-bottom:.5rem}
+.err p{margin-bottom:.5rem}
+.err .btn{padding:.5rem 1.5rem;border:none;border-radius:8px;background:#6b9eff;color:#fff;cursor:pointer;font-size:.85rem}
+footer{text-align:center;padding:2rem 0;font-size:.75rem;color:#3a4a60}
+footer a{color:#6b9eff;text-decoration:none}
+@media(max-width:600px){
+  body{padding:.8rem}
+  header h1{font-size:1.4rem}
+  .grid{grid-template-columns:1fr;gap:.6rem}
+  .card{padding:.8rem}
+  .card .temp{font-size:1.2rem}
+  .card .icon{font-size:1.5rem}
+  .card .stat{font-size:.7rem}
+  .summary{grid-template-columns:1fr 1fr;gap:.6rem}
+  .summary .box{padding:.7rem}
+  .summary .box .val{font-size:1rem}
+  .week-grid{grid-template-columns:repeat(4,1fr);gap:.4rem}
+  .day-card{padding:.6rem}
+  .day-card .dname{font-size:.75rem}
+  .day-card .dicon{font-size:1.2rem}
+  .day-card .dtemps{font-size:.8rem}
+}
+</style>
+</head>
+<body>
+<div class="max-w">
+  <header>
+    <h1><i class="fas fa-cloud-sun"></i> 武穴市</h1>
+    <p>最近10小时天气预报 · 实时更新</p>
+    <div class="upd" id="updateInfo"><span id="timeDot"></span>获取中...</div>
+  </header>
+  <div id="app"><div class="loading"><div class="sp"></div><div>加载天气数据...</div></div></div>
+  <footer>数据来源: <a href="https://open-meteo.com" target="_blank">Open-Meteo</a> · 仅供参考</footer>
+</div>
+<script>
+const LAT = 29.85, LON = 115.55;
+const WMO = {
+  0:{i:'fa-sun',t:'晴天'},1:{i:'fa-sun',t:'大部晴朗'},2:{i:'fa-cloud-sun',t:'少云'},
+  3:{i:'fa-cloud',t:'多云'},45:{i:'fa-smog',t:'雾'},48:{i:'fa-smog',t:'雾凇'},
+  51:{i:'fa-cloud-drizzle',t:'小毛毛雨'},53:{i:'fa-cloud-drizzle',t:'毛毛雨'},55:{i:'fa-cloud-drizzle',t:'大毛毛雨'},
+  56:{i:'fa-cloud-drizzle',t:'冻毛毛雨'},57:{i:'fa-cloud-drizzle',t:'冻毛毛雨'},
+  61:{i:'fa-cloud-rain',t:'小雨'},63:{i:'fa-cloud-rain',t:'中雨'},65:{i:'fa-cloud-showers-heavy',t:'大雨'},
+  66:{i:'fa-cloud-rain',t:'冻雨'},67:{i:'fa-cloud-rain',t:'冻雨'},
+  71:{i:'fa-snowflake',t:'小雪'},73:{i:'fa-snowflake',t:'中雪'},75:{i:'fa-snowflake',t:'大雪'},
+  77:{i:'fa-snowflake',t:'雪粒'},80:{i:'fa-cloud-rain',t:'小阵雨'},81:{i:'fa-cloud-rain',t:'中阵雨'},
+  82:{i:'fa-cloud-showers-heavy',t:'大阵雨'},85:{i:'fa-snowflake',t:'小阵雪'},86:{i:'fa-snowflake',t:'大阵雪'},
+  95:{i:'fa-bolt',t:'雷暴'},96:{i:'fa-bolt',t:'雷暴+冰雹'},99:{i:'fa-bolt',t:'雷暴+冰雹'},
+};
+const WIND_DIR = ['北','北东北','东北','东东北','东','东东南','东南','南东南','南','南西南','西南','西西南','西','西西北','西北','北西北'];
+function wd(d){return WIND_DIR[Math.round(d/22.5)%16]}
+
+async function load(){
+  const dot=document.getElementById('timeDot');
+  const info=document.getElementById('updateInfo');
+  const app=document.getElementById('app');
+  try{
+    const url=`https://api.open-meteo.com/v1/forecast?latitude=${LAT}&longitude=${LON}&hourly=temperature_2m,relative_humidity_2m,weather_code,precipitation_probability,wind_speed_10m,wind_direction_10m&daily=temperature_2m_max,temperature_2m_min,weather_code,precipitation_probability_max,wind_speed_10m_max,wind_direction_10m_dominant&timezone=auto&forecast_days=7&forecast_hours=12`;
+    const ac=new AbortController();setTimeout(()=>ac.abort(),8e3);
+    const r=await fetch(url,{signal:ac.signal});
+    if(!r.ok)throw new Error('HTTP '+r.status);
+    const j=await r.json();
+    const h=j.hourly;
+    const now=new Date();
+    info.innerHTML=`<span class="time-dot"></span>更新于 ${now.getHours().toString().padStart(2,'0')}:${now.getMinutes().toString().padStart(2,'0')}`;
+
+    let html='';
+
+    // === 先：一周预报 ===
+    const d=j.daily;
+    const DAYS=['周日','周一','周二','周三','周四','周五','周六'];
+    html+=`<div class="week-title"><i class="fas fa-calendar-week"></i> 未来 7 天预报</div><div class="week-grid">`;
+    for(let i=0;i<d.time.length;i++){
+      const dt=new Date(d.time[i]);
+      const dname=DAYS[dt.getDay()];
+      const ddate=(dt.getMonth()+1)+'/'+dt.getDate();
+      const hi=Math.round(d.temperature_2m_max[i]);
+      const lo=Math.round(d.temperature_2m_min[i]);
+      const wc=d.weather_code[i];
+      const w=WMO[wc]||{i:'fa-cloud',t:'未知'};
+      const pp=d.precipitation_probability_max[i];
+      const color=hi>=30?'#f97316':hi>=20?'#fbbf24':hi>=10?'#6b9eff':'#34d399';
+      const isToday=i===0;
+      html+=`
+        <div class="day-card"${isToday?' style="border-color:#6b9eff;background:#141d35"':''}>
+          <div class="dname">${isToday?'今天':dname}</div>
+          <div class="ddate">${ddate}</div>
+          <div class="dicon"><i class="fas ${w.i}" style="color:${color}"></i></div>
+          <div class="dtemps"><span class="hi">${hi}°</span><span class="lo">${lo}°</span></div>
+          <div class="ddesc">${w.t}</div>
+          ${pp!=null?`<div class="dpp">🌧 ${pp}%</div>`:''}
+        </div>`;
+    }
+    html+='</div>';
+
+    // === 后：小时预报 ===
+    html+=`<div class="week-title" style="margin-top:1rem"><i class="fas fa-clock"></i> 最近 12 小时预报</div><div class="grid">`;
+    for(let i=0;i<h.time.length;i++){
+      const t=new Date(h.time[i]);
+      const hh=t.getHours().toString().padStart(2,'0')+':00';
+      const dd=(t.getMonth()+1)+'月'+t.getDate()+'日';
+      const isNight=t.getHours()<6||t.getHours()>=19;
+      const period=isNight?(t.getHours()<6?'凌晨':'夜间'):(t.getHours()<12?'上午':'下午');
+      const temp=Math.round(h.temperature_2m[i]);
+      const hum=h.relative_humidity_2m[i];
+      const wc=h.weather_code[i];
+      const pp=h.precipitation_probability[i];
+      const ws=Math.round(h.wind_speed_10m[i]);
+      const wdi=h.wind_direction_10m[i];
+      const w=WMO[wc]||{i:'fa-cloud',t:'未知'};
+      const color=temp>=30?'#f97316':temp>=20?'#fbbf24':temp>=10?'#6b9eff':'#34d399';
+      const ppBar=Math.min(pp||0,100);
+      html+=`
+        <div class="card">
+          <div class="time">${hh}</div>
+          <div class="date">${dd} · ${period}</div>
+          <div class="icon"><i class="fas ${w.i}" style="color:${color}"></i></div>
+          <div class="temp" style="color:${color}">${temp}°</div>
+          <div class="desc">${w.t}</div>
+          <div class="stat"><span><i class="fas fa-tint"></i> 湿度</span><span>${hum}%</span></div>
+          <div class="stat"><span><i class="fas fa-wind"></i> 风速</span><span>${wd(wdi)} ${ws}级</span></div>
+          <div class="stat"><span><i class="fas fa-umbrella"></i> 降雨</span><span>${pp??0}%</span></div>
+          <div style="margin-top:6px;height:4px;background:#1f2a44;border-radius:2px;overflow:hidden"><div style="width:${ppBar}%;height:100%;background:${ppBar>50?'#f87171':'#6b9eff'};border-radius:2px"></div></div>
+        </div>`;
+    }
+    html+='</div>';
+
+    // 摘要
+    const temps=h.temperature_2m;
+    const minT=Math.round(Math.min(...temps));
+    const maxT=Math.round(Math.max(...temps));
+    const avgH=Math.round(h.relative_humidity_2m.reduce((a,b)=>a+b,0)/h.relative_humidity_2m.length);
+    const maxPP=Math.max(...h.precipitation_probability);
+    html+=`
+      <div class="summary">
+        <div class="box"><h4>温度范围</h4><div class="val" style="color:#fbbf24">${minT}° ~ ${maxT}°</div></div>
+        <div class="box"><h4>平均湿度</h4><div class="val" style="color:#6b9eff">${avgH}%</div></div>
+        <div class="box"><h4>最大降雨概率</h4><div class="val" style="color:${maxPP>50?'#f87171':'#34d399'}">${maxPP}%</div></div>
+        <div class="box"><h4>数据时间</h4><div class="val" style="color:#94a3b8;font-size:.9rem">${h.time[0].slice(5,16)} ~ ${h.time[h.time.length-1].slice(5,16)}</div></div>
+      </div>`;
+
+    app.innerHTML=html;
+  }catch(e){
+    app.innerHTML=`
+      <div class="err">
+        <i class="fas fa-exclamation-triangle"></i>
+        <p>获取数据失败</p>
+        <p style="font-size:.8rem;color:#5a6a80">${e.message}</p>
+        <button class="btn" onclick="load()">重试</button>
+      </div>`;
+    info.innerHTML='<span style="color:#f87171">加载失败</span>';
+  }
+}
+load();
+</script>
+</body>
+</html>

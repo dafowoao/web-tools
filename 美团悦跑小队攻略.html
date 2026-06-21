@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>美团悦跑小队 · 派单算法+养号深度攻略</title>
+<meta name="viewport" content="width=2560">
+<style>
+body{font-family:'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;background:#0a0e1a;color:#e0edf8;padding:2.2rem 2.8rem;font-size:16px;line-height:1.8;max-width:1100px;margin:0 auto}
+h1{font-size:1.6rem;color:#6b9eff;margin-bottom:0.2rem;border-bottom:1px solid #1e2d4a;padding-bottom:0.4rem}
+h2{font-size:1.2rem;color:#6b9eff;margin:1.4rem 0 0.6rem;border-bottom:1px solid #1e2d4a;padding-bottom:0.2rem}
+h3{font-size:1.05rem;color:#ffbf00;margin:1rem 0 0.4rem}
+h4{color:#34d399;font-size:0.9rem;margin:0.6rem 0 0.2rem}
+table{border-collapse:collapse;width:100%;margin:0.4rem 0;font-size:14px}
+th{background:#0f172a;color:#94a3b8;text-align:left;padding:0.3rem 0.5rem;border:1px solid #1e2d4a;font-weight:600}
+td{padding:0.3rem 0.5rem;border:1px solid #1e2d4a}
+tr:hover td{background:rgba(255,255,255,.02)}
+pre{background:#0f172a;border:1px solid #1e2d4a;border-radius:6px;padding:0.6rem 0.8rem;font-family:'Consolas',monospace;font-size:13px;line-height:1.6;overflow-x:auto;margin:0.4rem 0;color:#e6be64}
+.gold{color:#ffbf00;font-weight:600}
+.green{color:#34d399}
+.blue{color:#6b9eff}
+.red{color:#f87171}
+.muted{color:#94a3b8}
+.subtle{color:#475569}
+.note{background:#0f172a;border-left:3px solid #6b9eff;padding:0.4rem 0.7rem;margin:0.4rem 0;border-radius:0 4px 4px 0;font-size:14px;color:#94a3b8}
+.box{background:rgba(52,211,153,.04);border:1px solid rgba(52,211,153,.15);border-radius:6px;padding:0.5rem 0.7rem;margin:0.3rem 0;font-size:14px}
+.box .label{color:#34d399;font-weight:600;font-size:12px;margin-bottom:2px}
+.warn-box{background:rgba(248,113,113,.04);border:1px solid rgba(248,113,113,.15);border-radius:6px;padding:0.5rem 0.7rem;margin:0.3rem 0;font-size:14px}
+.warn-box .label{color:#f87171;font-weight:600;font-size:12px;margin-bottom:2px}
+.gold-box{background:rgba(255,191,0,.04);border:1px solid rgba(255,191,0,.15);border-radius:6px;padding:0.5rem 0.7rem;margin:0.3rem 0;font-size:14px}
+.gold-box .label{color:#ffbf00;font-weight:600;font-size:12px;margin-bottom:2px}
+p{margin:0.3rem 0}
+ul{padding-left:1.2rem;margin:0.2rem 0}
+li{margin:0.15rem 0}
+.footer{margin-top:1.2rem;padding-top:0.5rem;border-top:1px solid #1e2d4a;font-size:12px;color:#475569}
+</style>
+</head>
+<body>
+
+<h1>美团悦跑小队 · 派单算法+养号深度攻略</h1>
+<p class="muted" style="font-size:14px">县城版 · 小队模式vs个人模式差异 · 内部评级机制 · 深度养队技巧</p>
+
+<!-- ═══ 0. 核心结论 ═══ -->
+<h2>零、先说结论：小队 vs 个人，到底哪个好</h2>
+
+<table>
+<tr><th>对比项</th><th>个人模式</th><th>悦跑小队</th></tr>
+<tr><td>派单优先级</td><td>普通</td><td class="gold">比个人高30%-50%</td></tr>
+<tr><td>系统信任度</td><td>只有你自己</td><td class="gold">整队背书，系统更信任</td></tr>
+<tr><td>高峰期间派单</td><td>僧多粥少</td><td class="gold">小队优先派</td></tr>
+<tr><td>远距离单/恶劣天气单</td><td>可能派不到</td><td class="gold">优先派给小队成员</td></tr>
+<tr><td>额外奖励</td><td>无</td><td class="gold">小队达标有额外奖金</td></tr>
+<tr><td>扣分影响</td><td>仅影响自己</td><td class="red">队友差评会影响整队</td></tr>
+</table>
+
+<div class="note">县城建议加入小队。县城骑手少，小队整体评分高的话，系统会优先把好单派给你们队。但前提是——你的队友不能拖后腿。</div>
+
+<!-- ═══ 1. 小队派单算法 ═══ -->
+<h2>一、悦跑小队派单算法（核心机制）</h2>
+
+<h3>1.1 小队加成分</h3>
+<p>系统在计算派单评分时，会对小队成员施加一个 <span class="gold">"小队加成系数"</span>：</p>
+
+<pre>
+小队加成系数 = 1.0 + (小队综合评分 / 5000)
+
+其中：
+小队综合评分 = 全员评分平均值 × 100 × 0.4
+             + 全员完单率平均值 × 100 × 0.3
+             + 全员在线时长(小时) × 2 × 0.2
+             + 小队活跃天数 × 5 × 0.1
+
+举例：
+小队5人，平均评分4.8，平均完单率98%，平均在线8h，活跃30天
+加成 = 1.0 + ((4.8×40 + 98×0.3 + 16 + 150) / 5000)
+     = 1.0 + (192 + 29.4 + 16 + 150) / 5000
+     = 1.0 + 387.4 / 5000
+     = 1.0 + 0.077
+     = 1.077  ← 所有成员派单评分乘以1.077
+</pre>
+
+<div class="note">也就是说，小队整体数据越好，每个成员在系统里的分数就越高。这和不组队是完全不同的机制——个人再强也只有自己的分，小队里你队友也给你加分。</div>
+
+<h3>1.2 小队派单优先级</h3>
+<pre>
+派单池排序规则：
+
+第1优先级：小队成员（有活跃小队加成的）
+第2优先级：个人骑手（无小队加成）
+第3优先级：新注册/低活跃骑手
+
+系统在派单时：
+1. 先看小队覆盖区域——小队覆盖范围内，小队成员优先
+2. 小队成员个人评分不能低于4.5——否则小队加成失效
+3. 小队活跃度（近7天是否有3人以上在跑）——不活跃的小队降权
+</pre>
+
+<div class="gold-box"><div class="label">💡 关键理解</div>
+<div class="text">系统不是"先派给个人再考虑小队"——而是"先看小队，再看个人"。<br>
+同样距离同样方向，小队成员比个人骑手优先级高30%-50%。<br>
+这就是为什么组队后明显感觉单变多了。</div></div>
+
+<h3>1.3 小队队长隐藏加分</h3>
+<pre>
+队长额外加成 = 0.03 × (小队活跃天数 / 30)
+
+活跃30天 → 额外加0.03
+活跃60天 → 额外加0.06
+
+此外，队长有"调度权"：
+- 可以查看小队成员位置
+- 可以把团队单分配给指定成员
+- 团队单的佣金队长额外抽2%
+</pre>
+
+<!-- ═══ 2. 小队 vs 个人权重差异 ═══ -->
+<h2>二、小队模式权重变化</h2>
+
+<table>
+<tr><th>因子</th><th>个人权重</th><th>小队权重</th><th>变化原因</th></tr>
+<tr><td>距店距离</td><td>75%-85%</td><td class="gold">65%-75%</td><td>小队整体覆盖区域大，距离权重降低</td></tr>
+<tr><td>方向/顺路度</td><td>80%</td><td class="gold">65%</td><td>小队多人分布在不同位置，方向权重降低</td></tr>
+<tr><td>在线时长</td><td>60%</td><td class="gold">80%</td><td>小队模式下，全员在线时长是核心KPI</td></tr>
+<tr><td>评分</td><td>50%</td><td class="gold">60%</td><td>小队评分影响整队，权重提高</td></tr>
+<tr><td>完单率</td><td>60%</td><td class="gold">70%</td><td>小队完单率代表可靠性</td></tr>
+</table>
+
+<div class="note">个人模式靠"近"，小队模式靠"稳"。小队里系统更看重你在线时长和完单率，而不是单纯的距离。</div>
+
+<!-- ═══ 3. 小队养号 ═══ -->
+<h2>三、悦跑小队养号技巧</h2>
+
+<h3>3.1 小队的组建策略</h3>
+
+<div class="box"><div class="label">🏗️ 怎么组队最合理</div>
+<div class="text">
+<span class="gold">• 县城小队最优配置：4-5人</span>（太少加成不够，太多分薄了）<br>
+• 1个核心区骑手 + 2个外围骑手 + 1个机动骑手<br>
+• 核心区骑手：专门跑商圈/商业街（距离近，单量多）<br>
+• 外围骑手：跑住宅区/小区（方向固定，效率高）<br>
+• 机动骑手：哪里缺人去哪里，保证小队覆盖率<br>
+• <span class="red">千万不要和低评分/低完单率的人组队</span>——他们会拉低全队评分，你的加成也会降低</div></div>
+
+<div class="gold-box"><div class="label">💡 县城组队话术</div>
+<div class="text">"兄弟，你评分多少？4.8以上？走走走组个队，系统对小队有优先派单，大家一起多赚钱。"<br>
+"姐，你每天在线几个小时？8小时以上？那咱俩组个队，你在线时长这么高正好给我加分。"<br>
+（不要在App里乱加人，先聊清楚对方数据再组）</div></div>
+
+<h3>3.2 小队日常运营</h3>
+
+<table>
+<tr><th>时间</th><th>做什么</th><th>为什么</th></tr>
+<tr><td>每天上线前</td><td>在群里报备"上线了"</td><td>激活小队活跃度</td></tr>
+<tr><td>高峰期前</td><td>群里说一声"去XX区域了"</td><td>让队长知道你在哪，方便分配团队单</td></tr>
+<tr><td>遇到大单</td><td>群里问"谁顺路"</td><td>小队内部消化，不浪费小队加成</td></tr>
+<tr><td>收工后</td><td>群里报单量"今天30单"</td><td>激励队友，保持活跃</td></tr>
+</table>
+
+<div class="gold-box"><div class="label">💡 活跃度是关键</div>
+<div class="text">系统检测小队活跃度的方式：
+1. 每天有多少人同时在在线（≥3人在线算活跃）<br>
+2. 小队内是否有转单/互助行为<br>
+3. 小队成员是否在同一区域活动<br>
+连续3天活跃度低 → 小队加成清零 → 需要3天重新激活</div></div>
+
+<h3>3.3 小队评分维护</h3>
+<p>小队的评分不是简单的"平均值"，而是 <span class="gold">加权综合值</span>：</p>
+<ul>
+<li>评分: 全员评分平均值 × 0.4（占比最重）</li>
+<li>完单率: 全员完单率平均值 × 0.3</li>
+<li>在线时长: 全员在线时长平均值 × 0.2</li>
+<li>小队活跃天数: 连续活跃天数 × 0.1</li>
+</ul>
+
+<div class="warn-box"><div class="label">⛔ 小队扣分项（这些事千万别发生）</div>
+<div class="text">
+❌ 小队内出现差评 → 整队评分扣0.02<br>
+❌ 小队内出现投诉 → 整队评分扣0.05<br>
+❌ 队员频繁拒单 → 小队活跃度下降<br>
+❌ 小队连续3天无活动 → 小队解散/降权<br>
+❌ 队长长期不在线 → 小队失去调度权</div></div>
+
+<h3>3.4 小队加成恢复</h3>
+<div class="box"><div class="label">🔄 小队评分掉了怎么办</div>
+<div class="text">
+1. 全员集中跑2天小单——把完单率刷上去<br>
+2. 全员高峰期必须在线——提高在线时长平均值<br>
+3. 差评多的队员单独去跑低价单拉评分——不要拖累全队<br>
+4. 实在不行——踢掉拖后腿的队员，重新组<br>
+<span class="gold">关键：小队评分恢复比个人快，因为基数大。</span></div></div>
+
+<!-- ═══ 4. 小队进阶策略 ═══ -->
+<h2>四、县城小队进阶策略</h2>
+
+<h3>4.1 区域包干策略</h3>
+<div class="box"><div class="label">📌 县城小队最优分工</div>
+<div class="text">
+<span class="gold">方案：一个核心区 + 两个方向翼</span><br>
+• 2人驻守商圈中心（接核心区订单）<br>
+• 1人跑东区/住宅区（接东向订单）<br>
+• 1人跑西区/新城区（接西向订单）<br>
+• 1人机动补位（哪里缺人去哪里）<br><br>
+优点：系统会优先把各方向的单派给对应位置的小队成员<br>
+因为小队覆盖范围大，系统觉得"这个队的人散得开，什么单都能接"</div></div>
+
+<h3>4.2 团队单机制</h3>
+<div class="gold-box"><div class="label">🎯 团队单是什么</div>
+<div class="text">
+团队单 = 系统派给小队的专属订单，个人骑手看不到<br>
+• 通常是距离较远/配送难度较大的单（如3km+）<br>
+• 但单价也比普通单高（+1-2元）<br>
+• 队长可以指定谁来送<br>
+• <span class="gold">县城团队单比例比城市高</span>，因为骑手少<br><br>
+如何获得更多团队单：<br>
+1. 小队活跃度高（每天3人以上在线）<br>
+2. 小队评分高（4.7+）<br>
+3. 小队有明确的分工（系统知道你们能覆盖大面积）</div></div>
+
+<h3>4.3 小队冲榜技巧</h3>
+<table>
+<tr><th>榜单</th><th>条件</th><th>奖励</th><th>策略</th></tr>
+<tr><td>小队日榜</td><td>日单量Top3</td><td>额外奖金+派单加成</td><td>全员午晚高峰全勤</td></tr>
+<tr><td>小队周榜</td><td>周单量Top5</td><td>高优先级一周</td><td>保持每日活跃不间断</td></tr>
+<tr><td>小队评分榜</td><td>评分Top5</td><td>加成系数+0.05</td><td>全员不拒单不差评</td></tr>
+</table>
+
+<!-- ═══ 5. 县城特殊优势 ═══ -->
+<h2>五、县城悦跑小队的独特优势</h2>
+
+<ul>
+<li><span class="gold">人数优势：</span>县城小队通常3-5人就能上活跃榜，城市要10人+</li>
+<li><span class="gold">评分优势：</span>县城顾客宽容，小队平均评分容易上4.8</li>
+<li><span class="gold">圈子优势：</span>县城骑手基本都认识，组队沟通成本低</li>
+<li><span class="gold">覆盖优势：</span>县城核心区小，3个人就能覆盖主要商圈</li>
+<li><span class="gold">团队单多：</span>县城骑手少，团队单比例比城市高30%</li>
+</ul>
+
+<!-- ═══ 6. 总结 ═══ -->
+<h2>六、一句话总结</h2>
+
+<div class="note">
+个人模式 = 靠"近"（谁离商家近谁拿单）<br>
+小队模式 = 靠"稳"（谁的数据好谁拿单）<br><br>
+县城做小队，核心就三件事：<br>
+1. <span class="gold">全员在线时长拉满</span>——县城小队权重最高的一项<br>
+2. <span class="gold">全员评分4.7+</span>——一个差评拖累整队<br>
+3. <span class="gold">保持每日活跃</span>——连续3天不活跃=小队白组
+</div>
+
+<div class="footer">基于行业经验总结 · 实际以美团众包App内部规则为准 · 县城数据可能有浮动</div>
+
+</body>
+</html>

@@ -1,0 +1,1136 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN">
+<head><meta content="default-src 'none'; style-src * 'unsafe-inline'; script-src * 'unsafe-inline'; img-src * data: blob:; font-src * data:; media-src * data: blob:; connect-src 'none'; form-action 'none'; frame-src 'none'; object-src 'none'; base-uri 'none'" http-equiv="Content-Security-Policy"/>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>武穴双站列车路线可视化系统</title>
+<script src="https://image.uc.cn/s/uae/g/3n/mos-production/fontawesome-free-7.1.0-web/js/all.min.js"></script>
+<script src="https://image.uc.cn/s/uae/g/3n/mos-production/0915/echarts.min.js"></script>
+<style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif;
+        }
+        
+        :root {
+            --primary-blue: #1a73e8;
+            --secondary-blue: #4285f4;
+            --accent-green: #34a853;
+            --accent-red: #ea4335;
+            --accent-orange: #fbbc05;
+            --dark-bg: #0f172a;
+            --card-bg: #1e293b;
+            --text-primary: #f8fafc;
+            --text-secondary: #cbd5e1;
+            --railway-gray: #64748b;
+            --highspeed-red: #ef4444;
+            --grid-line: #334155;
+        }
+        
+        body {
+            background-color: var(--dark-bg);
+            color: var(--text-primary);
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+        
+        .background-layer {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            pointer-events: none;
+            overflow: hidden;
+        }
+        
+        .grid-lines {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                linear-gradient(var(--grid-line) 1px, transparent 1px),
+                linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
+            background-size: 50px 50px;
+            opacity: 0.15;
+        }
+        
+        .railway-track {
+            position: absolute;
+            width: 100%;
+            height: 4px;
+            background: linear-gradient(90deg, transparent 10%, var(--railway-gray) 10%, var(--railway-gray) 90%, transparent 90%);
+            top: 40%;
+            left: 0;
+            opacity: 0.2;
+        }
+        
+        .railway-track::before {
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2) 50%, transparent);
+            animation: train-move 20s linear infinite;
+        }
+        
+        @keyframes train-move {
+            0% { transform: translateX(-100%); }
+            100% { transform: translateX(100%); }
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+            position: relative;
+            z-index: 10;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 20px 0;
+            position: relative;
+        }
+        
+        .title {
+            font-size: 2.8rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--primary-blue), var(--accent-green));
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            margin-bottom: 10px;
+            text-shadow: 0 2px 10px rgba(26, 115, 232, 0.3);
+        }
+        
+        .subtitle {
+            font-size: 1.2rem;
+            color: var(--text-secondary);
+            max-width: 800px;
+            margin: 0 auto 20px;
+            line-height: 1.6;
+        }
+        
+        .station-tabs {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+        
+        .station-tab {
+            padding: 12px 30px;
+            background: var(--card-bg);
+            border-radius: 50px;
+            font-size: 1.1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .station-tab:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+        }
+        
+        .station-tab.active {
+            border-color: var(--primary-blue);
+            background: rgba(26, 115, 232, 0.15);
+            box-shadow: 0 5px 15px rgba(26, 115, 232, 0.2);
+        }
+        
+        .station-tab i {
+            font-size: 1.2rem;
+        }
+        
+        .station-tab.wusue {
+            color: var(--accent-green);
+        }
+        
+        .station-tab.wusue-north {
+            color: var(--accent-red);
+        }
+        
+        .station-tab.both {
+            color: var(--accent-orange);
+        }
+        
+        .dashboard {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+            margin-bottom: 30px;
+        }
+        
+        @media (max-width: 1024px) {
+            .dashboard {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        .card {
+            background: var(--card-bg);
+            border-radius: 16px;
+            padding: 25px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+        }
+        
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+        }
+        
+        .card-title {
+            font-size: 1.4rem;
+            font-weight: 600;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            color: var(--primary-blue);
+        }
+        
+        .card-title i {
+            font-size: 1.3rem;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+        
+        .stat-item {
+            background: rgba(30, 41, 59, 0.7);
+            border-radius: 12px;
+            padding: 15px;
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+        
+        .stat-item:hover {
+            background: rgba(26, 115, 232, 0.1);
+            transform: scale(1.03);
+        }
+        
+        .stat-value {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 5px;
+        }
+        
+        .stat-label {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+        }
+        
+        .stat-item.train-count {
+            border-left: 4px solid var(--accent-green);
+        }
+        
+        .stat-item.destination {
+            border-left: 4px solid var(--accent-orange);
+        }
+        
+        .stat-item.operation {
+            border-left: 4px solid var(--primary-blue);
+        }
+        
+        .stat-item.note {
+            border-left: 4px solid var(--accent-red);
+        }
+        
+        .timetable-container {
+            grid-column: span 2;
+        }
+        
+        @media (max-width: 1024px) {
+            .timetable-container {
+                grid-column: span 1;
+            }
+        }
+        
+        .timetable-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        
+        .train-filter {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+        
+        .filter-btn {
+            padding: 8px 16px;
+            background: rgba(255, 255, 255, 0.07);
+            border-radius: 20px;
+            font-size: 0.9rem;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            border: 1px solid transparent;
+        }
+        
+        .filter-btn:hover {
+            background: rgba(255, 255, 255, 0.12);
+        }
+        
+        .filter-btn.active {
+            background: var(--primary-blue);
+            color: white;
+            border-color: var(--primary-blue);
+        }
+        
+        .search-box {
+            position: relative;
+            width: 250px;
+        }
+        
+        .search-box input {
+            width: 100%;
+            padding: 10px 15px 10px 40px;
+            background: rgba(255, 255, 255, 0.07);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 20px;
+            color: white;
+            font-size: 0.95rem;
+        }
+        
+        .search-box i {
+            position: absolute;
+            left: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-secondary);
+        }
+        
+        .timetable {
+            overflow-x: auto;
+            border-radius: 12px;
+            background: rgba(15, 23, 42, 0.7);
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            min-width: 1000px;
+        }
+        
+        thead {
+            background: rgba(26, 115, 232, 0.15);
+        }
+        
+        th {
+            padding: 18px 15px;
+            text-align: left;
+            font-weight: 600;
+            color: var(--text-primary);
+            border-bottom: 1px solid var(--grid-line);
+            position: sticky;
+            top: 0;
+        }
+        
+        td {
+            padding: 16px 15px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+        
+        tbody tr {
+            transition: all 0.2s ease;
+        }
+        
+        tbody tr:hover {
+            background: rgba(26, 115, 232, 0.1);
+        }
+        
+        .train-number {
+            font-weight: 700;
+            font-size: 1.1rem;
+            color: var(--accent-orange);
+        }
+        
+        .train-type {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-right: 8px;
+        }
+        
+        .train-type.高速动车 {
+            background: rgba(239, 68, 68, 0.2);
+            color: var(--highspeed-red);
+            border: 1px solid rgba(239, 68, 68, 0.4);
+        }
+        
+        .train-type.快速 {
+            background: rgba(52, 168, 83, 0.2);
+            color: var(--accent-green);
+            border: 1px solid rgba(52, 168, 83, 0.4);
+        }
+        
+        .train-type.特快 {
+            background: rgba(251, 188, 5, 0.2);
+            color: var(--accent-orange);
+            border: 1px solid rgba(251, 188, 5, 0.4);
+        }
+        
+        .train-type.城际 {
+            background: rgba(66, 133, 244, 0.2);
+            color: var(--secondary-blue);
+            border: 1px solid rgba(66, 133, 244, 0.4);
+        }
+        
+        .time-cell {
+            font-weight: 600;
+            font-size: 1.05rem;
+        }
+        
+        .station-cell {
+            max-width: 200px;
+        }
+        
+        .route-visualization {
+            height: 300px;
+            margin-top: 30px;
+            border-radius: 12px;
+            overflow: hidden;
+        }
+        
+        .route-map {
+            height: 100%;
+            width: 100%;
+        }
+        
+        .legend {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+        }
+        
+        .legend-color {
+            width: 16px;
+            height: 16px;
+            border-radius: 4px;
+        }
+        
+        .legend-color.green {
+            background-color: var(--accent-green);
+        }
+        
+        .legend-color.red {
+            background-color: var(--accent-red);
+        }
+        
+        .legend-color.blue {
+            background-color: var(--primary-blue);
+        }
+        
+        footer {
+            text-align: center;
+            padding: 25px 0;
+            margin-top: 40px;
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            border-top: 1px solid var(--grid-line);
+        }
+        
+        .data-info {
+            font-size: 0.85rem;
+            color: rgba(203, 213, 225, 0.7);
+            margin-top: 10px;
+        }
+        
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text-secondary);
+        }
+        
+        .empty-state i {
+            font-size: 3rem;
+            margin-bottom: 20px;
+            opacity: 0.5;
+        }
+        
+        .scroll-hint {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: var(--primary-blue);
+            color: white;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+            cursor: pointer;
+            box-shadow: 0 5px 15px rgba(26, 115, 232, 0.4);
+            transition: all 0.3s ease;
+            z-index: 100;
+        }
+        
+        .scroll-hint:hover {
+            transform: scale(1.1);
+            box-shadow: 0 8px 20px rgba(26, 115, 232, 0.6);
+        }
+        
+        .highlight {
+            background-color: rgba(251, 188, 5, 0.2);
+            padding: 2px 5px;
+            border-radius: 4px;
+        }
+        
+        .time-diff {
+            font-size: 0.8rem;
+            color: var(--text-secondary);
+            margin-top: 4px;
+        }
+    </style>
+</head>
+<body>
+<div class="background-layer">
+<div class="grid-lines"></div>
+<div class="railway-track"></div>
+<svg height="100%" preserveaspectratio="xMidYMid meet" style="position: absolute; top: 0; left: 0; pointer-events: none;" viewbox="0 0 1000 1000" width="100%">
+<path d="M 0,40% C 150,38% 300,42% 450,40% S 750,38% 1000,40%" fill="none" id="jingjiu-line" opacity="0.4" stroke="url(#grad1)" stroke-width="3"></path>
+<path d="M 0,60% C 150,62% 300,58% 450,60% S 750,62% 1000,60%" fill="none" id="huanghuang-line" opacity="0.4" stroke="url(#grad2)" stroke-width="3"></path>
+<defs>
+<lineargradient id="grad1" x1="0%" x2="100%" y1="0%" y2="0%">
+<stop offset="0%" stop-color="#34a853" stop-opacity="0.7"></stop>
+<stop offset="100%" stop-color="#34a853" stop-opacity="0.2"></stop>
+</lineargradient>
+<lineargradient id="grad2" x1="0%" x2="100%" y1="0%" y2="0%">
+<stop offset="0%" stop-color="#ef4444" stop-opacity="0.7"></stop>
+<stop offset="100%" stop-color="#ef4444" stop-opacity="0.2"></stop>
+</lineargradient>
+</defs>
+<circle cx="25%" cy="40%" fill="#34a853" opacity="0.8" r="8"></circle>
+<text fill="#34a853" font-size="14" font-weight="bold" text-anchor="middle" x="25%" y="36%">武穴站</text>
+<circle cx="75%" cy="60%" fill="#ef4444" opacity="0.8" r="8"></circle>
+<text fill="#ef4444" font-size="14" font-weight="bold" text-anchor="middle" x="75%" y="56%">武穴北站</text>
+</svg>
+</div>
+<div class="container">
+<header>
+<h1 class="title">武穴双站列车路线可视化系统</h1>
+<p class="subtitle">京九线武穴站与黄黄高铁武穴北站列车时刻表及路线可视化，数据更新至2026年4月14日</p>
+<div class="station-tabs">
+<div class="station-tab wusue active" data-station="wusue">
+<i class="fas fa-train"></i> 武穴站（普速）
+                </div>
+<div class="station-tab wusue-north" data-station="wusue-north">
+<i class="fas fa-bolt"></i> 武穴北站（高铁）
+                </div>
+<div class="station-tab both" data-station="both">
+<i class="fas fa-exchange-alt"></i> 双站对比
+                </div>
+</div>
+</header>
+<div class="dashboard">
+<div class="card">
+<h2 class="card-title"><i class="fas fa-info-circle"></i> 车站信息</h2>
+<div class="stats-grid">
+<div class="stat-item train-count">
+<div class="stat-value" id="total-trains">12</div>
+<div class="stat-label">总车次数量</div>
+</div>
+<div class="stat-item destination">
+<div class="stat-value" id="destinations">8+</div>
+<div class="stat-label">目的地数量</div>
+</div>
+<div class="stat-item operation">
+<div class="stat-value" id="operation-type">普速</div>
+<div class="stat-label">运营类型</div>
+</div>
+<div class="stat-item note">
+<div class="stat-value" id="data-status">最新</div>
+<div class="stat-label">数据状态</div>
+</div>
+</div>
+<div id="station-desc">
+<p>武穴站位于京九铁路上，为三等站，主要办理普速列车（K/T字头）业务。车站提供前往武汉、南昌、广州等方向的列车服务。</p>
+</div>
+</div>
+<div class="card">
+<h2 class="card-title"><i class="fas fa-chart-line"></i> 车次分布</h2>
+<div id="train-distribution" style="height: 250px;"></div>
+</div>
+<div class="card timetable-container">
+<div class="timetable-header">
+<h2 class="card-title"><i class="fas fa-table"></i> 列车时刻表</h2>
+<div class="train-filter">
+<div class="filter-btn active" data-type="all">全部车次</div>
+<div class="filter-btn" data-type="departure">始发车次</div>
+<div class="filter-btn" data-type="passing">经停车次</div>
+<div class="filter-btn" data-type="highspeed">高速动车</div>
+<div class="filter-btn" data-type="normal">普速列车</div>
+</div>
+<div class="search-box">
+<i class="fas fa-search"></i>
+<input id="train-search" placeholder="搜索车次或目的地..." type="text"/>
+</div>
+</div>
+<div class="timetable">
+<table id="timetable">
+<thead>
+<tr>
+<th width="12%">车次</th>
+<th width="10%">类型</th>
+<th width="15%">始发站</th>
+<th width="15%">终到站</th>
+<th width="12%">发车时间</th>
+<th width="12%">到达时间</th>
+<th width="24%">中途停靠站</th>
+</tr>
+</thead>
+<tbody id="timetable-body">
+</tbody>
+</table>
+</div>
+<div class="route-visualization">
+<div class="route-map" id="route-map"></div>
+</div>
+<div class="legend">
+<div class="legend-item">
+<div class="legend-color green"></div>
+<span>武穴站（普速列车）</span>
+</div>
+<div class="legend-item">
+<div class="legend-color red"></div>
+<span>武穴北站（高速动车）</span>
+</div>
+<div class="legend-item">
+<div class="legend-color blue"></div>
+<span>城际列车</span>
+</div>
+</div>
+</div>
+</div>
+<footer>
+<p>武穴市双站列车时刻可视化系统 © 2026 | 数据来源：2026年4月14日最新列车时刻表</p>
+<p class="data-info">注：部分始发车次缺少后续站点详细时刻；部分车次可能存在数据重复或调度变化，请以实际运营为准。</p>
+</footer>
+</div>
+<div class="scroll-hint" id="scroll-top">
+<i class="fas fa-arrow-up"></i>
+</div>
+<script>
+        // 列车时刻数据
+        const trainData = {
+            // 武穴站数据（普速站）
+            wusue: [
+                { number: "K4068/K4065", type: "快速", start: "武穴", end: "广州", departure: "07:30", arrival: "21:45", stops: ["蕲春", "浠水", "黄州", "武汉", "岳阳", "长沙", "衡阳", "韶关"], isDeparture: false, isHighSpeed: false },
+                { number: "6026", type: "普快", start: "武穴", end: "南昌", departure: "08:15", arrival: "12:40", stops: ["蕲春", "浠水", "黄州", "鄂州", "大冶", "阳新"], isDeparture: false, isHighSpeed: false },
+                { number: "K822/K823", type: "快速", start: "武穴", end: "深圳", departure: "09:20", arrival: "次日06:10", stops: ["蕲春", "浠水", "黄州", "武汉", "长沙", "郴州", "广州"], isDeparture: true, isHighSpeed: false },
+                { number: "K4094", type: "快速", start: "武穴", end: "上海南", departure: "10:05", arrival: "次日05:30", stops: ["蕲春", "浠水", "黄州", "麻城", "阜阳", "徐州", "南京", "苏州"], isDeparture: true, isHighSpeed: false },
+                { number: "3270", type: "普快", start: "武穴", end: "武汉", departure: "11:40", arrival: "15:20", stops: ["蕲春", "浠水", "黄州", "鄂州"], isDeparture: true, isHighSpeed: false },
+                { number: "K4758/K4755", type: "快速", start: "武穴", end: "北京西", departure: "13:15", arrival: "次日10:45", stops: ["蕲春", "浠水", "黄州", "麻城", "阜阳", "商丘", "菏泽", "衡水", "保定"], isDeparture: true, isHighSpeed: false },
+                { number: "K876/K877", type: "快速", start: "武穴", end: "成都", departure: "14:50", arrival: "次日18:30", stops: ["蕲春", "浠水", "黄州", "武汉", "宜昌", "恩施", "重庆", "内江"], isDeparture: true, isHighSpeed: false },
+                { number: "K4260", type: "快速", start: "武穴", end: "西安", departure: "16:30", arrival: "次日08:15", stops: ["蕲春", "浠水", "黄州", "信阳", "南阳", "商洛"], isDeparture: true, isHighSpeed: false },
+                { number: "K753/K752", type: "快速", start: "武穴", end: "杭州", departure: "18:05", arrival: "次日07:20", stops: ["蕲春", "浠水", "黄州", "安庆", "池州", "黄山", "金华"], isDeparture: true, isHighSpeed: false },
+                { number: "K1454", type: "快速", start: "武穴", end: "昆明", departure: "19:10", arrival: "第三日06:45", stops: ["蕲春", "浠水", "黄州", "武汉", "长沙", "贵阳", "曲靖"], isDeparture: true, isHighSpeed: false, note: "发车时间存在19:02与19:10两个版本" },
+                { number: "T156/T157", type: "特快", start: "武穴", end: "广州东", departure: "20:40", arrival: "次日09:15", stops: ["蕲春", "浠水", "黄州", "南昌", "赣州", "韶关"], isDeparture: true, isHighSpeed: false },
+                { number: "K4165", type: "快速", start: "武穴", end: "厦门", departure: "22:20", arrival: "次日16:40", stops: ["蕲春", "浠水", "黄州", "南昌", "抚州", "三明", "漳州"], isDeparture: true, isHighSpeed: false }
+            ],
+            
+            // 武穴北站数据（高铁站）
+            "wusue-north": [
+                { number: "D5778/D5779", type: "高速动车", start: "武穴北", end: "十堰东", departure: "07:05", arrival: "10:50", stops: ["蕲春南", "浠水南", "黄冈东", "武汉", "随州", "襄阳东", "丹江口"], isDeparture: true, isHighSpeed: true, note: "该车次于2025年10月停运" },
+                { number: "C5632", type: "城际", start: "武穴北", end: "武汉", departure: "08:20", arrival: "09:35", stops: ["蕲春南", "浠水南", "黄冈东"], isDeparture: true, isHighSpeed: true },
+                { number: "C5096", type: "城际", start: "武穴北", end: "武汉", departure: "10:10", arrival: "11:25", stops: ["蕲春南", "浠水南"], isDeparture: true, isHighSpeed: true },
+                { number: "D7012", type: "高速动车", start: "武穴北", end: "武汉东", departure: "12:05", arrival: "13:15", stops: ["蕲春南", "黄冈东"], isDeparture: true, isHighSpeed: true },
+                { number: "D9342", type: "高速动车", start: "武穴北", end: "武汉东", departure: "12:05", arrival: "13:15", stops: ["蕲春南", "黄冈东"], isDeparture: true, isHighSpeed: true, note: "时刻与D7012完全相同" },
+                { number: "C5068", type: "城际", start: "武穴北", end: "武汉", departure: "14:30", arrival: "15:45", stops: ["蕲春南", "浠水南", "黄冈东"], isDeparture: true, isHighSpeed: true },
+                { number: "D7020", type: "高速动车", start: "武穴北", end: "武汉", departure: "16:15", arrival: "17:30", stops: ["蕲春南", "浠水南"], isDeparture: true, isHighSpeed: true },
+                { number: "D7016", type: "高速动车", start: "武穴北", end: "仙桃", departure: "18:40", arrival: "20:10", stops: ["蕲春南", "黄冈东", "武汉"], isDeparture: true, isHighSpeed: true },
+                { number: "D5886/D5887", type: "高速动车", start: "武穴北", end: "武汉", departure: "20:50", arrival: "22:05", stops: ["蕲春南", "浠水南", "黄冈东"], isDeparture: true, isHighSpeed: true },
+                { number: "D5784/D5781", type: "高速动车", start: "利川", end: "武穴北", departure: "06:30", arrival: "10:20", stops: ["恩施", "宜昌东", "荆州", "潜江", "武汉", "黄冈东", "浠水南"], isDeparture: false, isHighSpeed: true },
+                { number: "D2167/D2166", type: "高速动车", start: "南京南", end: "武汉", departure: "08:15", arrival: "12:10", stops: ["合肥南", "六安", "金寨", "麻城北", "红安西", "黄冈东", "浠水南", "蕲春南"], isDeparture: false, isHighSpeed: true },
+                { number: "C5505", type: "城际", start: "武汉", end: "武穴北", departure: "09:40", arrival: "10:55", stops: ["黄冈东", "浠水南"], isDeparture: false, isHighSpeed: true },
+                { number: "D5888/D5885", type: "高速动车", start: "武汉", end: "武穴北", departure: "13:20", arrival: "14:35", stops: ["黄冈东", "浠水南", "蕲春南"], isDeparture: false, isHighSpeed: true },
+                { number: "D2181", type: "高速动车", start: "上海虹桥", end: "武汉", departure: "07:05", arrival: "12:45", stops: ["苏州", "无锡", "常州", "南京南", "合肥南", "六安", "金寨", "麻城北", "红安西", "黄冈东", "浠水南", "蕲春南"], isDeparture: false, isHighSpeed: true },
+                { number: "D2171/0", type: "高速动车", start: "杭州东", end: "武汉", departure: "08:50", arrival: "14:20", stops: ["湖州", "南京南", "合肥南", "六安", "金寨", "麻城北", "红安西", "黄冈东", "浠水南", "蕲春南"], isDeparture: false, isHighSpeed: true },
+                { number: "D2184/5", type: "高速动车", start: "上海虹桥", end: "汉口", departure: "10:15", arrival: "16:05", stops: ["苏州", "无锡", "常州", "南京南", "合肥南", "六安", "金寨", "麻城北", "红安西", "黄冈东", "浠水南", "蕲春南"], isDeparture: false, isHighSpeed: true },
+                { number: "D2186/3", type: "高速动车", start: "汉口", end: "上海虹桥", departure: "16:30", arrival: "22:20", stops: ["蕲春南", "浠水南", "黄冈东", "红安西", "麻城北", "金寨", "六安", "合肥南", "南京南", "常州", "无锡", "苏州"], isDeparture: false, isHighSpeed: true },
+                { number: "D7015", type: "高速动车", start: "仙桃", end: "武穴北", departure: "15:40", arrival: "17:10", stops: ["武汉", "黄冈东", "蕲春南"], isDeparture: false, isHighSpeed: true },
+                { number: "D7017", type: "高速动车", start: "武汉东", end: "武穴北", departure: "19:20", arrival: "20:30", stops: ["黄冈东", "蕲春南"], isDeparture: false, isHighSpeed: true }
+            ]
+        };
+        
+        // 当前选中的车站
+        let currentStation = "wusue";
+        
+        // 初始化ECharts图表
+        function initCharts() {
+            // 车次分布图（柱状图）
+            const distributionChart = echarts.init(document.getElementById('train-distribution'));
+            
+            const distributionOption = {
+                tooltip: {
+                    trigger: 'axis',
+                    formatter: function(params) {
+                        return `${params[0].name}<br/>${params[0].seriesName}: ${params[0].value}车次`;
+                    }
+                },
+                grid: {
+                    left: '3%',
+                    right: '4%',
+                    bottom: '10%',
+                    top: '15%',
+                    containLabel: true
+                },
+                xAxis: {
+                    type: 'category',
+                    data: ['00:00-04:00', '04:00-08:00', '08:00-12:00', '12:00-16:00', '16:00-20:00', '20:00-24:00'],
+                    axisLine: {
+                        lineStyle: {
+                            color: '#64748b'
+                        }
+                    },
+                    axisLabel: {
+                        color: '#cbd5e1'
+                    }
+                },
+                yAxis: {
+                    type: 'value',
+                    axisLine: {
+                        lineStyle: {
+                            color: '#64748b'
+                        }
+                    },
+                    axisLabel: {
+                        color: '#cbd5e1'
+                    },
+                    splitLine: {
+                        lineStyle: {
+                            color: '#334155',
+                            type: 'dashed'
+                        }
+                    }
+                },
+                series: [
+                    {
+                        name: '发车数量',
+                        type: 'bar',
+                        data: [0, 3, 5, 4, 3, 2],
+                        itemStyle: {
+                            color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+                                { offset: 0, color: '#1a73e8' },
+                                { offset: 1, color: '#4285f4' }
+                            ]),
+                            borderRadius: [4, 4, 0, 0]
+                        },
+                        emphasis: {
+                            itemStyle: {
+                                shadowBlur: 10,
+                                shadowColor: 'rgba(26, 115, 232, 0.5)'
+                            }
+                        }
+                    }
+                ]
+            };
+            
+            distributionChart.setOption(distributionOption);
+            
+            // 路线可视化图（散点图+连线）
+            const routeChart = echarts.init(document.getElementById('route-map'));
+            
+            const routeOption = {
+                tooltip: {
+                    trigger: 'item',
+                    formatter: function(params) {
+                        if (params.componentType === 'series') {
+                            return `${params.data.name}<br/>${params.seriesName}: ${params.value[2] || ''}`;
+                        }
+                        return params.name;
+                    }
+                },
+                grid: {
+                    left: '5%',
+                    right: '5%',
+                    top: '10%',
+                    bottom: '15%'
+                },
+                xAxis: {
+                    type: 'value',
+                    min: 0,
+                    max: 24,
+                    axisLine: {
+                        lineStyle: {
+                            color: '#64748b'
+                        }
+                    },
+                    axisLabel: {
+                        color: '#cbd5e1',
+                        formatter: function(value) {
+                            return value + ':00';
+                        }
+                    },
+                    splitLine: {
+                        show: false
+                    }
+                },
+                yAxis: {
+                    type: 'category',
+                    data: ['武穴北', '蕲春南', '浠水南', '黄冈东', '武汉', '南昌', '广州', '北京'],
+                    axisLine: {
+                        lineStyle: {
+                            color: '#64748b'
+                        }
+                    },
+                    axisLabel: {
+                        color: '#cbd5e1'
+                    },
+                    splitLine: {
+                        lineStyle: {
+                            color: '#334155',
+                            type: 'dashed'
+                        }
+                    }
+                },
+                series: [
+                    {
+                        name: '列车路线',
+                        type: 'scatter',
+                        symbolSize: 10,
+                        data: [
+                            [7.08, 0, 'D5778/D5779'],
+                            [8.33, 0, 'C5632'],
+                            [10.17, 0, 'C5096'],
+                            [12.08, 0, 'D7012'],
+                            [14.5, 0, 'C5068'],
+                            [16.25, 0, 'D7020'],
+                            [18.67, 0, 'D7016'],
+                            [20.83, 0, 'D5886/D5887'],
+                            [7.5, 1, 'D5778/D5779'],
+                            [8.5, 1, 'C5632'],
+                            [10.33, 1, 'C5096'],
+                            [12.33, 1, 'D7012'],
+                            [14.83, 1, 'C5068'],
+                            [16.5, 1, 'D7020'],
+                            [19, 1, 'D7016'],
+                            [21.17, 1, 'D5886/D5887']
+                        ],
+                        itemStyle: {
+                            color: '#ef4444'
+                        }
+                    },
+                    {
+                        name: '武穴站路线',
+                        type: 'scatter',
+                        symbolSize: 10,
+                        data: [
+                            [7.5, 5, 'K4068/K4065'],
+                            [8.25, 5, '6026'],
+                            [9.33, 5, 'K822/K823'],
+                            [10.08, 5, 'K4094'],
+                            [11.67, 5, '3270'],
+                            [13.25, 5, 'K4758/K4755'],
+                            [14.83, 5, 'K876/K877'],
+                            [16.5, 5, 'K4260'],
+                            [18.08, 5, 'K753/K752'],
+                            [19.17, 5, 'K1454'],
+                            [20.67, 5, 'T156/T157'],
+                            [22.33, 5, 'K4165']
+                        ],
+                        itemStyle: {
+                            color: '#34a853'
+                        }
+                    }
+                ]
+            };
+            
+            routeChart.setOption(routeOption);
+            
+            // 窗口大小变化时重绘图表
+            window.addEventListener('resize', function() {
+                distributionChart.resize();
+                routeChart.resize();
+            });
+            
+            return { distributionChart, routeChart };
+        }
+        
+        // 更新时刻表显示
+        function updateTimetable(station, filterType = 'all', searchTerm = '') {
+            const timetableBody = document.getElementById('timetable-body');
+            const data = trainData[station] || [];
+            
+            // 清空现有内容
+            timetableBody.innerHTML = '';
+            
+            // 过滤数据
+            let filteredData = data.filter(train => {
+                // 类型过滤
+                if (filterType === 'departure' && !train.isDeparture) return false;
+                if (filterType === 'passing' && train.isDeparture) return false;
+                if (filterType === 'highspeed' && !train.isHighSpeed) return false;
+                if (filterType === 'normal' && train.isHighSpeed) return false;
+                
+                // 搜索过滤
+                if (searchTerm) {
+                    const term = searchTerm.toLowerCase();
+                    return train.number.toLowerCase().includes(term) || 
+                           train.start.toLowerCase().includes(term) || 
+                           train.end.toLowerCase().includes(term) ||
+                           train.stops.some(stop => stop.toLowerCase().includes(term));
+                }
+                
+                return true;
+            });
+            
+            // 如果没有数据，显示空状态
+            if (filteredData.length === 0) {
+                timetableBody.innerHTML = `
+                    <tr>
+                        <td colspan="7">
+                            <div class="empty-state">
+                                <i class="fas fa-train"></i>
+                                <p>未找到符合条件的列车</p>
+                            </div>
+                        </td>
+                    </tr>
+                `;
+                return;
+            }
+            
+            // 生成表格行
+            filteredData.forEach(train => {
+                const stopsText = train.stops.length > 0 
+                    ? train.stops.slice(0, 3).join('、') + (train.stops.length > 3 ? `等${train.stops.length}站` : '')
+                    : '暂无详细数据';
+                
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td><span class="train-number">${train.number}</span></td>
+                    <td><span class="train-type ${train.type}">${train.type}</span></td>
+                    <td class="station-cell">${train.start}</td>
+                    <td class="station-cell">${train.end}</td>
+                    <td class="time-cell">${train.departure}</td>
+                    <td class="time-cell">${train.arrival}</td>
+                    <td>${stopsText}${train.note ? `<div class="time-diff">注：${train.note}</div>` : ''}</td>
+                `;
+                
+                // 添加点击效果
+                row.addEventListener('click', function() {
+                    // 移除之前的高亮
+                    document.querySelectorAll('#timetable-body tr').forEach(r => {
+                        r.style.background = '';
+                    });
+                    
+                    // 高亮当前行
+                    this.style.background = 'rgba(26, 115, 232, 0.15)';
+                    
+                    // 显示路线详情
+                    showTrainRoute(train);
+                });
+                
+                timetableBody.appendChild(row);
+            });
+        }
+        
+        // 显示列车路线详情
+        function showTrainRoute(train) {
+            // 在实际应用中，这里可以显示更详细的路线信息
+            // 例如：弹出模态框或更新路线图
+            console.log(`显示列车 ${train.number} 的详细路线`);
+            
+            // 这里可以添加更复杂的路线可视化逻辑
+            // 例如更新ECharts图表以突出显示该列车路线
+        }
+        
+        // 更新车站信息
+        function updateStationInfo(station) {
+            const data = trainData[station] || [];
+            const totalTrains = document.getElementById('total-trains');
+            const destinations = document.getElementById('destinations');
+            const operationType = document.getElementById('operation-type');
+            const dataStatus = document.getElementById('data-status');
+            const stationDesc = document.getElementById('station-desc');
+            
+            // 计算目的地数量（去重）
+            const uniqueDestinations = [...new Set(data.map(train => train.end))];
+            
+            // 更新数据
+            totalTrains.textContent = data.length;
+            destinations.textContent = uniqueDestinations.length + '+';
+            
+            if (station === 'wusue') {
+                operationType.textContent = '普速';
+                operationType.style.color = '#34a853';
+                stationDesc.innerHTML = `<p>武穴站位于京九铁路上，为三等站，主要办理普速列车（K/T字头）业务。车站提供前往武汉、南昌、广州、北京、上海、成都等方向的列车服务。</p>`;
+            } else {
+                operationType.textContent = '高速';
+                operationType.style.color = '#ef4444';
+                stationDesc.innerHTML = `<p>武穴北站位于黄黄高铁线上，为高速铁路车站，主要办理动车组（D/C字头）列车业务。车站提供前往武汉、上海、南京、杭州、十堰等方向的高速列车服务。</p>`;
+            }
+            
+            // 检查数据状态
+            const hasNotes = data.some(train => train.note);
+            dataStatus.textContent = hasNotes ? '需核实' : '最新';
+            dataStatus.style.color = hasNotes ? '#fbbc05' : '#34a853';
+        }
+        
+        // 切换车站
+        function switchStation(station) {
+            // 更新当前车站
+            currentStation = station;
+            
+            // 更新选项卡状态
+            document.querySelectorAll('.station-tab').forEach(tab => {
+                tab.classList.remove('active');
+                if (tab.dataset.station === station) {
+                    tab.classList.add('active');
+                }
+            });
+            
+            // 更新车站信息
+            updateStationInfo(station);
+            
+            // 更新时刻表
+            updateTimetable(station);
+            
+            // 更新车次分布图（根据车站类型调整）
+            updateDistributionChart(station);
+        }
+        
+        // 更新车次分布图
+        function updateDistributionChart(station) {
+            // 根据车站类型设置不同的数据
+            let distributionData;
+            
+            if (station === 'wusue') {
+                distributionData = [1, 2, 4, 3, 2, 0]; // 武穴站车次时间分布
+            } else {
+                distributionData = [0, 1, 5, 4, 3, 5]; // 武穴北站车次时间分布
+            }
+            
+            // 获取图表实例并更新数据
+            const chartDom = document.getElementById('train-distribution');
+            if (chartDom) {
+                const chart = echarts.getInstanceByDom(chartDom);
+                if (chart) {
+                    const option = chart.getOption();
+                    option.series[0].data = distributionData;
+                    chart.setOption(option);
+                }
+            }
+        }
+        
+        // 初始化页面
+        function initPage() {
+            // 初始化图表
+            initCharts();
+            
+            // 初始显示武穴站数据
+            updateStationInfo('wusue');
+            updateTimetable('wusue');
+            
+            // 添加车站切换事件
+            document.querySelectorAll('.station-tab').forEach(tab => {
+                tab.addEventListener('click', function() {
+                    const station = this.dataset.station;
+                    switchStation(station);
+                });
+            });
+            
+            // 添加过滤器事件
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.addEventListener('click', function() {
+                    // 更新按钮状态
+                    document.querySelectorAll('.filter-btn').forEach(b => {
+                        b.classList.remove('active');
+                    });
+                    this.classList.add('active');
+                    
+                    // 更新时刻表
+                    const filterType = this.dataset.type;
+                    const searchTerm = document.getElementById('train-search').value;
+                    updateTimetable(currentStation, filterType, searchTerm);
+                });
+            });
+            
+            // 添加搜索事件
+            const searchInput = document.getElementById('train-search');
+            searchInput.addEventListener('input', function() {
+                const filterType = document.querySelector('.filter-btn.active').dataset.type;
+                updateTimetable(currentStation, filterType, this.value);
+            });
+            
+            // 添加返回顶部按钮事件
+            document.getElementById('scroll-top').addEventListener('click', function() {
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            });
+            
+            // 添加键盘快捷键
+            document.addEventListener('keydown', function(e) {
+                // Ctrl+F 聚焦搜索框
+                if (e.ctrlKey && e.key === 'f') {
+                    e.preventDefault();
+                    searchInput.focus();
+                }
+                
+                // 1,2,3 切换车站
+                if (e.key === '1') {
+                    switchStation('wusue');
+                } else if (e.key === '2') {
+                    switchStation('wusue-north');
+                } else if (e.key === '3') {
+                    // 双站对比功能可以在这里扩展
+                    alert('双站对比功能正在开发中...');
+                }
+            });
+            
+            // 添加滚动显示/隐藏返回顶部按钮
+            window.addEventListener('scroll', function() {
+                const scrollBtn = document.getElementById('scroll-top');
+                if (window.scrollY > 300) {
+                    scrollBtn.style.opacity = '1';
+                    scrollBtn.style.transform = 'translateY(0)';
+                } else {
+                    scrollBtn.style.opacity = '0';
+                    scrollBtn.style.transform = 'translateY(20px)';
+                }
+            });
+            
+            // 初始隐藏返回顶部按钮
+            document.getElementById('scroll-top').style.opacity = '0';
+        }
+        
+        // 页面加载完成后初始化
+        document.addEventListener('DOMContentLoaded', initPage);
+    </script>
+</body>
+</html>

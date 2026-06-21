@@ -1,0 +1,115 @@
+{
+  "updated": "2026-06-21 17:27 UTC",
+  "count": 9,
+  "items": [
+    {
+      "title": "The case against geometric algebra (2024)",
+      "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782040015,
+      "score": 105,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Building reliable agentic AI systems",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782016119,
+      "score": 161,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Slow breathing modulates brain function and risk behavior",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781994172,
+      "score": 324,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+      "url": "https://github.com/mysk-research/loupe",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781957303,
+      "score": 444,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+      "url": "https://arrowtsx.dev/bigger-models/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781885485,
+      "score": 543,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
+      "url": "https://www.36kr.com/p/210949",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "industry",
+      "tags": []
+    },
+    {
+      "title": "三大运营商年内推出5G消息",
+      "url": "https://www.36kr.com/p/210948",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "industry",
+      "tags": []
+    },
+    {
+      "title": "瑞德西韦同情用药的数据存在局限性，中国重症临床试验已中止",
+      "url": "https://www.36kr.com/p/210942",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "china",
+      "tags": []
+    },
+    {
+      "title": "第三方曝光罗永浩第二场直播数据：带货销售额下降近70%",
+      "url": "https://www.36kr.com/p/210929",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "tools",
+      "tags": []
+    }
+  ]
+}

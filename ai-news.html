@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>AI 每日新闻 · 资讯聚合</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+body{background:#0a0e1a;color:#e0edf8;font-family:-apple-system,'PingFang SC','Segoe UI',sans-serif;min-height:100vh}
+.hd{position:sticky;top:0;z-index:10;background:rgba(10,14,26,.94);backdrop-filter:blur(14px);padding:14px 16px 10px;border-bottom:1px solid rgba(255,255,255,.06)}
+.hd-top{display:flex;align-items:center;gap:10px}
+.hd h1{font-size:19px;font-weight:700;color:#6b9eff;display:flex;align-items:center;gap:6px;flex-shrink:0}
+.hd .sub{font-size:10px;color:#5a6a80;margin-top:1px;display:flex;align-items:center;gap:4px}
+.hd .sub .dot{width:4px;height:4px;border-radius:50%;background:#34d399;display:inline-block;animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+.search-box{flex:1;display:flex;background:#0d1322;border:1px solid #1f2a44;border-radius:20px;padding:2px;margin-left:6px}
+.search-box input{flex:1;background:transparent;border:none;color:#e0edf8;font-size:13px;padding:6px 12px;outline:none;font-family:inherit}
+.search-box input::placeholder{color:#3a4a60}
+.search-box button{background:transparent;border:none;color:#5a6a80;padding:6px 10px;cursor:pointer;font-size:15px;border-radius:18px;transition:.2s}
+.search-box button:hover{color:#6b9eff}
+.nav{display:flex;gap:4px;margin-top:8px;overflow-x:auto;scrollbar-width:none}
+.nav::-webkit-scrollbar{display:none}
+.nav-item{padding:5px 12px;border-radius:14px;font-size:11px;white-space:nowrap;cursor:pointer;transition:.2s;color:#5a6a80;background:rgba(255,255,255,.03);border:1px solid transparent;flex-shrink:0}
+.nav-item.active{color:#6b9eff;background:rgba(107,158,255,.12);border-color:rgba(107,158,255,.25)}
+.nav-item .cnt{font-size:9px;color:#3a4a60;margin-left:3px}
+.main{padding:10px 14px;max-width:800px;margin:0 auto}
+.loading{text-align:center;padding:50px 0;color:#5a6a80;font-size:13px}
+.loading .sp{width:26px;height:26px;border:2.5px solid rgba(107,158,255,.12);border-top-color:#6b9eff;border-radius:50%;animation:spin .7s linear infinite;margin:0 auto 10px}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* 热词条 */
+.topics{display:flex;gap:5px;margin-bottom:10px;overflow-x:auto;scrollbar-width:none;padding:2px 0}
+.topics::-webkit-scrollbar{display:none}
+.topics .t{padding:3px 10px;border-radius:12px;font-size:11px;white-space:nowrap;cursor:pointer;background:rgba(107,158,255,.06);color:#6b9eff;border:1px solid rgba(107,158,255,.1);transition:.2s;flex-shrink:0}
+.topics .t:hover{background:rgba(107,158,255,.15)}
+
+/* 新闻卡片 */
+.nc{background:#111827;border:1px solid #1f2a44;border-radius:14px;padding:14px;margin-bottom:8px;transition:.2s;cursor:pointer;position:relative}
+.nc:hover{border-color:#2a3a5a}
+.nc.unread{border-left:3px solid #6b9eff}
+.nc .row1{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px}
+.nc .src{display:flex;align-items:center;gap:5px}
+.nc .src .d{width:5px;height:5px;border-radius:50%;flex-shrink:0}
+.nc .src .n{font-size:11px;color:#5a6a80}
+.nc .src .t{font-size:10px;color:#3a4a60;margin-left:auto}
+.nc .acts{display:flex;gap:6px;flex-shrink:0}
+.nc .acts button{background:none;border:none;color:#3a4a60;cursor:pointer;font-size:14px;padding:2px;transition:.2s;line-height:1}
+.nc .acts button:hover{color:#6b9eff}
+.nc .acts .saved{color:#fbbf24}
+.nc .title{font-size:14px;font-weight:600;line-height:1.45;color:#e0edf8;margin-bottom:5px}
+.nc .title a{color:#e0edf8;text-decoration:none}
+.nc .desc{font-size:12px;color:#6a7a90;line-height:1.55;margin-bottom:6px}
+.nc .desc.collapsed{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.nc .tags{display:flex;gap:4px;flex-wrap:wrap;margin-top:5px}
+.nc .tag{font-size:10px;padding:2px 7px;border-radius:9px;background:rgba(107,158,255,.08);color:#6b9eff}
+.nc .tag.hot{background:rgba(248,113,113,.1);color:#f87171}
+.nc .exp-btn{font-size:11px;color:#5a6a80;cursor:pointer;margin-top:4px;background:none;border:none;font-family:inherit;padding:0;display:block}
+.nc .exp-btn:hover{color:#6b9eff}
+
+/* 空状态 / 错误 */
+.empt{text-align:center;padding:40px 20px;color:#5a6a80}
+.empt .ic{font-size:36px;margin-bottom:10px}
+.empt .msg{font-size:13px;margin-bottom:10px}
+.btn{padding:7px 18px;border:none;border-radius:8px;background:#6b9eff;color:#fff;font-size:12px;cursor:pointer;font-family:inherit}
+
+/* 阅读弹出层 */
+.modal{position:fixed;top:0;left:0;width:100%;height:100%;z-index:100;background:rgba(0,0,0,.7);backdrop-filter:blur(6px);display:none;overflow-y:auto;padding:20px}
+.modal.show{display:block}
+.modal-inner{background:#111827;border:1px solid #1f2a44;border-radius:16px;max-width:700px;margin:20px auto;padding:24px;position:relative}
+.modal .close{position:absolute;top:12px;right:14px;background:none;border:none;color:#5a6a80;font-size:22px;cursor:pointer;line-height:1;padding:4px}
+.modal .close:hover{color:#f87171}
+.modal .m-src{font-size:12px;color:#5a6a80;margin-bottom:8px;display:flex;align-items:center;gap:6px}
+.modal h2{font-size:18px;font-weight:700;line-height:1.4;margin-bottom:10px;color:#e0edf8}
+.modal .m-desc{font-size:14px;color:#94a3b8;line-height:1.7;margin-bottom:12px}
+.modal .m-link{display:inline-flex;align-items:center;gap:5px;padding:8px 16px;background:#6b9eff;color:#fff;border-radius:8px;text-decoration:none;font-size:13px;font-weight:500;transition:.2s}
+.modal .m-link:hover{opacity:.85}
+.modal .m-acts{display:flex;gap:8px;margin-top:14px;flex-wrap:wrap}
+.modal .m-acts button{display:flex;align-items:center;gap:4px;padding:7px 14px;border:1px solid #1f2a44;border-radius:8px;background:transparent;color:#94a3b8;font-size:12px;cursor:pointer;font-family:inherit;transition:.2s}
+.modal .m-acts button:hover{background:#1f2a44;color:#e0edf8}
+
+.ft{text-align:center;padding:16px 0 24px;font-size:11px;color:#3a4a60}
+.ft .upd{color:#34d399;font-size:11px}
+
+@media(max-width:400px){
+  .hd-top{flex-wrap:wrap}
+  .search-box{margin-left:0;width:100%;order:3}
+  .modal-inner{padding:16px;margin:10px}
+}
+@media(max-width:600px){
+  body{font-size:14px}
+  .hd{padding:10px 12px 8px}
+  .hd h1{font-size:17px}
+  .search-box input{font-size:12px;padding:5px 10px}
+  .nav-item{padding:4px 10px;font-size:10px}
+  .nc{padding:12px;margin-bottom:6px}
+  .nc .title{font-size:13px}
+  .nc .desc{font-size:11px}
+  .nc .acts button{font-size:16px;padding:4px}
+  .topics .t{font-size:10px;padding:3px 8px}
+  .main{padding:8px 10px}
+  .modal-inner{padding:18px;margin:8px}
+  .modal h2{font-size:16px}
+  .modal .m-desc{font-size:13px}
+  .ft{font-size:10px;padding:12px 0 18px}
+}
+</style>
+</head>
+<body>
+
+<div class="hd">
+  <div class="hd-top">
+    <div>
+      <h1>📡 AI 每日新闻</h1>
+      <div class="sub"><span class="dot"></span>自动更新 · <span id="updateInfo">加载中...</span></div>
+    </div>
+    <div class="search-box">
+      <input id="searchInput" placeholder="搜索新闻..." oninput="searchNews(this.value)">
+      <button onclick="document.getElementById('searchInput').value='';searchNews('')">✕</button>
+    </div>
+  </div>
+  <div class="nav" id="nav"></div>
+</div>
+
+<div class="main" id="main">
+  <div class="loading" id="loading">
+    <div class="sp"></div>
+    <div>正在获取最新AI资讯...</div>
+  </div>
+</div>
+
+<div class="ft">
+  <div class="upd" id="footerInfo">数据每日自动更新</div>
+  <div style="margin-top:3px;color:#2a3a50">dafowoao.github.io/web-tools</div>
+</div>
+
+<!-- 阅读弹窗 -->
+<div class="modal" id="reader">
+  <div class="modal-inner">
+    <button class="close" onclick="closeReader()">✕</button>
+    <div class="m-src" id="mSrc"></div>
+    <h2 id="mTitle"></h2>
+    <div class="m-desc" id="mDesc"></div>
+    <div class="m-acts">
+      <a class="m-link" id="mLink" target="_blank" rel="noopener" href="#">📖 阅读原文</a>
+      <button id="mFavBtn" onclick="toggleFav()">⭐ 收藏</button>
+      <button onclick="shareNews()">📤 分享</button>
+      <button onclick="closeReader()">✕ 关闭</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const CAT_NAMES = {all:'全部',llm:'大模型',tools:'工具',research:'研究',industry:'产业',china:'国内'};
+let newsData = [], currentCat = 'all', currentNewsId = null;
+
+// 初始化收藏 / 已读
+let saved = new Set(); let read = new Set();
+try{var s=JSON.parse(localStorage.getItem('ainews_saved')||'[]');s.forEach(x=>saved.add(x))}catch(e){}
+try{var r=JSON.parse(localStorage.getItem('ainews_read')||'[]');r.forEach(x=>read.add(x))}catch(e){}
+
+function saveSaved(){localStorage.setItem('ainews_saved',JSON.stringify([...saved]))}
+function saveRead(){localStorage.setItem('ainews_read',JSON.stringify([...read]))}
+
+async function loadNews(){
+  const el = document.getElementById('loading');
+  try {
+    const r = await fetch('ai-news.json?v='+Date.now());
+    const json = await r.json();
+    if(!json.items||!json.items.length)throw new Error('无数据');
+    newsData = json.items;
+    document.getElementById('updateInfo').textContent = '更新于 '+(json.updated||'今天');
+    document.getElementById('footerInfo').textContent = '数据更新于 '+(json.updated||'今天');
+    renderNav(); renderNews('all');
+  } catch(e) {
+    el.innerHTML = '<div class="empt"><div class="ic">📡</div><div class="msg">暂时无法获取新闻<br><span style="font-size:11px;color:#3a4a60">'+e.message+'</span></div><button class="btn" onclick="loadNews()">重试</button></div>';
+  }
+}
+
+function renderNav(){
+  const nav = document.getElementById('nav');
+  const counts = {all:newsData.length};
+  newsData.forEach(n=>{var c=n.category||'other';counts[c]=(counts[c]||0)+1});
+  let html = '';
+  for(const [k,v] of Object.entries(CAT_NAMES)){
+    const cnt = counts[k]||0;
+    html += '<div class="nav-item'+(k==='all'?' active':'')+'" data-cat="'+k+'" onclick="switchCat(this)">'+v+' <span class="cnt">'+cnt+'</span></div>';
+  }
+  nav.innerHTML = html;
+}
+
+function switchCat(el){
+  document.querySelectorAll('.nav-item').forEach(t=>t.classList.remove('active'));
+  el.classList.add('active');
+  currentCat = el.dataset.cat;
+  document.getElementById('searchInput').value='';
+  renderNews(currentCat);
+}
+
+function searchNews(q){
+  if(!q.trim()){renderNews(currentCat);return}
+  const items = currentCat==='all'?newsData:newsData.filter(n=>n.category===currentCat);
+  const kw = q.toLowerCase();
+  const filtered = items.filter(n=>n.title.toLowerCase().includes(kw)||(n.desc||'').toLowerCase().includes(kw)||(n.source||'').toLowerCase().includes(kw));
+  renderItems(filtered, '搜索 "'+q+'" 的结果');
+}
+
+function renderNews(cat){
+  const items = cat==='all'?newsData:newsData.filter(n=>n.category===cat);
+  renderItems(items, CAT_NAMES[cat]||cat);
+}
+
+function renderItems(items, label){
+  const el = document.getElementById('main');
+  if(!items.length){el.innerHTML='<div class="empt"><div class="ic">🔍</div><div class="msg">'+label+' 暂无内容</div></div>';return}
+
+  // 提取热词
+  const tagFreq = {};
+  items.forEach(n=>{if(n.tags)n.tags.forEach(t=>{tagFreq[t]=(tagFreq[t]||0)+1})});
+  const hotTags = Object.entries(tagFreq).sort((a,b)=>b[1]-a[1]).slice(0,10);
+
+  let html = '';
+  if(hotTags.length>0){
+    html += '<div class="topics">';
+    hotTags.forEach(([t,c])=>{html+='<span class="t" onclick="searchNews(\''+esc(t)+'\')">'+esc(t)+' <span style="color:#3a4a60;font-size:9px">'+c+'</span></span>'});
+    html += '</div>';
+  }
+
+  const now = Date.now();
+  for(const n of items){
+    const id = n.url||n.title;
+    const ts = n.ts ? timeAgo(n.ts*1000) : '';
+    const srcColor = n.sourceColor||'#6b9eff';
+    const isRead = read.has(id);
+    const isSaved = saved.has(id);
+    html += '<div class="nc'+(isRead?'':' unread')+'" onclick="openReader(\''+esc(id)+'\')" data-id="'+esc(id)+'">'+
+      '<div class="row1">'+
+        '<div class="src"><span class="d" style="background:'+srcColor+'"></span><span class="n">'+esc(n.source||'AI 资讯')+'</span><span class="t">'+ts+'</span></div>'+
+        '<div class="acts">'+
+          '<button class="'+(isSaved?'saved':'')+'" onclick="event.stopPropagation();toggleSaved(\''+esc(id)+'\')" title="收藏">'+(isSaved?'⭐':'☆')+'</button>'+
+          '<button onclick="event.stopPropagation();shareItem(\''+esc(n.title)+'\',\''+esc(n.url||'')+'\')" title="分享">📤</button>'+
+        '</div>'+
+      '</div>'+
+      '<div class="title"><a href="'+(n.url?esc(n.url):'#')+'" target="_blank" rel="noopener" onclick="event.stopPropagation()">'+esc(n.title)+'</a></div>'+
+      '<div class="desc collapsed" id="desc_'+esc(id).replace(/[^a-zA-Z0-9]/g,'_')+'">'+esc(n.desc||'')+'</div>'+
+      (n.desc&&n.desc.length>60?'<button class="exp-btn" onclick="event.stopPropagation();toggleDesc(this)">展开全文 ∨</button>':'')+
+      (n.tags?'<div class="tags">'+n.tags.map(t=>'<span class="tag'+(t==='hot'?' hot':'')+'">'+esc(t)+'</span>').join('')+'</div>':'')+
+    '</div>';
+  }
+  el.innerHTML = html;
+}
+
+function toggleDesc(btn){
+  const desc = btn.previousElementSibling;
+  if(desc.classList.contains('collapsed')){
+    desc.classList.remove('collapsed');
+    btn.textContent = '收起 ∧';
+  } else {
+    desc.classList.add('collapsed');
+    btn.textContent = '展开全文 ∨';
+  }
+}
+
+// 阅读弹窗
+function openReader(id){
+  const item = newsData.find(n=>(n.url||n.title)===id);
+  if(!item)return;
+  currentNewsId = id;
+  read.add(id); saveRead();
+  document.querySelectorAll('.nc').forEach(c=>{if(c.dataset.id===id)c.classList.remove('unread')});
+  document.getElementById('mSrc').innerHTML = '<span class="d" style="width:6px;height:6px;border-radius:50;background:'+(item.sourceColor||'#6b9eff')+';display:inline-block"></span> '+esc(item.source||'AI 资讯')+' · '+(item.ts?timeAgo(item.ts*1000):'');
+  document.getElementById('mTitle').textContent = item.title;
+  document.getElementById('mDesc').textContent = item.desc||'暂无摘要';
+  document.getElementById('mLink').href = item.url||'#';
+  document.getElementById('mFavBtn').innerHTML = saved.has(id)?'⭐ 已收藏':'☆ 收藏';
+  document.getElementById('reader').classList.add('show');
+  document.body.style.overflow = 'hidden';
+}
+
+function closeReader(){
+  document.getElementById('reader').classList.remove('show');
+  document.body.style.overflow = '';
+}
+
+function toggleFav(){
+  if(!currentNewsId)return;
+  toggleSaved(currentNewsId);
+  document.getElementById('mFavBtn').innerHTML = saved.has(currentNewsId)?'⭐ 已收藏':'☆ 收藏';
+}
+
+function toggleSaved(id){
+  if(saved.has(id)){saved.delete(id)}else{saved.add(id)}
+  saveSaved();
+  document.querySelectorAll('.nc').forEach(c=>{if(c.dataset.id===id){const btn=c.querySelector('.acts button');btn.innerHTML=saved.has(id)?'⭐':'☆';btn.classList.toggle('saved',saved.has(id))}});
+}
+
+function shareItem(title,url){
+  if(navigator.share)navigator.share({title:text,text:title,url:url}).catch(()=>{});
+  else shareNews();
+}
+
+function shareNews(){
+  const item = newsData.find(n=>(n.url||n.title)===currentNewsId);
+  if(!item)return;
+  if(navigator.share)navigator.share({title:item.title,text:item.title+'\n'+item.desc,url:item.url}).catch(()=>{});
+  else{navigator.clipboard.writeText(item.title+' '+item.url);const t=document.getElementById('updateInfo');const o=t.textContent;t.textContent='📋 已复制链接';setTimeout(()=>t.textContent=o,1500)}
+}
+
+function timeAgo(ts){var d=Math.floor((Date.now()-ts)/1000);if(d<60)return '刚刚';if(d<3600)return Math.floor(d/60)+'分前';if(d<86400)return Math.floor(d/3600)+'小时前';return Math.floor(d/86400)+'天前'}
+function esc(s){if(!s)return '';return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;')}
+
+// 点击弹窗外部关闭
+document.getElementById('reader').addEventListener('click',function(e){if(e.target===this)closeReader()});
+
+// 键盘快捷键
+document.addEventListener('keydown',function(e){if(e.key==='Escape')closeReader()});
+
+loadNews();
+</script>
+</body>
+</html>
