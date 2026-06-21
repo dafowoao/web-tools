@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HTML &amp; 图像自检能力评测 · 100题</title>
+<style>
+:root{--bg:#0a0e1a;--card:#12182b;--text:#e0e8f5;--accent:#6b9eff;--green:#34d399;--red:#ef4444;--orange:#f97316}
+body{background:var(--bg);color:var(--text);font-family:'Segoe UI','PingFang SC',sans-serif;padding:2rem;max-width:1400px;margin:0 auto}
+h1{font-size:1.5rem;margin-bottom:.5rem}
+h2{font-size:1.1rem;margin:2rem 0 .8rem;color:var(--accent);border-bottom:1px solid rgba(107,158,255,.2);padding-bottom:.3rem}
+.card{background:var(--card);border-radius:12px;padding:1rem 1.2rem;margin:.5rem 0;border:1px solid rgba(255,255,255,.06)}
+.q{font-weight:500;color:var(--text);margin-bottom:.4rem}
+.q code{background:rgba(255,255,255,.06);padding:.1rem .4rem;border-radius:4px;font-size:.85rem;color:var(--accent)}
+.a{font-size:.85rem;color:#8a9bb5;padding-left:.5rem;border-left:2px solid rgba(107,158,255,.15);margin-top:.3rem}
+.pass{color:var(--green)}.fail{color:var(--red)}.warn{color:var(--orange)}
+.tag{display:inline-block;font-size:.65rem;padding:.1rem .5rem;border-radius:4px;margin-right:.4rem}
+.tag-access{background:rgba(52,211,153,.15);color:var(--green)}
+.tag-perf{background:rgba(107,158,255,.15);color:var(--accent)}
+.tag-sec{background:rgba(239,68,68,.15);color:var(--red)}
+.tag-css{background:rgba(249,115,22,.15);color:var(--orange)}
+.tag-img{background:rgba(139,126,255,.15);color:#8b7eff}
+.tag-responsive{background:rgba(251,191,36,.15);color:#fbbf24}
+.tag-semantic{background:rgba(52,211,153,.15);color:var(--green)}
+</style>
+</head>
+<body>
+
+<h1>🖼 HTML &amp; 图像自检能力评测</h1>
+<p style="color:#8a9bb5;font-size:.85rem;">10维度 × 10题 = 100题 · 每题描述一个常见HTML/图像陷阱</p>
+
+<!-- ============================================ -->
+<!-- D1: 视口与响应式 -->
+<!-- ============================================ -->
+<h2>📐 D1 视口与响应式</h2>
+
+<div class="card">
+<div class="q"><span class="tag tag-responsive">响应式</span> D1-1: <code>&lt;meta name="viewport" content="width=device-width"&gt;</code> 缺少什么？</div>
+<div class="a pass">✅ 缺少 <code>initial-scale=1.0</code>，否则iOS Safari会缩放页面。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-responsive">响应式</span> D1-2: <code>width=2560</code> 作为viewport有什么问题？</div>
+<div class="a pass">✅ 固定宽度viewport导致手机上看是整体缩小，字体小到不可读。应用 <code>width=device-width</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">CSS</span> D1-3: 为什么 <code>position: fixed</code> 在iOS Safari上会抖动？</div>
+<div class="a pass">✅ iOS Safari的工具栏会动态伸缩，<code>100vh</code> 不等于可视高度。应用 <code>dvh</code> 或 <code>svh</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-responsive">响应式</span> D1-4: 只用 <code>@media (max-width: 768px)</code> 做移动端适配漏掉了什么？</div>
+<div class="a pass">✅ 漏掉了 <code>1024px</code>（平板横屏）、<code>1440px</code>（小屏笔记本），应从大到小至少4级断点。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-responsive">响应式</span> D1-5: <code>overflow-x: hidden</code> 在body上有什么隐患？</div>
+<div class="a pass">✅ 可能导致绝对定位/fixed元素被意外裁剪，尤其是有弹窗时。应只在特定容器上用。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-responsive">响应式</span> D1-6: 为什么 <code>max-width: 100vw</code> 在滚动条存在时仍会溢出？</div>
+<div class="a pass">✅ <code>100vw</code> 包含滚动条宽度（约17px），实际可用宽度小于此值。应用 <code>100%</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">CSS</span> D1-7: <code>touch-action: manipulation</code> 什么时候必须加？</div>
+<div class="a pass">✅ 移动端按钮/可交互元素上不加，iOS会有300ms点击延迟。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-responsive">响应式</span> D1-8: <code>rem</code> 和 <code>em</code> 在响应式中的典型误用？</div>
+<div class="a pass">✅ 在 <code>font-size</code> 上用 <code>em</code> 会级联累积（嵌套深了越来越大），布局间距应用 <code>rem</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-responsive">响应式</span> D1-9: 图片在Grid中为什么有时比容器大？</div>
+<div class="a pass">✅ Grid子项默认 <code>min-width: auto</code>，图片会按原始尺寸撑大。应加 <code>min-width: 0</code> 或 <code>overflow: hidden</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">CSS</span> D1-10: <code>clamp()</code> 函数在处理流体排版时的回退方案？</div>
+<div class="a pass">✅ 老浏览器不支持 <code>clamp()</code>，应写一个固定值作为fallback：<code>font-size: 2rem; font-size: clamp(1.5rem, 3vw, 2.5rem);</code></div>
+</div>
+
+<!-- ============================================ -->
+<!-- D2: 性能与加载 -->
+<!-- ============================================ -->
+<h2>⚡ D2 性能与加载</h2>
+
+<div class="card">
+<div class="q"><span class="tag tag-perf">性能</span> D2-1: <code>&lt;script&gt;</code> 在 <code>&lt;head&gt;</code> 中不加 <code>defer</code> 有什么问题？</div>
+<div class="a pass">✅ 阻塞HTML解析直到脚本下载执行完，显著延迟首屏渲染。应加 <code>defer</code> 或放body末尾。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-perf">性能</span> D2-2: <code>&lt;link rel="stylesheet" href="..."&gt;</code> 在 <code>&lt;head&gt;</code> 中会阻塞什么？</div>
+<div class="a pass">✅ 阻塞首次渲染（FCP），浏览器必须等CSSOM构建完才渲染。关键CSS应内联，非关键用 <code>media="print" onload="this.media='all'"</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-perf">性能</span> D2-3: 加载Google Fonts时最常见的性能问题？</div>
+<div class="a pass">✅ <code>display=swap</code> 不加会导致文字在字体加载期间不可见（FOIT），最长阻塞3秒。应始终加 <code>&amp;display=swap</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-perf">性能</span> D2-4: <code>@import url(...)</code> 和 <code>&lt;link&gt;</code> 哪个更好？</div>
+<div class="a pass">✅ <code>@import</code> 在CSS文件中间时导致瀑布式下载，比 <code>&lt;link&gt;</code> 至少多一次往返。永远用 <code>&lt;link&gt;</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-perf">性能</span> D2-5: 为什么Font Awesome的JS版本比CSS版本慢？</div>
+<div class="a pass">✅ JS版本在DOM构建后扫描页面替换图标的，延迟图标显示且消耗CPU。CSS版本 (woff/woff2 + class) 更快。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-perf">性能</span> D2-6: 为什么 <code>resize</code> 事件监听器会导致卡顿？</div>
+<div class="a pass">✅ resize触发频率极高（每秒几十次），不加防抖/节流会导致大量布局计算。应用 <code>requestAnimationFrame</code> 或 debounce。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-perf">性能</span> D2-7: <code>will-change: transform</code> 滥用的后果？</div>
+<div class="a pass">✅ 告诉浏览器提前准备GPU层，但用得太多会耗尽GPU内存（移动端尤其）。只对正在动画的元素短期用。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-perf">性能</span> D2-8: 为什么 <code>requestAnimationFrame</code> 比 <code>setInterval(fn, 16)</code> 做动画更好？</div>
+<div class="a pass">✅ rAF在浏览器下次绘制前执行，自动匹配刷新率（60/120/144fps），标签页不可见时暂停。setInterval不管用户看不看都跑。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-perf">性能</span> D2-9: 埋点脚本中的 <code>&lt;script async&gt;</code> 和 <code>defer</code> 选哪个？</div>
+<div class="a pass">✅ 埋点用 <code>async</code>（下载完就执行，不保证顺序，不阻塞渲染）。<code>defer</code> 保证DOMContentLoaded前执行。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-perf">性能</span> D2-10: <code>content-visibility: auto</code> 什么时候用？</div>
+<div class="a pass">✅ 对离屏内容（长页面下方的卡片），延迟渲染直到接近视口。但不应用在首屏内容上，否则CLS会恶化。</div>
+</div>
+
+<!-- ============================================ -->
+<!-- D3: 可访问性 -->
+<!-- ============================================ -->
+<h2>♿ D3 可访问性（Accessibility）</h2>
+
+<div class="card">
+<div class="q"><span class="tag tag-access">无障碍</span> D3-1: 纯图标按钮没有文字标签有什么问题？</div>
+<div class="a pass">✅ 屏幕阅读器无法朗读。应加 <code>aria-label</code> 或 <code>&lt;span class="sr-only"&gt;</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-access">无障碍</span> D3-2: 颜色对比度不够的最小标准？</div>
+<div class="a pass">✅ 正常文字 WCAG AA 要求 4.5:1，大文字(≥18px粗体/24px) 要求 3:1。用 DevTools 检查。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-access">无障碍</span> D3-3: 只用颜色（红色/绿色）区分状态有什么问题？</div>
+<div class="a pass">✅ 红绿色盲用户（占男性8%）无法区分。应加图标/文字/形状辅助区分。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-access">无障碍</span> D3-4: <code>tabindex &gt; 0</code> 为什么是反模式？</div>
+<div class="a pass">✅ 破坏了自然的Tab键导航顺序。始终用 <code>tabindex="0"</code>（加入Tab顺序）或 <code>tabindex="-1"</code>（可编程聚焦但不在Tab顺序中）。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-access">无障碍</span> D3-5: img标签缺少alt属性的后果？</div>
+<div class="a pass">✅ 屏幕阅读器会读文件名。装饰性图片用 <code>alt=""</code>（空alt），有内容的图片用描述性文本。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-access">无障碍</span> D3-6: 自定义复选框（隐藏原生input）常见问题？</div>
+<div class="a pass">✅ 隐藏input后没把焦点行为移过来，键盘无法操作。应保留 <code>opacity:0; position:absolute</code> 让焦点仍在原input上。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-access">无障碍</span> D3-7: <code>aria-hidden="true"</code> 在可聚焦元素上有什么后果？</div>
+<div class="a pass">✅ 屏幕阅读器隐藏元素但键盘仍可聚焦，导致"幽灵焦点"：聚焦在看不见的元素上。永远不要对可聚焦元素用 <code>aria-hidden</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-access">无障碍</span> D3-8: 弹窗打开后焦点没管理的后果？</div>
+<div class="a pass">✅ 焦点停留在背后的元素上，屏幕阅读器继续读背景内容。打开弹窗时应 <code>focus()</code> 到弹窗，关闭时回到触发元素。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-access">无障碍</span> D3-9: 为什么 <code>role="alert"</code> 不能放在静态文本上？</div>
+<div class="a pass">✅ <code>role="alert"</code> 只对动态插入/变化的内容有效，静态文本不会触发朗读。应通过JS动态插入。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-access">无障碍</span> D3-10: <code>prefers-reduced-motion</code> 媒体查询什么时候必须加？</div>
+<div class="a pass">✅ 用户系统设置了"减少动效"时，大动画/闪烁会引发眩晕。对 <code>@keyframes</code> 和 <code>scroll-behavior: smooth</code> 应用此查询。</div>
+</div>
+
+<!-- ============================================ -->
+<!-- D4: CSS陷阱 -->
+<!-- ============================================ -->
+<h2>🎨 D4 CSS陷阱</h2>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">CSS</span> D4-1: <code>z-index: 9999</code> 为什么是坏习惯？</div>
+<div class="a pass">✅ 数字大战最后谁也盖不住谁，应在父容器上建新的堆叠上下文（<code>isolation: isolate</code>），然后用 <code>z-index: 1/2/3</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">CSS</span> D4-2: <code>flex: 1</code> 和 <code>flex-grow: 1</code> 的区别？</div>
+<div class="a pass">✅ <code>flex: 1</code> 是 <code>flex-grow: 1; flex-shrink: 1; flex-basis: 0%</code>，而 <code>flex-grow: 1</code> 保留原始 <code>flex-basis: auto</code>。大多数情况应用 <code>flex: 1</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">CSS</span> D4-3: 为什么百分比高度在嵌套flex/grid中不生效？</div>
+<div class="a pass">✅ 百分比高度需要父容器有明确高度（非auto）。父容器没有设定 <code>height</code> 时，<code>height: 100%</code> 无效。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">CSS</span> D4-4: <code>gap</code> 在旧版flexbox浏览器中有什么问题？</div>
+<div class="a pass">✅ Safari 14.1以下不支持flex/ <code>gap</code>，需用 <code>margin</code> 做降级。2025年已基本不是问题。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">CSS</span> D4-5: <code>outline: none</code> 在按钮上不加 <code>outline: 2px solid ...</code> 的后果？</div>
+<div class="a pass">✅ 键盘导航用户看不到焦点位置。应始终保留焦点样式，至少 <code>outline: 2px solid Highlight</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">CSS</span> D4-6: <code>transform: translate(-50%, -50%)</code> 居中为什么会模糊？</div>
+<div class="a pass">✅ 百分比 translate 在奇数次像素上时（如50.5px），文字会模糊。应用 <code>calc</code> 固定像素或确保容器宽高为偶数。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">CSS</span> D4-7: <code>box-sizing: border-box</code> 不加在所有元素上有什么隐患？</div>
+<div class="a pass">✅ 默认 <code>content-box</code> 时 <code>width: 100%; padding: 20px</code> 溢出父容器。应全局设 <code>*, *::before, *::after { box-sizing: border-box }</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">CSS</span> D4-8: <code>img { width: 100%; height: auto }</code> 为什么有时不管用？</div>
+<div class="a pass">✅ 父容器没有宽度限制时图片不会缩小。且 <code>max-width: 100%</code> 比 <code>width: 100%</code> 更好——它允许小图不变大模糊。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">CSS</span> D4-9: <code>visibility: hidden</code> 和 <code>display: none</code> 在动画中的区别？</div>
+<div class="a pass">✅ <code>display: none</code> 触发重排（layout），不能做过渡动画。隐藏用 <code>visibility</code>（只触发重绘+合成），移除DOM用 <code>display</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">CSS</span> D4-10: 为什么 <code>font-display: block</code> 在自定义字体上会伤害用户体验？</div>
+<div class="a pass">✅ <code>block</code> 导致最长3秒文字不可见（FOIT），之后才回退。应用 <code>swap</code> 立即显示回退字体，加载完后替换。</div>
+</div>
+
+<!-- ============================================ -->
+<!-- D5: HTML语义 -->
+<!-- ============================================ -->
+<h2>🏗 D5 HTML语义</h2>
+
+<div class="card">
+<div class="q"><span class="tag tag-semantic">语义</span> D5-1: 用 <code>&lt;div onclick="..."&gt;</code> 而不是 <code>&lt;button&gt;</code> 有什么问题？</div>
+<div class="a pass">✅ 不支持键盘操作（Enter/Space）、屏幕阅读器不识别为可交互元素、无默认焦点样式。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-semantic">语义</span> D5-2: 为什么 <code>&lt;br&gt;</code> 不能用于段落间隔？</div>
+<div class="a pass">✅ <code>&lt;br&gt;</code> 只是换行，不增加段落间距。段落间隔应用 <code>&lt;p&gt;</code> 的 margin。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-semantic">语义</span> D5-3: 页面没有 <code>&lt;h1&gt;</code> 或多个 <code>&lt;h1&gt;</code> 的后果？</div>
+<div class="a pass">✅ SEO和屏幕阅读器依赖标题层级导航。无 <code>&lt;h1&gt;</code> 大纲不完整，多个则模糊文档结构。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-semantic">语义</span> D5-4: <code>&lt;i&gt;</code> 和 <code>&lt;em&gt;</code> 的区别？</div>
+<div class="a pass">✅ <code>&lt;em&gt;</code> 表示语义强调（屏幕阅读器会用不同语调朗读），<code>&lt;i&gt;</code> 只是视觉斜体（术语/外文）。图标用 <code>&lt;i&gt;</code> 是历史习惯，语义上用 <code>&lt;span class="icon"&gt;</code> 更合理。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-semantic">语义</span> D5-5: <code>&lt;article&gt;</code> 和 <code>&lt;section&gt;</code> 的误用？</div>
+<div class="a pass">✅ <code>&lt;article&gt;</code> 是独立可分发的内容单元，<code>&lt;section&gt;</code> 是主题分组。每个 <code>&lt;section&gt;</code> 应有标题。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-semantic">语义</span> D5-6: 表单不用 <code>&lt;label&gt;</code> 的后果？</div>
+<div class="a pass">✅ 点击标签不能聚焦输入框、屏幕阅读器无法关联标签和输入。必填：每个 <code>&lt;input&gt;</code> 有对应 <code>&lt;label for="..."&gt;</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-semantic">语义</span> D5-7: <code>&lt;nav&gt;</code> 里放非导航链接可以吗？</div>
+<div class="a pass">✅ <code>&lt;nav&gt;</code> 只用于主要导航区块。页脚的法律链接、社交媒体链接用量 <code>&lt;nav&gt;</code> 不合适。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-semantic">语义</span> D5-8: <code>&lt;table&gt;</code> 用于页面布局有什么问题？</div>
+<div class="a pass">✅ 屏幕阅读器会按表格方式朗读（行/列/单元格），且响应式适配困难。布局用CSS（flex/grid）。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-semantic">语义</span> D5-9: <code>&lt;button type="submit"&gt;</code> 在 <code>&lt;div&gt;</code> 中点击触发表单提交？</div>
+<div class="a pass">✅ 不在 <code>&lt;form&gt;</code> 内的 <code>&lt;button&gt;</code> 默认 <code>type="submit"</code>，点击会触发最近form的提交。应显式 <code>type="button"</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-semantic">语义</span> D5-10: <code>&lt;details&gt;</code> 和 <code>&lt;summary&gt;</code> 展开/折叠的内容对SEO有影响吗？</div>
+<div class="a pass">✅ 折叠内容仍然在DOM中，Google会索引，但 <code>name</code> 属性可以让一组details互斥展开。</div>
+</div>
+
+<!-- ============================================ -->
+<!-- D6: 图像格式与优化 -->
+<!-- ============================================ -->
+<h2>🖼 D6 图像格式与优化</h2>
+
+<div class="card">
+<div class="q"><span class="tag tag-img">图像</span> D6-1: 装饰性背景图和内容图的正确处理方式区别？</div>
+<div class="a pass">✅ 装饰图用CSS <code>background-image</code>（不会被屏幕阅读器读），内容图用 <code>&lt;img&gt;</code> + <code>alt</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-img">图像</span> D6-2: 没有 <code>srcset</code> 在 Retina 屏上的问题？</div>
+<div class="a pass">✅ 2x/3x 屏上图片模糊。应用 <code>srcset</code> 提供多倍率版本，加 <code>sizes</code> 让浏览器选合适的。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-img">图像</span> D6-3: WebP 格式不加 <code>&lt;picture&gt;</code> 降级的后果？</div>
+<div class="a pass">✅ 老Safari（14以下）不支持WebP，图片不显示。应用 <code>&lt;picture&gt;&lt;source srcset="..." type="image/webp"&gt;&lt;img src="fallback.jpg"&gt;&lt;/picture&gt;</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-img">图像</span> D6-4: <code>loading="lazy"</code> 在首屏图片上加的后果？</div>
+<div class="a pass">✅ 首屏图片应该立即加载，懒加载导致LCP延迟。只在非首屏图片上加 <code>loading="lazy"</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-img">图像</span> D6-5: SVG 中不含 <code>viewBox</code> 的后果？</div>
+<div class="a pass">✅ 没有 <code>viewBox</code> 的SVG无法正确缩放，设置宽高后可能被裁剪或溢出。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-img">图像</span> D6-6: PNG 和 WebP/AVIF 在照片上的文件大小差距？</div>
+<div class="a pass">✅ 同样画质下WebP比PNG小约26%，AVIF再省约20%。照片用JPEG/WebP/AVIF，图标/截图用PNG或SVG。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-img">图像</span> D6-7: 没有指定 <code>width</code> 和 <code>height</code> 的图片导致什么性能问题？</div>
+<div class="a pass">✅ 导致布局偏移（CLS）。浏览器预留空间，图片加载后页面不跳动。即使响应式也应设宽高比，配合 <code>aspect-ratio</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-img">图像</span> D6-8: <code>object-fit: cover</code> 和 <code>object-position</code> 不加的默认行为？</div>
+<div class="a pass">✅ 默认 <code>object-fit: fill</code> 会拉伸变形。且 <code>object-position: 50% 50%</code> 居中对齐可能裁掉重要内容（如人脸）。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-img">图像</span> D6-9: 字体图标（Font Awesome）相对于SVG的劣势？</div>
+<div class="a pass">✅ 字体图标在低DPI下模糊、无法做多色、屏幕阅读器需要额外处理。SVG图标可缩放、可上色、可动画。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-img">图像</span> D6-10: Base64 内嵌图片的适用场景和问题？</div>
+<div class="a pass">✅ 体积增大约33%、不缓存、阻塞渲染。仅适用于极小图标（< 1KB）且HTTP/1.1时代减少请求数。HTTP/2下应直接引用文件。</div>
+</div>
+
+<!-- ============================================ -->
+<!-- D7: 浏览器兼容 -->
+<!-- ============================================ -->
+<h2>🌐 D7 浏览器兼容</h2>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">兼容</span> D7-1: <code>-webkit-</code> 前缀什么时候还需要？</div>
+<div class="a pass">✅ 2025年大部分标准已稳定，但 <code>backdrop-filter</code> 在Safari上仍需 <code>-webkit-backdrop-filter</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">兼容</span> D7-2: <code>position: sticky</code> 在哪些情况下不生效？</div>
+<div class="a pass">✅ 父容器有 <code>overflow: hidden/auto/scroll</code> 时失效。且父容器高度必须大于sticky元素。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">兼容</span> D7-3: CSS <code>env(safe-area-inset-top)</code> 什么时候用？</div>
+<div class="a pass">✅ iPhone刘海屏/圆角屏上，页面边缘被屏幕圆角遮挡。不处理则内容在刘海区域不可见。应加 <code>padding-top: env(safe-area-inset-top)</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">兼容</span> D7-4: <code>100vh</code> 在移动端Safari上为什么不是全屏高？</div>
+<div class="a pass">✅ 移动端Safari的 <code>100vh</code> 包含底部工具栏，滚动时工具栏收起后多出一截空白。应用 <code>dvh</code>（动态视口）或 <code>100%</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">兼容</span> D7-5: <code>gap</code> 在Grid中哪些浏览器不支持？</div>
+<div class="a pass">✅ 现代浏览器全支持。但 <code>gap</code> 在Flex中的支持比Grid晚，Safari 14.1+才支持。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">兼容</span> D7-6: <code>accent-color</code> 的作用和兼容性？</div>
+<div class="a pass">✅ 统一设置checkbox/radio/range的原生颜色，现代浏览器基本支持。不支持时也不影响功能。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">兼容</span> D7-7: <code>scroll-behavior: smooth</code> 在哪些浏览器上不支持？</div>
+<div class="a pass">✅ 不支持时只是瞬间跳转，不影响功能。但不应依赖它做关键交互。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">兼容</span> D7-8: <code>&lt;dialog&gt;</code> 元素的backdrop如何自定义样式？</div>
+<div class="a pass">✅ 用 <code>::backdrop</code> 伪元素设背景色/模糊。老浏览器不支持 <code>&lt;dialog&gt;</code>，需polyfill或自定义弹窗。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">兼容</span> D7-9: <code>has()</code> 选择器在哪些场景还不能依赖？</div>
+<div class="a pass">✅ Firefox 121+、Chrome 105+、Safari 15.4+ 已支持，基本可放心用。但不支持时整个选择器失效，不能做主要样式依赖。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">兼容</span> D7-10: 不写 <code>@supports</code> 查询的新CSS特性对老浏览器的影响？</div>
+<div class="a pass">✅ 整个选择器/属性对不支持的浏览器直接忽略。安全的新特性用 <code>@supports</code> 包裹，同时提供降级方案。</div>
+</div>
+
+<!-- ============================================ -->
+<!-- D8: 安全 -->
+<!-- ============================================ -->
+<h2>🔒 D8 HTML安全</h2>
+
+<div class="card">
+<div class="q"><span class="tag tag-sec">安全</span> D8-1: <code>innerHTML</code> 不加转义有什么风险？</div>
+<div class="a pass">✅ 用户输入直接拼接到 <code>innerHTML</code> 可执行任意脚本（XSS）。应用 <code>textContent</code> 或 <code>sanitize-html</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-sec">安全</span> D8-2: <code>&lt;a href="javascript:..."&gt;</code> 为什么不安全？</div>
+<div class="a pass">✅ 点击触发JS执行，可被XSS利用。且SEO爬虫会跟链接。应用事件监听器处理交互。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-sec">安全</span> D8-3: <code>&lt;iframe&gt;</code> 不加 <code>sandbox</code> 的后果？</div>
+<div class="a pass">✅ 嵌入页面可执行脚本、提交表单、打开弹窗。应用 <code>sandbox="allow-scripts allow-same-origin"</code> 按需放权。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-sec">安全</span> D8-4: <code>&lt;form&gt;</code> 不加CSRF token的后果？</div>
+<div class="a pass">✅ 攻击者可伪造请求提交表单。应在表单中嵌入随机token，服务端验证。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-sec">安全</span> D8-5: <code>target="_blank"</code> 在链接上不加 <code>rel="noopener"</code> 的隐患？</div>
+<div class="a pass">✅ 新页面通过 <code>window.opener</code> 可以控制原页面（tab-napping攻击）。应始终加 <code>rel="noopener noreferrer"</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-sec">安全</span> D8-6: <code>onerror</code> 在img标签上的潜在风险？</div>
+<div class="a pass">✅ 即使 <code>onerror="this.onerror=null"</code> 做了防循环，仍可被用于tracking。且 <code>onerror</code> 中可以执行任意JS。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-sec">安全</span> D8-7: CSP（Content-Security-Policy）头部不加的最常见后果？</div>
+<div class="a pass">✅ 页面可以加载任意第三方脚本，内联脚本不受限制，XSS防护弱。至少应设置 <code>script-src 'self'</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-sec">安全</span> D8-8: <code>localStorage</code> 存储敏感信息（如token）的风险？</div>
+<div class="a pass">✅ 同源下任何JS都可读取，XSS攻击可直接窃取。敏感信息存 <code>httpOnly</code> cookie。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-sec">安全</span> D8-9: <code>postMessage</code> 不验证origin的漏洞？</div>
+<div class="a pass">✅ 任意网站可以向你的页面发消息，导致数据泄露。接收时始终验证 <code>event.origin</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-sec">安全</span> D8-10: <code>autocomplete="off"</code> 在密码框上不怎么起作用？</div>
+<div class="a pass">✅ 现代浏览器忽略密码框的 <code>autocomplete="off"</code>，以保护密码管理功能。应用 <code>autocomplete="new-password"</code>。</div>
+</div>
+
+<!-- ============================================ -->
+<!-- D9: 动画与交互 -->
+<!-- ============================================ -->
+<h2>✨ D9 动画与交互</h2>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">动画</span> D9-1: 动画用 <code>top/left</code> 还是 <code>transform</code>？</div>
+<div class="a pass">✅ <code>top/left</code> 触发Layout→Paint→Composite，<code>transform</code> 仅触发Composite。GPU加速的 <code>transform</code> 流畅60帧。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">动画</span> D9-2: <code>opacity</code> 动画中隐藏元素的正确处理？</div>
+<div class="a pass">✅ <code>opacity: 0</code> 的元素虽不可见但仍在DOM中接收点击事件。应同时加 <code>pointer-events: none</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">动画</span> D9-3: CSS动画结束时突然跳回起始状态的原因？</div>
+<div class="a pass">✅ <code>animation-fill-mode: forwards</code> 没加，动画结束后样式回到初始值。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">动画</span> D9-4: <code>transition: all ...</code> 有什么坏处？</div>
+<div class="a pass">✅ 所有属性变化都触发过渡，包括不影响视觉的属性（如 <code>color</code>），增加GPU负载。应指定具体属性。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">动画</span> D9-5: <code>overflow: hidden</code> 在动画元素上为什么可能导致卡顿？</div>
+<div class="a pass">✅ 强制浏览器创建新的裁剪区域，阻止GPU层合并。动画元素上慎用 <code>overflow</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">动画</span> D9-6: 为什么 <code>display: none → block</code> 不能过渡？</div>
+<div class="a pass">✅ <code>display</code> 不是可插值属性，没有中间状态。方案：用 <code>visibility</code> + <code>opacity</code> + <code>position: absolute</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">动画</span> D9-7: <code>prefers-reduced-motion: reduce</code> 时不处理微交互动效的后果？</div>
+<div class="a pass">✅ 用户系统设置减少动效时，闪烁/跳动/缩放动画可能引发前庭障碍患者眩晕。应关停或替换为无动效过渡。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">动画</span> D9-8: <code>@keyframes</code> 中 <code>100%</code> 以外的状态没定义时浏览器怎么处理？</div>
+<div class="a pass">✅ 默认从元素原始样式开始到 <code>100%</code>，不是从 <code>0%</code> 开始。应显式定义 <code>0%</code> 和 <code>100%</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">动画</span> D9-9: 为什么 <code>height: auto</code> 不能过渡到固定高度？</div>
+<div class="a pass">✅ <code>auto</code> 不是可插值的关键帧值。方案：用 <code>max-height</code> 技巧或 <code>grid-template-rows: 0fr → 1fr</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">动画</span> D9-10: <code>requestAnimationFrame</code> 中修改 <code>display</code> 或 <code>width</code> 导致的问题？</div>
+<div class="a pass">✅ 在rAF中修改布局属性会强制同步布局（forced reflow），抵消rAF的性能优势。rAF中只改复合属性（transform/opacity）。</div>
+</div>
+
+<!-- ============================================ -->
+<!-- D10: 字体与排版 -->
+<!-- ============================================ -->
+<h2>🔤 D10 字体与排版</h2>
+
+<div class="card">
+<div class="q"><span class="tag tag-perf">字体</span> D10-1: 加载太多字重（如4种以上）的影响？</div>
+<div class="a pass">✅ 每个字重是一个文件，总下载量可达数MB。只加载用到的字重，或使用可变字体（Variable Fonts）。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-perf">字体</span> D10-2: 可变字体（Variable Fonts）的好处？</div>
+<div class="a pass">✅ 一个文件包含所有字重/字宽/倾斜，比独立字重文件小约40%。可用 <code>font-weight: 350-700</code> 精细控制。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-perf">字体</span> D10-3: 不声明 <code>font-display</code> 的默认行为？</div>
+<div class="a pass">✅ 默认 <code>font-display: auto</code>，浏览器策略因浏览器而异。Chrome约3秒不可见期（FOIT），之后用回退字体。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-perf">字体</span> D10-4: <code>unicode-range</code> 什么时候用？</div>
+<div class="a pass">✅ 英文和中文字体混合时，不设 <code>unicode-range</code> 会下载整个中文字体包（~5MB＋）。应用 <code>unicode-range</code> 只加载需要的字符集。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">排版</span> D10-5: <code>line-height</code> 不带单位的优势？</div>
+<div class="a pass">✅ <code>line-height: 1.5</code> 相对于自身 <code>font-size</code> 计算，子元素继承的是因子不是绝对值。带单位（如 <code>line-height: 24px</code>）在大字号下会溢出。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">排版</span> D10-6: 中英文混排时 <code>word-break</code> 和 <code>line-break</code> 的设置？</div>
+<div class="a pass">✅ 中文默认不换行，长URL会溢出。应用 <code>word-break: break-word</code> 或 <code>overflow-wrap: break-word</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">排版</span> D10-7: <code>text-rendering: optimizeLegibility</code> 在大段文字上的性能影响？</div>
+<div class="a pass">✅ 提升连字和字距但CPU开销大，在长文上可能导致滚动卡顿。只用于标题，正文用默认。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">排版</span> D10-8: 中文网站用 <code>letter-spacing: -0.5px</code> 在哪些浏览器上模糊？</div>
+<div class="a pass">✅ 非整数像素的字间距在低DPI屏上渲染模糊。建议用 <code>em</code> 单位（如 <code>letter-spacing: -0.02em</code>）保持比例。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">排版</span> D10-9: <code>font-smooth</code> / <code>-webkit-font-smoothing</code> 的跨浏览器问题？</div>
+<div class="a pass">✅ <code>antialiased</code> 在macOS上可能让文字变细，Windows上无效。最佳实践：只在macOS的深色背景上应用 <code>-webkit-font-smoothing: antialiased</code>。</div>
+</div>
+
+<div class="card">
+<div class="q"><span class="tag tag-css">排版</span> D10-10: 响应式排版中 <code>px</code> 比 <code>rem</code> 差在哪里？</div>
+<div class="a pass">✅ 用户更改浏览器默认字号（如老年人设为18px），<code>px</code> 固定不变不跟随。正文基础字号应设为 <code>font-size: 100%</code>（=16px），其他用 <code>rem</code>。</div>
+</div>
+
+<hr style="border-color:rgba(255,255,255,.1);margin:3rem 0 1rem">
+<p style="text-align:center;color:#4a5a7a;font-size:.8rem;">HTML &amp; 图像自检能力评测 · 100题 · 逐题解析</p>
+</body>
+</html>

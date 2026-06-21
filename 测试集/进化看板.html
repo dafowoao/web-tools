@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>进化中心 · 看板</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<style>
+:root{--bg:#0a0e1a;--card:#12182b;--border:rgba(56,80,130,.12);--text:#e0e8f5;--text2:#8a9bb5;--accent:#6b9eff;--green:#34d399;--orange:#f97316;--radius:12px}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--text);font-family:'Segoe UI','PingFang SC',sans-serif;padding:2rem;max-width:1400px;margin:0 auto}
+h1{font-size:1.4rem;margin-bottom:.3rem;display:flex;align-items:center;gap:.6rem}
+.sub{color:var(--text2);font-size:.8rem;margin-bottom:1.5rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fill, minmax(300px,1fr));gap:.8rem;margin-bottom:1.5rem}
+.card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:1rem 1.2rem}
+.card h3{font-size:.85rem;margin-bottom:.5rem;display:flex;justify-content:space-between}
+.s{font-size:.72rem;color:var(--text2);margin-bottom:.3rem}
+.v{font-size:1.1rem;font-weight:600}
+.tag{display:inline-block;font-size:.6rem;padding:.1rem .4rem;border-radius:4px;margin:.15rem}
+.tag.ok{background:rgba(52,211,153,.15);color:var(--green)}
+.tag.miss{background:rgba(239,68,68,.15);color:#ef4444}
+.tag.warn{background:rgba(249,115,22,.15);color:var(--orange)}
+table{width:100%;border-collapse:collapse;font-size:.8rem}
+td,th{padding:.4rem .6rem;border-bottom:1px solid var(--border);text-align:left}
+th{color:var(--text2);font-weight:500;font-size:.7rem;text-transform:uppercase}
+.bar{height:4px;border-radius:2px;background:rgba(255,255,255,.05);overflow:hidden;margin-top:.3rem}
+.bar .fill{height:100%;border-radius:2px;transition:width .6s}
+</style>
+</head>
+<body>
+
+<h1><i class="fa-solid fa-chart-simple" style="color:var(--accent)"></i> 进化中心 · 看板</h1>
+<div class="sub">规则分发状态 · 三智能体覆盖 · 最近变更</div>
+
+<script>
+// ── 数据 ──
+const AGENTS = {
+  "ATOMCODE": { role: "编码重器", verify: "post-verify.bat v6", score: 8 },
+  "Hermes": { role: "自动化", verify: "_hermes_verify.bat", score: 7 },
+  "CodeBuddy": { role: "UI/前端", verify: "CODEBUDDY.md + UI验", score: 6 },
+  "Claude Code": { role: "调度中心", verify: "verify_hook.bat", score: 7 },
+  "Qwen Code": { role: "备用", verify: "无", score: 3 },
+  "Codex": { role: "备用", verify: "无", score: 2 },
+};
+
+const RULES = {
+  "测试先行": { desc: "写完代码必须跑测试验证", targets: ["ATOMCODE","Hermes","Claude Code"], pri: 1 },
+  "自检验证": { desc: "输出必须包含验证报告", targets: ["ATOMCODE","Hermes","CodeBuddy","Claude Code"], pri: 1 },
+  "精简代码": { desc: "函数不超过50行", targets: ["ATOMCODE","Hermes"], pri: 3 },
+  "中文输出": { desc: "回复用中文", targets: ["Hermes","CodeBuddy","Qwen Code"], pri: 2 },
+  "防编造": { desc: "禁止编造命令输出", targets: ["Hermes"], pri: 1 },
+  "UI质量检查": { desc: "HTML/CSS/图片质量检查", targets: ["CodeBuddy"], pri: 2 },
+  "测试清理": { desc: "测试文件验证后删除", targets: ["Claude Code","ATOMCODE"], pri: 3 },
+};
+
+// ── 渲染 ──
+let html = '';
+
+// 智能体评分行
+html += '<div class="grid">';
+for (const [name, info] of Object.entries(AGENTS)) {
+  const bar = "█".repeat(info.score) + "░".repeat(10 - info.score);
+  html += `<div class="card"><h3>${name} <span style="font-size:.7rem;color:var(--text2)">${info.role}</span></h3>
+  <div class="s">验证: ${info.verify}</div>
+  <div style="font-family:monospace;font-size:.75rem">${bar} ${info.score}/10</div></div>`;
+}
+html += '</div>';
+
+// 规则矩阵
+html += '<div class="card"><h3>📋 规则分发矩阵</h3><table><tr><th>规则</th>';
+for (const a of Object.keys(AGENTS)) html += `<th>${a}</th>`;
+html += '<th>优先级</th></tr>';
+for (const [rule, info] of Object.entries(RULES)) {
+  html += `<tr><td>${rule}</td>`;
+  for (const a of Object.keys(AGENTS)) {
+    const ok = info.targets.includes(a);
+    html += `<td>${ok ? '✅' : '—'}</td>`;
+  }
+  html += `<td><span class="tag ${info.pri <= 1 ? 'warn' : 'ok'}">P${info.pri}</span></td></tr>`;
+}
+html += '</table></div>';
+
+// 覆盖率统计
+let total = Object.keys(RULES).length * Object.keys(AGENTS).length;
+let covered = 0;
+for (const info of Object.values(RULES)) covered += info.targets.length;
+const pct = Math.round(covered / total * 100);
+
+html += `<div class="grid"><div class="card"><div class="s">规则覆盖率</div>
+  <div class="v">${pct}%</div>
+  <div class="bar"><div class="fill" style="width:${pct}%;background:${pct>50?'var(--green)':'var(--orange)'}"></div></div>
+  <div class="s">${covered}/${total} 组合</div></div>
+  <div class="card"><div class="s">已配置智能体</div><div class="v">${Object.keys(AGENTS).length}</div>
+  <div class="s">${Object.values(AGENTS).filter(a=>a.score>=7).length}个≥7分</div></div>
+  <div class="card"><div class="s">验证系统就绪</div><div class="v">${Object.values(AGENTS).filter(a=>a.verify!='无').length}/${Object.keys(AGENTS).length}</div></div></div>`;
+
+document.getElementById('app').innerHTML = html;
+</script>
+<div id="app"><div style="text-align:center;padding:3rem;color:var(--text2)">加载中...</div></div>
+</body>
+</html>
