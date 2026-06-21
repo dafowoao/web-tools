@@ -1,29 +1,94 @@
 {
-  "updated": "2026-06-21 17:27 UTC",
-  "count": 9,
+  "updated": "2026-06-21 21:14 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "The case against geometric algebra (2024)",
-      "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
-      "desc": "",
+      "title": "The AI Conundrum: We are living in highly subsidized, interesting times",
+      "url": "https://news.ycombinator.com/item?id=48622280",
+      "desc": "If you trace the timeline of how LLMs went from a technologist&#x27;s dream to early text-generation toys, to the world-shifting launch of ChatGPT, and finally to the daily drivers of modern programmi",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782040015,
-      "score": 105,
+      "ts": 1782073453,
+      "score": 8,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Building reliable agentic AI systems",
-      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "title": "Show HN: CleverCrow: give tokens to your favorite projects",
+      "url": "https://clevercrow.io",
+      "desc": "Howdy all. I&#x27;m Zack :wave:. I&#x27;ve been thinking about the problem of misguided AI pull requests and figured I&#x27;d throw a possible solution out there for feedback. Basically, CleverCrow le",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782068767,
+      "score": 18,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "JSON-LD Explained for Personal Websites",
+      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782016119,
-      "score": 161,
-      "category": "tools",
+      "ts": 1782067907,
+      "score": 94,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Burnout is real for open source maintainers",
+      "url": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782060978,
+      "score": 104,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Identity verification on Claude",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "desc": "https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;ClaudeAI&#x2F;comments&#x2F;1ubm53n&#x2F;official_...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782045853,
+      "score": 387,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The 100k whys of AI",
+      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782020721,
+      "score": 159,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The brain was not designed for this much bad news",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782014528,
+      "score": 345,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +100,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781994172,
-      "score": 324,
-      "category": "tools",
+      "score": 358,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone",
+      "url": "https://github.com/nikitadoudikov/claude-pulse",
+      "desc": "Hi everyone, \nI&#x27;m a student from Flanders and I like to use Claude Code for my purposes, ideas and also just for fun and also make solutions for problems in our world!)\nSo that&#x27;s why I built",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781988410,
+      "score": 22,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,21 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781957303,
-      "score": 444,
-      "category": "industry",
+      "score": 495,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-      "url": "https://arrowtsx.dev/bigger-models/",
+      "title": "Cocktail Optimization, an Integer Programming Problem",
+      "url": "https://bunkum.us/2026/06/18/cocktail-ingredients-milp",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781885485,
-      "score": 543,
-      "category": "tools",
+      "ts": 1781870396,
+      "score": 15,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -86,7 +164,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
