@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-21 04:13 UTC",
-  "count": 11,
+  "updated": "2026-06-21 11:16 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "Building reliable agentic AI systems",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782016119,
+      "score": 109,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Your brain was never designed for this much bad news",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782014528,
+      "score": 218,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "When I reject AI code even if it works",
       "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
@@ -9,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782003493,
-      "score": 76,
-      "category": "llm",
+      "score": 192,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,20 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781994172,
-      "score": 88,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: We post-trained a model that pen tests instead of refusing",
-      "url": "https://www.argusred.com/cli",
-      "desc": "Anthropic and OpenAI&#x27;s publicly available models are explicitly guard-railed so that they refuse offensive tasks. And their cyber-focussed models are gated for enterprises. This leaves SMEs and m",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781963343,
-      "score": 77,
+      "score": 221,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781957303,
-      "score": 118,
+      "score": 318,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781954345,
-      "score": 184,
-      "category": "tools",
+      "score": 216,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781885485,
-      "score": 509,
-      "category": "llm",
+      "score": 527,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781613062,
-      "score": 52,
-      "category": "tools",
+      "score": 68,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -101,7 +114,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
