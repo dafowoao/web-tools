@@ -30,6 +30,19 @@ header .upd{color:#34d399;font-size:.8rem;margin-top:.4rem}
 .summary .box{background:#111827;border:1px solid #1f2a44;border-radius:12px;padding:1rem}
 .summary .box h4{font-size:.8rem;color:#5a6a80;margin-bottom:.3rem}
 .summary .box .val{font-size:1.2rem;font-weight:600}
+.week-title{font-size:1.1rem;font-weight:700;color:#e0edf8;margin:1.5rem 0 .8rem;display:flex;align-items:center;gap:.5rem}
+.week-title i{color:#6b9eff}
+.week-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:.7rem;margin-bottom:2rem}
+.day-card{background:#111827;border:1px solid #1f2a44;border-radius:10px;padding:.9rem;text-align:center;transition:border-color .2s}
+.day-card:hover{border-color:#6b9eff}
+.day-card .dname{font-size:.85rem;font-weight:600;color:#6b9eff;margin-bottom:.2rem}
+.day-card .ddate{font-size:.7rem;color:#5a6a80;margin-bottom:.4rem}
+.day-card .dicon{font-size:1.5rem;margin-bottom:.3rem}
+.day-card .dtemps{font-size:.9rem;margin-bottom:.2rem}
+.day-card .dtemps .hi{font-weight:700}
+.day-card .dtemps .lo{color:#6a7a90;margin-left:.3rem}
+.day-card .ddesc{font-size:.75rem;color:#94a3b8}
+.day-card .dpp{font-size:.7rem;color:#6a7a90;margin-top:.3rem}
 .err{text-align:center;padding:3rem;color:#f87171}
 .err i{font-size:2rem;margin-bottom:.5rem}
 .err p{margin-bottom:.5rem}
@@ -47,6 +60,11 @@ footer a{color:#6b9eff;text-decoration:none}
   .summary{grid-template-columns:1fr 1fr;gap:.6rem}
   .summary .box{padding:.7rem}
   .summary .box .val{font-size:1rem}
+  .week-grid{grid-template-columns:repeat(4,1fr);gap:.4rem}
+  .day-card{padding:.6rem}
+  .day-card .dname{font-size:.75rem}
+  .day-card .dicon{font-size:1.2rem}
+  .day-card .dtemps{font-size:.8rem}
 }
 </style>
 </head>
@@ -82,7 +100,7 @@ async function load(){
   const info=document.getElementById('updateInfo');
   const app=document.getElementById('app');
   try{
-    const url=`https://api.open-meteo.com/v1/forecast?latitude=${LAT}&longitude=${LON}&hourly=temperature_2m,relative_humidity_2m,weather_code,precipitation_probability,wind_speed_10m,wind_direction_10m&timezone=auto&forecast_hours=10`;
+    const url=`https://api.open-meteo.com/v1/forecast?latitude=${LAT}&longitude=${LON}&hourly=temperature_2m,relative_humidity_2m,weather_code,precipitation_probability,wind_speed_10m,wind_direction_10m&daily=temperature_2m_max,temperature_2m_min,weather_code,precipitation_probability_max,wind_speed_10m_max,wind_direction_10m_dominant&timezone=auto&forecast_days=7`;
     const ac=new AbortController();setTimeout(()=>ac.abort(),8e3);
     const r=await fetch(url,{signal:ac.signal});
     if(!r.ok)throw new Error('HTTP '+r.status);
@@ -135,6 +153,33 @@ async function load(){
         <div class="box"><h4>最大降雨概率</h4><div class="val" style="color:${maxPP>50?'#f87171':'#34d399'}">${maxPP}%</div></div>
         <div class="box"><h4>数据时间</h4><div class="val" style="color:#94a3b8;font-size:.9rem">${h.time[0].slice(5,16)} ~ ${h.time[h.time.length-1].slice(5,16)}</div></div>
       </div>`;
+
+    // 一周预报
+    const d=j.daily;
+    const DAYS=['周日','周一','周二','周三','周四','周五','周六'];
+    html+=`<div class="week-title"><i class="fas fa-calendar-week"></i> 未来 7 天预报</div><div class="week-grid">`;
+    for(let i=0;i<d.time.length;i++){
+      const dt=new Date(d.time[i]);
+      const dname=DAYS[dt.getDay()];
+      const ddate=(dt.getMonth()+1)+'/'+dt.getDate();
+      const hi=Math.round(d.temperature_2m_max[i]);
+      const lo=Math.round(d.temperature_2m_min[i]);
+      const wc=d.weather_code[i];
+      const w=WMO[wc]||{i:'fa-cloud',t:'未知'};
+      const pp=d.precipitation_probability_max[i];
+      const color=hi>=30?'#f97316':hi>=20?'#fbbf24':hi>=10?'#6b9eff':'#34d399';
+      const isToday=i===0;
+      html+=`
+        <div class="day-card"${isToday?' style="border-color:#6b9eff;background:#141d35"':''}>
+          <div class="dname">${isToday?'今天':dname}</div>
+          <div class="ddate">${ddate}</div>
+          <div class="dicon"><i class="fas ${w.i}" style="color:${color}"></i></div>
+          <div class="dtemps"><span class="hi">${hi}°</span><span class="lo">${lo}°</span></div>
+          <div class="ddesc">${w.t}</div>
+          ${pp!=null?`<div class="dpp">🌧 ${pp}%</div>`:''}
+        </div>`;
+    }
+    html+='</div>';
 
     app.innerHTML=html;
   }catch(e){
