@@ -1,15 +1,41 @@
 {
-  "updated": "2026-06-22 04:14 UTC",
+  "updated": "2026-06-22 13:35 UTC",
   "count": 12,
   "items": [
     {
-      "title": "You're probably using Agent Skills wrong",
-      "url": "https://notes.ansonbiggs.com/youre-probably-using-agent-skills-wrong/",
+      "title": "Becoming a dad changes men's brains",
+      "url": "https://www.scientificamerican.com/article/how-becoming-a-dad-changes-mens-brains/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782090136,
-      "score": 15,
+      "ts": 1782131983,
+      "score": 10,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: KeyGhost – Keyboard app launcher for macOS",
+      "url": "https://keyghost.dev/",
+      "desc": "I got tired of MacOS failing to index applications (it consistently seems to prefer apps installed on my phone instead of the computer) so I&#x27;ve bound them to keys and have started building muscle",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782124037,
+      "score": 5,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Danish privacy activist Lars Andersen raided by police",
+      "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
+      "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;LarsAnders1620&#x2F;status&#x2F;206820886474754051...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782103826,
+      "score": 319,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782082523,
-      "score": 48,
+      "score": 170,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,34 +61,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782077383,
-      "score": 262,
-      "category": "tools",
+      "score": 455,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Recall – fully-local project memory for Claude Code",
+      "title": "Show HN: Recall – Local project memory for Claude Code",
       "url": "https://github.com/raiyanyahya/recall",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782075937,
-      "score": 86,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: CleverCrow: give tokens to your favorite projects",
-      "url": "https://clevercrow.io",
-      "desc": "Howdy all. I&#x27;m Zack :wave:. I&#x27;ve been thinking about the problem of misguided AI pull requests and figured I&#x27;d throw a possible solution out there for feedback. Basically, CleverCrow le",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782068767,
-      "score": 34,
-      "category": "tools",
+      "score": 120,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,34 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782067907,
-      "score": 185,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Identity verification on Claude",
-      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-      "desc": "https:&#x2F;&#x2F;old.reddit.com&#x2F;r&#x2F;ClaudeAI&#x2F;comments&#x2F;1ubm53n&#x2F;official_...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782045853,
-      "score": 629,
+      "score": 241,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
-      "url": "https://minipcs.zip",
-      "desc": "The overall idea is to chart out the thousands of Mini PCs by benchmark and reveal the Pareto Front so you can get the most Compute per Dollar. Definitely a labor of love as I have a number of Mini PC",
+      "title": "Munich 1991: The Roots of the Current AI Boom",
+      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1781985354,
-      "score": 19,
-      "category": "tools",
+      "ts": 1781884463,
+      "score": 133,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -147,7 +147,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
