@@ -1,41 +1,106 @@
 {
-  "updated": "2026-06-22 13:35 UTC",
-  "count": 12,
+  "updated": "2026-06-22 19:27 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "Becoming a dad changes men's brains",
-      "url": "https://www.scientificamerican.com/article/how-becoming-a-dad-changes-mens-brains/",
+      "title": "Blogger defeats photographer's copyright claim",
+      "url": "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782131983,
-      "score": 10,
+      "ts": 1782147970,
+      "score": 31,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Tata Electronics cyber breach claiming to expose Apple, Tesla trade secrets",
+      "url": "https://www.yahoo.com/news/world/articles/indias-tata-electronics-hit-cyber-153155513.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782147817,
+      "score": 27,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Oak – Git replacement designed for agents",
+      "url": "https://oak.space/oak/oak",
+      "desc": "Oak is a version control system I&#x27;ve been working on designed for agents (https:&#x2F;&#x2F;oak.space). It improves the speed and context your agents need when working on serious projects. With v",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782142668,
+      "score": 74,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Bain tests software takeover targets by vibecoding AI replicas",
+      "url": "https://www.ft.com/content/e5bac4d1-b1f8-43a4-bd54-b182d5357af0",
+      "desc": "https:&#x2F;&#x2F;archive.is&#x2F;6BUJw",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782141405,
+      "score": 20,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The text in Claude Code’s “Extended Thinking” output",
+      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782138166,
+      "score": 217,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
+      "url": "https://github.com/Intuned/selector-forge",
+      "desc": "Hi HN, I&#x27;m Ahmad from the Intuned (https:&#x2F;&#x2F;intunedhq.com) team. Today, we&#x27;re releasing and open-sourcing Selector Forge (https:&#x2F;&#x2F;selectorforge.ai&#x2F;), a browser extens",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782138084,
+      "score": 24,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: KeyGhost – Keyboard app launcher for macOS",
-      "url": "https://keyghost.dev/",
-      "desc": "I got tired of MacOS failing to index applications (it consistently seems to prefer apps installed on my phone instead of the computer) so I&#x27;ve bound them to keys and have started building muscle",
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "url": "https://hustvl.github.io/Moebius/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782124037,
-      "score": 5,
-      "category": "llm",
+      "ts": 1782136382,
+      "score": 148,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Danish privacy activist Lars Andersen raided by police",
-      "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
-      "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;LarsAnders1620&#x2F;status&#x2F;206820886474754051...",
+      "title": "Alan Greenspan has died",
+      "url": "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/",
+      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;tSlDZhttps:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;06&#x2F;22&#x2F;alan-greenspan-former-chairm...",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782103826,
-      "score": 319,
+      "ts": 1782127660,
+      "score": 156,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,46 +113,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782082523,
-      "score": 170,
-      "category": "industry",
+      "score": 198,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "url": "https://apertvs.ai/",
-      "desc": "",
+      "title": "Show HN: CleverCrow: give tokens to your favorite projects",
+      "url": "https://clevercrow.io",
+      "desc": "Howdy all. I&#x27;m Zack :wave:. I&#x27;ve been thinking about the problem of misguided AI pull requests and figured I&#x27;d throw a possible solution out there for feedback. Basically, CleverCrow le",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782077383,
-      "score": 455,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Recall – Local project memory for Claude Code",
-      "url": "https://github.com/raiyanyahya/recall",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782075937,
-      "score": 120,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "JSON-LD explained for personal websites",
-      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782067907,
-      "score": 241,
+      "ts": 1782068767,
+      "score": 43,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781884463,
-      "score": 133,
-      "category": "industry",
+      "score": 192,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -125,7 +164,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
