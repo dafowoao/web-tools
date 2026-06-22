@@ -1,15 +1,54 @@
 {
-  "updated": "2026-06-21 21:14 UTC",
-  "count": 15,
+  "updated": "2026-06-22 04:14 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "The AI Conundrum: We are living in highly subsidized, interesting times",
-      "url": "https://news.ycombinator.com/item?id=48622280",
-      "desc": "If you trace the timeline of how LLMs went from a technologist&#x27;s dream to early text-generation toys, to the world-shifting launch of ChatGPT, and finally to the daily drivers of modern programmi",
+      "title": "You're probably using Agent Skills wrong",
+      "url": "https://notes.ansonbiggs.com/youre-probably-using-agent-skills-wrong/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782073453,
-      "score": 8,
+      "ts": 1782090136,
+      "score": 15,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782082523,
+      "score": 48,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "url": "https://apertvs.ai/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782077383,
+      "score": 262,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Recall – fully-local project memory for Claude Code",
+      "url": "https://github.com/raiyanyahya/recall",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782075937,
+      "score": 86,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,33 +61,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782068767,
-      "score": 18,
-      "category": "llm",
+      "score": 34,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "JSON-LD Explained for Personal Websites",
+      "title": "JSON-LD explained for personal websites",
       "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782067907,
-      "score": 94,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Burnout is real for open source maintainers",
-      "url": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782060978,
-      "score": 104,
+      "score": 185,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,86 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782045853,
-      "score": 387,
-      "category": "llm",
+      "score": 629,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The 100k whys of AI",
-      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
-      "desc": "",
+      "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
+      "url": "https://minipcs.zip",
+      "desc": "The overall idea is to chart out the thousands of Mini PCs by benchmark and reveal the Pareto Front so you can get the most Compute per Dollar. Definitely a labor of love as I have a number of Mini PC",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782020721,
-      "score": 159,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The brain was not designed for this much bad news",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782014528,
-      "score": 345,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Slow breathing modulates brain function and risk behavior",
-      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781994172,
-      "score": 358,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Pulse – Dashboard for Claude Code, approve tool calls from your phone",
-      "url": "https://github.com/nikitadoudikov/claude-pulse",
-      "desc": "Hi everyone, \nI&#x27;m a student from Flanders and I like to use Claude Code for my purposes, ideas and also just for fun and also make solutions for problems in our world!)\nSo that&#x27;s why I built",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781988410,
-      "score": 22,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-      "url": "https://github.com/mysk-research/loupe",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781957303,
-      "score": 495,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Cocktail Optimization, an Integer Programming Problem",
-      "url": "https://bunkum.us/2026/06/18/cocktail-ingredients-milp",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781870396,
-      "score": 15,
-      "category": "industry",
+      "ts": 1781985354,
+      "score": 19,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -153,7 +114,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -164,7 +125,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -186,7 +147,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     }
   ]
