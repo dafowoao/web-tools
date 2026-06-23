@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-23 17:55 UTC",
-  "count": 13,
+  "updated": "2026-06-23 21:42 UTC",
+  "count": 14,
   "items": [
+    {
+      "title": "German Rail Service Suspended Due to Radio Interference",
+      "url": "https://www.bluewin.ch/en/news/german-rail-service-suspended-due-to-radio-interference-li.3295297",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782249584,
+      "score": 37,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "All train services in Germany halted after train radio communications disruption",
+      "url": "https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782249248,
+      "score": 41,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Don't verify email addresses by sending spam to them",
+      "url": "https://milek7.pl/mailverifyspam/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782246229,
+      "score": 61,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
+      "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782240979,
+      "score": 99,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Claude Tag",
       "url": "https://www.anthropic.com/news/introducing-claude-tag",
@@ -9,20 +61,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782234558,
-      "score": 52,
-      "category": "llm",
+      "score": 193,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "AI's Affordability Crisis",
-      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
-      "desc": "",
+      "title": "Show HN: The Cascade Graph – An interactive map of AI and energy constraints",
+      "url": "https://atomprophet.io/tools/cascade/",
+      "desc": "Hello, I wanted to share with you all a interactive map of the economics and physics constraints of the AI buildout. It has macro drivers, industrial chokepoints, and where that shows up in markets.I&",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782227477,
-      "score": 161,
+      "ts": 1782228161,
+      "score": 9,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782224661,
-      "score": 217,
-      "category": "tools",
+      "score": 284,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782223399,
-      "score": 279,
-      "category": "tools",
+      "score": 390,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782214850,
-      "score": 45,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Shumai – open-source Frame.io alternative for creative work",
-      "url": "https://github.com/shumaiOne/shumai",
-      "desc": "Shumai is an open source platform for uploading creative files, managing projects, collecting precise feedback, sharing work, and collaborating with AI agents, all in one simple creative-first workspa",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782208974,
-      "score": 47,
-      "category": "industry",
+      "score": 79,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,33 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782203508,
-      "score": 71,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-      "url": "https://openai.com/index/daybreak-securing-the-world/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782178568,
-      "score": 195,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "In praise of memcached",
-      "url": "https://jchri.st/blog/in-praise-of-memcached/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782177305,
-      "score": 246,
+      "score": 79,
       "category": "tools",
       "tags": [
         "国际"
@@ -127,7 +140,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -160,7 +173,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
