@@ -1,15 +1,28 @@
 {
-  "updated": "2026-06-23 07:49 UTC",
-  "count": 14,
+  "updated": "2026-06-23 11:16 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "Ask HN: Anthropic banned me from using Claude Code and I don't know what to do",
-      "url": "https://news.ycombinator.com/item?id=48641160",
-      "desc": "After using Claude Code at work for months I wanted to use it on my own projects too. Most probably because my vpn was on I got banned after 1 hour of usage. I got my 120$ back. 1 month later I signed",
+      "title": "Show HN: Neural Particle Automata",
+      "url": "https://selforg-npa.github.io/",
+      "desc": "Neural CAs model self-organizing pattern formation on grids. Now the grid is gone. Each cell is an agentic particle that can move freely in space and change its state.While each particle follows a sim",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782196432,
-      "score": 34,
+      "ts": 1782203508,
+      "score": 16,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI Built a Nuke and Still Lost",
+      "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782202605,
+      "score": 68,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,8 +35,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782194737,
-      "score": 31,
-      "category": "tools",
+      "score": 142,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Who Does What? Team Topologies for the Agentic Platform",
+      "url": "https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782189608,
+      "score": 22,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782188894,
-      "score": 8,
+      "score": 28,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782178568,
-      "score": 62,
-      "category": "llm",
+      "score": 120,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782177305,
-      "score": 133,
-      "category": "llm",
+      "score": 174,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782155208,
-      "score": 445,
-      "category": "tools",
+      "score": 496,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782142668,
-      "score": 182,
-      "category": "industry",
+      "score": 190,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782136382,
-      "score": 278,
-      "category": "tools",
+      "score": 297,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,21 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782004341,
-      "score": 228,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages",
-      "url": "https://github.com/Amal-David/pagecast",
-      "desc": "I built this because I kept generating HTML&#x2F;Markdown reports from Claude Code&#x2F;Codex and needed a permanent share link instead of a localhost tunnel. Pagecast is a local CLI that publishes th",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781811774,
-      "score": 45,
-      "category": "industry",
+      "score": 344,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -140,7 +153,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
