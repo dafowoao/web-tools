@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-23 11:16 UTC",
+  "updated": "2026-06-23 14:48 UTC",
   "count": 15,
   "items": [
+    {
+      "title": "Mistral OCR 4",
+      "url": "https://mistral.ai/news/ocr-4/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782223399,
+      "score": 43,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Apple is going to raise device prices, but when?",
+      "url": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782212096,
+      "score": 59,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Shumai – open-source Frame.io alternative for creative work",
+      "url": "https://github.com/shumaiOne/shumai",
+      "desc": "Shumai is an open source platform for uploading creative files, managing projects, collecting precise feedback, sharing work, and collaborating with AI agents, all in one simple creative-first workspa",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782208974,
+      "score": 26,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Neural Particle Automata",
       "url": "https://selforg-npa.github.io/",
@@ -9,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782203508,
-      "score": 16,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI Built a Nuke and Still Lost",
-      "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782202605,
-      "score": 68,
-      "category": "industry",
+      "score": 57,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,20 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782194737,
-      "score": 142,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Who Does What? Team Topologies for the Agentic Platform",
-      "url": "https://blog.owulveryck.info/2026/06/22/who-does-what-team-topologies-for-the-agentic-platform.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782189608,
-      "score": 22,
+      "score": 192,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782188894,
-      "score": 28,
+      "score": 45,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782178568,
-      "score": 120,
-      "category": "tools",
+      "score": 157,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782177305,
-      "score": 174,
+      "score": 222,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782155208,
-      "score": 496,
-      "category": "llm",
+      "score": 541,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782142668,
-      "score": 190,
+      "score": 203,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,21 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782136382,
-      "score": 297,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Polymarket has flooded social media with deceptive videos by paid creators",
-      "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782004341,
-      "score": 344,
-      "category": "llm",
+      "score": 306,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -153,7 +153,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -164,7 +164,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -186,7 +186,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
