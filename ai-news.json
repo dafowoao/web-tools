@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-23 14:48 UTC",
-  "count": 15,
+  "updated": "2026-06-23 17:55 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "Claude Tag",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782234558,
+      "score": 52,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI's Affordability Crisis",
+      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782227477,
+      "score": 161,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+      "url": "https://tikz.dev/editor/",
+      "desc": "Hi all! TikZ is a widely-used LaTeX package for drawing figures in papers. It uses commands like \\draw[-&gt;] (0,0) -- (1,2); to draw lines, shapes, text, etc. Academics usually code up their figures ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782224661,
+      "score": 217,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Mistral OCR 4",
       "url": "https://mistral.ai/news/ocr-4/",
@@ -9,20 +48,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782223399,
-      "score": 43,
-      "category": "llm",
+      "score": 279,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Apple is going to raise device prices, but when?",
-      "url": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
+      "title": "The Low-Tech AI of Elden Ring",
+      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782212096,
-      "score": 59,
+      "ts": 1782214850,
+      "score": 45,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782208974,
-      "score": 26,
+      "score": 47,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,34 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782203508,
-      "score": 57,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The new HTTP QUERY method explained",
-      "url": "https://kreya.app/blog/new-http-query-method-explained/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782194737,
-      "score": 192,
+      "score": 71,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason",
-      "url": "https://github.com/imtomt/ymawky/tree/linux",
-      "desc": "This is ymawky, a now-dynamic web server written entirely in ARM64 Assembly. I&#x27;ve previously posted about ymawky here: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48080587In the past mont",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782188894,
-      "score": 45,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782178568,
-      "score": 157,
-      "category": "industry",
+      "score": 195,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,47 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782177305,
-      "score": 222,
+      "score": 246,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
-      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782155208,
-      "score": 541,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Oak – Git alternative designed for agents",
-      "url": "https://oak.space/oak/oak",
-      "desc": "Oak is a version control system I&#x27;ve been working on designed for agents (https:&#x2F;&#x2F;oak.space). It improves the speed and context your agents need when working on serious projects. With v",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782142668,
-      "score": 203,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-      "url": "https://hustvl.github.io/Moebius/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782136382,
-      "score": 306,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -153,7 +127,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -164,7 +138,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
