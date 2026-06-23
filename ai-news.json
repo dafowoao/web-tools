@@ -1,28 +1,41 @@
 {
-  "updated": "2026-06-22 22:02 UTC",
-  "count": 13,
+  "updated": "2026-06-23 03:34 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs",
-      "url": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks",
+      "title": "Nonstop Trading, Lots of Leverage. How 'Perp Futures' Are Changing Wall Street",
+      "url": "https://www.wsj.com/finance/commodities-futures/nonstop-trading-loads-of-leverage-how-perp-futures-are-shaking-up-wall-street-59682069",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782161310,
-      "score": 21,
+      "ts": 1782184248,
+      "score": 4,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "In praise of memcached",
+      "url": "https://jchri.st/blog/in-praise-of-memcached/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782177305,
+      "score": 65,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Blogger defeats photographer's copyright claim",
-      "url": "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm",
+      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782147970,
-      "score": 76,
+      "ts": 1782155208,
+      "score": 355,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782142668,
-      "score": 118,
-      "category": "tools",
+      "score": 158,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782138166,
-      "score": 241,
+      "score": 287,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Selector Forge – browser extension for AI-generated resilient selectors",
-      "url": "https://github.com/Intuned/selector-forge",
-      "desc": "Hi HN, I&#x27;m Ahmad from the Intuned (https:&#x2F;&#x2F;intunedhq.com) team. Today, we&#x27;re releasing and open-sourcing Selector Forge (https:&#x2F;&#x2F;selectorforge.ai&#x2F;), a browser extens",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782138084,
-      "score": 29,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,47 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782136382,
-      "score": 191,
+      "score": 247,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages",
+      "url": "https://github.com/Amal-David/pagecast",
+      "desc": "I built this because I kept generating HTML&#x2F;Markdown reports from Claude Code&#x2F;Codex and needed a permanent share link instead of a localhost tunnel. Pagecast is a local CLI that publishes th",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781811774,
+      "score": 35,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Alan Greenspan has died",
-      "url": "https://www.washingtonpost.com/obituaries/2026/06/22/alan-greenspan-most-powerful-central-banker-modern-times-dies-100/",
-      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;tSlDZhttps:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;06&#x2F;22&#x2F;alan-greenspan-former-chairm...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782127660,
-      "score": 185,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: CleverCrow: give tokens to your favorite projects",
-      "url": "https://clevercrow.io",
-      "desc": "Howdy all. I&#x27;m Zack :wave:. I&#x27;ve been thinking about the problem of misguided AI pull requests and figured I&#x27;d throw a possible solution out there for feedback. Basically, CleverCrow le",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782068767,
-      "score": 47,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Munich 1991: The Roots of the Current AI Boom",
-      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781884463,
-      "score": 204,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -138,7 +112,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -160,7 +134,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
