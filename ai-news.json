@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-24 17:54 UTC",
-  "count": 20,
+  "updated": "2026-06-24 21:22 UTC",
+  "count": 19,
   "items": [
+    {
+      "title": "Thomann takes legal action against Fender",
+      "url": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782328102,
+      "score": 129,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "desc": "Announcement: https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;openai-broadcom-jalapeno-inference-...https:&#x2F;&#x2F;decrypt.co&#x2F;371971&#x2F;openai-broadcom-jalapeno-first-cus...https:&#x2F;&#x2F;ww",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782323220,
+      "score": 336,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Computer use in Gemini 3.5 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
@@ -9,72 +35,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782321694,
-      "score": 19,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Why big AI labs are hiring so many philosophers",
-      "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782319213,
-      "score": 12,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: How much coding should beginners learn in the AI era?",
-      "url": "https://news.ycombinator.com/item?id=48662310",
-      "desc": "As someone who wants to work in tech in the future, say 5-10 years from now, to what extent do you think coding will be a valuable skill? How much should I learn?",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782318673,
-      "score": 10,
+      "score": 106,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "CAPTCHAs have failed for 20 years",
-      "url": "https://www.browserbase.com/blog/why-captchas-are-getting-harder",
-      "desc": "",
+      "title": "Big AI labs are hiring philosophers",
+      "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
+      "desc": "https:&#x2F;&#x2F;archive.is&#x2F;T1FJG",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782316952,
-      "score": 45,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\"",
-      "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782315438,
-      "score": 85,
+      "ts": 1782319213,
+      "score": 73,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Journalism is rearranging the deckchairs. It needs to reinvent itself",
-      "url": "https://werd.io/journalism-is-rearranging-the-deckchairs-it-needs-to-reinvent-itself/",
+      "title": "Boffin claims Microsoft’s “quantum leap” is invalid due to “basic Python errors”",
+      "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782314884,
-      "score": 7,
+      "ts": 1782315438,
+      "score": 144,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782312622,
-      "score": 89,
-      "category": "industry",
+      "score": 179,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782312101,
-      "score": 209,
-      "category": "industry",
+      "score": 295,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,34 +100,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782311532,
-      "score": 48,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782306879,
-      "score": 136,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Minimus container images are now free",
-      "url": "https://images.minimus.io/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782301932,
-      "score": 106,
+      "score": 125,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Qualcomm to Acquire Modular",
+      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+      "desc": "https:&#x2F;&#x2F;investor.qualcomm.com&#x2F;news-events&#x2F;press-releases&#x2F;new...https:&#x2F;&#x2F;www.modular.com&#x2F;blog&#x2F;qualcomm-to-acquire-modularhttps:&#x2F;&#x2F;x.com&#x2F;clattne",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782308956,
+      "score": 27,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
+      "url": "https://lookaway.com",
+      "desc": "Hello, I&#x27;m Kushagra and I am the indie developer behind LookAway (I&#x27;ve posted about it earlier but it has received quite a lot of updates since the last time so I am posting it again).LookAw",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782307758,
+      "score": 25,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -152,34 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782301547,
-      "score": 9,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
-      "url": "https://haystack.deepset.ai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782300092,
-      "score": 67,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Qwen-AgentWorld: Language World Models for General Agents",
-      "url": "https://arxiv.org/abs/2606.24597",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782267707,
-      "score": 181,
-      "category": "tools",
+      "score": 169,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -191,7 +152,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782227100,
-      "score": 22,
+      "score": 49,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GLM-5.2 is a step change for open agents",
+      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782185008,
+      "score": 29,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Why eval startups fail (2025)",
+      "url": "https://thomasliao.com/eval-startups",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782170453,
+      "score": 88,
       "category": "industry",
       "tags": [
         "国际"
@@ -204,7 +191,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782063383,
-      "score": 38,
+      "score": 49,
       "category": "llm",
       "tags": [
         "国际"
@@ -218,7 +205,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -229,7 +216,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
