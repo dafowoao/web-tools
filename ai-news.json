@@ -1,15 +1,15 @@
 {
-  "updated": "2026-06-24 07:41 UTC",
-  "count": 11,
+  "updated": "2026-06-24 10:50 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
-      "url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets",
+      "title": "How to burst the AI bubble: Strike at its roots",
+      "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782272210,
-      "score": 36,
+      "ts": 1782295030,
+      "score": 12,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782267707,
-      "score": 71,
-      "category": "tools",
+      "score": 118,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,21 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782267151,
-      "score": 31,
+      "score": 35,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: RLM-based local debugger for AI agent traces",
-      "url": "https://github.com/context-labs/halo",
-      "desc": "We built HALO (Hierarchal Agent Loop Optimizer), an open-source tool for debugging and optimizing AI agents using their execution traces.It’s a loop. Run your agent, feed the traces to HALO, get the r",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782238912,
-      "score": 19,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782224661,
-      "score": 379,
-      "category": "llm",
+      "score": 397,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,20 +61,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782214850,
-      "score": 138,
-      "category": "llm",
+      "score": 149,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: FastUbu – An Ultrafast Video Archive",
-      "url": "https://fastubu.com/",
-      "desc": "Ubu is a 30 year old archive of strange films you&#x27;d usually only see in museums. I felt it was a perfect candidate for modern Midjourney-like performance.Really enjoyed using Cheng Lou&#x27;s pre",
+      "title": "Why eval startups fail (2025)",
+      "url": "https://thomasliao.com/eval-startups",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782142474,
-      "score": 30,
+      "ts": 1782170453,
+      "score": 25,
       "category": "tools",
       "tags": [
         "国际"
@@ -112,7 +99,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
