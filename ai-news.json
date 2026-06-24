@@ -1,29 +1,42 @@
 {
-  "updated": "2026-06-23 21:42 UTC",
-  "count": 14,
+  "updated": "2026-06-24 03:35 UTC",
+  "count": 13,
   "items": [
     {
-      "title": "German Rail Service Suspended Due to Radio Interference",
-      "url": "https://www.bluewin.ch/en/news/german-rail-service-suspended-due-to-radio-interference-li.3295297",
+      "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+      "url": "https://github.com/End2End-Diffusion/diffusion-bench",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782249584,
-      "score": 37,
+      "ts": 1782267151,
+      "score": 6,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
+      "url": "https://github.com/y-times-y/y",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782260131,
+      "score": 24,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "All train services in Germany halted after train radio communications disruption",
-      "url": "https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html",
+      "title": "Trains halted across Germany because of communication system problem",
+      "url": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782249248,
-      "score": 41,
-      "category": "industry",
+      "ts": 1782249584,
+      "score": 147,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,46 +48,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782246229,
-      "score": 61,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
-      "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782240979,
-      "score": 99,
+      "score": 154,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Claude Tag",
-      "url": "https://www.anthropic.com/news/introducing-claude-tag",
-      "desc": "",
+      "title": "Show HN: RLM-based local debugger for AI agent traces",
+      "url": "https://github.com/context-labs/halo",
+      "desc": "We built HALO (Hierarchal Agent Loop Optimizer), an open-source tool for debugging and optimizing AI agents using their execution traces.It’s a loop. Run your agent, feed the traces to HALO, get the r",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782234558,
-      "score": 193,
+      "ts": 1782238912,
+      "score": 12,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: The Cascade Graph – An interactive map of AI and energy constraints",
-      "url": "https://atomprophet.io/tools/cascade/",
-      "desc": "Hello, I wanted to share with you all a interactive map of the economics and physics constraints of the AI buildout. It has macro drivers, industrial chokepoints, and where that shows up in markets.I&",
+      "title": "AI's Affordability Crisis",
+      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782228161,
-      "score": 9,
+      "ts": 1782227477,
+      "score": 262,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782224661,
-      "score": 284,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Mistral OCR 4",
-      "url": "https://mistral.ai/news/ocr-4/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782223399,
-      "score": 390,
-      "category": "industry",
+      "score": 345,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,20 +100,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782214850,
-      "score": 79,
+      "score": 116,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Neural Particle Automata",
-      "url": "https://selforg-npa.github.io/",
-      "desc": "Neural CAs model self-organizing pattern formation on grids. Now the grid is gone. Each cell is an agentic particle that can move freely in space and change its state.While each particle follows a sim",
+      "title": "Show HN: FastUbu – An Ultrafast Video Archive",
+      "url": "https://fastubu.com/",
+      "desc": "Ubu is a 30 year old archive of strange films you&#x27;d usually only see in museums. I felt it was a perfect candidate for modern Midjourney-like performance.Really enjoyed using Cheng Lou&#x27;s pre",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782203508,
-      "score": 79,
+      "ts": 1782142474,
+      "score": 21,
       "category": "tools",
       "tags": [
         "国际"
@@ -151,7 +138,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -173,7 +160,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
