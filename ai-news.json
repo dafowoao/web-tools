@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-24 03:35 UTC",
-  "count": 13,
+  "updated": "2026-06-24 07:41 UTC",
+  "count": 11,
   "items": [
+    {
+      "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
+      "url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782272210,
+      "score": 36,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Qwen-AgentWorld: Language World Models for General Agents",
+      "url": "https://arxiv.org/abs/2606.24597",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782267707,
+      "score": 71,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
       "url": "https://github.com/End2End-Diffusion/diffusion-bench",
@@ -9,46 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782267151,
-      "score": 6,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Y – A malleable coding-agent desktop app built with Electron",
-      "url": "https://github.com/y-times-y/y",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782260131,
-      "score": 24,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Trains halted across Germany because of communication system problem",
-      "url": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782249584,
-      "score": 147,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Don't verify email addresses by sending spam to them",
-      "url": "https://milek7.pl/mailverifyspam/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782246229,
-      "score": 154,
+      "score": 31,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782238912,
-      "score": 12,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI's Affordability Crisis",
-      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782227477,
-      "score": 262,
-      "category": "industry",
+      "score": 19,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782224661,
-      "score": 345,
-      "category": "tools",
+      "score": 379,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782214850,
-      "score": 116,
+      "score": 138,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782142474,
-      "score": 21,
+      "score": 30,
       "category": "tools",
       "tags": [
         "国际"
@@ -127,7 +101,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -138,7 +112,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
