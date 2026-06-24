@@ -1,7 +1,124 @@
 {
-  "updated": "2026-06-24 14:29 UTC",
-  "count": 11,
+  "updated": "2026-06-24 17:54 UTC",
+  "count": 20,
   "items": [
+    {
+      "title": "Computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782321694,
+      "score": 19,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Why big AI labs are hiring so many philosophers",
+      "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782319213,
+      "score": 12,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: How much coding should beginners learn in the AI era?",
+      "url": "https://news.ycombinator.com/item?id=48662310",
+      "desc": "As someone who wants to work in tech in the future, say 5-10 years from now, to what extent do you think coding will be a valuable skill? How much should I learn?",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782318673,
+      "score": 10,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "CAPTCHAs have failed for 20 years",
+      "url": "https://www.browserbase.com/blog/why-captchas-are-getting-harder",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782316952,
+      "score": 45,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Boffin claims Microsoft's \"quantum leap\" is invalid due to \"basic Python errors\"",
+      "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782315438,
+      "score": 85,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Journalism is rearranging the deckchairs. It needs to reinvent itself",
+      "url": "https://werd.io/journalism-is-rearranging-the-deckchairs-it-needs-to-reinvent-itself/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782314884,
+      "score": 7,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
+      "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782312622,
+      "score": 89,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "url": "https://rubyllm.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782312101,
+      "score": 209,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "PR spam today looks like email spam in the early 2000s",
+      "url": "https://www.greptile.com/blog/prs-on-openclaw",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782311532,
+      "score": 48,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
@@ -9,20 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782306879,
-      "score": 15,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-      "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782303839,
-      "score": 118,
+      "score": 136,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,8 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782301932,
-      "score": 69,
+      "score": 106,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "NSA lost access to Mythos amid Anthropic dispute",
+      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+      "desc": "Unlocked: https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;06&#x2F;23&#x2F;us&#x2F;politics&#x2F;nsa-lost-acce...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782301547,
+      "score": 9,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782300092,
-      "score": 26,
-      "category": "tools",
+      "score": 67,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,33 +178,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782267707,
-      "score": 157,
+      "score": 181,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
+      "url": "https://github.com/NotASithLord/peerd",
+      "desc": "Hey HN. http:&#x2F;&#x2F;peerd.ai is an AI agent harness that lives entirely in your browser as a web extension. You don’t have to install a separate “AI browser”. You don’t have to bolt on or run som",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782227100,
+      "score": 22,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-      "url": "https://tikz.dev/editor/",
-      "desc": "Hi all! TikZ is a widely-used LaTeX package for drawing figures in papers. It uses commands like \\draw[-&gt;] (0,0) -- (1,2); to draw lines, shapes, text, etc. Academics usually code up their figures ",
+      "title": "Show HN: Pure Effect – Reproduce production bugs on your laptop without a DB",
+      "url": "https://pure-effect.org",
+      "desc": "Hi HN,I think it&#x27;s safe to say that the majority of developers don&#x27;t give a second thought to writing code with I&#x2F;O tangled in business logic. It&#x27;s all too common to see code like:",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782224661,
-      "score": 421,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Why eval startups fail (2025)",
-      "url": "https://thomasliao.com/eval-startups",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782170453,
-      "score": 50,
+      "ts": 1782063383,
+      "score": 38,
       "category": "llm",
       "tags": [
         "国际"
@@ -101,7 +218,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -112,7 +229,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -134,7 +251,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
