@@ -1,28 +1,15 @@
 {
-  "updated": "2026-06-25 03:33 UTC",
+  "updated": "2026-06-25 07:41 UTC",
   "count": 17,
   "items": [
     {
-      "title": "Ask HN: Where is our profession (programmer) going?",
-      "url": "https://news.ycombinator.com/item?id=48668199",
-      "desc": "I had been running a small (3 people) software company for about 4 years. Since closing down, I recently hung out at a friend&#x27;s company to see what they were working on (15 ppl). To preface: I&#x",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782355307,
-      "score": 7,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Bible as RAG Database",
-      "url": "https://www.crosscanon.com/",
+      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+      "url": "https://utaw.tech/news/wikipedia-recognition",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782351775,
-      "score": 56,
+      "ts": 1782370957,
+      "score": 7,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782348760,
-      "score": 14,
-      "category": "llm",
+      "score": 29,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782330481,
-      "score": 127,
+      "score": 340,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782323220,
-      "score": 571,
-      "category": "llm",
+      "score": 663,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782321694,
-      "score": 185,
-      "category": "tools",
+      "score": 207,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782312101,
-      "score": 356,
-      "category": "industry",
+      "score": 378,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782311532,
-      "score": 189,
-      "category": "tools",
+      "score": 212,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782308956,
-      "score": 160,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: LookAway, a Mac break reminder that knows when not to interrupt",
-      "url": "https://lookaway.com",
-      "desc": "Hello, I&#x27;m Kushagra and I am the indie developer behind LookAway (I&#x27;ve posted about it earlier but it has received quite a lot of updates since the last time so I am posting it again).LookAw",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782307758,
-      "score": 54,
+      "score": 189,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,8 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782241056,
-      "score": 12,
+      "score": 21,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Markdy: Like Mermaid Diagrams, but for Motion",
+      "url": "https://markdy.com",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782226802,
+      "score": 36,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,8 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782185008,
-      "score": 145,
+      "score": 207,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?",
+      "url": "https://brainfrog.lol",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1781873873,
+      "score": 27,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -165,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781854634,
-      "score": 3,
-      "category": "tools",
+      "score": 39,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -212,7 +212,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     }
   ]
