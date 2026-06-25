@@ -1,16 +1,81 @@
 {
-  "updated": "2026-06-25 10:41 UTC",
-  "count": 16,
+  "updated": "2026-06-25 14:33 UTC",
+  "count": 20,
   "items": [
     {
-      "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
-      "url": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
+      "title": "Federal agents track down woman, demand she remove Instagram post about ICE",
+      "url": "https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782374874,
-      "score": 15,
-      "category": "tools",
+      "ts": 1782396977,
+      "score": 29,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "UN hypocrisy in AI Environmental demands",
+      "url": "https://www.thatprivacyguy.com/blog/un-tracking-without-consent/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782395208,
+      "score": 5,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Tell HN: OpenAI has started putting ads on paid programs",
+      "url": "https://news.ycombinator.com/item?id=48673194",
+      "desc": "I was on the £6.99&#x2F;month program-- mainly because I didnt use it much. Last few days I&#x27;ve started seeing ads:1. Ad for Financial Times\n2. Add for Shein\n3. Add for Amazon prime dayAll 3 were ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782394656,
+      "score": 16,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Where every major LLM stands politically",
+      "url": "https://trakkr.ai/bias",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782392911,
+      "score": 18,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Secs-man, a secrets manager you can (not) rely on",
+      "url": "https://github.com/Fran314/secrets-manager-rs",
+      "desc": "This is a tool to manage encrypted local backups of secrets. The core idea is that it aims to be usable without depending on it, meaning that even if the software disappeared from the face of Earth to",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782390636,
+      "score": 11,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Turn native language audio into flashcards and shadowing practice",
+      "url": "https://lingochunk.com/try",
+      "desc": "Here is a tool I built initially for myself to help with my German and Greek language studies. It started as a hack for creating Anki cards from native language audio. It extracts the words, finds the",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782386953,
+      "score": 19,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782370957,
-      "score": 86,
-      "category": "tools",
+      "score": 154,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782330481,
-      "score": 438,
-      "category": "industry",
+      "score": 599,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782323220,
-      "score": 708,
-      "category": "industry",
+      "score": 758,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782321694,
-      "score": 221,
-      "category": "llm",
+      "score": 232,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782312101,
-      "score": 392,
-      "category": "llm",
+      "score": 416,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782311532,
-      "score": 227,
-      "category": "industry",
+      "score": 246,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782308956,
-      "score": 202,
-      "category": "tools",
+      "score": 221,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782226802,
-      "score": 70,
-      "category": "industry",
+      "score": 102,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,21 +191,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782185008,
-      "score": 244,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?",
-      "url": "https://brainfrog.lol",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781873873,
-      "score": 39,
-      "category": "tools",
+      "score": 297,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,8 +204,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781854634,
-      "score": 50,
-      "category": "tools",
+      "score": 63,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -166,7 +218,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -177,7 +229,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
