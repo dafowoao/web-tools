@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-25 18:10 UTC",
+  "updated": "2026-06-25 21:42 UTC",
   "count": 14,
   "items": [
+    {
+      "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
+      "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782419765,
+      "score": 17,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Besimple AI (YC P25) Is Hiring",
       "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
@@ -16,13 +29,26 @@
       ]
     },
     {
-      "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
-      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;DI4Cq",
+      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "desc": "Hi HN, Nick here. We’re launching OpenKnowledge (https:&#x2F;&#x2F;openknowledge.ai&#x2F;), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and Cursor",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782399530,
-      "score": 530,
+      "ts": 1782403486,
+      "score": 115,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "url": "https://scrollprize.org/firstscroll",
+      "desc": "Preprint: https:&#x2F;&#x2F;scrollprize.org&#x2F;pdf&#x2F;main.pdfhttps:&#x2F;&#x2F;github.com&#x2F;ScrollPrize&#x2F;villa",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782402487,
+      "score": 702,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782392911,
-      "score": 32,
-      "category": "llm",
+      "score": 79,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,20 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782392576,
-      "score": 316,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Secs-man, a secrets manager you can (not) rely on",
-      "url": "https://github.com/Fran314/secrets-manager-rs",
-      "desc": "This is a tool to manage encrypted local backups of secrets. The core idea is that it aims to be usable without depending on it, meaning that even if the software disappeared from the face of Earth to",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782390636,
-      "score": 25,
+      "score": 520,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,33 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782386953,
-      "score": 56,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Bible as RAG Database",
-      "url": "https://www.crosscanon.com/",
-      "desc": "Made this in a free evening. Index an permissive license translation of the Bible (WEB) into a RAG database to allow returning passages of similar semantic meaning. Lots of fun. For example, &quot;mor",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782351775,
-      "score": 96,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782330481,
-      "score": 711,
+      "score": 68,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,8 +100,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782256895,
-      "score": 23,
-      "category": "llm",
+      "score": 74,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The annotated PyTorch training loop",
+      "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782171899,
+      "score": 39,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781985354,
-      "score": 66,
+      "score": 96,
       "category": "industry",
       "tags": [
         "国际"
@@ -140,7 +140,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -151,7 +151,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -173,7 +173,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
