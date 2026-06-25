@@ -1,55 +1,55 @@
 {
-  "updated": "2026-06-25 14:33 UTC",
-  "count": 20,
+  "updated": "2026-06-25 18:10 UTC",
+  "count": 14,
   "items": [
     {
-      "title": "Federal agents track down woman, demand she remove Instagram post about ICE",
-      "url": "https://www.syracuse.com/news/2026/06/federal-agents-track-down-syracuse-woman-demand-she-remove-instagram-post-about-ice.html",
+      "title": "Besimple AI (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782396977,
-      "score": 29,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "UN hypocrisy in AI Environmental demands",
-      "url": "https://www.thatprivacyguy.com/blog/un-tracking-without-consent/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782395208,
-      "score": 5,
+      "ts": 1782406800,
+      "score": 1,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Tell HN: OpenAI has started putting ads on paid programs",
-      "url": "https://news.ycombinator.com/item?id=48673194",
-      "desc": "I was on the £6.99&#x2F;month program-- mainly because I didnt use it much. Last few days I&#x27;ve started seeing ads:1. Ad for Financial Times\n2. Add for Shein\n3. Add for Amazon prime dayAll 3 were ",
+      "title": "Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;DI4Cq",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782394656,
-      "score": 16,
+      "ts": 1782399530,
+      "score": 530,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Political bias in AI: Where the AI models stand",
+      "url": "https://trakkr.ai/bias",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782392911,
+      "score": 32,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Where every major LLM stands politically",
-      "url": "https://trakkr.ai/bias",
-      "desc": "",
+      "title": "Apple raises prices of MacBooks, iPads",
+      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
+      "desc": "https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;06&#x2F;25&#x2F;apple-price-increases-mac-ipa...",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782392911,
-      "score": 18,
-      "category": "llm",
+      "ts": 1782392576,
+      "score": 316,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782390636,
-      "score": 11,
-      "category": "industry",
+      "score": 25,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,20 +74,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782386953,
-      "score": 19,
+      "score": 56,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-      "url": "https://utaw.tech/news/wikipedia-recognition",
-      "desc": "",
+      "title": "Show HN: Bible as RAG Database",
+      "url": "https://www.crosscanon.com/",
+      "desc": "Made this in a free evening. Index an permissive license translation of the Bible (WEB) into a RAG database to allow returning passages of similar semantic meaning. Lots of fun. For example, &quot;mor",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782370957,
-      "score": 154,
+      "ts": 1782351775,
+      "score": 96,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,112 +100,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782330481,
-      "score": 599,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "desc": "Announcement: https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;openai-broadcom-jalapeno-inference-...https:&#x2F;&#x2F;decrypt.co&#x2F;371971&#x2F;openai-broadcom-jalapeno-first-cus...https:&#x2F;&#x2F;ww",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782323220,
-      "score": 758,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Computer use in Gemini 3.5 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782321694,
-      "score": 232,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "url": "https://rubyllm.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782312101,
-      "score": 416,
+      "score": 711,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "PR spam today looks like email spam in the early 2000s",
-      "url": "https://www.greptile.com/blog/prs-on-openclaw",
+      "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
+      "url": "https://github.com/decrazyo/anes",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782311532,
-      "score": 246,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Qualcomm to Acquire Modular",
-      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-      "desc": "https:&#x2F;&#x2F;investor.qualcomm.com&#x2F;news-events&#x2F;press-releases&#x2F;new...https:&#x2F;&#x2F;www.modular.com&#x2F;blog&#x2F;qualcomm-to-acquire-modularhttps:&#x2F;&#x2F;x.com&#x2F;clattne",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782308956,
-      "score": 221,
+      "ts": 1782256895,
+      "score": 23,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Markdy: Like Mermaid Diagrams, but for Motion",
-      "url": "https://markdy.com",
-      "desc": "",
+      "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
+      "url": "https://minipcs.zip",
+      "desc": "The overall idea is to chart out the thousands of Mini PCs by benchmark and reveal the Pareto Front so you can get the most Compute per Dollar. Definitely a labor of love as I have a number of Mini PC",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782226802,
-      "score": 102,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GLM-5.2 is a step change for open agents",
-      "url": "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782185008,
-      "score": 297,
+      "ts": 1781985354,
+      "score": 66,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Write SaaS apps where users control where their data is stored",
-      "url": "https://github.com/wolfoo2931/linkedrecords/",
-      "desc": "Hello HN,I would like to share with you linkedrecords.com - an open source backend as a service I&#x27;m working on since some time now. You can think of it as an firebase&#x2F;convex alternative with",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781854634,
-      "score": 63,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -251,7 +173,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
