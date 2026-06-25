@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-25 07:41 UTC",
-  "count": 17,
+  "updated": "2026-06-25 10:41 UTC",
+  "count": 16,
   "items": [
+    {
+      "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
+      "url": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782374874,
+      "score": 15,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
       "url": "https://utaw.tech/news/wikipedia-recognition",
@@ -9,20 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782370957,
-      "score": 7,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "What I'm Finding About LLM Code Style and Token Costs",
-      "url": "https://www.jimmont.com/llm-style-token-costs",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782348760,
-      "score": 29,
+      "score": 86,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782330481,
-      "score": 340,
-      "category": "llm",
+      "score": 438,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782323220,
-      "score": 663,
+      "score": 708,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782321694,
-      "score": 207,
+      "score": 221,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782312101,
-      "score": 378,
-      "category": "tools",
+      "score": 392,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782311532,
-      "score": 212,
+      "score": 227,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782308956,
-      "score": 189,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Wordit – Change One Letter, Keep the Chain Going",
-      "url": "https://victorribeiro.com/wordit/",
-      "desc": "Hi everyone,I got this idea for a game where, starting from a four letter word you need to go as deep as you can in your vocabulary, changing only one letter per word.bear -&gt; beer -&gt; peer...Each",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782241056,
-      "score": 21,
+      "score": 202,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782226802,
-      "score": 36,
+      "score": 70,
       "category": "industry",
       "tags": [
         "国际"
@@ -139,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782185008,
-      "score": 207,
-      "category": "tools",
+      "score": 244,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781873873,
-      "score": 27,
-      "category": "llm",
+      "score": 39,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -165,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1781854634,
-      "score": 39,
-      "category": "industry",
+      "score": 50,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -179,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -190,7 +177,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
