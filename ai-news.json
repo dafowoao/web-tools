@@ -1,16 +1,55 @@
 {
-  "updated": "2026-06-24 21:22 UTC",
-  "count": 19,
+  "updated": "2026-06-25 03:33 UTC",
+  "count": 17,
   "items": [
     {
-      "title": "Thomann takes legal action against Fender",
-      "url": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
+      "title": "Ask HN: Where is our profession (programmer) going?",
+      "url": "https://news.ycombinator.com/item?id=48668199",
+      "desc": "I had been running a small (3 people) software company for about 4 years. Since closing down, I recently hung out at a friend&#x27;s company to see what they were working on (15 ppl). To preface: I&#x",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782355307,
+      "score": 7,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Bible as RAG Database",
+      "url": "https://www.crosscanon.com/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782328102,
-      "score": 129,
-      "category": "industry",
+      "ts": 1782351775,
+      "score": 56,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "What I'm Finding About LLM Code Style and Token Costs",
+      "url": "https://www.jimmont.com/llm-style-token-costs",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782348760,
+      "score": 14,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782330481,
+      "score": 127,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782323220,
-      "score": 336,
-      "category": "tools",
+      "score": 571,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,46 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782321694,
-      "score": 106,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Big AI labs are hiring philosophers",
-      "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
-      "desc": "https:&#x2F;&#x2F;archive.is&#x2F;T1FJG",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782319213,
-      "score": 73,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Boffin claims Microsoft’s “quantum leap” is invalid due to “basic Python errors”",
-      "url": "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782315438,
-      "score": 144,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "For Most of the World, Open-Source AI Is the Only Way Forward",
-      "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782312622,
-      "score": 179,
+      "score": 185,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782312101,
-      "score": 295,
-      "category": "tools",
+      "score": 356,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782311532,
-      "score": 125,
-      "category": "llm",
+      "score": 189,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782308956,
-      "score": 27,
-      "category": "industry",
+      "score": 160,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,34 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782307758,
-      "score": 25,
+      "score": 54,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Wordit – Change One Letter, Keep the Chain Going",
+      "url": "https://victorribeiro.com/wordit/",
+      "desc": "Hi everyone,I got this idea for a game where, starting from a four letter word you need to go as deep as you can in your vocabulary, changing only one letter per word.bear -&gt; beer -&gt; peer...Each",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782241056,
+      "score": 12,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "NSA lost access to Mythos amid Anthropic dispute",
-      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
-      "desc": "Unlocked: https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;06&#x2F;23&#x2F;us&#x2F;politics&#x2F;nsa-lost-acce...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782301547,
-      "score": 169,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
-      "url": "https://github.com/NotASithLord/peerd",
-      "desc": "Hey HN. http:&#x2F;&#x2F;peerd.ai is an AI agent harness that lives entirely in your browser as a web extension. You don’t have to install a separate “AI browser”. You don’t have to bolt on or run som",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782227100,
-      "score": 49,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -165,34 +152,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782185008,
-      "score": 29,
-      "category": "llm",
+      "score": 145,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Why eval startups fail (2025)",
-      "url": "https://thomasliao.com/eval-startups",
-      "desc": "",
+      "title": "Show HN: Write SaaS apps where users control where their data is stored",
+      "url": "https://github.com/wolfoo2931/linkedrecords/",
+      "desc": "Hello HN,I would like to share with you linkedrecords.com - an open source backend as a service I&#x27;m working on since some time now. You can think of it as an firebase&#x2F;convex alternative with",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782170453,
-      "score": 88,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Pure Effect – Reproduce production bugs on your laptop without a DB",
-      "url": "https://pure-effect.org",
-      "desc": "Hi HN,I think it&#x27;s safe to say that the majority of developers don&#x27;t give a second thought to writing code with I&#x2F;O tangled in business logic. It&#x27;s all too common to see code like:",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782063383,
-      "score": 49,
-      "category": "llm",
+      "ts": 1781854634,
+      "score": 3,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -205,7 +179,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -216,7 +190,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
