@@ -1,16 +1,29 @@
 {
-  "updated": "2026-06-26 03:40 UTC",
-  "count": 14,
+  "updated": "2026-06-26 07:53 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "AI children's books, body horror edition",
-      "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+      "title": "US Govt to individually approve who gets GPT 5.6",
+      "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782436514,
-      "score": 153,
+      "ts": 1782455079,
+      "score": 55,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "What happened after 2k people tried to hack my AI assistant",
+      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782440963,
+      "score": 114,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782409124,
-      "score": 123,
-      "category": "industry",
+      "score": 235,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -36,7 +49,7 @@
       "sourceColor": "#ff6600",
       "ts": 1782406800,
       "score": 1,
-      "category": "tools",
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782403486,
-      "score": 220,
+      "score": 261,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782402487,
-      "score": 1051,
+      "score": 1242,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782392911,
-      "score": 126,
-      "category": "tools",
+      "score": 145,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782392576,
-      "score": 660,
+      "score": 700,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782256895,
-      "score": 108,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB",
-      "url": "https://news.ycombinator.com/item?id=48644463",
-      "desc": "I built an experiment that uses an overfitted transformer and arithmetic coding to compress individual files.Instead of training the model to generalize, I train a 900KB transformer to memorize a sing",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782220287,
-      "score": 29,
-      "category": "llm",
+      "score": 114,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782171899,
-      "score": 66,
+      "score": 67,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Doing a masters while working in Spain",
+      "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782114243,
+      "score": 36,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -151,7 +164,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
