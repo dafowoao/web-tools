@@ -1,15 +1,28 @@
 {
-  "updated": "2026-06-25 21:42 UTC",
+  "updated": "2026-06-26 03:40 UTC",
   "count": 14,
   "items": [
     {
-      "title": "OpenAI Leans Toward Waiting Until Next Year for IPO",
-      "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+      "title": "AI children's books, body horror edition",
+      "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782419765,
-      "score": 17,
+      "ts": 1782436514,
+      "score": 153,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "desc": "Giftlink: https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-06-25&#x2F;apple-to-...also https:&#x2F;&#x2F;www.msn.com&#x2F;en-ca&#x2F;lifestyle&#x2F;shopping&#x2F;apple-to-skip-h..",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782409124,
+      "score": 123,
       "category": "industry",
       "tags": [
         "国际"
@@ -23,7 +36,7 @@
       "sourceColor": "#ff6600",
       "ts": 1782406800,
       "score": 1,
-      "category": "industry",
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -31,11 +44,11 @@
     {
       "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
       "url": "https://github.com/inkeep/open-knowledge",
-      "desc": "Hi HN, Nick here. We’re launching OpenKnowledge (https:&#x2F;&#x2F;openknowledge.ai&#x2F;), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and Cursor",
+      "desc": "Hi HN, Nick here. We’re launching OpenKnowledge (https:&#x2F;&#x2F;openknowledge.ai&#x2F;), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and other ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782403486,
-      "score": 115,
+      "score": 220,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782402487,
-      "score": 702,
+      "score": 1051,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782392911,
-      "score": 79,
-      "category": "industry",
+      "score": 126,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782392576,
-      "score": 520,
+      "score": 660,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Turn native language audio into flashcards and shadowing practice",
-      "url": "https://lingochunk.com/try",
-      "desc": "Here is a tool I built initially for myself to help with my German and Greek language studies. It started as a hack for creating Anki cards from native language audio. It extracts the words, finds the",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782386953,
-      "score": 68,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +100,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782256895,
-      "score": 74,
-      "category": "tools",
+      "score": 108,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Overfitted a 900KB Transformer to Compress a 100MB CSV into 7MB",
+      "url": "https://news.ycombinator.com/item?id=48644463",
+      "desc": "I built an experiment that uses an overfitted transformer and arithmetic coding to compress individual files.Instead of training the model to generalize, I train a 900KB transformer to memorize a sing",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782220287,
+      "score": 29,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782171899,
-      "score": 39,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: MiniPCs.zip – Charting the Pareto frontier of Mini PCs",
-      "url": "https://minipcs.zip",
-      "desc": "The overall idea is to chart out the thousands of Mini PCs by benchmark and reveal the Pareto Front so you can get the most Compute per Dollar. Definitely a labor of love as I have a number of Mini PC",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1781985354,
-      "score": 96,
-      "category": "industry",
+      "score": 66,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -173,7 +173,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
