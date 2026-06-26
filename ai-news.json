@@ -1,29 +1,42 @@
 {
-  "updated": "2026-06-26 17:48 UTC",
-  "count": 14,
+  "updated": "2026-06-26 21:19 UTC",
+  "count": 13,
   "items": [
     {
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "desc": "",
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;PCQQl",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782493615,
-      "score": 163,
+      "ts": 1782498194,
+      "score": 503,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Liva AI (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
+      "title": "Murmur: Shared communication bus for your coding agents",
+      "url": "https://github.com/instavm/murmur",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782493243,
-      "score": 1,
-      "category": "industry",
+      "ts": 1782498042,
+      "score": 8,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "desc": "System card: https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6-preview",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782493615,
+      "score": 623,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782492011,
-      "score": 32,
-      "category": "tools",
+      "score": 106,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782487480,
-      "score": 9,
-      "category": "llm",
+      "score": 40,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782474671,
-      "score": 126,
-      "category": "tools",
+      "score": 195,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,34 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782440963,
-      "score": 305,
+      "score": 340,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI leans toward waiting until next year for IPO",
-      "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782419765,
-      "score": 136,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-      "url": "https://github.com/inkeep/open-knowledge",
-      "desc": "Hi HN, Nick here. We’re launching OpenKnowledge (https:&#x2F;&#x2F;openknowledge.ai&#x2F;), a “what you see is what you get” markdown editor that has direct integrations with Claude, Codex, and other ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782403486,
-      "score": 346,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,20 +100,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782402487,
-      "score": 1549,
+      "score": 1612,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Apple raises prices of MacBooks, iPads",
-      "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-      "desc": "https:&#x2F;&#x2F;9to5mac.com&#x2F;2026&#x2F;06&#x2F;25&#x2F;apple-price-increases-mac-ipa...",
+      "title": "Doing a masters while working in Spain",
+      "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782392576,
-      "score": 805,
+      "ts": 1782114243,
+      "score": 84,
       "category": "tools",
       "tags": [
         "国际"
@@ -140,7 +127,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -151,7 +138,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -173,7 +160,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
