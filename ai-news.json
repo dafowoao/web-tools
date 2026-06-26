@@ -1,20 +1,7 @@
 {
-  "updated": "2026-06-26 07:53 UTC",
-  "count": 15,
+  "updated": "2026-06-26 10:51 UTC",
+  "count": 14,
   "items": [
-    {
-      "title": "US Govt to individually approve who gets GPT 5.6",
-      "url": "https://old.reddit.com/r/LocalLLaMA/comments/1ufo0un/us_govt_to_individually_approve_who_gets_gpt_56/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782455079,
-      "score": 55,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "What happened after 2k people tried to hack my AI assistant",
       "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
@@ -22,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782440963,
-      "score": 114,
-      "category": "industry",
+      "score": 175,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782409124,
-      "score": 235,
+      "score": 271,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782403486,
-      "score": 261,
+      "score": 286,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782402487,
-      "score": 1242,
+      "score": 1323,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782392911,
-      "score": 145,
-      "category": "industry",
+      "score": 147,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782392576,
-      "score": 700,
+      "score": 735,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782256895,
-      "score": 114,
-      "category": "tools",
+      "score": 115,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782171899,
-      "score": 67,
-      "category": "llm",
+      "score": 70,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782114243,
-      "score": 36,
+      "score": 50,
       "category": "industry",
       "tags": [
         "国际"
@@ -153,7 +140,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -186,7 +173,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
