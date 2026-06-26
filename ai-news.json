@@ -1,16 +1,68 @@
 {
-  "updated": "2026-06-26 14:24 UTC",
-  "count": 12,
+  "updated": "2026-06-26 17:48 UTC",
+  "count": 14,
   "items": [
     {
-      "title": "Ultrasound Imaging of the Brain",
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782493615,
+      "score": 163,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Liva AI (YC S25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782493243,
+      "score": 1,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+      "url": "https://github.com/workweave/router",
+      "desc": "We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here&#x27;s a quick demo of running it l",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782492011,
+      "score": 32,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: Is \"no source code was copied\" still a sufficient copyright defense?",
+      "url": "https://news.ycombinator.com/item?id=48687769",
+      "desc": "We are all familiar with the Corgi event: https:&#x2F;&#x2F;x.com&#x2F;mfts0&#x2F;status&#x2F;2070080422482977095With the barrier to create new apps having dropped significantly thanks to LLMs, I am s",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782487480,
+      "score": 9,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ultrasound imaging of the brain",
       "url": "https://alephneuro.com/blog/ultrasound-brain",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782474671,
-      "score": 18,
-      "category": "llm",
+      "score": 126,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,21 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782440963,
-      "score": 254,
-      "category": "tools",
+      "score": 305,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Besimple AI (YC P25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
+      "title": "OpenAI leans toward waiting until next year for IPO",
+      "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782406800,
-      "score": 1,
-      "category": "tools",
+      "ts": 1782419765,
+      "score": 136,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782403486,
-      "score": 318,
-      "category": "tools",
+      "score": 346,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782402487,
-      "score": 1463,
+      "score": 1549,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Political bias in AI: Where the AI models stand",
-      "url": "https://trakkr.ai/bias",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782392911,
-      "score": 154,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782392576,
-      "score": 774,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Doing a masters while working in Spain",
-      "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782114243,
-      "score": 73,
-      "category": "industry",
+      "score": 805,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -114,7 +140,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -125,7 +151,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -147,7 +173,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
