@@ -1,16 +1,29 @@
 {
-  "updated": "2026-06-27 03:27 UTC",
-  "count": 16,
+  "updated": "2026-06-27 06:52 UTC",
+  "count": 14,
   "items": [
     {
-      "title": "Show HN: Hacker News on a Train Station Style Flip Board",
+      "title": "Anatomy of a Failed (Nation-State?) Attack",
+      "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782528113,
+      "score": 24,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Hacker News on a train station-style flip board",
       "url": "https://popflame.quickish.space/hn-flipboard/",
       "desc": "Although the page itself is more just fun to have made and look at (I like the flip sound), the fun part is how I made it to verify the (and I hate to say it) vibe host service I&#x27;ve been working ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782521019,
-      "score": 23,
-      "category": "industry",
+      "score": 54,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782514108,
-      "score": 257,
-      "category": "industry",
+      "score": 358,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782513411,
-      "score": 67,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AgentKits – 60 production-ready AI agent blueprints with guardrails",
-      "url": "https://www.agent-kits.com",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782508774,
-      "score": 13,
-      "category": "llm",
+      "score": 102,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782508487,
-      "score": 135,
+      "score": 179,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782498194,
-      "score": 874,
-      "category": "llm",
+      "score": 958,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782493615,
-      "score": 879,
+      "score": 944,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782492011,
-      "score": 154,
+      "score": 162,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782474671,
-      "score": 248,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "An entire Herculaneum scroll has been read for the first time",
-      "url": "https://scrollprize.org/firstscroll",
-      "desc": "Preprint: https:&#x2F;&#x2F;scrollprize.org&#x2F;pdf&#x2F;main.pdfhttps:&#x2F;&#x2F;github.com&#x2F;ScrollPrize&#x2F;villa",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782402487,
-      "score": 1634,
-      "category": "tools",
+      "score": 265,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782395901,
-      "score": 17,
+      "score": 21,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Doing a masters while working in Spain",
-      "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782114243,
-      "score": 91,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -166,7 +140,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -177,7 +151,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
