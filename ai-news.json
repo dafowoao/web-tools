@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-27 13:42 UTC",
-  "count": 16,
+  "updated": "2026-06-27 17:10 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "Asian AI startups launch Mythos-like models",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "title": "Doctors suspected man had brain cancer. He had worms",
+      "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782565821,
-      "score": 3,
-      "category": "tools",
+      "ts": 1782577918,
+      "score": 10,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782551932,
-      "score": 500,
-      "category": "llm",
+      "score": 641,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,21 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782528113,
-      "score": 94,
+      "score": 122,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Hacker News on a train station-style flip board",
-      "url": "https://popflame.quickish.space/hn-flipboard/",
-      "desc": "Although the page itself is more just fun to have made and look at (I like the flip sound), the fun part is how I made it to verify the (and I hate to say it) vibe host service I&#x27;ve been working ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782521019,
-      "score": 85,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782514108,
-      "score": 486,
-      "category": "industry",
+      "score": 521,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782513411,
-      "score": 156,
+      "score": 182,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782508487,
-      "score": 242,
+      "score": 280,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782498194,
-      "score": 1084,
+      "score": 1124,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782493615,
-      "score": 1039,
+      "score": 1076,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "url": "https://github.com/workweave/router",
-      "desc": "We built a model router that plugs into coding agents (e.g. Claude Code, Codex, Cursor, etc.) and intelligently sends requests to the best model to serve them. Here&#x27;s a quick demo of running it l",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782492011,
-      "score": 182,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,8 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782474671,
-      "score": 297,
-      "category": "llm",
+      "score": 307,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Reducing tick density along recreational trails in Ottawa, Canada",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782326532,
+      "score": 43,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782224900,
-      "score": 5,
+      "score": 21,
       "category": "tools",
       "tags": [
         "国际"
@@ -166,7 +153,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -177,7 +164,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -199,7 +186,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
