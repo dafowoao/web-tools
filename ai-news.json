@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27 06:52 UTC",
+  "updated": "2026-06-27 10:08 UTC",
   "count": 14,
   "items": [
     {
@@ -9,7 +9,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782528113,
-      "score": 24,
+      "score": 59,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782521019,
-      "score": 54,
-      "category": "tools",
+      "score": 70,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782514108,
-      "score": 358,
-      "category": "llm",
+      "score": 439,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782513411,
-      "score": 102,
-      "category": "industry",
+      "score": 125,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782508487,
-      "score": 179,
+      "score": 206,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782498194,
-      "score": 958,
+      "score": 1032,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782493615,
-      "score": 944,
+      "score": 1008,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782492011,
-      "score": 162,
-      "category": "industry",
+      "score": 168,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,21 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782474671,
-      "score": 265,
+      "score": 284,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Autofit2 – End-to-end pipeline for multilingual text classification",
-      "url": "https://github.com/neospe/autofit2",
-      "desc": "Hi HN, Stefan here. autofit2 is a project I have been using at my previous company and is now opensourced. It has been used extensively in automated text moderation, but can be applied to any text&#x2",
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "url": "https://scrollprize.org/firstscroll",
+      "desc": "Preprint: https:&#x2F;&#x2F;scrollprize.org&#x2F;pdf&#x2F;main.pdfhttps:&#x2F;&#x2F;github.com&#x2F;ScrollPrize&#x2F;villa",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782395901,
-      "score": 21,
-      "category": "industry",
+      "ts": 1782402487,
+      "score": 1653,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -151,7 +151,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -173,7 +173,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
