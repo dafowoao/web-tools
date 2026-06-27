@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-27 17:10 UTC",
-  "count": 15,
+  "updated": "2026-06-27 21:03 UTC",
+  "count": 14,
   "items": [
+    {
+      "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+      "url": "https://github.com/kageroumado/adrafinil",
+      "desc": "A month ago there was a wave of posts and tweets about engineers walking around cafes and parks with their MacBooks propped half-open, as fully closing the lid forces sleep that stops their AI agents.",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782592493,
+      "score": 8,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Doctors suspected man had brain cancer. He had worms",
       "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
@@ -9,8 +22,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782577918,
-      "score": 10,
-      "category": "llm",
+      "score": 51,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Running a software jam in a world of slop",
+      "url": "https://foxmoss.com/blog/radish/",
+      "desc": "I&#x27;m Fox. I&#x27;m a 16 year old, and I&#x27;ve been working mostly working on making projects I thought were cool &amp; would do well on the internet over the last year. You can check out my othe",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782567405,
+      "score": 20,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Asian AI startups launch Mythos-like models",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782565821,
+      "score": 67,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782551932,
-      "score": 641,
-      "category": "industry",
+      "score": 692,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,60 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782528113,
-      "score": 122,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-      "desc": "https:&#x2F;&#x2F;archive.md&#x2F;ArXuFhttps:&#x2F;&#x2F;www.nbcnews.com&#x2F;tech&#x2F;tech-news&#x2F;us-government-gives-a...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782514108,
-      "score": 521,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI in mathematics is forcing big questions",
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782513411,
-      "score": 182,
+      "score": 133,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "url": "https://blog.doubleword.ai/frontier-os-llm",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782508487,
-      "score": 280,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;PCQQl",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782498194,
-      "score": 1124,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782493615,
-      "score": 1076,
+      "score": 1098,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ultrasound imaging of the brain",
-      "url": "https://alephneuro.com/blog/ultrasound-brain",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782474671,
-      "score": 307,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +100,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782326532,
-      "score": 43,
-      "category": "industry",
+      "score": 100,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI learns the “dark art” of RFIC design",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782309736,
+      "score": 138,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782224900,
-      "score": 21,
+      "score": 34,
       "category": "tools",
       "tags": [
         "国际"
