@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-27 10:08 UTC",
-  "count": 14,
+  "updated": "2026-06-27 13:42 UTC",
+  "count": 16,
   "items": [
+    {
+      "title": "Asian AI startups launch Mythos-like models",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782565821,
+      "score": 3,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782551932,
+      "score": 500,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Anatomy of a Failed (Nation-State?) Attack",
       "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
@@ -9,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782528113,
-      "score": 59,
-      "category": "tools",
+      "score": 94,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782521019,
-      "score": 70,
-      "category": "industry",
+      "score": 85,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782514108,
-      "score": 439,
+      "score": 486,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782513411,
-      "score": 125,
-      "category": "tools",
+      "score": 156,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782508487,
-      "score": 206,
-      "category": "tools",
+      "score": 242,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782498194,
-      "score": 1032,
+      "score": 1084,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782493615,
-      "score": 1008,
+      "score": 1039,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782492011,
-      "score": 168,
-      "category": "tools",
+      "score": 182,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,20 +139,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782474671,
-      "score": 284,
+      "score": 297,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "An entire Herculaneum scroll has been read for the first time",
-      "url": "https://scrollprize.org/firstscroll",
-      "desc": "Preprint: https:&#x2F;&#x2F;scrollprize.org&#x2F;pdf&#x2F;main.pdfhttps:&#x2F;&#x2F;github.com&#x2F;ScrollPrize&#x2F;villa",
+      "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
+      "url": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782402487,
-      "score": 1653,
+      "ts": 1782224900,
+      "score": 5,
       "category": "tools",
       "tags": [
         "国际"
@@ -140,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -151,7 +177,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -173,7 +199,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
