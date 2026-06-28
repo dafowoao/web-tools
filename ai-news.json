@@ -1,7 +1,20 @@
 {
-  "updated": "2026-06-28 03:50 UTC",
-  "count": 15,
+  "updated": "2026-06-28 07:51 UTC",
+  "count": 16,
   "items": [
+    {
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782621078,
+      "score": 44,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Ford hired AI and sacked humans. It backfired badly",
       "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
@@ -9,21 +22,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782616153,
-      "score": 18,
-      "category": "tools",
+      "score": 156,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Response to AI slop is from Robin Williams",
+      "title": "The best response to AI slop and online noise is from Robin Williams",
       "url": "https://jayacunzo.com/blog/your-move-chief",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782610090,
-      "score": 89,
-      "category": "tools",
+      "score": 189,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782609680,
-      "score": 53,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Starglyphs - A constellation puzzle game based on Euler paths",
-      "url": "https://starglyphs.com",
-      "desc": "I am a big Dragon Age fan and sunk hundreds of hours into Inquisition. It had this minigame called astrariums where you had to solve these shapes based on constellation guides by tracing stars. I&#x27",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782597032,
-      "score": 19,
-      "category": "tools",
+      "score": 109,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782596046,
-      "score": 102,
-      "category": "tools",
+      "score": 152,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782592493,
-      "score": 102,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Running a software jam in a world of slop",
-      "url": "https://foxmoss.com/blog/radish/",
-      "desc": "I&#x27;m Fox. I&#x27;m a 16 year old, and I&#x27;ve been working mostly working on making projects I thought were cool &amp; would do well on the internet over the last year. You can check out my othe",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782567405,
-      "score": 52,
-      "category": "llm",
+      "score": 108,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782565821,
-      "score": 171,
+      "score": 218,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782551932,
-      "score": 737,
-      "category": "industry",
+      "score": 754,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,8 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782326532,
-      "score": 171,
+      "score": 191,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Metaspec: The DpANS3R Common Lisp Spec in S-Expr and HTML Format",
+      "url": "https://metaspec.dev/#",
+      "desc": "I started this project back in 2015, to translate the TeX original specification into an easily parsed format (s-doc), and to create an HTML rendering of that format as a proof of concept.The project ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782318492,
+      "score": 5,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,8 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782309736,
-      "score": 204,
-      "category": "industry",
+      "score": 228,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
+      "url": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782236401,
+      "score": 46,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -153,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -164,7 +177,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
