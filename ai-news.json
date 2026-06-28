@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28 07:51 UTC",
-  "count": 16,
+  "updated": "2026-06-28 10:27 UTC",
+  "count": 14,
   "items": [
     {
       "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
@@ -9,21 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782621078,
-      "score": 44,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ford hired AI and sacked humans. It backfired badly",
-      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782616153,
-      "score": 156,
-      "category": "llm",
+      "score": 69,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782610090,
-      "score": 189,
-      "category": "llm",
+      "score": 232,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +35,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782609680,
-      "score": 109,
+      "score": 128,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+      "url": "https://arxiv.org/abs/2606.22283",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782603014,
+      "score": 24,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,20 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782596046,
-      "score": 152,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
-      "url": "https://github.com/kageroumado/adrafinil",
-      "desc": "A month ago there was a wave of posts and tweets about engineers walking around cafes and parks with their MacBooks propped half-open, as fully closing the lid forces sleep that stops their AI agents.",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782592493,
-      "score": 108,
+      "score": 161,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782565821,
-      "score": 218,
-      "category": "llm",
+      "score": 234,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782551932,
-      "score": 754,
-      "category": "llm",
+      "score": 762,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "From Hallmark to neon signs: A look at Jim Parkinson's career in letter art",
+      "url": "https://typographica.org/on-typography/jim-parkinson-1941-2025/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782495155,
+      "score": 4,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782326532,
-      "score": 191,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Metaspec: The DpANS3R Common Lisp Spec in S-Expr and HTML Format",
-      "url": "https://metaspec.dev/#",
-      "desc": "I started this project back in 2015, to translate the TeX original specification into an easily parsed format (s-doc), and to create an HTML rendering of that format as a proof of concept.The project ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782318492,
-      "score": 5,
+      "score": 201,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782309736,
-      "score": 228,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
-      "url": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782236401,
-      "score": 46,
-      "category": "tools",
+      "score": 233,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -166,7 +140,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
