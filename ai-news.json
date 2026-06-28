@@ -1,7 +1,98 @@
 {
-  "updated": "2026-06-28 17:11 UTC",
-  "count": 16,
+  "updated": "2026-06-28 21:00 UTC",
+  "count": 18,
   "items": [
+    {
+      "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+      "url": "https://github.com/kamaludu/bash4llm/",
+      "desc": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal.  I created it because I wanted something simple that worked without installing Python, Node, or any other runtime.It",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782675790,
+      "score": 7,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+      "url": "https://github.com/JustVugg/nanoeuler",
+      "desc": "Hi everyone,I started working on nanoeuler after the ban of anthropic&#x27;s fable because my ambition and dream is to work in the AI   field in anthropic. The two interesting reasons that led me to c",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782675494,
+      "score": 13,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ford rehires 'gray beard' engineers after AI falls short",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782675357,
+      "score": 96,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Do LLMs pass the mirror test?",
+      "url": "https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782673567,
+      "score": 6,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
+      "url": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
+      "desc": "http:&#x2F;&#x2F;i.stanford.edu&#x2F;pub&#x2F;cstr&#x2F;reports&#x2F;cs&#x2F;tr&#x2F;68&#x2F;85&#x2F;CS-TR-68-...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782673193,
+      "score": 11,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Librepods: AirPods liberated",
+      "url": "https://github.com/librepods-org/librepods",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782672533,
+      "score": 143,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782669047,
+      "score": 65,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
       "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
@@ -9,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782665939,
-      "score": 4,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Professor denounces mass AI fraud on an exam at Brown University",
-      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782664872,
-      "score": 5,
+      "score": 65,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,60 +113,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782664519,
-      "score": 31,
+      "score": 214,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood",
+      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
       "url": "https://www.openculture.com/2020/10/daisugi.html",
-      "desc": "",
+      "desc": "https:&#x2F;&#x2F;x.com&#x2F;wrathofgnon&#x2F;status&#x2F;1250287741247426565, https:&#x2F;&#x2F;xcancel.com&#x2F;wrathofgnon&#x2F;status&#x2F;1250287741247426565",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782664130,
-      "score": 27,
-      "category": "industry",
+      "score": 74,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Austria Lobbies EU to Host Anthropic After US Access Curbs",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+      "title": "Reflections on software engineering in the age of AI",
+      "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782653654,
-      "score": 90,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Google limits Meta's use of its Gemini AI models",
-      "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782653406,
-      "score": 101,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The origins of the school system aimed to produce independent, critical thinkers (2024)",
-      "url": "https://www.cbc.ca/radio/ideas/humboldt-education-system-bildung-1.7172093",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782651336,
+      "ts": 1782663458,
       "score": 73,
-      "category": "tools",
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,60 +152,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782649653,
-      "score": 120,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "url": "https://github.com/itsthelore/wayfinder-router",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782621078,
-      "score": 101,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
-      "url": "https://decomp-academy.dev",
-      "desc": "Over the past few months I&#x27;ve been heavily involved in the decompilation community. I&#x27;ve been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). I started this jour",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782609680,
-      "score": 175,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Reducing tick density along recreational trails in Ottawa, Canada",
-      "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782326532,
-      "score": 229,
+      "score": 161,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "AI learns the “dark art” of RFIC design",
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "desc": "",
+      "title": "Show HN: Appaca – AI Workspace for Operators",
+      "url": "https://www.appaca.ai/",
+      "desc": "Appaca is my third pivot.A couple of years ago, I started working on an idea on no-code platform that generates code. The goal is to help devs and agencies ship products faster for their clients. I we",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782309736,
-      "score": 258,
+      "ts": 1782449669,
+      "score": 11,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Trade, merchants, and the lost cities of the Bronze Age (2019) [pdf]",
+      "url": "https://keremcosar.uvacreate.virginia.edu/publications/BCCH-BronzeAgeTrade-qje.pdf",
+      "desc": "(changed from https:&#x2F;&#x2F;thedailyeconomy.org&#x2F;article&#x2F;ancient-clay-tablets-sho...)",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782236401,
+      "score": 69,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -166,7 +192,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -177,7 +203,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -199,7 +225,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
