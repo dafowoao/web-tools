@@ -1,7 +1,72 @@
 {
-  "updated": "2026-06-27 21:03 UTC",
-  "count": 14,
+  "updated": "2026-06-28 03:50 UTC",
+  "count": 15,
   "items": [
+    {
+      "title": "Ford hired AI and sacked humans. It backfired badly",
+      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782616153,
+      "score": 18,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Response to AI slop is from Robin Williams",
+      "url": "https://jayacunzo.com/blog/your-move-chief",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782610090,
+      "score": 89,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+      "url": "https://decomp-academy.dev",
+      "desc": "Over the past few months I&#x27;ve been heavily involved in the decompilation community. I&#x27;ve been hands-on decompiling a beloved game from my childhood (Star Fox Adventures). I started this jour",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782609680,
+      "score": 53,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Starglyphs - A constellation puzzle game based on Euler paths",
+      "url": "https://starglyphs.com",
+      "desc": "I am a big Dragon Age fan and sunk hundreds of hours into Inquisition. It had this minigame called astrariums where you had to solve these shapes based on constellation guides by tracing stars. I&#x27",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782597032,
+      "score": 19,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "What Ozempic does to the gut-brain axis",
+      "url": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782596046,
+      "score": 102,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
       "url": "https://github.com/kageroumado/adrafinil",
@@ -9,20 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782592493,
-      "score": 8,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Doctors suspected man had brain cancer. He had worms",
-      "url": "https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782577918,
-      "score": 51,
+      "score": 102,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782567405,
-      "score": 20,
-      "category": "industry",
+      "score": 52,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782565821,
-      "score": 67,
-      "category": "tools",
+      "score": 171,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,34 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782551932,
-      "score": 692,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Anatomy of a Failed (Nation-State?) Attack",
-      "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782528113,
-      "score": 133,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "desc": "System card: https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6-preview",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782493615,
-      "score": 1098,
-      "category": "llm",
+      "score": 737,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782326532,
-      "score": 100,
-      "category": "tools",
+      "score": 171,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,21 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782309736,
-      "score": 138,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Task Failed Successfully: Saturating NIC and Disk Bandwidth",
-      "url": "https://blog.mrcroxx.com/posts/task-failed-successfully-saturating-nic-and-disk-bandwidth/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782224900,
-      "score": 34,
-      "category": "tools",
+      "score": 204,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -140,7 +153,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -151,7 +164,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
