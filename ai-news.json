@@ -1,41 +1,54 @@
 {
-  "updated": "2026-06-29 03:55 UTC",
+  "updated": "2026-06-29 08:59 UTC",
   "count": 18,
   "items": [
     {
-      "title": "AI boom risks global financial crash, warn central bankers",
-      "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+      "title": "US Grid Constraints: Towards 40GW+ of Behind-the-Meter Datacenter by 2028?",
+      "url": "https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782696304,
-      "score": 83,
+      "ts": 1782718568,
+      "score": 18,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "My main Android phone is now 99% Google free",
+      "url": "https://simondalvai.org/blog/google-free-android/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782715798,
+      "score": 8,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Better Images of AI",
-      "url": "https://betterimagesofai.org/",
+      "title": "Herdr: Agent multiplexer that lives in your terminal",
+      "url": "https://github.com/ogulcancelik/herdr",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782690658,
-      "score": 31,
-      "category": "tools",
+      "ts": 1782707266,
+      "score": 57,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "We need tech news sources which exclude AI",
-      "url": "https://news.ycombinator.com/item?id=48713041",
-      "desc": "Its now clear that we need to preserve tech press for non AI related things. Techmeme for example is now completely overrun with AI stories.HN is getting closer to that every day.If AI kickback deals,",
+      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782690590,
-      "score": 98,
+      "ts": 1782697480,
+      "score": 373,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782675790,
-      "score": 38,
-      "category": "llm",
+      "score": 49,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,20 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782675494,
-      "score": 39,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
-      "url": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
-      "desc": "http:&#x2F;&#x2F;i.stanford.edu&#x2F;pub&#x2F;cstr&#x2F;reports&#x2F;cs&#x2F;tr&#x2F;68&#x2F;85&#x2F;CS-TR-68-...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782673193,
-      "score": 25,
+      "score": 46,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782672533,
-      "score": 307,
-      "category": "industry",
+      "score": 377,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782669047,
-      "score": 563,
-      "category": "tools",
+      "score": 815,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782665939,
-      "score": 95,
+      "score": 114,
       "category": "industry",
       "tags": [
         "国际"
@@ -126,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782664872,
-      "score": 314,
+      "score": 396,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782664519,
-      "score": 370,
-      "category": "tools",
+      "score": 425,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782664130,
-      "score": 120,
+      "score": 133,
       "category": "llm",
       "tags": [
         "国际"
@@ -165,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782649653,
-      "score": 182,
-      "category": "tools",
+      "score": 205,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -178,7 +178,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782395646,
-      "score": 27,
+      "score": 152,
       "category": "llm",
       "tags": [
         "国际"
@@ -192,7 +192,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -203,7 +203,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -225,7 +225,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
