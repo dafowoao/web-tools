@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-29 18:08 UTC",
-  "count": 11,
+  "updated": "2026-06-29 21:26 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782762568,
+      "score": 66,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
+      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782756206,
+      "score": 28,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
       "url": "https://github.com/deepreinforce-ai/Ornith-1",
@@ -9,21 +35,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782753377,
-      "score": 4,
-      "category": "llm",
+      "score": 101,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Amazon Is Awash with AI-Written Guideslop for Games That Aren't Even Out",
-      "url": "https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365",
+      "title": "Working With AI: A concrete example",
+      "url": "https://htmx.org/essays/working-with-ai/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782751178,
-      "score": 16,
-      "category": "industry",
+      "ts": 1782744821,
+      "score": 41,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782738543,
-      "score": 235,
+      "score": 280,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,47 +74,47 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782729951,
-      "score": 253,
+      "score": 476,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Herdr: Agent multiplexer that lives in your terminal",
-      "url": "https://github.com/ogulcancelik/herdr",
+      "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
+      "url": "https://deep-reinforce.com/ornith_1_0.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782707266,
-      "score": 127,
-      "category": "llm",
+      "ts": 1782669484,
+      "score": 39,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "title": "ACL 1.0: A source-available commercial license for the AI era",
+      "url": "https://www.auditablelicense.org/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782697480,
-      "score": 863,
-      "category": "llm",
+      "ts": 1782639958,
+      "score": 11,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+      "url": "https://arxiv.org/abs/2606.22283",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782669047,
-      "score": 1044,
-      "category": "llm",
+      "ts": 1782603014,
+      "score": 51,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -101,7 +127,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -134,7 +160,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
