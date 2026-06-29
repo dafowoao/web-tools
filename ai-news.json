@@ -1,28 +1,28 @@
 {
-  "updated": "2026-06-29 15:46 UTC",
+  "updated": "2026-06-29 18:08 UTC",
   "count": 11,
   "items": [
     {
-      "title": "Working with AI",
-      "url": "https://htmx.org/essays/working-with-ai/",
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782744821,
-      "score": 9,
-      "category": "tools",
+      "ts": 1782753377,
+      "score": 4,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Data breach exposes up to 14.2M email logins at six ISPs",
-      "url": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
+      "title": "Amazon Is Awash with AI-Written Guideslop for Games That Aren't Even Out",
+      "url": "https://kotaku.com/amazon-ai-game-guidebooks-alien-isolation-gears-of-war-2000711365",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782743255,
-      "score": 23,
+      "ts": 1782751178,
+      "score": 16,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,7 +35,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782738543,
-      "score": 173,
+      "score": 235,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
+      "url": "https://det.social/@lostgen/116820546568940358",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782729951,
+      "score": 253,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782707266,
-      "score": 115,
+      "score": 127,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782697480,
-      "score": 778,
+      "score": 863,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782669047,
-      "score": 1022,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782664519,
-      "score": 523,
-      "category": "tools",
+      "score": 1044,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -112,7 +112,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -134,7 +134,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
