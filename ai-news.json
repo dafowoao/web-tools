@@ -1,7 +1,46 @@
 {
-  "updated": "2026-06-28 21:00 UTC",
+  "updated": "2026-06-29 03:55 UTC",
   "count": 18,
   "items": [
+    {
+      "title": "AI boom risks global financial crash, warn central bankers",
+      "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782696304,
+      "score": 83,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Better Images of AI",
+      "url": "https://betterimagesofai.org/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782690658,
+      "score": 31,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "We need tech news sources which exclude AI",
+      "url": "https://news.ycombinator.com/item?id=48713041",
+      "desc": "Its now clear that we need to preserve tech press for non AI related things. Techmeme for example is now completely overrun with AI stories.HN is getting closer to that every day.If AI kickback deals,",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782690590,
+      "score": 98,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
       "url": "https://github.com/kamaludu/bash4llm/",
@@ -9,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782675790,
-      "score": 7,
-      "category": "tools",
+      "score": 38,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,33 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782675494,
-      "score": 13,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ford rehires 'gray beard' engineers after AI falls short",
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782675357,
-      "score": 96,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Do LLMs pass the mirror test?",
-      "url": "https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782673567,
-      "score": 6,
+      "score": 39,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782673193,
-      "score": 11,
-      "category": "llm",
+      "score": 25,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782672533,
-      "score": 143,
+      "score": 307,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782669047,
-      "score": 65,
-      "category": "industry",
+      "score": 563,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782665939,
-      "score": 65,
-      "category": "tools",
+      "score": 95,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Professor denounces mass AI fraud on an exam at Brown",
+      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782664872,
+      "score": 314,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782664519,
-      "score": 214,
-      "category": "industry",
+      "score": 370,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,20 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782664130,
-      "score": 74,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Reflections on software engineering in the age of AI",
-      "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782663458,
-      "score": 73,
+      "score": 120,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,33 +165,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782649653,
-      "score": 161,
-      "category": "llm",
+      "score": 182,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Appaca – AI Workspace for Operators",
-      "url": "https://www.appaca.ai/",
-      "desc": "Appaca is my third pivot.A couple of years ago, I started working on an idea on no-code platform that generates code. The goal is to help devs and agencies ship products faster for their clients. I we",
+      "title": "Model Training as Code",
+      "url": "https://aleph-alpha.com/en/blog/model-training-as-code/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782449669,
-      "score": 11,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Trade, merchants, and the lost cities of the Bronze Age (2019) [pdf]",
-      "url": "https://keremcosar.uvacreate.virginia.edu/publications/BCCH-BronzeAgeTrade-qje.pdf",
-      "desc": "(changed from https:&#x2F;&#x2F;thedailyeconomy.org&#x2F;article&#x2F;ancient-clay-tablets-sho...)",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782236401,
-      "score": 69,
+      "ts": 1782395646,
+      "score": 27,
       "category": "llm",
       "tags": [
         "国际"
@@ -192,7 +192,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -225,7 +225,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     }
   ]
