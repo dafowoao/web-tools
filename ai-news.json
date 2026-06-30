@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-30 10:56 UTC",
-  "count": 10,
+  "updated": "2026-06-30 14:18 UTC",
+  "count": 7,
   "items": [
     {
       "title": ".self: A new top-level domain designed to support self-hosting",
@@ -9,21 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782762568,
-      "score": 532,
+      "score": 575,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Micro-Agent: Beat Frontier Models with Collaboration Inside Model API",
-      "url": "https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782756206,
-      "score": 71,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,33 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782753377,
-      "score": 215,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Working With AI: A concrete example",
-      "url": "https://htmx.org/essays/working-with-ai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782744821,
-      "score": 163,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ornith-1.0: Self-scaffolding LLMs for agentic coding",
-      "url": "https://deep-reinforce.com/ornith_1_0.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782669484,
-      "score": 74,
+      "score": 230,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782603014,
-      "score": 182,
-      "category": "industry",
+      "score": 208,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -88,7 +49,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -99,7 +60,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
