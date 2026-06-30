@@ -1,7 +1,59 @@
 {
-  "updated": "2026-06-30 14:18 UTC",
-  "count": 7,
+  "updated": "2026-06-30 17:53 UTC",
+  "count": 11,
   "items": [
+    {
+      "title": "New Claude app strings, Fable 5 coming back only with verification",
+      "url": "https://twitter.com/kimmonismus/status/2071868011804266828",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782840858,
+      "score": 4,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Science",
+      "url": "https://claude.com/product/claude-science",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782839261,
+      "score": 62,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Anthropic has embedded hidden spyware-like code in Claude Code",
+      "url": "https://twitter.com/IntCyberDigest/status/2071971609183678544",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782836976,
+      "score": 24,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Code Is Steganographically Marking Requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782834264,
+      "score": 547,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": ".self: A new top-level domain designed to support self-hosting",
       "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
@@ -9,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782762568,
-      "score": 575,
+      "score": 623,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,21 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782753377,
-      "score": 230,
-      "category": "industry",
+      "score": 249,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Apple Neural Engine: Architecture, Programming, and Performance",
-      "url": "https://arxiv.org/abs/2606.22283",
-      "desc": "",
+      "title": "Computer-Aided Language Development in Nonspeaking Children (1968) [pdf]",
+      "url": "https://archive.org/details/colby1968-computer-aided-language-development-in-non-speaking-children",
+      "desc": "http:&#x2F;&#x2F;i.stanford.edu&#x2F;pub&#x2F;cstr&#x2F;reports&#x2F;cs&#x2F;tr&#x2F;68&#x2F;85&#x2F;CS-TR-68-...",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782603014,
-      "score": 208,
-      "category": "tools",
+      "ts": 1782673193,
+      "score": 33,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -49,7 +101,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -60,7 +112,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -82,7 +134,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
