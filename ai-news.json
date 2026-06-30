@@ -1,20 +1,7 @@
 {
-  "updated": "2026-06-30 03:38 UTC",
-  "count": 12,
+  "updated": "2026-06-30 07:53 UTC",
+  "count": 11,
   "items": [
-    {
-      "title": "Why Won't Europe Build AI Data Centers in Iceland?",
-      "url": "https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782783040,
-      "score": 25,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
       "url": "https://github.com/SMJAI/open-memory-protocol",
@@ -22,7 +9,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782777933,
-      "score": 14,
+      "score": 31,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782762568,
-      "score": 371,
+      "score": 472,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782756206,
-      "score": 59,
-      "category": "tools",
+      "score": 69,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782753377,
-      "score": 169,
+      "score": 200,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782744821,
-      "score": 102,
+      "score": 152,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782669484,
-      "score": 61,
+      "score": 70,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782603014,
-      "score": 136,
-      "category": "industry",
+      "score": 157,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -114,7 +101,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -125,7 +112,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -147,7 +134,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
