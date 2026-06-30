@@ -1,20 +1,7 @@
 {
-  "updated": "2026-06-30 07:53 UTC",
-  "count": 11,
+  "updated": "2026-06-30 10:56 UTC",
+  "count": 10,
   "items": [
-    {
-      "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
-      "url": "https://github.com/SMJAI/open-memory-protocol",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782777933,
-      "score": 31,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": ".self: A new top-level domain designed to support self-hosting",
       "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
@@ -22,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782762568,
-      "score": 472,
-      "category": "llm",
+      "score": 532,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782756206,
-      "score": 69,
+      "score": 71,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782753377,
-      "score": 200,
-      "category": "industry",
+      "score": 215,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782744821,
-      "score": 152,
-      "category": "industry",
+      "score": 163,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782669484,
-      "score": 70,
-      "category": "llm",
+      "score": 74,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782603014,
-      "score": 157,
-      "category": "tools",
+      "score": 182,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -101,7 +88,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
