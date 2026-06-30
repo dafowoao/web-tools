@@ -1,7 +1,33 @@
 {
-  "updated": "2026-06-29 21:26 UTC",
-  "count": 13,
+  "updated": "2026-06-30 03:38 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "Why Won't Europe Build AI Data Centers in Iceland?",
+      "url": "https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782783040,
+      "score": 25,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Open Memory Protocol – One Memory Store for Claude, ChatGPT, Curso",
+      "url": "https://github.com/SMJAI/open-memory-protocol",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782777933,
+      "score": 14,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": ".self: A new top-level domain designed to support self-hosting",
       "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
@@ -9,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782762568,
-      "score": 66,
+      "score": 371,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782756206,
-      "score": 28,
-      "category": "llm",
+      "score": 59,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782753377,
-      "score": 101,
-      "category": "tools",
+      "score": 169,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,33 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782744821,
-      "score": 41,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Tidal AI Policy",
-      "url": "https://tidal.com/ai-policy",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782738543,
-      "score": 280,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
-      "url": "https://det.social/@lostgen/116820546568940358",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782729951,
-      "score": 476,
+      "score": 102,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782669484,
-      "score": 39,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "ACL 1.0: A source-available commercial license for the AI era",
-      "url": "https://www.auditablelicense.org/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782639958,
-      "score": 11,
-      "category": "tools",
+      "score": 61,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782603014,
-      "score": 51,
+      "score": 136,
       "category": "industry",
       "tags": [
         "国际"
@@ -127,7 +114,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -138,7 +125,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -160,7 +147,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
