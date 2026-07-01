@@ -1,42 +1,16 @@
 {
-  "updated": "2026-07-01 17:55 UTC",
-  "count": 18,
+  "updated": "2026-07-01 21:28 UTC",
+  "count": 13,
   "items": [
     {
-      "title": "Are readers generating fiction with AI models?",
-      "url": "https://arxiv.org/abs/2606.22748",
+      "title": "ZCode: Claude Code from the Makers of GLM",
+      "url": "https://zcode.z.ai/cn",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782926467,
-      "score": 4,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Meta loses bid to dismiss US states' claims that FB, Instagram addict children",
-      "url": "https://www.reuters.com/legal/government/meta-loses-bid-dismiss-us-states-claims-that-facebook-instagram-addict-children-2026-06-30/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782920456,
-      "score": 119,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: GolemUI – The new paradigm for JavaScript forms",
-      "url": "https://golemui.com",
-      "desc": "We&#x27;re a team of three friends who have been working with forms and Open Source for a decade, and we joined forces together to create something where we can apply all of our experience.We recently",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782918728,
-      "score": 19,
-      "category": "industry",
+      "ts": 1782933098,
+      "score": 226,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782918081,
-      "score": 63,
-      "category": "llm",
+      "score": 121,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782918081,
-      "score": 46,
-      "category": "tools",
+      "score": 88,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782915967,
-      "score": 242,
-      "category": "tools",
+      "score": 427,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782913724,
-      "score": 31,
-      "category": "industry",
+      "score": 40,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782905720,
-      "score": 402,
-      "category": "llm",
+      "score": 481,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782901185,
-      "score": 107,
+      "score": 219,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,60 +100,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782863712,
-      "score": 879,
+      "score": 907,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: QR code renderer in a TrueType font",
+      "url": "https://qr.jim.sh/",
+      "desc": "In the &quot;Libre Barcode Project&quot; discussion yesterday, 1bpp asked: &quot;Is anyone willing to sacrifice their sanity for the sake of implementing a QR renderer as TTF hinting code?&quot;Yes.  ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782607062,
+      "score": 67,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Morph Reflexes – Multi-head classifiers for agent traces",
-      "url": "https://news.ycombinator.com/item?id=48739038",
-      "desc": "The most common failures for production agents are behavioral: looping, reasoning leakage, user frustration, and more. Using a frontier model like GPT or Sonnet to judge every turn is too expensive an",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782852724,
-      "score": 10,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Code is steganographically marking requests",
-      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782834264,
-      "score": 2327,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: PMB – local memory for coding agents that shows if it is used",
-      "url": "https://pmbai.dev",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782747450,
-      "score": 8,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I don't maintain my homelab, it maintains itself",
-      "url": "https://cleberg.net/blog/homelab-maintenance.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782742540,
-      "score": 70,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -192,7 +127,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -225,7 +160,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
