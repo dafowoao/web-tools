@@ -1,29 +1,29 @@
 {
-  "updated": "2026-06-30 21:28 UTC",
-  "count": 9,
+  "updated": "2026-07-01 03:54 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Claude Sonnet 5 – benchmark results",
-      "url": "https://artificialanalysis.ai/models/claude-sonnet-5",
+      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782850165,
-      "score": 29,
+      "ts": 1782863712,
+      "score": 359,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Tell HN: Installing Cursor on iOS irreversibly changes your privacy settings",
-      "url": "https://news.ycombinator.com/item?id=48737226",
-      "desc": "Just hit this today and I&#x27;m furious. I installed the Cursor iOS app to see what it had.I&#x27;ve been on `Privacy Mode (Legacy)` for a long time, which is the &quot;Do not store my code&quot; set",
+      "title": "From brain waves to words: a new path to communication without surgery",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782844439,
-      "score": 164,
-      "category": "industry",
+      "ts": 1782854953,
+      "score": 121,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782842392,
-      "score": 678,
-      "category": "industry",
+      "score": 938,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782839261,
-      "score": 275,
+      "score": 389,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: My 13-year-old built an ant colony tracker",
+      "url": "https://formicarium.es",
+      "desc": "He&#x27;s 13 years old. He wanted to track his own ant colonies — growth, feeding, humidity, and other metrics. He built the whole app himself with some help from AI tools; I just helped him deploy it",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782838127,
+      "score": 49,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,7 +74,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782834264,
-      "score": 1092,
+      "score": 1505,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: C++, Java and C# light-weight-logger",
+      "url": "https://github.com/PenguineDavid/light-weight-logger",
+      "desc": "This is a library I&#x27;ve been working on with versions for C++, java &amp; C# where you make custom formats and Log based on them, for example you could make an ERROR Like this:  [ERROR] [date, tim",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782828462,
+      "score": 4,
       "category": "industry",
       "tags": [
         "国际"
@@ -75,7 +101,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -86,7 +112,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -108,7 +134,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
