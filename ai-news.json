@@ -1,14 +1,27 @@
 {
-  "updated": "2026-07-01 08:13 UTC",
+  "updated": "2026-07-01 14:35 UTC",
   "count": 12,
   "items": [
     {
-      "title": "Godot will no longer accept AI-authored code contributions",
-      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+      "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+      "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782891802,
+      "ts": 1782915967,
+      "score": 4,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
+      "url": "https://news.ycombinator.com/item?id=48746752",
+      "desc": "Hi all, it’s Greg and Max, founders of Parsewise hereParsewise transforms a bucket of unstructured data into schema compliant data retaining lineage for values resolved across documents.\nImagine givin",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782913724,
       "score": 9,
       "category": "llm",
       "tags": [
@@ -16,14 +29,27 @@
       ]
     },
     {
-      "title": "How employment changes when firms adopt generative AI",
-      "url": "https://ramp.com/data/ai-jobs-impact",
+      "title": "Nintendo has raised its employees base salary by 10%",
+      "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782879251,
-      "score": 42,
-      "category": "industry",
+      "ts": 1782905720,
+      "score": 203,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Godot will no longer accept AI-authored code contributions",
+      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782891802,
+      "score": 418,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782863712,
-      "score": 638,
+      "score": 813,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "From brain waves to words: a new path to communication without surgery",
-      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782854953,
-      "score": 149,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782842392,
-      "score": 1094,
-      "category": "llm",
+      "score": 1192,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782839261,
-      "score": 474,
+      "score": 528,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: My 13-year-old built an ant colony tracker",
-      "url": "https://formicarium.es",
-      "desc": "He&#x27;s 13 years old. He wanted to track his own ant colonies — growth, feeding, humidity, and other metrics. He built the whole app himself with some help from AI tools; I just helped him deploy it",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782838127,
-      "score": 60,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782834264,
-      "score": 1887,
-      "category": "industry",
+      "score": 2271,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -147,7 +147,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
