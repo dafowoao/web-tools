@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-01 03:54 UTC",
-  "count": 11,
+  "updated": "2026-07-01 08:13 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "Godot will no longer accept AI-authored code contributions",
+      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782891802,
+      "score": 9,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How employment changes when firms adopt generative AI",
+      "url": "https://ramp.com/data/ai-jobs-impact",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782879251,
+      "score": 42,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
       "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
@@ -9,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782863712,
-      "score": 359,
-      "category": "tools",
+      "score": 638,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782854953,
-      "score": 121,
-      "category": "llm",
+      "score": 149,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782842392,
-      "score": 938,
-      "category": "tools",
+      "score": 1094,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782839261,
-      "score": 389,
-      "category": "llm",
+      "score": 474,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782838127,
-      "score": 49,
-      "category": "industry",
+      "score": 60,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782834264,
-      "score": 1505,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: C++, Java and C# light-weight-logger",
-      "url": "https://github.com/PenguineDavid/light-weight-logger",
-      "desc": "This is a library I&#x27;ve been working on with versions for C++, java &amp; C# where you make custom formats and Log based on them, for example you could make an ERROR Like this:  [ERROR] [date, tim",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782828462,
-      "score": 4,
+      "score": 1887,
       "category": "industry",
       "tags": [
         "国际"
@@ -101,7 +114,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -112,7 +125,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -134,7 +147,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
