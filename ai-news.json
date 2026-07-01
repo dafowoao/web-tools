@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-01 14:35 UTC",
-  "count": 12,
+  "updated": "2026-07-01 17:55 UTC",
+  "count": 18,
   "items": [
     {
-      "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
-      "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+      "title": "Are readers generating fiction with AI models?",
+      "url": "https://arxiv.org/abs/2606.22748",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782915967,
+      "ts": 1782926467,
       "score": 4,
       "category": "industry",
       "tags": [
@@ -16,14 +16,79 @@
       ]
     },
     {
+      "title": "Meta loses bid to dismiss US states' claims that FB, Instagram addict children",
+      "url": "https://www.reuters.com/legal/government/meta-loses-bid-dismiss-us-states-claims-that-facebook-instagram-addict-children-2026-06-30/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782920456,
+      "score": 119,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: GolemUI – The new paradigm for JavaScript forms",
+      "url": "https://golemui.com",
+      "desc": "We&#x27;re a team of three friends who have been working with forms and Open Source for a decade, and we joined forces together to create something where we can apply all of our experience.We recently",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782918728,
+      "score": 19,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: Who is hiring? (July 2026)",
+      "url": "https://news.ycombinator.com/item?id=48747976",
+      "desc": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are p",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782918081,
+      "score": 63,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: Who wants to be hired? (July 2026)",
+      "url": "https://news.ycombinator.com/item?id=48747975",
+      "desc": "Share your information if you are looking for work. Please use this format:  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé&#x2F;CV:\n  Email:\n\nPlease only post if you are personal",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782918081,
+      "score": 46,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
+      "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782915967,
+      "score": 242,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
       "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
       "url": "https://news.ycombinator.com/item?id=48746752",
-      "desc": "Hi all, it’s Greg and Max, founders of Parsewise hereParsewise transforms a bucket of unstructured data into schema compliant data retaining lineage for values resolved across documents.\nImagine givin",
+      "desc": "Hi all, it’s Greg and Max, founders of Parsewise here (https:&#x2F;&#x2F;www.parsewise.ai&#x2F;api). Parsewise transforms a bucket of unstructured data into schema compliant data, retaining lineage fo",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782913724,
-      "score": 9,
-      "category": "llm",
+      "score": 31,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,20 +100,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782905720,
-      "score": 203,
+      "score": 402,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Godot will no longer accept AI-authored code contributions",
-      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
-      "desc": "",
+      "title": "Apple 'Hide My Email' vulnerability reveals peoples' real email addresses",
+      "url": "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses",
+      "desc": "https:&#x2F;&#x2F;www.404media.co&#x2F;apple-hide-my-email-vulnerability-re..., https:&#x2F;&#x2F;archive.vn&#x2F;mCbBw",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782891802,
-      "score": 418,
+      "ts": 1782901185,
+      "score": 107,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,34 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782863712,
-      "score": 813,
+      "score": 879,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "desc": "",
+      "title": "Show HN: Morph Reflexes – Multi-head classifiers for agent traces",
+      "url": "https://news.ycombinator.com/item?id=48739038",
+      "desc": "The most common failures for production agents are behavioral: looping, reasoning leakage, user frustration, and more. Using a frontier model like GPT or Sonnet to judge every turn is too expensive an",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782842392,
-      "score": 1192,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Science",
-      "url": "https://claude.com/product/claude-science",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782839261,
-      "score": 528,
-      "category": "industry",
+      "ts": 1782852724,
+      "score": 10,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +152,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782834264,
-      "score": 2271,
-      "category": "tools",
+      "score": 2327,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: PMB – local memory for coding agents that shows if it is used",
+      "url": "https://pmbai.dev",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782747450,
+      "score": 8,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "I don't maintain my homelab, it maintains itself",
+      "url": "https://cleberg.net/blog/homelab-maintenance.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782742540,
+      "score": 70,
+      "category": "industry",
       "tags": [
         "国际"
       ]
