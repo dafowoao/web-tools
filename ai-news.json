@@ -1,15 +1,28 @@
 {
-  "updated": "2026-07-02 03:35 UTC",
-  "count": 12,
+  "updated": "2026-07-02 07:32 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Show HN: Meow – The 4th and final JavaScript runtime and toolchain",
-      "url": "https://meow.style",
-      "desc": "Yes, I said final. Fight me in the comments.But seriously: there are basically exactly 3 serious JS runtimes in the world. (Now 4... or 1, idk).Why? Because the modern JS ecosystem is a fragmented, bl",
+      "title": "He sent a harsh email to ICE's top official. Federal agents tracked him down",
+      "url": "https://www.npr.org/2026/07/01/nx-s1-5874124/dhs-tracks-ice-critic",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782961869,
-      "score": 4,
+      "ts": 1782969623,
+      "score": 19,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782966761,
+      "score": 64,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,21 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782960916,
-      "score": 7,
+      "score": 64,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
-      "url": "https://github.com/langchain-ai/openwiki",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782939112,
-      "score": 29,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782918081,
-      "score": 167,
-      "category": "llm",
+      "score": 187,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782918081,
-      "score": 110,
-      "category": "llm",
+      "score": 123,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782913724,
-      "score": 49,
-      "category": "llm",
+      "score": 51,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782863712,
-      "score": 924,
+      "score": 934,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Unobin compiles Infrastructure as Code to one binary",
-      "url": "https://cloudboss.co/docs/unobin",
-      "desc": "Unobin is a language and compiler for Infrastructure as Code (IaC).IaC source is written and compiled to a binary, called a factory. The factory includes the runtime and all dependencies. To run a fac",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782662782,
-      "score": 5,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -125,7 +112,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -147,7 +134,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
