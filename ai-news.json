@@ -1,20 +1,7 @@
 {
-  "updated": "2026-07-02 07:32 UTC",
+  "updated": "2026-07-02 10:39 UTC",
   "count": 11,
   "items": [
-    {
-      "title": "He sent a harsh email to ICE's top official. Federal agents tracked him down",
-      "url": "https://www.npr.org/2026/07/01/nx-s1-5874124/dhs-tracks-ice-critic",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782969623,
-      "score": 19,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
@@ -22,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782966761,
-      "score": 64,
-      "category": "tools",
+      "score": 170,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782960916,
-      "score": 64,
-      "category": "llm",
+      "score": 94,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782918081,
-      "score": 187,
-      "category": "tools",
+      "score": 203,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782918081,
-      "score": 123,
+      "score": 132,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,8 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782863712,
-      "score": 934,
+      "score": 937,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
+      "url": "https://www.mixedbread.com/blog/asymmetric-quant",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782762135,
+      "score": 35,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -101,7 +101,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
