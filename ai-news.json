@@ -1,29 +1,55 @@
 {
-  "updated": "2026-07-02 17:47 UTC",
+  "updated": "2026-07-02 21:06 UTC",
   "count": 19,
   "items": [
     {
-      "title": "Show HN: QUALITY.md – open format/specification, agent skill, and CLI",
-      "url": "https://getquality.md",
-      "desc": "Hello all, I created QUALITY.md to help build a holistic quality evaluation process for my projects. Turns out it&#x27;s also ideal for loop engineering. I&#x27;m hoping this provides a valuable contr",
+      "title": "Show HN: Bramble – Local-first password manager",
+      "url": "https://github.com/flythenimbus/bramble",
+      "desc": "I&#x27;m currently working on Bramble, an open source password manager with P2P cross-device sync. Initially I released the Chrome extension, but recently I also published the Android app and iOS is p",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783010172,
-      "score": 20,
-      "category": "llm",
+      "ts": 1783020598,
+      "score": 3,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: zkGolf, competitive optimization of formally verified circuits.",
-      "url": "https://zk.golf/",
-      "desc": "Zero-Knowledge Proofs (ZKPs) let an untrusted proved show that computation was executed correctly without revealing the inputs to the verifier.\nHowever to prove anything, the computation first has to ",
+      "title": "Champsfi – Real-time verifier agents for crowdsourced sports intelligence",
+      "url": "https://champsfi.com/coming-soon.html",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783006805,
-      "score": 22,
-      "category": "llm",
+      "ts": 1783020032,
+      "score": 3,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude-real-video － any LLM can watch a video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783019412,
+      "score": 6,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Vulkan is now available on NetBSD",
+      "url": "https://github.com/segaboy/vulkan-netbsd",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783017369,
+      "score": 35,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783005080,
-      "score": 64,
+      "score": 88,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783004546,
-      "score": 108,
+      "score": 411,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783001843,
-      "score": 9,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
-      "url": "https://mailmemories.com",
-      "desc": "Hey HN, I’m the creator of Mail Memories. Like many of you, I&#x27;ve had my Gmail address for more than 20 years. A few years ago, I got curious and wanted to see what photos were buried deep in my a",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783001817,
-      "score": 76,
-      "category": "llm",
+      "score": 95,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782999821,
-      "score": 231,
-      "category": "llm",
+      "score": 313,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782998725,
-      "score": 211,
-      "category": "tools",
+      "score": 382,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782994224,
-      "score": 95,
-      "category": "llm",
+      "score": 124,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782992487,
-      "score": 226,
-      "category": "llm",
+      "score": 289,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782966761,
-      "score": 338,
-      "category": "tools",
+      "score": 388,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782960916,
-      "score": 143,
-      "category": "industry",
+      "score": 160,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -165,32 +178,19 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782908729,
-      "score": 34,
+      "score": 41,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Asymmetric Quantization: Near-Lossless Retrieval with 97% Storage Reduction",
-      "url": "https://www.mixedbread.com/blog/asymmetric-quant",
-      "desc": "",
+      "title": "Ask HN: Since when does Craigslist's front page have emojis?",
+      "url": "https://news.ycombinator.com/item?id=48739792",
+      "desc": "Today I noticed the inclusion of emojis in Craigslist&#x27;s listings&#x2F;categories: https:&#x2F;&#x2F;www.craigslist.org&#x2F;area&#x2F;sfbay.Now, Craigslist, as a legacy of the 1990s web, has for ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782762135,
-      "score": 94,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Cyclearchive.com – search vintage cycling magazines",
-      "url": "https://cyclearchive.com/search/",
-      "desc": "Hi HN, Cycle Archive is a free, browsable library of old cycling magazines and books from the 1860s–1940s.\nI started it as a way to explore cycling history myself, and all of the weird and wonderful a",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782548025,
+      "ts": 1782856729,
       "score": 19,
       "category": "industry",
       "tags": [
@@ -238,7 +238,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
