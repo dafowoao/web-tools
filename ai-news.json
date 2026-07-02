@@ -1,16 +1,107 @@
 {
-  "updated": "2026-07-02 14:00 UTC",
-  "count": 13,
+  "updated": "2026-07-02 17:47 UTC",
+  "count": 19,
   "items": [
     {
-      "title": "AI fake news complaining about how AI fake news is the death of real news",
-      "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
+      "title": "Show HN: QUALITY.md – open format/specification, agent skill, and CLI",
+      "url": "https://getquality.md",
+      "desc": "Hello all, I created QUALITY.md to help build a holistic quality evaluation process for my projects. Turns out it&#x27;s also ideal for loop engineering. I&#x27;m hoping this provides a valuable contr",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783010172,
+      "score": 20,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: zkGolf, competitive optimization of formally verified circuits.",
+      "url": "https://zk.golf/",
+      "desc": "Zero-Knowledge Proofs (ZKPs) let an untrusted proved show that computation was executed correctly without revealing the inputs to the verifier.\nHowever to prove anything, the computation first has to ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783006805,
+      "score": 22,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
+      "url": "https://manufact.com",
+      "desc": "Hi HN, we are Pietro and Luigi, cofounders of Manufact (https:&#x2F;&#x2F;manufact.com), a cloud for MCP apps and servers. We used to be called mcp-use, and still build open source SDKs for MCP under ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783005080,
+      "score": 64,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
+      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782996036,
-      "score": 68,
+      "ts": 1783004546,
+      "score": 108,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "No LLM Code in Dependencies",
+      "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783001843,
+      "score": 9,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
+      "url": "https://mailmemories.com",
+      "desc": "Hey HN, I’m the creator of Mail Memories. Like many of you, I&#x27;ve had my Gmail address for more than 20 years. A few years ago, I got curious and wanted to see what photos were buried deep in my a",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783001817,
+      "score": 76,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782999821,
+      "score": 231,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
+      "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782998725,
+      "score": 211,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782994224,
-      "score": 26,
-      "category": "industry",
+      "score": 95,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The primary purpose of code review is to find code that will be hard to maintain",
+      "url": "https://mathstodon.xyz/@mjd/115096720350507897",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782992487,
+      "score": 226,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782966761,
-      "score": 254,
-      "category": "llm",
+      "score": 338,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,34 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782960916,
-      "score": 114,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Who is hiring? (July 2026)",
-      "url": "https://news.ycombinator.com/item?id=48747976",
-      "desc": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are p",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782918081,
-      "score": 221,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Who wants to be hired? (July 2026)",
-      "url": "https://news.ycombinator.com/item?id=48747975",
-      "desc": "Share your information if you are looking for work. Please use this format:  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé&#x2F;CV:\n  Email:\n\nPlease only post if you are personal",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782918081,
-      "score": 135,
-      "category": "llm",
+      "score": 143,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782908729,
-      "score": 9,
-      "category": "llm",
+      "score": 34,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,20 +178,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782762135,
-      "score": 68,
-      "category": "llm",
+      "score": 94,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Using Aspect-Oriented Programming to Record DRL Agents' Data",
-      "url": "https://blog.ptidej.net/using-aspect-oriented-programming-to-record-drl-agents-data/",
-      "desc": "",
+      "title": "Show HN: Cyclearchive.com – search vintage cycling magazines",
+      "url": "https://cyclearchive.com/search/",
+      "desc": "Hi HN, Cycle Archive is a free, browsable library of old cycling magazines and books from the 1860s–1940s.\nI started it as a way to explore cycling history myself, and all of the weird and wonderful a",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782743195,
-      "score": 4,
+      "ts": 1782548025,
+      "score": 19,
       "category": "industry",
       "tags": [
         "国际"
@@ -127,7 +205,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
