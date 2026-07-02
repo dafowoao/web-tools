@@ -1,16 +1,42 @@
 {
-  "updated": "2026-07-01 21:28 UTC",
-  "count": 13,
+  "updated": "2026-07-02 03:35 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "ZCode: Claude Code from the Makers of GLM",
-      "url": "https://zcode.z.ai/cn",
+      "title": "Show HN: Meow – The 4th and final JavaScript runtime and toolchain",
+      "url": "https://meow.style",
+      "desc": "Yes, I said final. Fight me in the comments.But seriously: there are basically exactly 3 serious JS runtimes in the world. (Now 4... or 1, idk).Why? Because the modern JS ecosystem is a fragmented, bl",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782961869,
+      "score": 4,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+      "url": "https://senior-swe-bench.snorkel.ai/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782933098,
-      "score": 226,
+      "ts": 1782960916,
+      "score": 7,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenWiki: CLI that writes and maintains agent documentation for your codebase",
+      "url": "https://github.com/langchain-ai/openwiki",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782939112,
+      "score": 29,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782918081,
-      "score": 121,
-      "category": "tools",
+      "score": 167,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,20 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782918081,
-      "score": 88,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Sony Deletes 551 Movies PlayStation Owners Paid For",
-      "url": "https://reclaimthenet.org/sony-deletes-551-studiocanal-movies-playstation-owners-paid-for",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782915967,
-      "score": 427,
+      "score": 110,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,33 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782913724,
-      "score": 40,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Nintendo has raised its employees base salary by 10%",
-      "url": "https://mynintendonews.com/2026/06/26/nintendo-has-raised-its-employees-base-salary-by-10/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782905720,
-      "score": 481,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Apple 'Hide My Email' vulnerability reveals peoples' real email addresses",
-      "url": "https://easyoptouts.com/guides/apple-hide-my-email-is-leaking-email-addresses",
-      "desc": "https:&#x2F;&#x2F;www.404media.co&#x2F;apple-hide-my-email-vulnerability-re..., https:&#x2F;&#x2F;archive.vn&#x2F;mCbBw",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782901185,
-      "score": 219,
+      "score": 49,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,21 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782863712,
-      "score": 907,
-      "category": "industry",
+      "score": 924,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: QR code renderer in a TrueType font",
-      "url": "https://qr.jim.sh/",
-      "desc": "In the &quot;Libre Barcode Project&quot; discussion yesterday, 1bpp asked: &quot;Is anyone willing to sacrifice their sanity for the sake of implementing a QR renderer as TTF hinting code?&quot;Yes.  ",
+      "title": "Show HN: Unobin compiles Infrastructure as Code to one binary",
+      "url": "https://cloudboss.co/docs/unobin",
+      "desc": "Unobin is a language and compiler for Infrastructure as Code (IaC).IaC source is written and compiled to a binary, called a factory. The factory includes the runtime and all dependencies. To run a fac",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782607062,
-      "score": 67,
-      "category": "llm",
+      "ts": 1782662782,
+      "score": 5,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -138,7 +125,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -160,7 +147,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
