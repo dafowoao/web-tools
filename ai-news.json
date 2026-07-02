@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-02 10:39 UTC",
-  "count": 11,
+  "updated": "2026-07-02 14:00 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "AI fake news complaining about how AI fake news is the death of real news",
+      "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782996036,
+      "score": 68,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
+      "url": "https://arxiv.org/abs/2607.01232",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782994224,
+      "score": 26,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
@@ -9,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782966761,
-      "score": 170,
+      "score": 254,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782960916,
-      "score": 94,
-      "category": "industry",
+      "score": 114,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782918081,
-      "score": 203,
+      "score": 221,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,33 +74,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782918081,
-      "score": 132,
-      "category": "industry",
+      "score": 135,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
-      "url": "https://news.ycombinator.com/item?id=48746752",
-      "desc": "Hi all, it’s Greg and Max, founders of Parsewise here (https:&#x2F;&#x2F;www.parsewise.ai&#x2F;api). Parsewise transforms a bucket of unstructured data into schema compliant data, retaining lineage fo",
+      "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
+      "url": "https://github.com/emson/claudoro",
+      "desc": "3 weeks ago I had a nasty accident and fractured my vertebrae. As I lay in bed I needed something to take my mind off it all so built &quot;Claudoro&quot;.Claudoro is a pomodoro timer built right into",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782913724,
-      "score": 51,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782863712,
-      "score": 937,
+      "ts": 1782908729,
+      "score": 9,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,8 +100,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782762135,
-      "score": 35,
-      "category": "tools",
+      "score": 68,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Using Aspect-Oriented Programming to Record DRL Agents' Data",
+      "url": "https://blog.ptidej.net/using-aspect-oriented-programming-to-record-drl-agents-data/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782743195,
+      "score": 4,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -101,7 +127,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -112,7 +138,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -134,7 +160,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
