@@ -1,15 +1,28 @@
 {
-  "updated": "2026-07-03 17:25 UTC",
-  "count": 13,
+  "updated": "2026-07-03 21:06 UTC",
+  "count": 14,
   "items": [
     {
-      "title": "Claude, please stop trying to memorize random crap",
-      "url": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
+      "title": "Oak: Git for Agents",
+      "url": "https://oak.space/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783092771,
-      "score": 50,
+      "ts": 1783109127,
+      "score": 8,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+      "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783100770,
+      "score": 113,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,86 +35,86 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783091023,
-      "score": 67,
+      "score": 202,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "AI coding is addictive. Engineers are paying the price",
-      "url": "https://leaddev.com/ai/ai-coding-is-addictive-engineers-are-paying-the-price",
+      "title": "Instead of banning AI, I made a classroom contract with my students",
+      "url": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783090473,
-      "score": 22,
+      "ts": 1783088913,
+      "score": 58,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
-      "url": "https://taskpeace.com/",
-      "desc": "",
+      "title": "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
+      "url": "https://news.ycombinator.com/item?id=48771515",
+      "desc": "I&#x27;m a bit annoyed by the feeling that we&#x27;re kind of stuck when it comes to using LLMs for programming.I use Claude Code and Codex, but I haven&#x27;t been able to enter flow state like I can",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783088846,
-      "score": 3,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783067497,
-      "score": 282,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Virginia bans sale of precise geolocation data",
-      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-      "desc": "https:&#x2F;&#x2F;lis.virginia.gov&#x2F;bill-details&#x2F;20261&#x2F;SB338&#x2F;text&#x2F;SB338",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783026225,
-      "score": 924,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The short leash AI coding method for beating Fable",
-      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783019517,
-      "score": 175,
+      "ts": 1783059704,
+      "score": 79,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?",
+      "title": "Show HN: Bramble – Local-first password manager",
+      "url": "https://github.com/flythenimbus/bramble",
+      "desc": "I&#x27;m currently working on Bramble, an open source password manager with P2P cross-device sync. Initially I released the Chrome extension, but recently I also published the Android app and iOS is p",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783020598,
+      "score": 100,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: ctx – Search the coding agent history already on your machine",
+      "url": "https://github.com/ctxrs/ctx",
+      "desc": "Coding agents don&#x27;t have long-term memory.But you do have months of full-fidelity agent transcripts stored on your machine.A simple solution that goes a long way: ingest those transcripts and log",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783007912,
+      "score": 61,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: CLI that helps AI agents avoid vulnerable dependencies",
+      "url": "https://github.com/clidey/deptrust",
+      "desc": "deptrust is a CLI that checks package versions for known vulnerabilities across npm, PyPI, crates.io, Go modules, RubyGems, NuGet, Maven, Packagist, pub.dev, CocoaPods, Hex.pm, Hackage, GitHub Actions",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782939107,
+      "score": 15,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "My dad helped build North America's oat supply chain: Can it be remade?",
       "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782828051,
-      "score": 25,
-      "category": "tools",
+      "score": 70,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782603385,
-      "score": 346,
+      "score": 357,
       "category": "industry",
       "tags": [
         "国际"
@@ -127,7 +140,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -138,7 +151,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
