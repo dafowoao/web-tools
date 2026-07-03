@@ -1,29 +1,29 @@
 {
-  "updated": "2026-07-03 02:57 UTC",
-  "count": 14,
+  "updated": "2026-07-03 07:20 UTC",
+  "count": 13,
   "items": [
     {
-      "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
-      "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
-      "desc": "",
+      "title": "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
+      "url": "https://news.ycombinator.com/item?id=48771515",
+      "desc": "I&#x27;m a bit annoyed by the feeling that we&#x27;re kind of stuck when it comes to using LLMs for programming.I use Claude Code and Codex, but I haven&#x27;t been able to enter flow state like I can",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783036886,
-      "score": 92,
-      "category": "industry",
+      "ts": 1783059704,
+      "score": 11,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Zuckerberg says AI agent development going slower than expected",
-      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+      "title": "AI is 'not smart' so what's next in artificial intelligence?",
+      "url": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783024686,
-      "score": 35,
-      "category": "llm",
+      "ts": 1783042960,
+      "score": 18,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783019517,
-      "score": 68,
-      "category": "tools",
+      "score": 109,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783019412,
-      "score": 87,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: ctx – Search the coding agent history already on your machine",
-      "url": "https://github.com/ctxrs/ctx",
-      "desc": "Coding agents don&#x27;t have long-term memory.But you do have months of full-fidelity agent transcripts stored on your machine.A simple solution that goes a long way: ingest those transcripts and log",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783007912,
-      "score": 28,
-      "category": "tools",
+      "score": 123,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783006805,
-      "score": 45,
+      "score": 57,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783005080,
-      "score": 103,
-      "category": "industry",
+      "score": 106,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783004546,
-      "score": 599,
-      "category": "industry",
+      "score": 642,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782603385,
-      "score": 154,
-      "category": "llm",
+      "score": 224,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782349913,
-      "score": 25,
-      "category": "industry",
+      "score": 47,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -140,7 +127,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -151,7 +138,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -173,7 +160,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
