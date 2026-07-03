@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-03 10:35 UTC",
+  "updated": "2026-07-03 14:03 UTC",
   "count": 11,
   "items": [
+    {
+      "title": "Gemini Code Assist will be shut down on July 17",
+      "url": "https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783083168,
+      "score": 11,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Please stop the AI confidence theater",
+      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783083077,
+      "score": 74,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
       "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
@@ -9,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783067497,
-      "score": 84,
-      "category": "tools",
+      "score": 210,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783019517,
-      "score": 137,
-      "category": "tools",
+      "score": 159,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,34 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783019412,
-      "score": 137,
+      "score": 147,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: zkGolf – Competitive optimization of formally verified circuits",
-      "url": "https://zk.golf/",
-      "desc": "Zero-Knowledge Proofs (ZKPs) let an untrusted proved show that computation was executed correctly without revealing the inputs to the verifier.\nHowever to prove anything, the computation first has to ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783006805,
-      "score": 62,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
-      "url": "https://manufact.com",
-      "desc": "Hi HN, we are Pietro and Luigi, cofounders of Manufact (https:&#x2F;&#x2F;manufact.com), a cloud for MCP apps and servers. We used to be called mcp-use, and still build open source SDKs for MCP under ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783005080,
-      "score": 108,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782603385,
-      "score": 277,
-      "category": "industry",
+      "score": 310,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782349913,
-      "score": 63,
+      "score": 78,
       "category": "industry",
       "tags": [
         "国际"
@@ -134,7 +134,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     }
   ]
