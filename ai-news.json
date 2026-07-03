@@ -1,29 +1,42 @@
 {
-  "updated": "2026-07-02 21:06 UTC",
-  "count": 19,
+  "updated": "2026-07-03 02:57 UTC",
+  "count": 14,
   "items": [
     {
-      "title": "Show HN: Bramble – Local-first password manager",
-      "url": "https://github.com/flythenimbus/bramble",
-      "desc": "I&#x27;m currently working on Bramble, an open source password manager with P2P cross-device sync. Initially I released the Chrome extension, but recently I also published the Android app and iOS is p",
+      "title": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
+      "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783020598,
-      "score": 3,
-      "category": "tools",
+      "ts": 1783036886,
+      "score": 92,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Champsfi – Real-time verifier agents for crowdsourced sports intelligence",
-      "url": "https://champsfi.com/coming-soon.html",
+      "title": "Zuckerberg says AI agent development going slower than expected",
+      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783020032,
-      "score": 3,
-      "category": "industry",
+      "ts": 1783024686,
+      "score": 35,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The short leash AI coding method for beating Fable",
+      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783019517,
+      "score": 68,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,20 +48,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783019412,
-      "score": 6,
-      "category": "industry",
+      "score": 87,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Vulkan is now available on NetBSD",
-      "url": "https://github.com/segaboy/vulkan-netbsd",
-      "desc": "",
+      "title": "Show HN: ctx – Search the coding agent history already on your machine",
+      "url": "https://github.com/ctxrs/ctx",
+      "desc": "Coding agents don&#x27;t have long-term memory.But you do have months of full-fidelity agent transcripts stored on your machine.A simple solution that goes a long way: ingest those transcripts and log",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783017369,
-      "score": 35,
+      "ts": 1783007912,
+      "score": 28,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: zkGolf – Competitive optimization of formally verified circuits",
+      "url": "https://zk.golf/",
+      "desc": "Zero-Knowledge Proofs (ZKPs) let an untrusted proved show that computation was executed correctly without revealing the inputs to the verifier.\nHowever to prove anything, the computation first has to ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783006805,
+      "score": 45,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783005080,
-      "score": 88,
+      "score": 103,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,124 +100,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783004546,
-      "score": 411,
+      "score": 599,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "No LLM Code in Dependencies",
-      "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
+      "title": "Reality has a surprising amount of detail (2017)",
+      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783001843,
-      "score": 95,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782999821,
-      "score": 313,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Egg Bandits Made a Thousand Times the Fine They Just Paid for Price Fixing",
-      "url": "https://www.thebignewsletter.com/p/crime-pays-the-egg-bandits-made-a",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782998725,
-      "score": 382,
+      "ts": 1782603385,
+      "score": 154,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train",
-      "url": "https://arxiv.org/abs/2607.01232",
+      "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
+      "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1782994224,
-      "score": 124,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The primary purpose of code review is to find code that will be hard to maintain",
-      "url": "https://mathstodon.xyz/@mjd/115096720350507897",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782992487,
-      "score": 289,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782966761,
-      "score": 388,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-      "url": "https://senior-swe-bench.snorkel.ai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782960916,
-      "score": 160,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Claudoro, Pomodoro timer embedded in the Claude Code statusline",
-      "url": "https://github.com/emson/claudoro",
-      "desc": "3 weeks ago I had a nasty accident and fractured my vertebrae. As I lay in bed I needed something to take my mind off it all so built &quot;Claudoro&quot;.Claudoro is a pomodoro timer built right into",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782908729,
-      "score": 41,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Since when does Craigslist's front page have emojis?",
-      "url": "https://news.ycombinator.com/item?id=48739792",
-      "desc": "Today I noticed the inclusion of emojis in Craigslist&#x27;s listings&#x2F;categories: https:&#x2F;&#x2F;www.craigslist.org&#x2F;area&#x2F;sfbay.Now, Craigslist, as a legacy of the 1990s web, has for ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782856729,
-      "score": 19,
+      "ts": 1782349913,
+      "score": 25,
       "category": "industry",
       "tags": [
         "国际"
@@ -205,7 +140,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -216,7 +151,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -238,7 +173,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
