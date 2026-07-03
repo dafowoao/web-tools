@@ -1,29 +1,55 @@
 {
-  "updated": "2026-07-03 14:03 UTC",
-  "count": 11,
+  "updated": "2026-07-03 17:25 UTC",
+  "count": 13,
   "items": [
     {
-      "title": "Gemini Code Assist will be shut down on July 17",
-      "url": "https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code",
+      "title": "Claude, please stop trying to memorize random crap",
+      "url": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783083168,
-      "score": 11,
+      "ts": 1783092771,
+      "score": 50,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783091023,
+      "score": 67,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Please stop the AI confidence theater",
-      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "title": "AI coding is addictive. Engineers are paying the price",
+      "url": "https://leaddev.com/ai/ai-coding-is-addictive-engineers-are-paying-the-price",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783083077,
-      "score": 74,
-      "category": "llm",
+      "ts": 1783090473,
+      "score": 22,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: TaskPeace – a task queue my AI coding agents pull work from over MCP",
+      "url": "https://taskpeace.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783088846,
+      "score": 3,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,7 +61,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783067497,
-      "score": 210,
+      "score": 282,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Virginia bans sale of precise geolocation data",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "desc": "https:&#x2F;&#x2F;lis.virginia.gov&#x2F;bill-details&#x2F;20261&#x2F;SB338&#x2F;text&#x2F;SB338",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783026225,
+      "score": 924,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,21 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783019517,
-      "score": 159,
-      "category": "industry",
+      "score": 175,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Claude-real-video － any LLM can watch a video",
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "title": "My Dad Helped Build North America's Oat Supply Chain: Can It Be Remade?",
+      "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783019412,
-      "score": 147,
-      "category": "industry",
+      "ts": 1782828051,
+      "score": 25,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782603385,
-      "score": 310,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
-      "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782349913,
-      "score": 78,
+      "score": 346,
       "category": "industry",
       "tags": [
         "国际"
@@ -101,7 +127,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -112,7 +138,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
