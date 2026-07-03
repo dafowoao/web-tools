@@ -1,28 +1,15 @@
 {
-  "updated": "2026-07-03 07:20 UTC",
-  "count": 13,
+  "updated": "2026-07-03 10:35 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
-      "url": "https://news.ycombinator.com/item?id=48771515",
-      "desc": "I&#x27;m a bit annoyed by the feeling that we&#x27;re kind of stuck when it comes to using LLMs for programming.I use Claude Code and Codex, but I haven&#x27;t been able to enter flow state like I can",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783059704,
-      "score": 11,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI is 'not smart' so what's next in artificial intelligence?",
-      "url": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
+      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783042960,
-      "score": 18,
+      "ts": 1783067497,
+      "score": 84,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783019517,
-      "score": 109,
-      "category": "llm",
+      "score": 137,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783019412,
-      "score": 123,
+      "score": 137,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783006805,
-      "score": 57,
-      "category": "tools",
+      "score": 62,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,20 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783005080,
-      "score": 106,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
-      "url": "https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783004546,
-      "score": 642,
+      "score": 108,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782603385,
-      "score": 224,
-      "category": "tools",
+      "score": 277,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782349913,
-      "score": 47,
-      "category": "tools",
+      "score": 63,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -127,7 +101,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -160,7 +134,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
