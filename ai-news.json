@@ -1,16 +1,68 @@
 {
-  "updated": "2026-07-03 21:06 UTC",
-  "count": 14,
+  "updated": "2026-07-04 02:53 UTC",
+  "count": 13,
   "items": [
     {
-      "title": "Oak: Git for Agents",
-      "url": "https://oak.space/",
+      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+      "url": "https://mrbruh.com/msicenter/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783109127,
-      "score": 8,
+      "ts": 1783126664,
+      "score": 31,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Trans-America Trail Guide",
+      "url": "https://transamtrail.com/plan/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783121092,
+      "score": 9,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The circuit that lets your brain think and see",
+      "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783119377,
+      "score": 48,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+      "url": "https://epoch.ai/data-insights/cve-severity-spike",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783113376,
+      "score": 55,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Espionage Against the European Parliament",
+      "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783111106,
+      "score": 281,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783100770,
-      "score": 113,
-      "category": "llm",
+      "score": 176,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,20 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783091023,
-      "score": 202,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Instead of banning AI, I made a classroom contract with my students",
-      "url": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783088913,
-      "score": 58,
+      "score": 291,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783059704,
-      "score": 79,
-      "category": "tools",
+      "score": 133,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,60 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783020598,
-      "score": 100,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: ctx – Search the coding agent history already on your machine",
-      "url": "https://github.com/ctxrs/ctx",
-      "desc": "Coding agents don&#x27;t have long-term memory.But you do have months of full-fidelity agent transcripts stored on your machine.A simple solution that goes a long way: ingest those transcripts and log",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783007912,
-      "score": 61,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: CLI that helps AI agents avoid vulnerable dependencies",
-      "url": "https://github.com/clidey/deptrust",
-      "desc": "deptrust is a CLI that checks package versions for known vulnerabilities across npm, PyPI, crates.io, Go modules, RubyGems, NuGet, Maven, Packagist, pub.dev, CocoaPods, Hex.pm, Hackage, GitHub Actions",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782939107,
-      "score": 15,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "My dad helped build North America's oat supply chain: Can it be remade?",
-      "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782828051,
-      "score": 70,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Reality has a surprising amount of detail (2017)",
-      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782603385,
-      "score": 357,
-      "category": "industry",
+      "score": 113,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -140,7 +127,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -173,7 +160,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
