@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-04 02:53 UTC",
-  "count": 13,
+  "updated": "2026-07-04 06:46 UTC",
+  "count": 11,
   "items": [
+    {
+      "title": "Agentic coding notes from Galapagos Island",
+      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783139835,
+      "score": 51,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "MSI Center – How to gain SYSTEM privileges in seconds",
       "url": "https://mrbruh.com/msicenter/",
@@ -9,21 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783126664,
-      "score": 31,
+      "score": 68,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Trans-America Trail Guide",
-      "url": "https://transamtrail.com/plan/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783121092,
-      "score": 9,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783119377,
-      "score": 48,
+      "score": 71,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783113376,
-      "score": 55,
-      "category": "llm",
+      "score": 86,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,20 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783111106,
-      "score": 281,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
-      "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783100770,
-      "score": 176,
+      "score": 326,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783091023,
-      "score": 291,
-      "category": "industry",
+      "score": 320,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,20 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783059704,
-      "score": 133,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Bramble – Local-first password manager",
-      "url": "https://github.com/flythenimbus/bramble",
-      "desc": "I&#x27;m currently working on Bramble, an open source password manager with P2P cross-device sync. Initially I released the Chrome extension, but recently I also published the Android app and iOS is p",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783020598,
-      "score": 113,
+      "score": 147,
       "category": "llm",
       "tags": [
         "国际"
@@ -138,7 +112,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -160,7 +134,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
