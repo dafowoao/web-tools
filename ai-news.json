@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-04 06:46 UTC",
-  "count": 11,
+  "updated": "2026-07-04 10:09 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "The bottleneck might be the air in the room",
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783146748,
+      "score": 235,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Agentic coding notes from Galapagos Island",
       "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
@@ -9,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783139835,
-      "score": 51,
-      "category": "industry",
+      "score": 91,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,20 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783126664,
-      "score": 68,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The circuit that lets your brain think and see",
-      "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783119377,
-      "score": 71,
+      "score": 90,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783113376,
-      "score": 86,
-      "category": "tools",
+      "score": 107,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783111106,
-      "score": 326,
+      "score": 384,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783091023,
-      "score": 320,
-      "category": "llm",
+      "score": 347,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783059704,
-      "score": 147,
+      "score": 151,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Classify mechanical faults using Contrastive Language-Audio Pretraining",
+      "url": "https://github.com/adam-s/car-diagnosis",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782925040,
+      "score": 15,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782910136,
+      "score": 24,
       "category": "llm",
       "tags": [
         "国际"
@@ -101,7 +127,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -112,7 +138,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -134,7 +160,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
