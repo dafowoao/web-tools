@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-04 10:09 UTC",
-  "count": 13,
+  "updated": "2026-07-04 13:25 UTC",
+  "count": 16,
   "items": [
     {
       "title": "The bottleneck might be the air in the room",
@@ -9,8 +9,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783146748,
-      "score": 235,
-      "category": "industry",
+      "score": 463,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "2026 Unslop AI-Written Fiction Contest Results",
+      "url": "https://www.hyperstitionai.com/unslop-results",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783143445,
+      "score": 28,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783139835,
-      "score": 91,
-      "category": "llm",
+      "score": 126,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783126664,
-      "score": 90,
+      "score": 108,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783113376,
-      "score": 107,
-      "category": "llm",
+      "score": 124,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783111106,
-      "score": 384,
-      "category": "industry",
+      "score": 397,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783091023,
-      "score": 347,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
-      "url": "https://news.ycombinator.com/item?id=48771515",
-      "desc": "I&#x27;m a bit annoyed by the feeling that we&#x27;re kind of stuck when it comes to using LLMs for programming.I use Claude Code and Codex, but I haven&#x27;t been able to enter flow state like I can",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783059704,
-      "score": 151,
-      "category": "industry",
+      "score": 368,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +100,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782925040,
-      "score": 15,
-      "category": "tools",
+      "score": 26,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
+      "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782912139,
+      "score": 32,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,7 +126,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782910136,
-      "score": 24,
+      "score": 64,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ship traces journey Spanish Armada sailors made in 1588",
+      "url": "https://www.irishtimes.com/ireland/2026/06/30/it-is-a-huge-honour-ship-traces-journey-spanish-armada-sailors-made-in-1588/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782855922,
+      "score": 15,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Morph Reflexes – Multi-head classifiers for agent traces",
+      "url": "https://news.ycombinator.com/item?id=48739038",
+      "desc": "The most common failures for production agents are behavioral: looping, reasoning leakage, user frustration, and more. Using a frontier model like GPT or Sonnet to judge every turn is too expensive an",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1782852724,
+      "score": 20,
       "category": "llm",
       "tags": [
         "国际"
@@ -127,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -138,7 +177,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
