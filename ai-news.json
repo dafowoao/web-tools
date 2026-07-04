@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-04 17:05 UTC",
-  "count": 13,
+  "updated": "2026-07-04 20:57 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "AI has torched the market for junior programmers",
+      "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783194608,
+      "score": 65,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "No more than 100 000 faint satellites should orbit Earth",
+      "url": "https://www.eso.org/public/news/eso2607/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783185448,
+      "score": 95,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Plein Air",
+      "url": "https://art.joonas.wtf/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783184129,
+      "score": 45,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "The Reports of Jim Carrey's Death Are a Failure Mode",
       "url": "https://tane.dev/2026/07/the-reports-of-jim-carreys-death-are-a-failure-mode/",
@@ -9,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783165141,
-      "score": 18,
-      "category": "industry",
+      "score": 38,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,34 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783146748,
-      "score": 623,
+      "score": 705,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "2026 Unslop AI-Written Fiction Contest Results",
-      "url": "https://www.hyperstitionai.com/unslop-results",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783143445,
-      "score": 50,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Agentic coding notes from Galapagos Island",
-      "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783139835,
-      "score": 150,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,34 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783126664,
-      "score": 128,
-      "category": "llm",
+      "score": 136,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
-      "url": "https://epoch.ai/data-insights/cve-severity-spike",
+      "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
+      "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783113376,
-      "score": 145,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Jamesob's guide to running SOTA LLMs locally",
-      "url": "https://github.com/jamesob/local-llm",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783091023,
-      "score": 385,
-      "category": "tools",
+      "ts": 1782940216,
+      "score": 27,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782910136,
-      "score": 121,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ship traces journey Spanish Armada sailors made in 1588",
-      "url": "https://www.irishtimes.com/ireland/2026/06/30/it-is-a-huge-honour-ship-traces-journey-spanish-armada-sailors-made-in-1588/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782855922,
-      "score": 21,
-      "category": "tools",
+      "score": 145,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -138,7 +125,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
