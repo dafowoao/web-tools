@@ -1,81 +1,68 @@
 {
-  "updated": "2026-07-04 20:57 UTC",
-  "count": 12,
+  "updated": "2026-07-05 03:23 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "AI has torched the market for junior programmers",
-      "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
+      "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
+      "url": "https://ridgetext.com/blog/mapbox-llm-composition",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783194608,
-      "score": 65,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "No more than 100 000 faint satellites should orbit Earth",
-      "url": "https://www.eso.org/public/news/eso2607/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783185448,
-      "score": 95,
+      "ts": 1783207553,
+      "score": 10,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Plein Air",
-      "url": "https://art.joonas.wtf/",
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783184129,
-      "score": 45,
-      "category": "industry",
+      "ts": 1783201869,
+      "score": 172,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The Reports of Jim Carrey's Death Are a Failure Mode",
-      "url": "https://tane.dev/2026/07/the-reports-of-jim-carreys-death-are-a-failure-mode/",
+      "title": "$85,000 in tokens later: What I learned from scaling agentic coding at Lovable",
+      "url": "https://lovable.dev/blog/85000-in-tokens-later-scaling-agentic-coding-at-lovable",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783165141,
-      "score": 38,
+      "ts": 1783198765,
+      "score": 9,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The bottleneck might be the air in the room",
-      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
+      "url": "https://arxiv.org/abs/2606.26967",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783146748,
-      "score": 705,
-      "category": "llm",
+      "ts": 1783197519,
+      "score": 19,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-      "url": "https://mrbruh.com/msicenter/",
+      "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
+      "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783126664,
-      "score": 136,
-      "category": "industry",
+      "ts": 1783019034,
+      "score": 14,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782940216,
-      "score": 27,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
-      "url": "https://www.databricks.com/blog/lakebase-ltap-rethinking-database-storage",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782910136,
-      "score": 145,
-      "category": "llm",
+      "score": 54,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -114,7 +88,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -125,7 +99,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -147,7 +121,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
