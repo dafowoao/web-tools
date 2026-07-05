@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-05 07:25 UTC",
-  "count": 13,
+  "updated": "2026-07-05 10:12 UTC",
+  "count": 11,
   "items": [
+    {
+      "title": "I wanted to be Anthony Bourdain–until I met him",
+      "url": "https://cailey.substack.com/p/i-wanted-to-be-anthony-bourdainuntil",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783244767,
+      "score": 3,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
       "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
@@ -9,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783232374,
-      "score": 4,
-      "category": "industry",
+      "score": 48,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,34 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783227674,
-      "score": 20,
+      "score": 32,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Binary Coverage the Wrong Way",
-      "url": "https://redvice.org/2026/coverage-the-wrong-way/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783226393,
-      "score": 5,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Reading Minds with Ultrasound: Less-Invasive Technique for Brain's Intentions (2021)",
-      "url": "https://www.caltech.edu/about/news/reading-minds-with-ultrasound-a-less-invasive-technique-to-decode-the-brains-intentions",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783225134,
-      "score": 4,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783220258,
-      "score": 24,
+      "score": 45,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783214591,
-      "score": 36,
-      "category": "tools",
+      "score": 49,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,20 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783201869,
-      "score": 239,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
-      "url": "https://arxiv.org/abs/2606.26967",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783197519,
-      "score": 21,
+      "score": 275,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783019034,
-      "score": 56,
-      "category": "industry",
+      "score": 74,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -127,7 +101,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -138,7 +112,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
