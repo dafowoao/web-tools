@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-05 10:12 UTC",
-  "count": 11,
+  "updated": "2026-07-05 13:38 UTC",
+  "count": 10,
   "items": [
+    {
+      "title": "Show HN: KiCad in the Browser",
+      "url": "https://demo.pcbjam.com/",
+      "desc": "KiCad, a PCB EDA suite is now working in a browser, you can try it at the link, there&#x27;s a demo project or you can bring your own. Firefox is best, Chrome is good, Safari is &quot;working&quot;.We",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783253217,
+      "score": 16,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "I wanted to be Anthony Bourdain–until I met him",
       "url": "https://cailey.substack.com/p/i-wanted-to-be-anthony-bourdainuntil",
@@ -9,46 +22,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783244767,
-      "score": 3,
+      "score": 42,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Design System Prompt",
+      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783241017,
+      "score": 66,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783232374,
-      "score": 48,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Mouse: Precision Editing Tools for AI Coding Agents",
-      "url": "https://hic-ai.com",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783227674,
-      "score": 32,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Log Is the Agent",
+      "title": "The Log is the Agent",
       "url": "https://arxiv.org/abs/2605.21997",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783220258,
-      "score": 45,
+      "score": 65,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783214591,
-      "score": 49,
-      "category": "llm",
+      "score": 66,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783201869,
-      "score": 275,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
-      "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783019034,
-      "score": 74,
-      "category": "tools",
+      "score": 322,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -101,7 +88,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -134,7 +121,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
