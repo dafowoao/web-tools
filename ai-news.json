@@ -1,15 +1,80 @@
 {
-  "updated": "2026-07-06 08:19 UTC",
-  "count": 16,
+  "updated": "2026-07-06 15:32 UTC",
+  "count": 14,
   "items": [
     {
-      "title": "When AI Costs More Than the Engineer",
-      "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783321525,
-      "score": 36,
+      "ts": 1783350078,
+      "score": 18,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Emily Bender Sets the Record Straight on \"Stochastic Parrots\"",
+      "url": "https://spectrum.ieee.org/stochastic-parrot",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783349131,
+      "score": 41,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Scan your AI agents for dangerous capabilities",
+      "url": "https://github.com/makerchecker/MakerChecker",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783343847,
+      "score": 28,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "C programmers commit fresh crimes against readability",
+      "url": "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783338279,
+      "score": 90,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Paint the Earth on a live, interactive globe (collaborative art.)",
+      "url": "https://earth.tattoo",
+      "desc": "Earth.tattoo divides the earth into 510 million 16x16 pixel &quot;tiles&quot; that you can own and paint as you like. You can claim one free tile per hour.",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783333712,
+      "score": 17,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Real-time map of Great Britain's rail network",
+      "url": "https://www.map.signalbox.io",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783330716,
+      "score": 286,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783299843,
-      "score": 252,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783296288,
-      "score": 150,
-      "category": "industry",
+      "score": 375,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,34 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783292635,
-      "score": 109,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
-      "url": "https://homegames.io",
-      "desc": "I&#x27;m making a platform for simple open source games you can play anywhere.Games are all just JavaScript classes and you can read the source of every game on the platform.I started working on initi",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783287164,
-      "score": 168,
+      "score": 175,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Osint tool that finds exposed files on domains",
-      "url": "https://search.cerast-intelligence.com/",
-      "desc": "hey guys, wanted to show one of my side projects i just made public.the idea is basically another osint tool for pentesters and bug bounty\nhunters. it watches certificate transparency logs and checks ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783283077,
-      "score": 37,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,60 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783279371,
-      "score": 118,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783277263,
-      "score": 160,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Solar rail could become common in Europe after successful trial in Switzerland",
-      "url": "https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783262982,
-      "score": 80,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Airplane Boneyards List and Map",
-      "url": "https://airplaneboneyards.com/airplane-boneyards-list-and-map.htm",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783180388,
-      "score": 88,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
-      "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783048433,
-      "score": 170,
-      "category": "llm",
+      "score": 150,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -148,12 +122,12 @@
     {
       "title": "Zuckerberg says AI agent development going slower than expected",
       "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-      "desc": "",
+      "desc": "https:&#x2F;&#x2F;archive.md&#x2F;Q9trL",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783024686,
-      "score": 204,
-      "category": "llm",
+      "score": 319,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -177,7 +151,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -199,7 +173,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
