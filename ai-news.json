@@ -1,33 +1,7 @@
 {
-  "updated": "2026-07-06 18:11 UTC",
-  "count": 14,
+  "updated": "2026-07-06 21:28 UTC",
+  "count": 10,
   "items": [
-    {
-      "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
-      "url": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783358201,
-      "score": 16,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Marc Andreessen Says One Job Is Mostly Safe from AI: Venture Capitalist",
-      "url": "https://gizmodo.com/marc-andreessen-says-one-job-is-mostly-safe-from-ai-venture-capitalist-2000596506",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783357772,
-      "score": 12,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
@@ -35,7 +9,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783356464,
-      "score": 20,
+      "score": 72,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,33 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783353867,
-      "score": 32,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The AI Superforecasters Are Here",
-      "url": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783352711,
-      "score": 27,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Electric anti-aircraft interceptor drone breaks world air speed record at 434mph",
-      "url": "https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783351494,
-      "score": 48,
+      "score": 70,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783350078,
-      "score": 140,
+      "score": 236,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783330716,
-      "score": 329,
-      "category": "tools",
+      "score": 360,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783292635,
-      "score": 185,
-      "category": "llm",
+      "score": 188,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -151,7 +99,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
