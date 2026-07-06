@@ -1,7 +1,98 @@
 {
-  "updated": "2026-07-06 15:32 UTC",
+  "updated": "2026-07-06 18:11 UTC",
   "count": 14,
   "items": [
+    {
+      "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
+      "url": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783358201,
+      "score": 16,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Marc Andreessen Says One Job Is Mostly Safe from AI: Venture Capitalist",
+      "url": "https://gizmodo.com/marc-andreessen-says-one-job-is-mostly-safe-from-ai-venture-capitalist-2000596506",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783357772,
+      "score": 12,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783356464,
+      "score": 20,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
+      "url": "https://news.ycombinator.com/item?id=48806976",
+      "desc": "We are a new robotics company based in Palo Alto, California, building wearable robotic devices.Our first product is a device that reduces the physical cost of carrying heavy loads over distance, allo",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783355584,
+      "score": 1,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Pulpie – Models for Cleaning the Web",
+      "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
+      "desc": "Hey HN, I&#x27;m Shreyash, founder of Feyn. We built Pulpie, a family of Pareto optimal models for cleaning the web. Pulpie strips boilerplate (ads, footers, sidebars) from raw HTML and returns just t",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783353867,
+      "score": 32,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The AI Superforecasters Are Here",
+      "url": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783352711,
+      "score": 27,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Electric anti-aircraft interceptor drone breaks world air speed record at 434mph",
+      "url": "https://www.tomshardware.com/tech-industry/drones/electric-drone-breaks-world-air-speed-record-at-434-mph-designed-for-anti-aircraft-interceptor-roles-german-firm-convincingly-smashed-the-official-409-mph-record-hopes-to-get-stamp-of-approval-from-guinness-soon",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783351494,
+      "score": 48,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
       "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
@@ -9,60 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783350078,
-      "score": 18,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Emily Bender Sets the Record Straight on \"Stochastic Parrots\"",
-      "url": "https://spectrum.ieee.org/stochastic-parrot",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783349131,
-      "score": 41,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Scan your AI agents for dangerous capabilities",
-      "url": "https://github.com/makerchecker/MakerChecker",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783343847,
-      "score": 28,
+      "score": 140,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "C programmers commit fresh crimes against readability",
-      "url": "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783338279,
-      "score": 90,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Paint the Earth on a live, interactive globe (collaborative art.)",
-      "url": "https://earth.tattoo",
-      "desc": "Earth.tattoo divides the earth into 510 million 16x16 pixel &quot;tiles&quot; that you can own and paint as you like. You can claim one free tile per hour.",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783333712,
-      "score": 17,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783330716,
-      "score": 286,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-      "desc": "https:&#x2F;&#x2F;x.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575, https:&#x2F;&#x2F;xcancel.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783299843,
-      "score": 375,
+      "score": 329,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,34 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783292635,
-      "score": 175,
+      "score": 185,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
-      "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783279371,
-      "score": 150,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Zuckerberg says AI agent development going slower than expected",
-      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-      "desc": "https:&#x2F;&#x2F;archive.md&#x2F;Q9trL",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783024686,
-      "score": 319,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -140,7 +140,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -151,7 +151,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
