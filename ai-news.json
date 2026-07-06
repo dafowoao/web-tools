@@ -1,15 +1,28 @@
 {
-  "updated": "2026-07-06 03:31 UTC",
-  "count": 15,
+  "updated": "2026-07-06 08:19 UTC",
+  "count": 16,
   "items": [
     {
-      "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "title": "When AI Costs More Than the Engineer",
+      "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
+      "ts": 1783321525,
+      "score": 36,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GPT-5.6 Sol Ultra will be in Codex",
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "desc": "https:&#x2F;&#x2F;x.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575, https:&#x2F;&#x2F;xcancel.com&#x2F;haider1&#x2F;status&#x2F;2073695124220006575",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
       "ts": 1783299843,
-      "score": 104,
+      "score": 252,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,34 +35,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783296288,
-      "score": 112,
+      "score": 150,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Does Code Cleanliness Affect Coding Agents?",
+      "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
       "url": "https://arxiv.org/abs/2605.20049",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783292635,
-      "score": 47,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The AI Compass Quiz",
-      "url": "https://bambamramfan.github.io/ai-compass/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783291004,
-      "score": 25,
-      "category": "llm",
+      "score": 109,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783287164,
-      "score": 102,
-      "category": "tools",
+      "score": 168,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783283077,
-      "score": 28,
-      "category": "tools",
+      "score": 37,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783279371,
-      "score": 84,
-      "category": "tools",
+      "score": 118,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +100,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783277263,
-      "score": 140,
-      "category": "llm",
+      "score": 160,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Solar rail could become common in Europe after successful trial in Switzerland",
+      "url": "https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783262982,
+      "score": 80,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783180388,
-      "score": 85,
-      "category": "tools",
+      "score": 88,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783048433,
-      "score": 122,
+      "score": 170,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783024686,
-      "score": 121,
+      "score": 204,
       "category": "llm",
       "tags": [
         "国际"
@@ -164,7 +177,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -186,7 +199,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
