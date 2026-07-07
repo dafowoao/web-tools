@@ -1,29 +1,107 @@
 {
-  "updated": "2026-07-07 17:59 UTC",
-  "count": 12,
+  "updated": "2026-07-07 21:24 UTC",
+  "count": 18,
   "items": [
     {
-      "title": "Sites that block AI training crawlers mostly ignore the answer time bots",
-      "url": "https://sitedex.dev/insights/robots-txt-2023-war-memorial",
+      "title": "US manufacturers' energy costs soar because of AI data center demand",
+      "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783439568,
-      "score": 13,
+      "ts": 1783458449,
+      "score": 7,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "All Cars Sold in the EU Now Require a Camera Aimed at Your Face",
+      "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783457446,
+      "score": 110,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Men's average testosterone levels have halved in last 50 years",
+      "url": "https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783456561,
+      "score": 12,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Context Warp Drive – Deterministic context folding for AI agents",
-      "url": "https://github.com/dogtorjonah/context-warp-drive",
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "url": "https://davit.app",
+      "desc": "Mostly vibe-coded Apple Containers front-end that I&#x27;d like to use myself. But if others want to use it, here&#x27;s the source code.",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783449869,
+      "score": 73,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: Is GitHub preparing to go behind a login wall?",
+      "url": "https://news.ycombinator.com/item?id=48821803",
+      "desc": "From time to time, I check that our open-source project is still available to all users, and I&#x27;ve occasionally noticed that the stargazers (1) information returns a 404 for non-logged-in users.I ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783449640,
+      "score": 31,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783437516,
-      "score": 6,
-      "category": "tools",
+      "ts": 1783449395,
+      "score": 48,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
+      "url": "https://github.com/kklimuk/docx-cli",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783448340,
+      "score": 30,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "desc": "Claude’s desktop app is brilliant, but for our own daily work we kept wanting it to be less like a chat app and more like a full-fledged work app. Rowboat is our attempt at that, including the ability",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783440644,
+      "score": 38,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783437068,
-      "score": 21,
-      "category": "tools",
+      "score": 75,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783434195,
-      "score": 45,
-      "category": "tools",
+      "score": 289,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
+      "url": "https://github.com/bkuan001/halo-record",
+      "desc": "Hi HN, I&#x27;m Brian, I spent the last few years at Vanta (YC W18), helping startups and enterprises become compliant and I recently started exploring what that might look like in a post-agentic worl",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783433228,
+      "score": 14,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,20 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783420979,
-      "score": 36,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
-      "url": "https://whimfiles.com",
-      "desc": "My Downloads folder had been left unkept for a really long time and cleaning it up using Finder was quite cumbersome. So I started creating a simple app to help me filter out and delete or move the fi",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783411932,
-      "score": 66,
+      "score": 118,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,7 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783303615,
-      "score": 9,
+      "score": 34,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,7 +178,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783099515,
-      "score": 47,
+      "score": 56,
       "category": "llm",
       "tags": [
         "国际"
@@ -114,7 +192,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -147,7 +225,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
