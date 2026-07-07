@@ -1,7 +1,98 @@
 {
-  "updated": "2026-07-06 21:28 UTC",
-  "count": 10,
+  "updated": "2026-07-07 03:22 UTC",
+  "count": 15,
   "items": [
+    {
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783382394,
+      "score": 34,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Not everything should cost a token: the case for deterministic AI",
+      "url": "https://www.vybe.build/blog/learn-what-not-to-tokenize",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783377400,
+      "score": 14,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How ChatGPT Picks Sources (I Read the Network Traffic, Not the Outputs)",
+      "url": "https://suganthan.com/blog/how-chatgpt-picks-sources/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783374605,
+      "score": 11,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783372163,
+      "score": 60,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Taiganet.com, Home of the WS4000 Simulator",
+      "url": "https://www.taiganet.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783371984,
+      "score": 17,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783368895,
+      "score": 212,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783366104,
+      "score": 62,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
@@ -9,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783356464,
-      "score": 72,
-      "category": "industry",
+      "score": 136,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -23,20 +114,7 @@
       "sourceColor": "#ff6600",
       "ts": 1783355584,
       "score": 1,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Pulpie – Models for Cleaning the Web",
-      "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
-      "desc": "Hey HN, I&#x27;m Shreyash, founder of Feyn. We built Pulpie, a family of Pareto optimal models for cleaning the web. Pulpie strips boilerplate (ads, footers, sidebars) from raw HTML and returns just t",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783353867,
-      "score": 70,
-      "category": "industry",
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783350078,
-      "score": 236,
-      "category": "tools",
+      "score": 288,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,21 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783330716,
-      "score": 360,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
-      "url": "https://arxiv.org/abs/2605.20049",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783292635,
-      "score": 188,
-      "category": "industry",
+      "score": 385,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -88,7 +153,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -99,7 +164,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
