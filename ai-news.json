@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-07 07:37 UTC",
-  "count": 14,
+  "updated": "2026-07-07 10:55 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
+      "url": "https://whimfiles.com",
+      "desc": "My Downloads folder had been left unkept for a really long time and cleaning it up using Finder was quite cumbersome. So I started creating a simple app to help me filter out and delete or move the fi",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783411932,
+      "score": 7,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Small AI Models Gain Traction In places with unreliable networks",
       "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
@@ -9,21 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783382394,
-      "score": 112,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: InstantVideos.org – short documentaries in ~30 seconds",
-      "url": "https://instantvideos.org/",
-      "desc": "Hiya! So I&#x27;ve been playing around with having Claude make videos for a bit now even had some success posting the results to TikTok (and setup a whole pipeline so Claude can generate and post auto",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783382318,
-      "score": 18,
-      "category": "llm",
+      "score": 158,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,21 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783380834,
-      "score": 89,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Taiganet.com, Home of the WS4000 Simulator",
-      "url": "https://www.taiganet.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783371984,
-      "score": 23,
-      "category": "tools",
+      "score": 114,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783368895,
-      "score": 344,
-      "category": "llm",
+      "score": 453,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783366104,
-      "score": 95,
-      "category": "tools",
+      "score": 105,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783356464,
-      "score": 166,
-      "category": "llm",
+      "score": 186,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783353867,
-      "score": 89,
-      "category": "tools",
+      "score": 91,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,20 +100,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783350078,
-      "score": 316,
-      "category": "industry",
+      "score": 342,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Giving a domain a hill to climb: benchmarking as data activation",
-      "url": "https://sparsethought.com/2026/07/03/benchmarking-as-data-activation/",
+      "title": "In Praise of Observational Evidence",
+      "url": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783110760,
-      "score": 10,
+      "ts": 1782919841,
+      "score": 24,
       "category": "industry",
       "tags": [
         "国际"
@@ -140,7 +127,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -173,7 +160,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
