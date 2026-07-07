@@ -1,29 +1,68 @@
 {
-  "updated": "2026-07-07 14:33 UTC",
-  "count": 16,
+  "updated": "2026-07-07 17:59 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "Sodium-ion \"salt\" batteries will revolutionize electric-vehicle and grid storage",
-      "url": "https://www.newscientist.com/article/2532997-salt-batteries-are-about-to-shake-up-evs-and-grid-storage/",
+      "title": "Sites that block AI training crawlers mostly ignore the answer time bots",
+      "url": "https://sitedex.dev/insights/robots-txt-2023-war-memorial",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783433974,
-      "score": 4,
+      "ts": 1783439568,
+      "score": 13,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Context Warp Drive – Deterministic context folding for AI agents",
+      "url": "https://github.com/dogtorjonah/context-warp-drive",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783437516,
+      "score": 6,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Tell HN: Who wants to be hired\" posts outpace \"Who's hiring\" 2 to 1",
-      "url": "https://news.ycombinator.com/item?id=48816813",
-      "desc": "Lately I&#x27;ve noticed that &quot;Who wants to be hired&quot; posts are getting more comments than the &quot;Who&#x27;s hiring&quot; ones.I pulled the data using HN API and confirmed this &quot;reve",
+      "title": "Automating AI Away",
+      "url": "https://replicated.live/blog/away",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783427513,
-      "score": 9,
-      "category": "llm",
+      "ts": 1783437068,
+      "score": 21,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783434195,
+      "score": 45,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Why skilled workers come to Germany and then leave again",
+      "url": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783420979,
+      "score": 36,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,99 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783411932,
-      "score": 55,
+      "score": 66,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The Making of Claude Code",
-      "url": "https://www.anthropic.com/features/making-of-claude-code",
+      "title": "GitHub Freno: cooperative, highly available throttler service",
+      "url": "https://github.com/github/freno",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783405160,
-      "score": 22,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783382394,
-      "score": 210,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "NSA and IETF: Fairness",
-      "url": "https://blog.cr.yp.to/20260706-fairness.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783380834,
-      "score": 132,
+      "ts": 1783303615,
+      "score": 9,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783368895,
-      "score": 575,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Pruning RAG context down to what the answer actually needs",
-      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783366104,
-      "score": 130,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783356464,
-      "score": 200,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783350078,
-      "score": 362,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783099515,
-      "score": 9,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "In Praise of Observational Evidence",
-      "url": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782919841,
-      "score": 60,
-      "category": "tools",
+      "score": 47,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -166,7 +114,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
