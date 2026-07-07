@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-07 03:22 UTC",
-  "count": 15,
+  "updated": "2026-07-07 07:37 UTC",
+  "count": 14,
   "items": [
     {
       "title": "Small AI Models Gain Traction In places with unreliable networks",
@@ -9,47 +9,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783382394,
-      "score": 34,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Not everything should cost a token: the case for deterministic AI",
-      "url": "https://www.vybe.build/blog/learn-what-not-to-tokenize",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783377400,
-      "score": 14,
+      "score": 112,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "How ChatGPT Picks Sources (I Read the Network Traffic, Not the Outputs)",
-      "url": "https://suganthan.com/blog/how-chatgpt-picks-sources/",
-      "desc": "",
+      "title": "Show HN: InstantVideos.org – short documentaries in ~30 seconds",
+      "url": "https://instantvideos.org/",
+      "desc": "Hiya! So I&#x27;ve been playing around with having Claude make videos for a bit now even had some success posting the results to TikTok (and setup a whole pipeline so Claude can generate and post auto",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783374605,
-      "score": 11,
-      "category": "tools",
+      "ts": 1783382318,
+      "score": 18,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
+      "title": "NSA and IETF: Fairness",
+      "url": "https://blog.cr.yp.to/20260706-fairness.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783372163,
-      "score": 60,
-      "category": "llm",
+      "ts": 1783380834,
+      "score": 89,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783371984,
-      "score": 17,
-      "category": "llm",
+      "score": 23,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783368895,
-      "score": 212,
-      "category": "tools",
+      "score": 344,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783366104,
-      "score": 62,
+      "score": 95,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,20 +87,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783356464,
-      "score": 136,
-      "category": "tools",
+      "score": 166,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
-      "url": "https://news.ycombinator.com/item?id=48806976",
-      "desc": "We are a new robotics company based in Palo Alto, California, building wearable robotic devices.Our first product is a device that reduces the physical cost of carrying heavy loads over distance, allo",
+      "title": "Show HN: Pulpie – Models for Cleaning the Web",
+      "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
+      "desc": "Hey HN, I&#x27;m Shreyash, founder of Feyn. We built Pulpie, a family of Pareto optimal models for cleaning the web. Pulpie strips boilerplate (ads, footers, sidebars) from raw HTML and returns just t",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783355584,
-      "score": 1,
+      "ts": 1783353867,
+      "score": 89,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,21 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783350078,
-      "score": 288,
+      "score": 316,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Real-time map of Great Britain's rail network",
-      "url": "https://www.map.signalbox.io",
+      "title": "Giving a domain a hill to climb: benchmarking as data activation",
+      "url": "https://sparsethought.com/2026/07/03/benchmarking-as-data-activation/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783330716,
-      "score": 385,
-      "category": "tools",
+      "ts": 1783110760,
+      "score": 10,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -153,7 +140,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -164,7 +151,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -186,7 +173,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
