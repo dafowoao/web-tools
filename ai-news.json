@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-08 10:18 UTC",
-  "count": 19,
+  "updated": "2026-07-08 14:06 UTC",
+  "count": 14,
   "items": [
     {
       "title": "Geosql: A Claude/Codex skill for geospatial data",
@@ -9,20 +9,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783499846,
-      "score": 5,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Reform UK leader 'in real trouble' against Count Binface",
-      "url": "https://www.mirror.co.uk/news/uk-news/nigel-farage-resigns-clacton-live-37401478",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783498621,
-      "score": 16,
+      "score": 60,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,21 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783488335,
-      "score": 195,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
-      "url": "https://twitter.com/OpenAI/status/2074704958419792299",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783483933,
-      "score": 194,
-      "category": "industry",
+      "score": 329,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783480951,
-      "score": 77,
-      "category": "llm",
+      "score": 121,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783469331,
-      "score": 219,
-      "category": "tools",
+      "score": 274,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783449869,
-      "score": 310,
-      "category": "industry",
+      "score": 341,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783449395,
-      "score": 107,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "We're extending access to Fable 5 on all paid plans through July 12",
-      "url": "https://twitter.com/claudeai/status/2074548242386178258",
-      "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;claudeai&#x2F;status&#x2F;2074548242386178258",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783446290,
-      "score": 191,
-      "category": "llm",
+      "score": 110,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,20 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783440644,
-      "score": 162,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Automating AI Away",
-      "url": "https://replicated.live/blog/away",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783437068,
-      "score": 117,
+      "score": 190,
       "category": "industry",
       "tags": [
         "国际"
@@ -152,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783434195,
-      "score": 663,
-      "category": "industry",
+      "score": 754,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -165,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783115167,
-      "score": 22,
+      "score": 153,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Out of the Armchair",
-      "url": "https://literaryreview.co.uk/out-of-the-armchair",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782933298,
-      "score": 6,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -191,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1782884482,
-      "score": 76,
-      "category": "llm",
+      "score": 93,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -216,7 +151,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -238,7 +173,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     }
   ]
