@@ -1,41 +1,67 @@
 {
-  "updated": "2026-07-07 21:24 UTC",
+  "updated": "2026-07-08 02:40 UTC",
   "count": 18,
   "items": [
     {
-      "title": "US manufacturers' energy costs soar because of AI data center demand",
-      "url": "https://arstechnica.com/tech-policy/2026/07/us-manufacturers-energy-costs-soar-because-of-ai-data-center-demand/",
+      "title": "Google Gemini Killed Perplexity AI",
+      "url": "https://fatjoe.com/blog/perplexity-ai-stats/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783458449,
-      "score": 7,
+      "ts": 1783477432,
+      "score": 6,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "url": "https://kb.cert.org/vuls/id/213560",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783469331,
+      "score": 40,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Fortress – a stealth Chromium so your agents stop getting blocked",
+      "url": "https://github.com/tiliondev/fortress",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783469301,
+      "score": 25,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Free Mermaid Diagram Editor",
+      "url": "https://moxiedocs.com/mermaid-diagram-editor",
+      "desc": "I&#x27;ve been slowly adding some new free tools to Moxie Docs (partly for SEO, partly to illustrate some of our feature sets before any commitment) for some reason this mermaid editor one blew up on ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783466976,
+      "score": 11,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "All Cars Sold in the EU Now Require a Camera Aimed at Your Face",
-      "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+      "title": "Git Hash Chain Malleability",
+      "url": "https://arxiv.org/abs/2607.02820",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783457446,
-      "score": 110,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Men's average testosterone levels have halved in last 50 years",
-      "url": "https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783456561,
-      "score": 12,
+      "ts": 1783466463,
+      "score": 9,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,20 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783449869,
-      "score": 73,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Is GitHub preparing to go behind a login wall?",
-      "url": "https://news.ycombinator.com/item?id=48821803",
-      "desc": "From time to time, I check that our open-source project is still available to all users, and I&#x27;ve occasionally noticed that the stargazers (1) information returns a 404 for non-logged-in users.I ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783449640,
-      "score": 31,
+      "score": 210,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783449395,
-      "score": 48,
-      "category": "industry",
+      "score": 86,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,7 +100,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783448340,
-      "score": 30,
+      "score": 57,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "We're extending access to Fable 5 on all paid plans through July 12",
+      "url": "https://twitter.com/claudeai/status/2074548242386178258",
+      "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;claudeai&#x2F;status&#x2F;2074548242386178258",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783446290,
+      "score": 55,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783440644,
-      "score": 38,
+      "score": 101,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783437068,
-      "score": 75,
-      "category": "industry",
+      "score": 104,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,21 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783434195,
-      "score": 289,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
-      "url": "https://github.com/bkuan001/halo-record",
-      "desc": "Hi HN, I&#x27;m Brian, I spent the last few years at Vanta (YC W18), helping startups and enterprises become compliant and I recently started exploring what that might look like in a post-agentic worl",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783433228,
-      "score": 14,
-      "category": "llm",
+      "score": 459,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -152,34 +165,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783420979,
-      "score": 118,
-      "category": "tools",
+      "score": 189,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "GitHub Freno: cooperative, highly available throttler service",
-      "url": "https://github.com/github/freno",
+      "title": "IEEE Rolls Out Large Language Models Training Course",
+      "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783303615,
-      "score": 34,
+      "ts": 1782884482,
+      "score": 41,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "C++ Details of Asymmetric Fences",
-      "url": "https://nekrozqliphort.github.io/posts/membarrier/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783099515,
-      "score": 56,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -225,7 +225,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
