@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-08 14:06 UTC",
-  "count": 14,
+  "updated": "2026-07-08 17:36 UTC",
+  "count": 17,
   "items": [
+    {
+      "title": "GPT‑Live",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783530199,
+      "score": 106,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783527576,
+      "score": 77,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Kastor – Terraform-style specs for AI agents",
+      "url": "https://github.com/weirdGuy/kastor",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783524309,
+      "score": 19,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783519757,
+      "score": 236,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Geosql: A Claude/Codex skill for geospatial data",
       "url": "https://github.com/dekart-xyz/geosql",
@@ -9,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783499846,
-      "score": 60,
-      "category": "industry",
+      "score": 97,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783488335,
-      "score": 329,
-      "category": "llm",
+      "score": 431,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783480951,
-      "score": 121,
+      "score": 154,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783469331,
-      "score": 274,
+      "score": 310,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783449869,
-      "score": 341,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783449395,
-      "score": 110,
+      "score": 370,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783440644,
-      "score": 190,
-      "category": "industry",
+      "score": 208,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783434195,
-      "score": 754,
+      "score": 846,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Follow London Trains in 3D",
+      "url": "https://ride.nexttrain.london/",
+      "desc": "deck.gl based visualiser of the TFL Api + National Rails to be able to track (with minimal drift) a train along the way in London and to the nearest airports. If you pick one from any platform in http",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783181466,
+      "score": 65,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,20 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783115167,
-      "score": 153,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "IEEE Rolls Out Large Language Models Training Course",
-      "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1782884482,
-      "score": 93,
+      "score": 272,
       "category": "industry",
       "tags": [
         "国际"
@@ -140,7 +179,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -151,7 +190,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -173,7 +212,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
