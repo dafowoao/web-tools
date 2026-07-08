@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-08 17:36 UTC",
-  "count": 17,
+  "updated": "2026-07-08 21:07 UTC",
+  "count": 18,
   "items": [
+    {
+      "title": "OpenAI no longer recommends SWE-Bench Pro",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783544631,
+      "score": 4,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding fr",
+      "url": "https://danluu.com/ai-coding/#llm-variance",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783542105,
+      "score": 5,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+      "url": "https://github.com/animesh-94/Onboard-CLI",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783541343,
+      "score": 5,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Hnwork.app – UI for Who is hiring posts",
+      "url": "https://hnwork.app/",
+      "desc": "Hey HN, I built a UI on top of the &quot;Who is hiring&quot; posts. Take a look at https:&#x2F;&#x2F;hnwork.app!One of the downsides of unstructured text posts is the readability due to it being free-",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783540804,
+      "score": 9,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "desc": "Data visualizations are the bridge between user and data.But building AI agents that can generate visualizations reliably can be very tricky:- simple chart specs can be reliable, but generated charts ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783532772,
+      "score": 112,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "GPT‑Live",
       "url": "https://openai.com/index/introducing-gpt-live/",
@@ -9,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783530199,
-      "score": 106,
-      "category": "tools",
+      "score": 478,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783527576,
-      "score": 77,
+      "score": 203,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Kastor – Terraform-style specs for AI agents",
-      "url": "https://github.com/weirdGuy/kastor",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783524309,
-      "score": 19,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783519757,
-      "score": 236,
-      "category": "llm",
+      "score": 352,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783499846,
-      "score": 97,
-      "category": "tools",
+      "score": 120,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,20 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783488335,
-      "score": 431,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
-      "url": "https://www.digipres.org/the-floppy-guide/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783480951,
-      "score": 154,
+      "score": 485,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,47 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783469331,
-      "score": 310,
+      "score": 339,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Davit, a Apple Containers UI",
-      "url": "https://davit.app",
-      "desc": "Mostly vibe-coded Apple Containers front-end that I&#x27;d like to use myself. But if others want to use it, here&#x27;s the source code.",
+      "title": "Show HN: Agent Draw: An agent draws while you talk, built on TLDraw",
+      "url": "https://techstackups.com/articles/tldraw-agent-draw/",
+      "desc": "We recently built 2draw, a Drawful-style game where players draw on a shared canvas and race to guess each other&#x27;s drawings, on tldraw, an infinite-canvas SDK for React.We started wondering what ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783449869,
-      "score": 370,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "desc": "Claude’s desktop app is brilliant, but for our own daily work we kept wanting it to be less like a chat app and more like a full-fledged work app. Rowboat is our attempt at that, including the ability",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783440644,
-      "score": 208,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Chat Control 1.0 and 2.0 Explained",
-      "url": "https://fightchatcontrol.eu/chat-control-overview",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783434195,
-      "score": 846,
-      "category": "llm",
+      "ts": 1783349406,
+      "score": 15,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783181466,
-      "score": 65,
-      "category": "tools",
+      "score": 113,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -165,7 +178,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783115167,
-      "score": 272,
+      "score": 353,
       "category": "industry",
       "tags": [
         "国际"
@@ -190,7 +203,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -212,7 +225,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     }
   ]
