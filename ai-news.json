@@ -1,15 +1,67 @@
 {
-  "updated": "2026-07-09 17:55 UTC",
-  "count": 20,
+  "updated": "2026-07-09 21:23 UTC",
+  "count": 22,
   "items": [
+    {
+      "title": "Building a real-time AI tutor for 5-year-olds",
+      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783630266,
+      "score": 5,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: RandoFont, a browser for Google Fonts",
+      "url": "https://randofont.alesh.com",
+      "desc": "Inevitably when starting a new web project I want to pick the perfect font. This is just a browser that shows Google Fonts, randomly, and lets me tag favorites.I built this years ago and just used AI ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783629998,
+      "score": 8,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Pylon Sync, an agent-first full-stack realtime framework",
+      "url": "https://www.pylonsync.com",
+      "desc": "I created Pylon to make it easier to move from hobby projects to full production apps.When I work on hobby projects, I usually use React or Next.js because they are quick to set up and easy to deploy ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783618698,
+      "score": 6,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
+      "url": "https://lucid.earthpilot.ai",
+      "desc": "I run a small AI lab and playground and got super excited about Anthropics paper &quot;Verbalizable Representations Form a Global Workspace in Language Models&quot; (https:&#x2F;&#x2F;transformer-circ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783618590,
+      "score": 4,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "GPT-5.6",
       "url": "https://openai.com/index/gpt-5-6/",
-      "desc": "https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6&#x2F;gpt-5-6.pdfhttps:&#x2F;&#x2F;developers.openai.com&#x2F;api&#x2F;docs&#x2F;guides&#x2F;latest-model",
+      "desc": "https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6&#x2F;gpt-5-6.pdfhttps:&#x2F;&#x2F;developers.openai.com&#x2F;api&#x2F;docs&#x2F;guides&#x2F;latest-modelhttps:&#x2F;&#x2F;x.com&#x2F;levie&#x",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783616654,
-      "score": 342,
+      "score": 806,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,34 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783616633,
-      "score": 94,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Devthropology – Better Insights for GitHub Repos",
-      "url": "https://devthropology.com/demo",
-      "desc": "Devthropology is a passion project built on top of GitHub pull data. The name is a play on developer anthropology. Pull request data can be cut a lot of ways. The functionality has been built out of c",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783615673,
-      "score": 14,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI 2040: Plan A",
-      "url": "https://ai-2040.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783614104,
-      "score": 31,
-      "category": "llm",
+      "score": 286,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,20 +87,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783612209,
-      "score": 110,
+      "score": 130,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Reverse-engineering web apps into agent tools",
-      "url": "https://news.ycombinator.com/item?id=48847834",
-      "desc": "Hey HN! We built a browser-based agent that runs inside an authenticated web app, watches how the app calls its own APIs, and automatically turns those into agent tools. You can think of it as an auto",
+      "title": "Show HN: Sighthound - open-source vulnerability scanner for source code",
+      "url": "https://github.com/Corgea/Sighthound",
+      "desc": "We&#x27;re open-sourcing Sighthound today, our rules-based static security scanner. What makes it special is that it&#x27;s coded in rust and uses tree-sitter as it&#x27;s AST making it very fast and ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783611917,
-      "score": 16,
+      "ts": 1783611015,
+      "score": 4,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,34 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783610919,
-      "score": 34,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How to Write an Email",
-      "url": "https://blog.dannycastonguay.com/how-to-write-an-email/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783610812,
-      "score": 51,
+      "score": 57,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: LastShelf – an emergency map of your family's documents bills& contacts",
-      "url": "https://www.lastshelf.ai/",
-      "desc": "After my father was diagnosed with Stage 3 kidney cancer, my family was thrown into a tailspin. Getting second opinions, planning surgery, ensuring insurance coverage, coping with the fear. It was a l",
+      "title": "Why the Next Era of AI Is About Infrastructure, Not Just Models",
+      "url": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783609991,
-      "score": 29,
-      "category": "llm",
+      "ts": 1783608601,
+      "score": 26,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,19 +139,19 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783606222,
-      "score": 202,
-      "category": "llm",
+      "score": 280,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
-      "url": "https://github.com/ronak-create/FableCut",
-      "desc": "",
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "url": "https://github.com/JustVugg/colibri",
+      "desc": "A few days ago I found myself trying out GLM 5.2 and was really positively impressed. The capabilities and security I was getting from this LLM are similar to those I&#x27;ve gotten from models like C",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783603390,
+      "ts": 1783584304,
       "score": 77,
       "category": "llm",
       "tags": [
@@ -152,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783576010,
-      "score": 59,
-      "category": "industry",
+      "score": 93,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -165,8 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783567562,
-      "score": 36,
-      "category": "tools",
+      "score": 54,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -178,33 +191,46 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783563804,
-      "score": 12,
+      "score": 49,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",
+      "url": "https://abralo.com/",
+      "desc": "Hi guys,I&#x27;ve been using Claude Code for almost everything lately. Have given one an email account so it can research business leads, draft emails, fact-check them and clear them with me before se",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783522499,
+      "score": 17,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Girls just wanna have fast MPMC queues with bounded waiting",
+      "url": "https://nahla.dev/blog/waitfree_queue/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783367190,
+      "score": 94,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "title": "Train SIM Created by Just One Person Is Being Called the Best Ever Made",
+      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783553863,
-      "score": 1241,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Girls Just Wanna Have Fast MPMC Queues with Bounded Waiting",
-      "url": "https://nahla.dev/blog/waitfree_queue/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783367190,
-      "score": 39,
+      "ts": 1783240827,
+      "score": 101,
       "category": "tools",
       "tags": [
         "国际"
@@ -218,7 +244,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -251,7 +277,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
