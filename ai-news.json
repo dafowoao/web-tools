@@ -1,29 +1,55 @@
 {
-  "updated": "2026-07-08 21:07 UTC",
-  "count": 18,
+  "updated": "2026-07-09 02:58 UTC",
+  "count": 17,
   "items": [
     {
-      "title": "OpenAI no longer recommends SWE-Bench Pro",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "title": "I Think I Have LLM Burnout",
+      "url": "https://www.alecscollon.com/blog/llm-burnout/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783544631,
-      "score": 4,
+      "ts": 1783562188,
+      "score": 83,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding fr",
-      "url": "https://danluu.com/ai-coding/#llm-variance",
+      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+      "url": "https://mira-wm.com/",
+      "desc": "https:&#x2F;&#x2F;mira-wm.com&#x2F;blog-post&#x2F;",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783556877,
+      "score": 26,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783542105,
-      "score": 5,
+      "ts": 1783553863,
+      "score": 384,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783553234,
+      "score": 79,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,20 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783541343,
-      "score": 5,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Hnwork.app – UI for Who is hiring posts",
-      "url": "https://hnwork.app/",
-      "desc": "Hey HN, I built a UI on top of the &quot;Who is hiring&quot; posts. Take a look at https:&#x2F;&#x2F;hnwork.app!One of the downsides of unstructured text posts is the readability due to it being free-",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783540804,
-      "score": 9,
+      "score": 20,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783532772,
-      "score": 112,
-      "category": "llm",
+      "score": 218,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783530199,
-      "score": 478,
-      "category": "industry",
+      "score": 614,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783527576,
-      "score": 203,
+      "score": 257,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,58 +113,32 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783519757,
-      "score": 352,
-      "category": "industry",
+      "score": 425,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Geosql: A Claude/Codex skill for geospatial data",
-      "url": "https://github.com/dekart-xyz/geosql",
-      "desc": "",
+      "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
+      "url": "https://www.yamanote.fun/",
+      "desc": "After visiting Japan for the first time a decade ago I became completely enamoured with Tokyo&#x27;s Yamanote Line railway loop. Particularly the sonic experience of it. Like so many others I fell in ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783499846,
-      "score": 120,
-      "category": "industry",
+      "ts": 1783428466,
+      "score": 65,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-      "desc": "",
+      "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
+      "url": "https://github.com/Rodiun/frugon",
+      "desc": "I started leaning in on AI heavily this year, as I wanted to get more done autonomously, but then my token usage climbed dramatically to the point where my weekly quota would run out before the end of",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783488335,
-      "score": 485,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-      "url": "https://kb.cert.org/vuls/id/213560",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783469331,
-      "score": 339,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Agent Draw: An agent draws while you talk, built on TLDraw",
-      "url": "https://techstackups.com/articles/tldraw-agent-draw/",
-      "desc": "We recently built 2draw, a Drawful-style game where players draw on a shared canvas and race to guess each other&#x27;s drawings, on tldraw, an infinite-canvas SDK for React.We started wondering what ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783349406,
+      "ts": 1783426854,
       "score": 15,
       "category": "industry",
       "tags": [
@@ -165,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783181466,
-      "score": 113,
+      "score": 130,
       "category": "industry",
       "tags": [
         "国际"
@@ -178,7 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783115167,
-      "score": 353,
+      "score": 385,
       "category": "industry",
       "tags": [
         "国际"
@@ -192,7 +179,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -225,7 +212,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
