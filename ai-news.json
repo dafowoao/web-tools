@@ -1,42 +1,94 @@
 {
-  "updated": "2026-07-09 07:46 UTC",
+  "updated": "2026-07-09 14:58 UTC",
   "count": 15,
   "items": [
     {
-      "title": "AI changes the economics of software rewrites",
-      "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
+      "title": "Altman: GPT-5.6 is 54% more token efficient on agentic coding",
+      "url": "https://www.cnbc.com/2026/07/09/open-ai-sam-altman-chatgpt-5-6-sol.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783576010,
-      "score": 37,
+      "ts": 1783607113,
+      "score": 8,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "A new way to reflect on how you use Claude",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783603833,
+      "score": 18,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: FableCut – A browser video editor AI agents can drive (zero deps)",
+      "url": "https://github.com/ronak-create/FableCut",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783603390,
+      "score": 52,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Files over tools: how we built our agent with a virtual filesystem and bash",
+      "url": "https://knock.app/blog/how-we-built-the-knock-agent-virtual-filesystem-and-bash",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783603142,
+      "score": 9,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Arcaide – Explore code with multi-level call graphs",
+      "url": "https://arcaide.foo",
+      "desc": "One of the things I do when approaching a new codebase is to find the entry points and start exploring down the call paths. This gives a good overview of the different components in the code and how t",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783601984,
+      "score": 12,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "I think I have LLM burnout",
-      "url": "https://www.alecscollon.com/blog/llm-burnout/",
+      "title": "How Version Control Will Evolve for the Agent Boom",
+      "url": "https://entire.io/blog/how-version-control-will-evolve-for-the-agent-boom",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783562188,
-      "score": 313,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
-      "url": "https://mira-wm.com/",
-      "desc": "https:&#x2F;&#x2F;mira-wm.com&#x2F;blog-post&#x2F;",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783556877,
-      "score": 68,
+      "ts": 1783599641,
+      "score": 27,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "TrueBiz (YC S22) – Senior Software Engineer – Remote (US) – Full-Time",
+      "url": "https://news.ycombinator.com/item?id=48844517",
+      "desc": "TrueBiz (YC S22) is an API that tells financial institutions whether a business is real, what it actually does, and whether it’s risky — in seconds.Today, this process is still manual: underwriters sp",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783598477,
+      "score": 1,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783553863,
-      "score": 710,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
-      "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783553234,
-      "score": 147,
+      "score": 1178,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783546209,
-      "score": 65,
-      "category": "tools",
+      "score": 134,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,34 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783532772,
-      "score": 265,
+      "score": 329,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GPT‑Live",
-      "url": "https://openai.com/index/introducing-gpt-live/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783530199,
-      "score": 686,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "url": "https://mistral.ai/news/robostral-navigate/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783519757,
-      "score": 461,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,21 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783428466,
-      "score": 150,
+      "score": 222,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "3D Airplane tracker on Mercator map",
-      "url": "https://github.com/jamalrfordii-arch/Vanguard-Map",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783201989,
-      "score": 7,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -153,7 +153,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -164,7 +164,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
