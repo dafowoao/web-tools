@@ -1,15 +1,28 @@
 {
-  "updated": "2026-07-09 02:58 UTC",
-  "count": 17,
+  "updated": "2026-07-09 07:46 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "I Think I Have LLM Burnout",
+      "title": "AI changes the economics of software rewrites",
+      "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783576010,
+      "score": 37,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "I think I have LLM burnout",
       "url": "https://www.alecscollon.com/blog/llm-burnout/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783562188,
-      "score": 83,
+      "score": 313,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783556877,
-      "score": 26,
-      "category": "tools",
+      "score": 68,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783553863,
-      "score": 384,
-      "category": "llm",
+      "score": 710,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,21 +61,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783553234,
-      "score": 79,
+      "score": 147,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
-      "url": "https://github.com/animesh-94/Onboard-CLI",
+      "title": "Benchmarking coding agents on Databricks' multi-million line codebase",
+      "url": "https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783541343,
-      "score": 20,
-      "category": "industry",
+      "ts": 1783546209,
+      "score": 65,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783532772,
-      "score": 218,
-      "category": "industry",
+      "score": 265,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783530199,
-      "score": 614,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-      "url": "https://cognition.com/blog/swe-1-7",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783527576,
-      "score": 257,
-      "category": "industry",
+      "score": 686,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783519757,
-      "score": 425,
+      "score": 461,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,46 +126,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783428466,
-      "score": 65,
+      "score": 150,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
-      "url": "https://github.com/Rodiun/frugon",
-      "desc": "I started leaning in on AI heavily this year, as I wanted to get more done autonomously, but then my token usage climbed dramatically to the point where my weekly quota would run out before the end of",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783426854,
-      "score": 15,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Follow London Trains in 3D",
-      "url": "https://ride.nexttrain.london/",
-      "desc": "deck.gl based visualiser of the TFL Api + National Rails to be able to track (with minimal drift) a train along the way in London and to the nearest airports. If you pick one from any platform in http",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783181466,
-      "score": 130,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
-      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+      "title": "3D Airplane tracker on Mercator map",
+      "url": "https://github.com/jamalrfordii-arch/Vanguard-Map",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783115167,
-      "score": 385,
+      "ts": 1783201989,
+      "score": 7,
       "category": "industry",
       "tags": [
         "国际"
@@ -212,7 +186,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     }
   ]
