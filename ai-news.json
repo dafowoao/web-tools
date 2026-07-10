@@ -1,16 +1,42 @@
 {
-  "updated": "2026-07-10 14:25 UTC",
+  "updated": "2026-07-10 17:47 UTC",
   "count": 18,
   "items": [
     {
-      "title": "Man nearly sucked out of 'detached' window on Ryanair flight",
-      "url": "https://www.rte.ie/news/2026/0710/1582735-world-ryanair/",
+      "title": "Eight facts about air conditioning amid an overheated global debate",
+      "url": "https://www.carbonbrief.org/eight-facts-about-air-conditioning-amid-an-overheated-global-debate/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783690831,
+      "ts": 1783702240,
       "score": 5,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material",
+      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783701472,
+      "score": 39,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Hands-On with the AMD Ryzen AI Halo",
+      "url": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783699598,
+      "score": 12,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,46 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783690380,
-      "score": 65,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How do you use Vim in the era of AI?",
-      "url": "https://news.ycombinator.com/item?id=48859439",
-      "desc": "I&#x27;m a heavy vim user, but now that I look at the code less and less I&#x27;m wondering if it still makes sense.",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783689090,
-      "score": 22,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ryanair Passenger Sucked Toward Broken Window After Midair Engine Failure",
-      "url": "https://simpleflying.com/ryanair-thessaloniki-diversion-window-damage/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783686710,
-      "score": 31,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't",
-      "url": "https://vettedconsumer.com/unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant-and-where-they-slow-down/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783680026,
-      "score": 6,
+      "score": 236,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783669151,
-      "score": 151,
-      "category": "llm",
+      "score": 224,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783630266,
-      "score": 114,
-      "category": "llm",
+      "score": 131,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Reviving my 2001 college band with AI",
+      "url": "https://www.fadingmaize.com",
+      "desc": "25 years ago, I joined a band called Fading Maize at Ripon College in Wisconsin. We did what we could with what we had. We recorded 3 albums over the next 3 years and played at as many bars and coffee",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783626577,
+      "score": 22,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,7 +100,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783616654,
-      "score": 1414,
+      "score": 1482,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Reverse-engineering web apps into agent tools",
+      "url": "https://news.ycombinator.com/item?id=48847834",
+      "desc": "Hey HN! We built a browser-based agent that runs inside an authenticated web app, watches how the app calls its own APIs, and automatically turns those into agent tools. You can think of it as an auto",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783611917,
+      "score": 39,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783610919,
-      "score": 104,
+      "score": 108,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Muse Spark 1.1",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-      "desc": "https:&#x2F;&#x2F;ai.meta.com&#x2F;static-resource&#x2F;muse-spark-1-1-evaluatio... [pdf]https:&#x2F;&#x2F;developer.meta.com&#x2F;ai&#x2F;resources&#x2F;blog&#x2F;build-with-muse...https:&#x2F;&#x2F;",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783606222,
-      "score": 393,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,20 +139,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783584304,
-      "score": 773,
-      "category": "industry",
+      "score": 815,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Girls just wanna have fast MPMC queues with bounded waiting",
-      "url": "https://nahla.dev/blog/waitfree_queue/",
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783367190,
-      "score": 189,
+      "ts": 1783553863,
+      "score": 1351,
       "category": "tools",
       "tags": [
         "国际"
@@ -165,7 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783349961,
-      "score": 133,
+      "score": 171,
       "category": "industry",
       "tags": [
         "国际"
@@ -178,7 +178,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783240827,
-      "score": 729,
+      "score": 799,
       "category": "industry",
       "tags": [
         "国际"
@@ -192,7 +192,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -225,7 +225,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     }
   ]
