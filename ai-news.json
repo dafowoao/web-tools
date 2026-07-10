@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-10 10:53 UTC",
-  "count": 16,
+  "updated": "2026-07-10 14:25 UTC",
+  "count": 18,
   "items": [
+    {
+      "title": "Man nearly sucked out of 'detached' window on Ryanair flight",
+      "url": "https://www.rte.ie/news/2026/0710/1582735-world-ryanair/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783690831,
+      "score": 5,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Write code like a human will maintain it",
+      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783690380,
+      "score": 65,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How do you use Vim in the era of AI?",
+      "url": "https://news.ycombinator.com/item?id=48859439",
+      "desc": "I&#x27;m a heavy vim user, but now that I look at the code less and less I&#x27;m wondering if it still makes sense.",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783689090,
+      "score": 22,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ryanair Passenger Sucked Toward Broken Window After Midair Engine Failure",
+      "url": "https://simpleflying.com/ryanair-thessaloniki-diversion-window-damage/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783686710,
+      "score": 31,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Unified Memory, Explained: Why Mini PCs Can Run 70B Models a Big GPU Can't",
+      "url": "https://vettedconsumer.com/unified-memory-explained-why-mini-pcs-can-run-70b-models-a-big-gpu-cant-and-where-they-slow-down/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783680026,
+      "score": 6,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "AI-generated videos to maximally drive a target brain region",
       "url": "https://nevo-project.epfl.ch/",
@@ -9,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783669151,
-      "score": 68,
+      "score": 151,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783630266,
-      "score": 91,
-      "category": "tools",
+      "score": 114,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783616654,
-      "score": 1307,
+      "score": 1414,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI content is everywhere on social media, especially LinkedIn",
-      "url": "https://www.pangram.com/blog/ai-in-your-feed",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783612209,
-      "score": 219,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783610919,
-      "score": 98,
-      "category": "industry",
+      "score": 104,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783606222,
-      "score": 377,
-      "category": "tools",
+      "score": 393,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,20 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783584304,
-      "score": 705,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783553863,
-      "score": 1326,
+      "score": 773,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783367190,
-      "score": 176,
-      "category": "industry",
+      "score": 189,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,21 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783349961,
-      "score": 82,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Triple Dragon Fractal (2020)",
-      "url": "https://paulbourke.net/fractals/tripledragon/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783345018,
-      "score": 52,
-      "category": "tools",
+      "score": 133,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,8 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783240827,
-      "score": 627,
-      "category": "tools",
+      "score": 729,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -166,7 +192,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
