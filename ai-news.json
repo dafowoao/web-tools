@@ -1,55 +1,29 @@
 {
-  "updated": "2026-07-09 21:23 UTC",
-  "count": 22,
+  "updated": "2026-07-10 03:18 UTC",
+  "count": 18,
   "items": [
+    {
+      "title": "Show HN: Rubiks Cube Solver",
+      "url": "https://speedcube.com.br/",
+      "desc": "Speedcube is an open-source platform for speedcubers featuring a Rubik&#x27;s Cube solver, competition timer, algorithm library, and AI-assisted cube recognition directly in the browser.Built with Rea",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783631345,
+      "score": 16,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Building a real-time AI tutor for 5-year-olds",
       "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
-      "desc": "",
+      "desc": "Hey HN! We&#x27;ve spent the good part of this past year building an AI tutor that teaches kids ages 4-9 reading, math, ESL and more. Getting an AI tutor to effectively teach a child turns out to be a",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783630266,
-      "score": 5,
+      "score": 55,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: RandoFont, a browser for Google Fonts",
-      "url": "https://randofont.alesh.com",
-      "desc": "Inevitably when starting a new web project I want to pick the perfect font. This is just a browser that shows Google Fonts, randomly, and lets me tag favorites.I built this years ago and just used AI ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783629998,
-      "score": 8,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Pylon Sync, an agent-first full-stack realtime framework",
-      "url": "https://www.pylonsync.com",
-      "desc": "I created Pylon to make it easier to move from hobby projects to full production apps.When I work on hobby projects, I usually use React or Next.js because they are quick to set up and easy to deploy ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783618698,
-      "score": 6,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I built a web tool to see and edit what an AI thinks before it answers",
-      "url": "https://lucid.earthpilot.ai",
-      "desc": "I run a small AI lab and playground and got super excited about Anthropics paper &quot;Verbalizable Representations Form a Global Workspace in Language Models&quot; (https:&#x2F;&#x2F;transformer-circ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783618590,
-      "score": 4,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783616654,
-      "score": 806,
+      "score": 1101,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783616633,
-      "score": 286,
-      "category": "tools",
+      "score": 327,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783612209,
-      "score": 130,
+      "score": 200,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Sighthound - open-source vulnerability scanner for source code",
-      "url": "https://github.com/Corgea/Sighthound",
-      "desc": "We&#x27;re open-sourcing Sighthound today, our rules-based static security scanner. What makes it special is that it&#x27;s coded in rust and uses tree-sitter as it&#x27;s AST making it very fast and ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783611015,
-      "score": 4,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783610919,
-      "score": 57,
+      "score": 76,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Why the Next Era of AI Is About Infrastructure, Not Just Models",
-      "url": "https://blog.mozilla.ai/the-control-layer-why-the-next-era-of-ai-is-about-infrastructure-not-just-models/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783608601,
-      "score": 26,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783606222,
-      "score": 280,
-      "category": "industry",
+      "score": 334,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783584304,
-      "score": 77,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI changes the economics of software rewrites",
-      "url": "https://thetruthasiseeitnow.com/ai-slop-starts-with-the-codebase-itself/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783576010,
-      "score": 93,
-      "category": "llm",
+      "score": 433,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -178,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783567562,
-      "score": 54,
-      "category": "llm",
+      "score": 66,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -191,21 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783563804,
-      "score": 49,
+      "score": 62,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",
-      "url": "https://abralo.com/",
-      "desc": "Hi guys,I&#x27;ve been using Claude Code for almost everything lately. Have given one an email account so it can research business leads, draft emails, fact-check them and clear them with me before se",
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783522499,
-      "score": 17,
-      "category": "industry",
+      "ts": 1783553863,
+      "score": 1298,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -217,21 +152,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783367190,
-      "score": 94,
+      "score": 142,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Train SIM Created by Just One Person Is Being Called the Best Ever Made",
-      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+      "title": "Triple Dragon Fractal (2020)",
+      "url": "https://paulbourke.net/fractals/tripledragon/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
+      "ts": 1783345018,
+      "score": 23,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Train sim created by just one person is being called the best ever made",
+      "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+      "desc": "https:&#x2F;&#x2F;store.steampowered.com&#x2F;app&#x2F;4630570&#x2F;RUNNING_TRAIN&#x2F;",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
       "ts": 1783240827,
-      "score": 101,
-      "category": "tools",
+      "score": 326,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -255,7 +203,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -277,7 +225,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
