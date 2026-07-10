@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-10 07:34 UTC",
-  "count": 18,
+  "updated": "2026-07-10 10:53 UTC",
+  "count": 16,
   "items": [
+    {
+      "title": "AI-generated videos to maximally drive a target brain region",
+      "url": "https://nevo-project.epfl.ch/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783669151,
+      "score": 68,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Building a real-time AI tutor for 5-year-olds",
       "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
@@ -9,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783630266,
-      "score": 81,
-      "category": "llm",
+      "score": 91,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783616654,
-      "score": 1213,
+      "score": 1307,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783612209,
-      "score": 213,
-      "category": "industry",
+      "score": 219,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783610919,
-      "score": 91,
-      "category": "llm",
+      "score": 98,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783606222,
-      "score": 363,
+      "score": 377,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,34 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783584304,
-      "score": 582,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "What's slowing down the AI buildout",
-      "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783567562,
-      "score": 70,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I mapped 8.5M research papers into an interactive atlas",
-      "url": "https://tomesphere.com/atlas",
-      "desc": "When I read papers, I have to jump between multiple tabs to find the dataset, code, videos, peer reviews, and so on. I tried to fix this with this project.It started as a project just for papers on ar",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783563804,
-      "score": 69,
-      "category": "industry",
+      "score": 705,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783553863,
-      "score": 1312,
+      "score": 1326,
       "category": "industry",
       "tags": [
         "国际"
@@ -126,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783367190,
-      "score": 153,
-      "category": "tools",
+      "score": 176,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783349961,
-      "score": 63,
-      "category": "tools",
+      "score": 82,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783345018,
-      "score": 41,
-      "category": "llm",
+      "score": 52,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -165,20 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783240827,
-      "score": 492,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Meta reuses old RAM in new servers with custom bridge chip",
-      "url": "https://www.theregister.com/systems/2026/06/29/zuck-saves-meta-bucks-by-reusing-memory-from-old-servers-with-a-custom-cxl-asic/5263483",
-      "desc": "https:&#x2F;&#x2F;aisystemcodesign.github.io&#x2F;papers&#x2F;isca26&#x2F;vistara_cam...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783106825,
-      "score": 310,
+      "score": 627,
       "category": "tools",
       "tags": [
         "国际"
@@ -192,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -203,7 +177,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -225,7 +199,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
