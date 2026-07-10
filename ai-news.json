@@ -1,20 +1,7 @@
 {
-  "updated": "2026-07-10 03:18 UTC",
+  "updated": "2026-07-10 07:34 UTC",
   "count": 18,
   "items": [
-    {
-      "title": "Show HN: Rubiks Cube Solver",
-      "url": "https://speedcube.com.br/",
-      "desc": "Speedcube is an open-source platform for speedcubers featuring a Rubik&#x27;s Cube solver, competition timer, algorithm library, and AI-assisted cube recognition directly in the browser.Built with Rea",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783631345,
-      "score": 16,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "Building a real-time AI tutor for 5-year-olds",
       "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
@@ -22,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783630266,
-      "score": 55,
-      "category": "tools",
+      "score": 81,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,21 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783616654,
-      "score": 1101,
+      "score": 1213,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "ChatGPT Work",
-      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783616633,
-      "score": 327,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783612209,
-      "score": 200,
-      "category": "tools",
+      "score": 213,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783610919,
-      "score": 76,
-      "category": "tools",
+      "score": 91,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783606222,
-      "score": 334,
-      "category": "llm",
+      "score": 363,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783584304,
-      "score": 433,
-      "category": "tools",
+      "score": 582,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783567562,
-      "score": 66,
-      "category": "tools",
+      "score": 70,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783563804,
-      "score": 62,
+      "score": 69,
       "category": "industry",
       "tags": [
         "国际"
@@ -139,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783553863,
-      "score": 1298,
-      "category": "tools",
+      "score": 1312,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,7 +126,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783367190,
-      "score": 142,
+      "score": 153,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783349961,
+      "score": 63,
       "category": "tools",
       "tags": [
         "国际"
@@ -165,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783345018,
-      "score": 23,
+      "score": 41,
       "category": "llm",
       "tags": [
         "国际"
@@ -178,8 +165,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783240827,
-      "score": 326,
-      "category": "industry",
+      "score": 492,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Meta reuses old RAM in new servers with custom bridge chip",
+      "url": "https://www.theregister.com/systems/2026/06/29/zuck-saves-meta-bucks-by-reusing-memory-from-old-servers-with-a-custom-cxl-asic/5263483",
+      "desc": "https:&#x2F;&#x2F;aisystemcodesign.github.io&#x2F;papers&#x2F;isca26&#x2F;vistara_cam...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783106825,
+      "score": 310,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -203,7 +203,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -225,7 +225,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
