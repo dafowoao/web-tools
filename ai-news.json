@@ -1,20 +1,7 @@
 {
-  "updated": "2026-07-11 02:36 UTC",
-  "count": 15,
+  "updated": "2026-07-11 06:12 UTC",
+  "count": 14,
   "items": [
-    {
-      "title": "Meta pulls new AI image feature after days of backlash",
-      "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783730436,
-      "score": 26,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
       "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
@@ -22,7 +9,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783716429,
-      "score": 597,
+      "score": 857,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783709366,
-      "score": 182,
-      "category": "llm",
+      "score": 200,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783708159,
-      "score": 358,
-      "category": "llm",
+      "score": 413,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783701472,
-      "score": 156,
-      "category": "industry",
+      "score": 174,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783626577,
-      "score": 52,
+      "score": 53,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783614104,
-      "score": 157,
-      "category": "llm",
+      "score": 214,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783611917,
-      "score": 80,
-      "category": "llm",
+      "score": 81,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783595778,
-      "score": 59,
-      "category": "industry",
+      "score": 72,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783584304,
-      "score": 832,
-      "category": "llm",
+      "score": 843,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783426854,
-      "score": 56,
+      "score": 57,
       "category": "industry",
       "tags": [
         "国际"
@@ -164,7 +151,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -186,7 +173,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
