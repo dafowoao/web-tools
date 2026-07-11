@@ -1,16 +1,29 @@
 {
-  "updated": "2026-07-10 21:05 UTC",
+  "updated": "2026-07-11 02:36 UTC",
   "count": 15,
   "items": [
     {
-      "title": "Don't discontinue Gemini 2.5 Flash",
-      "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783713628,
-      "score": 18,
-      "category": "llm",
+      "ts": 1783730436,
+      "score": 26,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "desc": "https:&#x2F;&#x2F;www.macrumors.com&#x2F;2026&#x2F;07&#x2F;10&#x2F;apple-sues-openai&#x2F;",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783716429,
+      "score": 597,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783709366,
-      "score": 70,
-      "category": "industry",
+      "score": 182,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -31,12 +44,12 @@
     {
       "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
       "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "desc": "",
+      "desc": "https:&#x2F;&#x2F;x.com&#x2F;__eknight__&#x2F;status&#x2F;2075643450196971805, https:&#x2F;&#x2F;xcancel.com&#x2F;__eknight__&#x2F;status&#x2F;2075643450196971805Prompt: https:&#x2F;&#x2F;cdn.openai.c",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783708159,
-      "score": 187,
-      "category": "industry",
+      "score": 358,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,33 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783701472,
-      "score": 122,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Hands-On with the AMD Ryzen AI Halo",
-      "url": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783699598,
-      "score": 34,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Write code like a human will maintain it",
-      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783690380,
-      "score": 299,
+      "score": 156,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,20 +74,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783626577,
-      "score": 41,
+      "score": 52,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "GPT-5.6",
-      "url": "https://openai.com/index/gpt-5-6/",
-      "desc": "https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6&#x2F;gpt-5-6.pdfhttps:&#x2F;&#x2F;developers.openai.com&#x2F;api&#x2F;docs&#x2F;guides&#x2F;latest-modelhttps:&#x2F;&#x2F;x.com&#x2F;levie&#x",
+      "title": "AI 2040: Plan A",
+      "url": "https://ai-2040.com/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783616654,
-      "score": 1507,
+      "ts": 1783614104,
+      "score": 157,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783611917,
-      "score": 74,
-      "category": "tools",
+      "score": 80,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,21 +113,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783595778,
-      "score": 22,
+      "score": 59,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-      "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-      "desc": "",
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "url": "https://github.com/JustVugg/colibri",
+      "desc": "A few days ago I found myself trying out GLM 5.2 and was really positively impressed. The capabilities and security I was getting from this LLM are similar to those I&#x27;ve gotten from models like C",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783349961,
-      "score": 187,
-      "category": "tools",
+      "ts": 1783584304,
+      "score": 832,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
+      "url": "https://github.com/Rodiun/frugon",
+      "desc": "I started leaning in on AI heavily this year, as I wanted to get more done autonomously, but then my token usage climbed dramatically to the point where my weekly quota would run out before the end of",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783426854,
+      "score": 56,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -164,7 +164,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -186,7 +186,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
