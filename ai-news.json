@@ -1,20 +1,7 @@
 {
-  "updated": "2026-07-11 09:37 UTC",
-  "count": 11,
+  "updated": "2026-07-11 13:18 UTC",
+  "count": 12,
   "items": [
-    {
-      "title": "Companies are scrambling to curtail soaring AI costs",
-      "url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783758583,
-      "score": 24,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
       "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
@@ -22,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783716429,
-      "score": 1055,
-      "category": "industry",
+      "score": 1218,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783708159,
-      "score": 450,
+      "score": 483,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,7 +35,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783701472,
-      "score": 187,
+      "score": 207,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GPT-5.6",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "desc": "https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-5-6&#x2F;gpt-5-6.pdfhttps:&#x2F;&#x2F;developers.openai.com&#x2F;api&#x2F;docs&#x2F;guides&#x2F;latest-modelhttps:&#x2F;&#x2F;x.com&#x2F;levie&#x",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783616654,
+      "score": 1529,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783614104,
-      "score": 259,
-      "category": "tools",
+      "score": 307,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783595778,
-      "score": 74,
-      "category": "llm",
+      "score": 76,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783584304,
-      "score": 855,
-      "category": "tools",
+      "score": 869,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: HTMLDrive – serve HTML files from your Google Drive",
+      "url": "https://html-drive.com",
+      "desc": "I found that AI tools are generating excellent HTML documents nowadays, yet there&#x27;s no easy way to show them to others. Yes, there&#x27;s GitHub pages - but I don&#x27;t know if it is user-friend",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783446014,
+      "score": 12,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -101,7 +114,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -112,7 +125,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -134,7 +147,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
