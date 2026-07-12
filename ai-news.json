@@ -1,15 +1,93 @@
 {
-  "updated": "2026-07-12 16:58 UTC",
-  "count": 18,
+  "updated": "2026-07-12 20:47 UTC",
+  "count": 17,
   "items": [
     {
-      "title": "A no-brainer for protecting your brain",
-      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+      "title": "Let's talk about: LinkedIn ghost jobs",
+      "url": "https://news.ycombinator.com/item?id=48884204",
+      "desc": "LinkedIn has an obvious problem with ghost job postings.A good example: received an email of matched jobs. Opened it and followed one specific link only to see they were no longer accepting applicatio",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783886692,
+      "score": 6,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The One-Step Trap (In AI Research)",
+      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783869839,
-      "score": 36,
+      "ts": 1783881675,
+      "score": 18,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "I love LLMs, I hate hype",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783881116,
+      "score": 167,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "desc": "This started based off of a hunch. We usually use OpenCode, but were &#x27;forced&#x27; to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783880751,
+      "score": 254,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "I Learned to Read Again",
+      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783880535,
+      "score": 30,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Against Usefulness",
+      "url": "https://www.motivenotes.ai/p/against-usefulness",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783878427,
+      "score": 52,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783876387,
+      "score": 37,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,71 +100,6 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783866720,
-      "score": 6,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Agent Harness Engineering",
-      "url": "https://addyosmani.com/blog/agent-harness-engineering/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783865791,
-      "score": 3,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Kurvengefahr – browser CAD/CAM for pen plotters",
-      "url": "https://kurvengefahr.org/",
-      "desc": "A few years ago I made a pen plotter attachment for Prusa MK4 (https:&#x2F;&#x2F;www.printables.com&#x2F;model&#x2F;827264-pen-plotter-attachme...) and at the time I didn&#x27;t have a good way to tur",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783865363,
-      "score": 3,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Skillscript – A declarative, sandboxed language for tool orchestration",
-      "url": "https://github.com/sshwarts/skillscript",
-      "desc": "Hi HN — I&#x27;m Scott. Skillscript is a small language I built to write what I want my local agent to actually do, in a form I can read and version, instead of hoping the model gets it right each tim",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783863240,
-      "score": 7,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
-      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783862773,
-      "score": 86,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Gina Gallery of International Naive Art",
-      "url": "https://www.ginagallery.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783862314,
       "score": 25,
       "category": "llm",
       "tags": [
@@ -94,92 +107,66 @@
       ]
     },
     {
-      "title": "Old and new apps, via modern coding agents by Terry Tao",
+      "title": "AI boosts research careers but narrow the span of ideas explored: study",
+      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783862773,
+      "score": 130,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Old and new apps, via modern coding agents",
       "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783854582,
-      "score": 264,
+      "score": 371,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-      "url": "https://github.com/cosmtrek/mindwalk",
+      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783835492,
-      "score": 132,
+      "ts": 1783818590,
+      "score": 374,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Abject Praise",
+      "url": "https://infrequently.org/2026/07/abject-praise/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783427775,
+      "score": 13,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "desc": "",
+      "title": "Show HN: Nectar, a Rust-like React that compiles to WebAssembly",
+      "url": "https://buildnectar.com",
+      "desc": "After a pretty rough gig experience, I wanted to remind myself that I was a vaguely capable developer. I had recently jumped on the Rust train and wanted a Rust equivalent of React that is more perfor",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783809537,
-      "score": 313,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-      "url": "https://antjs.org",
-      "desc": "Hello HN!I&#x27;m the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for d",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783800438,
-      "score": 311,
+      "ts": 1783351014,
+      "score": 20,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Modern decor may be straining people's brains",
-      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783787328,
-      "score": 257,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Relm – local LLMs as base-R objects, with interpretability",
-      "url": "https://github.com/Vadale/R-ebirth",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783591108,
-      "score": 5,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "An agent in 100 lines of Lisp",
-      "url": "https://thebeach.dev/posts/lisp-agent/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783459269,
-      "score": 213,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -192,7 +179,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -203,7 +190,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
