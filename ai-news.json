@@ -1,7 +1,98 @@
 {
-  "updated": "2026-07-12 13:19 UTC",
-  "count": 12,
+  "updated": "2026-07-12 16:58 UTC",
+  "count": 18,
   "items": [
+    {
+      "title": "A no-brainer for protecting your brain",
+      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783869839,
+      "score": 36,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Autoresearch, Claude and Constrained Optimization",
+      "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783866720,
+      "score": 6,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Agent Harness Engineering",
+      "url": "https://addyosmani.com/blog/agent-harness-engineering/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783865791,
+      "score": 3,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Kurvengefahr – browser CAD/CAM for pen plotters",
+      "url": "https://kurvengefahr.org/",
+      "desc": "A few years ago I made a pen plotter attachment for Prusa MK4 (https:&#x2F;&#x2F;www.printables.com&#x2F;model&#x2F;827264-pen-plotter-attachme...) and at the time I didn&#x27;t have a good way to tur",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783865363,
+      "score": 3,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Skillscript – A declarative, sandboxed language for tool orchestration",
+      "url": "https://github.com/sshwarts/skillscript",
+      "desc": "Hi HN — I&#x27;m Scott. Skillscript is a small language I built to write what I want my local agent to actually do, in a form I can read and version, instead of hoping the model gets it right each tim",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783863240,
+      "score": 7,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
+      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783862773,
+      "score": 86,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Gina Gallery of International Naive Art",
+      "url": "https://www.ginagallery.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783862314,
+      "score": 25,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Old and new apps, via modern coding agents by Terry Tao",
       "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
@@ -9,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783854582,
-      "score": 93,
+      "score": 264,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783835492,
-      "score": 98,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
-      "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783828814,
-      "score": 127,
-      "category": "tools",
+      "score": 132,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783809537,
-      "score": 283,
+      "score": 313,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,20 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783800438,
-      "score": 290,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
-      "url": "https://nagylukas.github.io/orbit.html",
-      "desc": "Hey HN! I made Orbit, an iOS app that allows you to see the satellites, planets, and constellations above you in AR, on a 2D map, and on a 3D globe.\nThe app includes more than 15,000 objects tracked b",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783787942,
-      "score": 82,
+      "score": 311,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,7 +152,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783787328,
-      "score": 221,
+      "score": 257,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Relm – local LLMs as base-R objects, with interpretability",
+      "url": "https://github.com/Vadale/R-ebirth",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783591108,
+      "score": 5,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,7 +178,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783459269,
-      "score": 182,
+      "score": 213,
       "category": "llm",
       "tags": [
         "国际"
@@ -114,7 +192,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -125,7 +203,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -147,7 +225,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     }
   ]
