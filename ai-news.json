@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-12 06:32 UTC",
+  "updated": "2026-07-12 09:50 UTC",
   "count": 14,
   "items": [
+    {
+      "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783835492,
+      "score": 48,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
       "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
@@ -9,21 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783828814,
-      "score": 43,
+      "score": 90,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "What xAI's Grok Build CLI Actually Sends to xAI",
-      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783818590,
-      "score": 227,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783810446,
-      "score": 32,
-      "category": "industry",
+      "score": 57,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783809537,
-      "score": 182,
-      "category": "llm",
+      "score": 257,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783800438,
-      "score": 231,
+      "score": 269,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Wealthy AI workers send San Francisco house prices soaring",
-      "url": "https://www.bbc.com/news/articles/c9q29j47v9ro",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783800398,
-      "score": 31,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783800222,
-      "score": 29,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Female US rower completes historic solo journey from California to Hawaii",
-      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783789403,
-      "score": 285,
-      "category": "industry",
+      "score": 31,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783787942,
-      "score": 71,
+      "score": 77,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Modern decor may be straining people's brains",
+      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783787328,
+      "score": 189,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,7 +113,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783459269,
-      "score": 103,
+      "score": 149,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Sixteen Failed Attempts to Write a Eulogy for My Father (2024)",
+      "url": "https://jude-doyle.ghost.io/untitled-21/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783451241,
+      "score": 4,
       "category": "tools",
       "tags": [
         "国际"
