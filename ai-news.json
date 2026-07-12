@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-12 02:44 UTC",
-  "count": 11,
+  "updated": "2026-07-12 06:32 UTC",
+  "count": 14,
   "items": [
+    {
+      "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+      "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783828814,
+      "score": 43,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "What xAI's Grok Build CLI Actually Sends to xAI",
       "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
@@ -9,7 +22,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783818590,
-      "score": 9,
+      "score": 227,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
+      "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783810446,
+      "score": 32,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783809537,
-      "score": 110,
-      "category": "tools",
+      "score": 182,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783800438,
-      "score": 188,
-      "category": "llm",
+      "score": 231,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783800398,
-      "score": 18,
-      "category": "tools",
+      "score": 31,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783800222,
-      "score": 20,
-      "category": "industry",
+      "score": 29,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783789403,
-      "score": 268,
-      "category": "llm",
+      "score": 285,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783787942,
-      "score": 61,
+      "score": 71,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "An agent in 100 lines of Lisp",
+      "url": "https://thebeach.dev/posts/lisp-agent/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783459269,
+      "score": 103,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -101,7 +140,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -112,7 +151,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -134,7 +173,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
