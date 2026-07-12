@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-12 09:50 UTC",
-  "count": 14,
+  "updated": "2026-07-12 13:19 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "Old and new apps, via modern coding agents by Terry Tao",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783854582,
+      "score": 93,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
       "url": "https://github.com/cosmtrek/mindwalk",
@@ -9,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783835492,
-      "score": 48,
+      "score": 98,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,21 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783828814,
-      "score": 90,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
-      "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783810446,
-      "score": 57,
-      "category": "llm",
+      "score": 127,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783809537,
-      "score": 257,
-      "category": "industry",
+      "score": 283,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,20 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783800438,
-      "score": 269,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-      "url": "https://github.com/sqlsure/sqlsure",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783800222,
-      "score": 31,
+      "score": 290,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783787942,
-      "score": 77,
-      "category": "llm",
+      "score": 82,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783787328,
-      "score": 189,
-      "category": "industry",
+      "score": 221,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783459269,
-      "score": 149,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Sixteen Failed Attempts to Write a Eulogy for My Father (2024)",
-      "url": "https://jude-doyle.ghost.io/untitled-21/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783451241,
-      "score": 4,
-      "category": "tools",
+      "score": 182,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -151,7 +125,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -173,7 +147,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
