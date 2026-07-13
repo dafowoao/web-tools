@@ -1,16 +1,42 @@
 {
-  "updated": "2026-07-12 20:47 UTC",
-  "count": 17,
+  "updated": "2026-07-13 02:45 UTC",
+  "count": 16,
   "items": [
     {
-      "title": "Let's talk about: LinkedIn ghost jobs",
-      "url": "https://news.ycombinator.com/item?id=48884204",
-      "desc": "LinkedIn has an obvious problem with ghost job postings.A good example: received an email of matched jobs. Opened it and followed one specific link only to see they were no longer accepting applicatio",
+      "title": "Ask HN: Add flag for AI-generated articles",
+      "url": "https://news.ycombinator.com/item?id=48886741",
+      "desc": "Should HN add the ability to flag articles as AI-generated? This doesn&#x27;t have to act as a regular flag, i.e., it won&#x27;t de-rank the article; it could just show up as an indicator, allowing ot",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783886692,
-      "score": 6,
-      "category": "tools",
+      "ts": 1783905860,
+      "score": 106,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Codebase Posters – turn any Git repo into generative poster art",
+      "url": "https://github.com/unable12/codebase-posters",
+      "desc": "npx codebase-posters inside any git repo opens a local exhibition: 18 pieces painted live from your commit history.everything renders from git log, nothing leaves your machine.",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783895174,
+      "score": 10,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
+      "url": "https://nanduruganesh.github.io/flash-msa/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783889203,
+      "score": 24,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783881675,
-      "score": 18,
-      "category": "llm",
+      "score": 45,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783881116,
-      "score": 167,
-      "category": "industry",
+      "score": 336,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783880751,
-      "score": 254,
-      "category": "llm",
+      "score": 476,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783880535,
-      "score": 30,
+      "score": 107,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
+      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+      "desc": "https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2301.04709",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783879481,
+      "score": 84,
+      "category": "research",
       "tags": [
         "国际"
       ]
@@ -74,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783878427,
-      "score": 52,
-      "category": "llm",
+      "score": 86,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,34 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783876387,
-      "score": 37,
+      "score": 146,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Autoresearch, Claude and Constrained Optimization",
-      "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783866720,
-      "score": 25,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI boosts research careers but narrow the span of ideas explored: study",
-      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783862773,
-      "score": 130,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783854582,
-      "score": 371,
-      "category": "tools",
+      "score": 420,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,33 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783818590,
-      "score": 374,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Abject Praise",
-      "url": "https://infrequently.org/2026/07/abject-praise/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783427775,
-      "score": 13,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Nectar, a Rust-like React that compiles to WebAssembly",
-      "url": "https://buildnectar.com",
-      "desc": "After a pretty rough gig experience, I wanted to remind myself that I was a vaguely capable developer. I had recently jumped on the Rust train and wanted a Rust equivalent of React that is more perfor",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783351014,
-      "score": 20,
+      "score": 404,
       "category": "industry",
       "tags": [
         "国际"
@@ -179,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -212,7 +199,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
