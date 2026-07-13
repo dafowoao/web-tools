@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-13 02:45 UTC",
-  "count": 16,
+  "updated": "2026-07-13 06:52 UTC",
+  "count": 15,
   "items": [
     {
       "title": "Ask HN: Add flag for AI-generated articles",
@@ -9,21 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783905860,
-      "score": 106,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Codebase Posters – turn any Git repo into generative poster art",
-      "url": "https://github.com/unable12/codebase-posters",
-      "desc": "npx codebase-posters inside any git repo opens a local exhibition: 18 pieces painted live from your commit history.everything renders from git log, nothing leaves your machine.",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783895174,
-      "score": 10,
-      "category": "industry",
+      "score": 468,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783889203,
-      "score": 24,
-      "category": "llm",
+      "score": 34,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783881675,
-      "score": 45,
-      "category": "industry",
+      "score": 48,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783881116,
-      "score": 336,
+      "score": 400,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783880751,
-      "score": 476,
-      "category": "tools",
+      "score": 544,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783880535,
-      "score": 107,
-      "category": "industry",
+      "score": 129,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783879481,
-      "score": 84,
+      "score": 94,
       "category": "research",
       "tags": [
         "国际"
@@ -113,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783878427,
-      "score": 86,
-      "category": "industry",
+      "score": 100,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783876387,
-      "score": 146,
-      "category": "llm",
+      "score": 190,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783854582,
-      "score": 420,
+      "score": 428,
       "category": "industry",
       "tags": [
         "国际"
@@ -152,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783818590,
-      "score": 404,
+      "score": 454,
       "category": "industry",
       "tags": [
         "国际"
@@ -177,7 +164,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -199,7 +186,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
