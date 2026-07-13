@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-13 11:10 UTC",
-  "count": 18,
+  "updated": "2026-07-13 14:33 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
+      "url": "https://github.com/clawkwork/clawk",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783951323,
+      "score": 12,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Grok uploaded my user directory to xAI's servers",
+      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783949999,
+      "score": 102,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
       "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
@@ -9,20 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783931979,
-      "score": 326,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Berkshire's $397B Bet Against an Overheated Market",
-      "url": "https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783930552,
-      "score": 52,
+      "score": 915,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783929870,
-      "score": 77,
+      "score": 150,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Loot Raiders – an ARC Raiders-inspired inventory game in Svelte",
-      "url": "https://loot-raiders.vercel.app",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783927393,
-      "score": 4,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783905860,
-      "score": 721,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I love LLMs, I hate hype",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783881116,
-      "score": 433,
-      "category": "industry",
+      "score": 842,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783880751,
-      "score": 604,
+      "score": 659,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,33 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783880535,
-      "score": 159,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
-      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
-      "desc": "https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2301.04709",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783879481,
-      "score": 102,
-      "category": "research",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Against Usefulness",
-      "url": "https://www.motivenotes.ai/p/against-usefulness",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783878427,
-      "score": 111,
+      "score": 165,
       "category": "tools",
       "tags": [
         "国际"
@@ -139,34 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783876387,
-      "score": 213,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
-      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783818590,
-      "score": 479,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Does anyone let AI agents play games just for fun?",
-      "url": "https://news.ycombinator.com/item?id=48848741",
-      "desc": "We&#x27;ve seen AI agents write code&#x2F;debug systems&#x2F;browse the web and automate all kinds of work. \nBut does anyone let them play games - not for benchmarking or research - just for fun?I&#x2",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783615359,
-      "score": 6,
-      "category": "tools",
+      "score": 233,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -178,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783593936,
-      "score": 20,
-      "category": "tools",
+      "score": 40,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -192,7 +127,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -203,7 +138,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -225,7 +160,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
