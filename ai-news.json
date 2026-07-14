@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-14 02:28 UTC",
-  "count": 20,
+  "updated": "2026-07-14 06:10 UTC",
+  "count": 16,
   "items": [
     {
       "title": "Building Food Metadata with LLM Juries",
@@ -9,21 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783993309,
-      "score": 5,
+      "score": 27,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: MemStitch – Zero-copy context bridging for vLLM (25x TTFT speedup)",
-      "url": "https://github.com/DaqulaLin/MemStitch",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783991042,
-      "score": 6,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,21 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783985212,
-      "score": 14,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: ContextVault – Shared memory layer for your AI and your team",
-      "url": "https://www.contextvault.dev/",
-      "desc": "Hi HN,I&#x27;m Kevin. I built ContextVault because I kept running into the same problem with AI tools.Every project accumulated prompts, coding conventions, architectural decisions, examples, and othe",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783984938,
-      "score": 8,
-      "category": "tools",
+      "score": 31,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783984602,
-      "score": 13,
-      "category": "llm",
+      "score": 25,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783979031,
-      "score": 29,
-      "category": "tools",
+      "score": 51,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783973594,
-      "score": 75,
-      "category": "llm",
+      "score": 94,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783972903,
-      "score": 283,
-      "category": "tools",
+      "score": 301,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783972810,
-      "score": 60,
-      "category": "llm",
+      "score": 77,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783972345,
-      "score": 262,
+      "score": 296,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-      "url": "https://github.com/morganwilliscloud/billai-bass",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783966703,
-      "score": 61,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783958768,
-      "score": 463,
-      "category": "tools",
+      "score": 512,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -165,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783958162,
-      "score": 55,
+      "score": 75,
       "category": "llm",
       "tags": [
         "国际"
@@ -178,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783954043,
-      "score": 24,
+      "score": 42,
       "category": "tools",
       "tags": [
         "国际"
@@ -191,20 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783704988,
-      "score": 18,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Robust Secret Storage in Networks",
-      "url": "https://arxiv.org/abs/2606.30261",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783546678,
-      "score": 20,
+      "score": 29,
       "category": "llm",
       "tags": [
         "国际"
@@ -218,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -229,7 +177,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -251,7 +199,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
