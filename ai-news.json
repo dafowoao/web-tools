@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-14 06:10 UTC",
-  "count": 16,
+  "updated": "2026-07-14 09:57 UTC",
+  "count": 11,
   "items": [
+    {
+      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784011408,
+      "score": 40,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Australian energy retailers must provide three hours of free daytime electricity",
+      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784003508,
+      "score": 92,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Building Food Metadata with LLM Juries",
       "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
@@ -9,73 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783993309,
-      "score": 27,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
-      "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
-      "desc": "Hi all, author here. SX started as a CLI to let developers share skills across AI clients without having to rely on git for storage. This allowed sharing at the Repo&#x2F;Team&#x2F;Org and Personal le",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783985212,
-      "score": 31,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The AI Whale Fall and Open Source",
-      "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783984602,
-      "score": 25,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
-      "url": "https://arxiv.org/abs/2607.01418",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783979031,
-      "score": 51,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: YouTube Guitar Tab Parser",
-      "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
-      "desc": "I created a simple CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab.There are services that transcribe music from Youtube videos into tabs, but they never work well enough for",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783973594,
-      "score": 94,
+      "score": 39,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Samsung Health app threatens data deletion if users opt out AI training",
-      "url": "https://neow.in/cWsyMTV3",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783972903,
-      "score": 301,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783972810,
-      "score": 77,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Telegram's t.me domain has been suspended",
-      "url": "https://www.whois.com/whois/t.me",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783972345,
-      "score": 296,
-      "category": "tools",
+      "score": 96,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783958768,
-      "score": 512,
+      "score": 536,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,33 +74,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783958162,
-      "score": 75,
-      "category": "llm",
+      "score": 88,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",
-      "url": "https://hackney.app/",
-      "desc": "I created an app that compares real-time prices and wait times across Uber, Lyft, Waymo, Tesla Robotaxi, Curb, and Empower. It shows you all ride options in one list, then once you’re ready to book, i",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783954043,
-      "score": 42,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Difference Between Watercolor and Gouache Paints",
-      "url": "https://www.jetpens.com/blog/The-Difference-Between-Watercolor-and-Gouache-Paints/pt/963",
+      "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
+      "url": "https://github.com/clawkwork/clawk",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783704988,
-      "score": 29,
+      "ts": 1783951323,
+      "score": 195,
       "category": "llm",
       "tags": [
         "国际"
@@ -166,7 +101,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -177,7 +112,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
