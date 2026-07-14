@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-14 17:13 UTC",
-  "count": 16,
+  "updated": "2026-07-14 20:59 UTC",
+  "count": 17,
   "items": [
+    {
+      "title": "Bonsai 27B: A 27B-Class Model that runs on a phone",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784051448,
+      "score": 198,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
       "url": "https://agnost.ai",
@@ -9,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784045178,
-      "score": 12,
-      "category": "llm",
+      "score": 28,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784042293,
-      "score": 163,
-      "category": "tools",
+      "score": 299,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,47 +48,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784039996,
-      "score": 12,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Proof of care in the age of AI",
-      "url": "https://jacobfilipp.com/care/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784033785,
-      "score": 144,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
-      "url": "https://github.com/Danau5tin/ai-trains-ai",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784032885,
-      "score": 68,
+      "score": 52,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Coding agents think ahead of time",
-      "url": "https://arxiv.org/abs/2607.05188",
+      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+      "url": "https://gwern.net/guardian-angel",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784032089,
-      "score": 80,
-      "category": "industry",
+      "ts": 1784033429,
+      "score": 16,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k)",
+      "url": "https://github.com/Danau5tin/ai-trains-ai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784032885,
+      "score": 84,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,20 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784029562,
-      "score": 156,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Codex starts encrypting sub-agent prompts",
-      "url": "https://github.com/openai/codex/issues/28058",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784028092,
-      "score": 382,
+      "score": 334,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784020807,
-      "score": 96,
-      "category": "industry",
+      "score": 113,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,21 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784011408,
-      "score": 160,
-      "category": "llm",
+      "score": 185,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Australian energy retailers must provide three hours of free daytime electricity",
+      "title": "Australian energy retailers must offer three hours of free daytime electricity",
       "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784003508,
-      "score": 220,
-      "category": "tools",
+      "score": 250,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,8 +139,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783880895,
-      "score": 90,
-      "category": "industry",
+      "score": 125,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The largest available Minecraft world, totalling 15 TB",
+      "url": "https://2b2t.place/1million",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783780339,
+      "score": 79,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The zero-cost fallacy: open-source software in the agentic era",
+      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783716343,
+      "score": 72,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -166,7 +179,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -177,7 +190,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
