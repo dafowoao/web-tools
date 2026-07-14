@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-13 20:56 UTC",
-  "count": 15,
+  "updated": "2026-07-14 02:28 UTC",
+  "count": 20,
   "items": [
+    {
+      "title": "Building Food Metadata with LLM Juries",
+      "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783993309,
+      "score": 5,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: MemStitch – Zero-copy context bridging for vLLM (25x TTFT speedup)",
+      "url": "https://github.com/DaqulaLin/MemStitch",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783991042,
+      "score": 6,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
+      "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+      "desc": "Hi all, author here. SX started as a CLI to let developers share skills across AI clients without having to rely on git for storage. This allowed sharing at the Repo&#x2F;Team&#x2F;Org and Personal le",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783985212,
+      "score": 14,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: ContextVault – Shared memory layer for your AI and your team",
+      "url": "https://www.contextvault.dev/",
+      "desc": "Hi HN,I&#x27;m Kevin. I built ContextVault because I kept running into the same problem with AI tools.Every project accumulated prompts, coding conventions, architectural decisions, examples, and othe",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783984938,
+      "score": 8,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The AI Whale Fall and Open Source",
+      "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783984602,
+      "score": 13,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+      "url": "https://arxiv.org/abs/2607.01418",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783979031,
+      "score": 29,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: YouTube Guitar Tab Parser",
       "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
@@ -9,7 +87,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783973594,
-      "score": 12,
+      "score": 75,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Samsung Health app threatens data deletion if users opt out AI training",
+      "url": "https://neow.in/cWsyMTV3",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783972903,
+      "score": 283,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783972810,
-      "score": 15,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: PlanWright – A control plane for AI coding agents",
-      "url": "https://planwright.tools",
-      "desc": "MCP driven control plane for Agentic Engineering. Plan from Claude Desktop, implement in Codex, review in a custom triage agent. All via MCP, all logged and tracked with full documentation of all deci",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783972790,
-      "score": 5,
+      "score": 60,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,46 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783972345,
-      "score": 62,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI Is a Bad Tool",
-      "url": "https://bytecode.news/posts/2026/07/user-submission-ai-is-a-bad-tool",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783972275,
-      "score": 46,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Nobie – an Excel-compatible runtime for agents and humans",
-      "url": "https://nobie.com",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783967164,
-      "score": 29,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI agents write Ruby but can't navigate it: a 5-model, 13-codebase benchmark",
-      "url": "https://github.com/luuuc/sense/blob/main/bench/verticals/ruby-rails/report-for-humans.md",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783966895,
-      "score": 3,
+      "score": 262,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783966703,
-      "score": 29,
-      "category": "llm",
+      "score": 61,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,33 +152,59 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783958768,
-      "score": 325,
+      "score": 463,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+      "url": "https://github.com/jbwinters/jacquard-lang",
+      "desc": "I&#x27;m fascinated by the generative AI wave rolling over us, and wondered if AI could create a language that it might prefer using over the ones created by and for humans.To create the design, I had",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783958162,
+      "score": 55,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop",
-      "url": "https://github.com/clawkwork/clawk",
-      "desc": "",
+      "title": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",
+      "url": "https://hackney.app/",
+      "desc": "I created an app that compares real-time prices and wait times across Uber, Lyft, Waymo, Tesla Robotaxi, Curb, and Empower. It shows you all ride options in one list, then once you’re ready to book, i",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783951323,
-      "score": 158,
-      "category": "industry",
+      "ts": 1783954043,
+      "score": 24,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+      "title": "The Difference Between Watercolor and Gouache Paints",
+      "url": "https://www.jetpens.com/blog/The-Difference-Between-Watercolor-and-Gouache-Paints/pt/963",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783931979,
-      "score": 1331,
+      "ts": 1783704988,
+      "score": 18,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Robust Secret Storage in Networks",
+      "url": "https://arxiv.org/abs/2606.30261",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783546678,
+      "score": 20,
       "category": "llm",
       "tags": [
         "国际"
@@ -164,7 +229,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -186,7 +251,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
