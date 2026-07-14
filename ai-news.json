@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-14 13:42 UTC",
-  "count": 10,
+  "updated": "2026-07-14 17:13 UTC",
+  "count": 16,
   "items": [
+    {
+      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "url": "https://agnost.ai",
+      "desc": "Hey HN, we’re Shubham &amp; Parth, childhood friends building Agnost AI (https:&#x2F;&#x2F;agnost.ai), product analytics for teams building chat and voice agents.We read production conversations and f",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784045178,
+      "score": 12,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Are we offloading too much of our thinking to AI?",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784042293,
+      "score": 163,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Agentic Loop: Three loops in a trench coat",
+      "url": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784039996,
+      "score": 12,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Proof of care in the age of AI",
+      "url": "https://jacobfilipp.com/care/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784033785,
+      "score": 144,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: I RL-trained an agent that trains models with RL (for –$1.3k)",
       "url": "https://github.com/Danau5tin/ai-trains-ai",
@@ -9,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784032885,
-      "score": 24,
+      "score": 68,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,8 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784032089,
-      "score": 25,
-      "category": "tools",
+      "score": 80,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How to stop Claude from saying load-bearing",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784029562,
+      "score": 156,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,21 +100,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784028092,
-      "score": 208,
-      "category": "industry",
+      "score": 382,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Rejourney – Open-source revenue leak prediction for web and mobile apps",
-      "url": "https://github.com/rejourneyco/rejourney",
-      "desc": "Hello there (General Kenobi&#x27;s favorite way to start the conversation),I’m Rashid, a sophomore at UT Austin. I built Rejourney.co (https:&#x2F;&#x2F;rejourney.co&#x2F;) to predict issues with your",
+      "title": "Demis Hassabis has a plan to harness AI safely",
+      "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+      "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;i&#x2F;article&#x2F;2076957440109625718https:&#x2F;&#x2F;www.economist.com&#x2F;business&#x2F;2026&#x2F;07&#x2F;14&#x2F;demis-hassabis..., https:&#x2F;&#x2F;archive.",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784027169,
-      "score": 14,
-      "category": "tools",
+      "ts": 1784020807,
+      "score": 96,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784011408,
-      "score": 112,
+      "score": 160,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,8 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784003508,
-      "score": 164,
-      "category": "llm",
+      "score": 220,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "url": "https://github.com/juggler-ai/juggler",
+      "desc": "Hello HN, I don&#x27;t post on here much, but wanted to get some eyes on a new project I&#x27;m just launching. I think we definitely need one more AI code agent..I&#x27;m a long-term C++ dev, and ove",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783880895,
+      "score": 90,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -88,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -99,7 +177,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -121,7 +199,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
