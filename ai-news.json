@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-15 06:13 UTC",
+  "updated": "2026-07-15 10:02 UTC",
   "count": 17,
   "items": [
+    {
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "url": "https://www.ayush.digital/blog/the-memory-heist",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784096880,
+      "score": 301,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Jurassic Park computers in excruciating detail",
       "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
@@ -9,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784084267,
-      "score": 222,
+      "score": 450,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784077706,
-      "score": 105,
-      "category": "tools",
+      "score": 152,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784068247,
-      "score": 76,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Financing the AI boom: from cash flows to debt [pdf]",
-      "url": "https://www.bis.org/publ/bisbull120.pdf",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784066316,
-      "score": 138,
-      "category": "tools",
+      "score": 99,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784051448,
-      "score": 526,
-      "category": "llm",
+      "score": 597,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784045178,
-      "score": 47,
-      "category": "llm",
+      "score": 77,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784042293,
-      "score": 428,
+      "score": 473,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784033429,
-      "score": 80,
-      "category": "tools",
+      "score": 85,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784029562,
-      "score": 489,
-      "category": "llm",
+      "score": 527,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784003508,
-      "score": 271,
+      "score": 274,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783880895,
-      "score": 212,
+      "score": 239,
       "category": "industry",
       "tags": [
         "国际"
@@ -152,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783780339,
-      "score": 193,
+      "score": 222,
       "category": "industry",
       "tags": [
         "国际"
@@ -165,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783716343,
-      "score": 137,
-      "category": "llm",
+      "score": 148,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -190,7 +190,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -212,7 +212,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
