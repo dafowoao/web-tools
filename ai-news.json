@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-15 10:02 UTC",
+  "updated": "2026-07-15 13:42 UTC",
   "count": 17,
   "items": [
+    {
+      "title": "Show HN: Grepathy – Claude made a decision nobody approved",
+      "url": "https://github.com/evansjp/grepathy",
+      "desc": "hey HN - Claude pre-created users in Clerk with null emails&#x2F;names as &quot;guest users&quot; on a contract job. Wasn&#x27;t in any plan. The CTO asked why, and I didn&#x27;t know! I didn&#x27;t m",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784121984,
+      "score": 4,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784121495,
+      "score": 8,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Briar Is in Maintenance Mode",
+      "url": "https://briarproject.org/news/2026-maintenance-mode/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784118807,
+      "score": 5,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Jiga (YC W21) is hiring the best people to make manufacturing great again",
+      "url": "https://jiga.io/about-us/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784116823,
+      "score": 1,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Societal Impacts: Claude's values across models and languages",
+      "url": "https://www.anthropic.com/research/claude-values-models-languages",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784112993,
+      "score": 25,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "DSLs Enable Reliable Use of LLMs",
+      "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784110271,
+      "score": 60,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "I tricked Claude into leaking your deepest, darkest secrets",
       "url": "https://www.ayush.digital/blog/the-memory-heist",
@@ -9,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784096880,
-      "score": 301,
+      "score": 467,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784084267,
-      "score": 450,
-      "category": "industry",
+      "score": 642,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784077706,
-      "score": 152,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
-      "url": "https://www.benjamin-bai.com/projects/lemario",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784068247,
-      "score": 99,
+      "score": 187,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,46 +126,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784051448,
-      "score": 597,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-      "url": "https://agnost.ai",
-      "desc": "Hey HN, we’re Shubham &amp; Parth, childhood friends building Agnost AI (https:&#x2F;&#x2F;agnost.ai), product analytics for teams building chat and voice agents.We read production conversations and f",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784045178,
-      "score": 77,
+      "score": 648,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Are we offloading too much of our thinking to AI?",
-      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-      "desc": "",
+      "title": "Show HN: I built a smart proxy so your coding agent can run loose",
+      "url": "https://trollbridge.dev/",
+      "desc": "The only way to go fast is full YOLO mode in your coding agent. I&#x27;ve got the local sandbox figured out (pro tip: Incus VMs work great) but I wanted to keep my agents from doing things like inadve",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784042293,
-      "score": 473,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
-      "url": "https://gwern.net/guardian-angel",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784033429,
-      "score": 85,
+      "ts": 1784040953,
+      "score": 3,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,59 +152,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784029562,
-      "score": 527,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Australian energy retailers must offer three hours of free daytime electricity",
-      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784003508,
-      "score": 274,
+      "score": 569,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
-      "url": "https://github.com/juggler-ai/juggler",
-      "desc": "Hello HN, I don&#x27;t post on here much, but wanted to get some eyes on a new project I&#x27;m just launching. I think we definitely need one more AI code agent..I&#x27;m a long-term C++ dev, and ove",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783880895,
-      "score": 239,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The largest available Minecraft world, totalling 15 TB",
-      "url": "https://2b2t.place/1million",
+      "title": "A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS",
+      "url": "https://cdrom.ca/games/2026/05/30/xd.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1783780339,
-      "score": 222,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The zero-cost fallacy: open-source software in the agentic era",
-      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783716343,
-      "score": 148,
+      "ts": 1783991340,
+      "score": 27,
       "category": "tools",
       "tags": [
         "国际"
@@ -179,7 +179,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -190,7 +190,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -212,7 +212,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
