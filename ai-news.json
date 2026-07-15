@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-15 02:26 UTC",
+  "updated": "2026-07-15 06:13 UTC",
   "count": 17,
   "items": [
+    {
+      "title": "Jurassic Park computers in excruciating detail",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784084267,
+      "score": 222,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
       "url": "https://tailscale.com/security-bulletins",
@@ -9,21 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784077706,
-      "score": 36,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Legal AI, not a coding agent with scaffolding",
-      "url": "https://lexifina.com/blog/legal-ai-not-a-coding-agent-with-scaffolding",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784073117,
-      "score": 6,
-      "category": "industry",
+      "score": 105,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784068247,
-      "score": 55,
-      "category": "llm",
+      "score": 76,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784066316,
-      "score": 94,
-      "category": "industry",
+      "score": 138,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784051448,
-      "score": 445,
+      "score": 526,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784045178,
-      "score": 46,
-      "category": "industry",
+      "score": 47,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,20 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784042293,
-      "score": 384,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Agentic Loop: Three loops in a trench coat",
-      "url": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784039996,
-      "score": 74,
+      "score": 428,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784033429,
-      "score": 59,
+      "score": 80,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,8 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784029562,
-      "score": 440,
-      "category": "tools",
+      "score": 489,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Australian energy retailers must offer three hours of free daytime electricity",
+      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784003508,
+      "score": 271,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783880895,
-      "score": 185,
-      "category": "tools",
+      "score": 212,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783780339,
-      "score": 170,
+      "score": 193,
       "category": "industry",
       "tags": [
         "国际"
@@ -165,7 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783716343,
-      "score": 111,
+      "score": 137,
       "category": "llm",
       "tags": [
         "国际"
@@ -179,7 +179,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -190,7 +190,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -212,7 +212,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
