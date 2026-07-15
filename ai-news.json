@@ -1,16 +1,68 @@
 {
-  "updated": "2026-07-15 13:42 UTC",
-  "count": 17,
+  "updated": "2026-07-15 17:17 UTC",
+  "count": 13,
   "items": [
     {
-      "title": "Show HN: Grepathy – Claude made a decision nobody approved",
-      "url": "https://github.com/evansjp/grepathy",
-      "desc": "hey HN - Claude pre-created users in Clerk with null emails&#x2F;names as &quot;guest users&quot; on a contract job. Wasn&#x27;t in any plan. The CTO asked why, and I didn&#x27;t know! I didn&#x27;t m",
+      "title": "Open-source memory for coding agents, synced over SSH",
+      "url": "https://github.com/vshulcz/deja-vu/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784121984,
-      "score": 4,
+      "ts": 1784132103,
+      "score": 19,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
+      "url": "https://github.com/welcome-to-the-sunny-side/misa77",
+      "desc": "I&#x27;ve spent the last few months working on this codec.It has the following characteristics:  - SOTA decompression throughput in its ratio class\n  - Decent ratios (comparable to LZ4 at high effort ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784131139,
+      "score": 32,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+      "url": "https://coasty.ai/docs",
+      "desc": "Hey HN, we’re Nitish and Prateek, the founders of Coasty (https:&#x2F;&#x2F;coasty.ai&#x2F;computer-use). We’re building computer-use agents that can complete workflows inside legacy desktop software ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784130680,
+      "score": 14,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "SendLang: A DSL for Email Automation",
+      "url": "https://www.sendlang.com",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784129023,
+      "score": 11,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI loses trademark dispute at EU court",
+      "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784125956,
+      "score": 91,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784121495,
-      "score": 8,
-      "category": "tools",
+      "score": 113,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,60 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784118807,
-      "score": 5,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Jiga (YC W21) is hiring the best people to make manufacturing great again",
-      "url": "https://jiga.io/about-us/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784116823,
-      "score": 1,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Societal Impacts: Claude's values across models and languages",
-      "url": "https://www.anthropic.com/research/claude-values-models-languages",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784112993,
-      "score": 25,
+      "score": 96,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "DSLs Enable Reliable Use of LLMs",
-      "url": "https://martinfowler.com/articles/llm-and-dsls.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784110271,
-      "score": 60,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I tricked Claude into leaking your deepest, darkest secrets",
-      "url": "https://www.ayush.digital/blog/the-memory-heist",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784096880,
-      "score": 467,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,59 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784084267,
-      "score": 642,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-      "url": "https://tailscale.com/security-bulletins",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784077706,
-      "score": 187,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "url": "https://prismml.com/news/bonsai-27b",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784051448,
-      "score": 648,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I built a smart proxy so your coding agent can run loose",
-      "url": "https://trollbridge.dev/",
-      "desc": "The only way to go fast is full YOLO mode in your coding agent. I&#x27;ve got the local sandbox figured out (pro tip: Incus VMs work great) but I wanted to keep my agents from doing things like inadve",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784040953,
-      "score": 3,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How to stop Claude from saying load-bearing",
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784029562,
-      "score": 569,
+      "score": 777,
       "category": "llm",
       "tags": [
         "国际"
@@ -165,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783991340,
-      "score": 27,
-      "category": "tools",
+      "score": 49,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -190,7 +138,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -212,7 +160,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
