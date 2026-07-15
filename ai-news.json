@@ -1,16 +1,68 @@
 {
-  "updated": "2026-07-14 20:59 UTC",
+  "updated": "2026-07-15 02:26 UTC",
   "count": 17,
   "items": [
     {
-      "title": "Bonsai 27B: A 27B-Class Model that runs on a phone",
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "url": "https://tailscale.com/security-bulletins",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784077706,
+      "score": 36,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Legal AI, not a coding agent with scaffolding",
+      "url": "https://lexifina.com/blog/legal-ai-not-a-coding-agent-with-scaffolding",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784073117,
+      "score": 6,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+      "url": "https://www.benjamin-bai.com/projects/lemario",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784068247,
+      "score": 55,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "url": "https://www.bis.org/publ/bisbull120.pdf",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784066316,
+      "score": 94,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
       "url": "https://prismml.com/news/bonsai-27b",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784051448,
-      "score": 198,
-      "category": "tools",
+      "score": 445,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784045178,
-      "score": 28,
-      "category": "tools",
+      "score": 46,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784042293,
-      "score": 299,
-      "category": "llm",
+      "score": 384,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784039996,
-      "score": 52,
+      "score": 74,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784033429,
-      "score": 16,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k)",
-      "url": "https://github.com/Danau5tin/ai-trains-ai",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784032885,
-      "score": 84,
+      "score": 59,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,47 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784029562,
-      "score": 334,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Demis Hassabis has a plan to harness AI safely",
-      "url": "https://twitter.com/demishassabis/status/2076957440109625718",
-      "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;i&#x2F;article&#x2F;2076957440109625718https:&#x2F;&#x2F;www.economist.com&#x2F;business&#x2F;2026&#x2F;07&#x2F;14&#x2F;demis-hassabis..., https:&#x2F;&#x2F;archive.",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784020807,
-      "score": 113,
+      "score": 440,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
-      "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784011408,
-      "score": 185,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Australian energy retailers must offer three hours of free daytime electricity",
-      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784003508,
-      "score": 250,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783880895,
-      "score": 125,
+      "score": 185,
       "category": "tools",
       "tags": [
         "国际"
@@ -152,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783780339,
-      "score": 79,
-      "category": "llm",
+      "score": 170,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -165,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783716343,
-      "score": 72,
-      "category": "tools",
+      "score": 111,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -179,7 +179,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -212,7 +212,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
