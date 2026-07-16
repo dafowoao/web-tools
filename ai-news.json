@@ -1,54 +1,145 @@
 {
-  "updated": "2026-07-16 13:49 UTC",
-  "count": 10,
+  "updated": "2026-07-16 17:15 UTC",
+  "count": 16,
   "items": [
     {
-      "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
-      "url": "https://www.bbc.com/news/articles/c4gyg0y6yg2o",
-      "desc": "",
+      "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+      "url": "https://news.ycombinator.com/item?id=48937020",
+      "desc": "Hey HN, we’re Xia and Varun, the founders of Traceforce (https:&#x2F;&#x2F;www.traceforce.ai&#x2F;). Traceforce provides visibility and control over AI apps such as ChatGPT, Claude etc directly on all",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784204370,
-      "score": 8,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
-      "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784203331,
-      "score": 179,
+      "ts": 1784220736,
+      "score": 3,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+      "title": "Detecting LLM-Generated Texts with \"Classical\" Machine Learning",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784203141,
-      "score": 72,
+      "ts": 1784220097,
+      "score": 25,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Building scalable AI agents with modular prompt transpilation",
+      "url": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784218929,
+      "score": 5,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
-      "url": "https://joinedanthropic.com",
+      "title": "Agent-talk: Enabling coding agents to work together",
+      "url": "https://github.com/xhluca/agent-talk",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784189015,
-      "score": 148,
+      "ts": 1784218460,
+      "score": 8,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Ratel, give agents unlimited tools and skills without context bloat",
+      "url": "https://github.com/ratel-ai/ratel",
+      "desc": "Hi HN! We&#x27;re Giacomo and Roberto, authors of Ratel (https:&#x2F;&#x2F;github.com&#x2F;ratel-ai&#x2F;ratel)We used to help SaaS companies build agents on top of their products. Whenever we wanted ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784218273,
+      "score": 11,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784218093,
+      "score": 15,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Leaves – a text-UI disk usage treemap visualizer",
+      "url": "https://github.com/patonw/leaves",
+      "desc": "GUI disk analyzers are great for figuring out what&#x27;s filling up your laptop&#x2F;desktop drive.On containers or remote servers, the options are limited to purely text based\nutilities (e.g. du) or",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784217823,
+      "score": 7,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Yann LeCun on AMI Labs, JEPA, and the AI World of 2030",
+      "url": "https://nebius.science/stories/meet-yann-lecuns-lab-and-the-ai-world-of-2030?shem=rimspwouohc,",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784216357,
+      "score": 4,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Sentinel – open-source QA agent that reads your code before it clicks",
+      "url": "https://blog.simbastack.com/announcing-sentinel/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784216113,
+      "score": 7,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784214780,
+      "score": 24,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: QBasic Gorillas (Repeeled)",
+      "url": "https://gameswithtony.com/gorillas/",
+      "desc": "I&#x27;ve found the most engaging way to practice techniques for AI-assisted development and test models is to build fun side projects in vanilla JS.I spent many hours playing (and studying and editin",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784212480,
+      "score": 6,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,21 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784150196,
-      "score": 242,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "High-Bandwidth Flash offers efficient storage for model weights",
-      "url": "https://spectrum.ieee.org/high-bandwidth-flash",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784081052,
-      "score": 63,
-      "category": "llm",
+      "score": 277,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -88,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
