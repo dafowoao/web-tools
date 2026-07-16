@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-15 21:00 UTC",
-  "count": 15,
+  "updated": "2026-07-16 02:34 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "LLM Networking with MikroTik",
+      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784154207,
+      "score": 52,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784150196,
+      "score": 94,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
       "url": "https://brainless.swerdlow.dev",
@@ -9,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784144573,
-      "score": 14,
+      "score": 98,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784132103,
-      "score": 82,
-      "category": "tools",
+      "score": 111,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,60 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784131139,
-      "score": 104,
+      "score": 132,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
-      "url": "https://coasty.ai/docs",
-      "desc": "Hey HN, we’re Nitish and Prateek, the founders of Coasty (https:&#x2F;&#x2F;coasty.ai&#x2F;computer-use). We’re building computer-use agents that can complete workflows inside legacy desktop software ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784130680,
-      "score": 26,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: SirixDB 1.0 Beta – Git-Like Versioning, Diffs, Time-Travel Queries",
-      "url": "https://github.com/sirixdb/sirix",
-      "desc": "Hi HN! I&#x27;ve posted SirixDB here before, back in 2019 (https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=19834681) and again in 2023 (https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=38252963",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784130410,
-      "score": 7,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI loses trademark dispute at EU court",
-      "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784125956,
-      "score": 192,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784121495,
-      "score": 152,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,21 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784118807,
-      "score": 126,
-      "category": "llm",
+      "score": 150,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Jurassic Park computers in excruciating detail",
-      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-      "desc": "",
+      "title": "Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
+      "url": "https://github.com/projectargus-cc/libargus.cc",
+      "desc": "I wanted to run AI from inside the JVM. I started out with the standard REST sidecar, ripped that out to use Project Panama (Foreign Function &amp; Memory API) in the new JDK versions to interface dir",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784084267,
-      "score": 847,
-      "category": "llm",
+      "ts": 1784040046,
+      "score": 31,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783959341,
-      "score": 8,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Capn-hook for coding agents – don't grep the same mystery twice",
-      "url": "https://github.com/cyrusNuevoDia/capn-hook",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783891047,
-      "score": 17,
-      "category": "llm",
+      "score": 55,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -153,7 +114,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -186,7 +147,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
