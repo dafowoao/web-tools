@@ -1,41 +1,15 @@
 {
-  "updated": "2026-07-16 06:17 UTC",
-  "count": 16,
+  "updated": "2026-07-16 10:08 UTC",
+  "count": 13,
   "items": [
     {
-      "title": "Stop saying that AI is just a tool and it only matters how it is used",
-      "url": "https://www.frank.computer/blog/2025/05/just-a-tool.html",
+      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
+      "url": "https://joinedanthropic.com",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784176261,
-      "score": 32,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "My Throw Decides My Aim",
-      "url": "https://thegustafson.com/blog/my-throw-decides-my-aim",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784173885,
-      "score": 13,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Open Source, Free Tier Capable Whispr Using Cloudflare AI",
-      "url": "https://github.com/PrestigePvP/Voicebox",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784170650,
-      "score": 11,
+      "ts": 1784189015,
+      "score": 5,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784168251,
-      "score": 21,
-      "category": "industry",
+      "score": 56,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,21 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784167596,
-      "score": 34,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",
-      "url": "https://github.com/1ay1/agentty",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784154624,
-      "score": 28,
-      "category": "llm",
+      "score": 68,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784154207,
-      "score": 70,
+      "score": 88,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784150196,
-      "score": 149,
-      "category": "industry",
+      "score": 200,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784144573,
-      "score": 120,
-      "category": "llm",
+      "score": 123,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784131139,
-      "score": 141,
-      "category": "llm",
+      "score": 146,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784130680,
-      "score": 31,
+      "score": 37,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784081052,
-      "score": 29,
+      "score": 46,
       "category": "tools",
       "tags": [
         "国际"
@@ -166,7 +127,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
