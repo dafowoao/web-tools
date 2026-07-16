@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-16 10:08 UTC",
-  "count": 13,
+  "updated": "2026-07-16 13:49 UTC",
+  "count": 10,
   "items": [
+    {
+      "title": "Teen hackers who live streamed cyber-attack on TfL jailed",
+      "url": "https://www.bbc.com/news/articles/c4gyg0y6yg2o",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784204370,
+      "score": 8,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
+      "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784203331,
+      "score": 179,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784203141,
+      "score": 72,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
       "url": "https://joinedanthropic.com",
@@ -9,46 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784189015,
-      "score": 5,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
-      "url": "https://arxiv.org/abs/2607.11859",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784168251,
-      "score": 56,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
-      "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784167596,
-      "score": 68,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LLM Networking with MikroTik",
-      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784154207,
-      "score": 88,
+      "score": 148,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,47 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784150196,
-      "score": 200,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-      "url": "https://brainless.swerdlow.dev",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784144573,
-      "score": 123,
+      "score": 242,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
-      "url": "https://github.com/welcome-to-the-sunny-side/misa77",
-      "desc": "I&#x27;ve spent the last few months working on this codec.It has the following characteristics:  - SOTA decompression throughput in its ratio class\n  - Decent ratios (comparable to LZ4 at high effort ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784131139,
-      "score": 146,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
-      "url": "https://coasty.ai/docs",
-      "desc": "Hey HN, we’re Nitish and Prateek, the founders of Coasty (https:&#x2F;&#x2F;coasty.ai&#x2F;computer-use). We’re building computer-use agents that can complete workflows inside legacy desktop software ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784130680,
-      "score": 37,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784081052,
-      "score": 46,
-      "category": "tools",
+      "score": 63,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -138,7 +99,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
