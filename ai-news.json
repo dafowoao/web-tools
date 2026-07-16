@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-16 17:15 UTC",
-  "count": 16,
+  "updated": "2026-07-16 20:57 UTC",
+  "count": 15,
   "items": [
+    {
+      "title": "Timeline Scan – AI fixes the dates on your scanned photos",
+      "url": "https://timelinescan.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784233547,
+      "score": 4,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784233095,
+      "score": 7,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784232203,
+      "score": 6,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Be the ChatBOT",
+      "url": "https://bethechatbot.com/",
+      "desc": "I made this experimental art project&#x2F;game that&#x27;s an LLM chat assistant, but where you&#x27;re the AI.I wanted people to get a visceral sense of what it&#x27;s like to answer the kinds of thi",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784227491,
+      "score": 9,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
+      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784223886,
+      "score": 92,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
       "url": "https://news.ycombinator.com/item?id=48937020",
@@ -9,33 +74,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784220736,
-      "score": 3,
+      "score": 15,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Detecting LLM-Generated Texts with \"Classical\" Machine Learning",
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
       "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784220097,
-      "score": 25,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Building scalable AI agents with modular prompt transpilation",
-      "url": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784218929,
-      "score": 5,
+      "score": 106,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784218460,
-      "score": 8,
+      "score": 33,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Ratel, give agents unlimited tools and skills without context bloat",
-      "url": "https://github.com/ratel-ai/ratel",
-      "desc": "Hi HN! We&#x27;re Giacomo and Roberto, authors of Ratel (https:&#x2F;&#x2F;github.com&#x2F;ratel-ai&#x2F;ratel)We used to help SaaS companies build agents on top of their products. Whenever we wanted ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784218273,
-      "score": 11,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,47 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784218093,
-      "score": 15,
+      "score": 157,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Leaves – a text-UI disk usage treemap visualizer",
+      "title": "Show HN: Leaves – A text-UI disk usage treemap visualizer",
       "url": "https://github.com/patonw/leaves",
       "desc": "GUI disk analyzers are great for figuring out what&#x27;s filling up your laptop&#x2F;desktop drive.On containers or remote servers, the options are limited to purely text based\nutilities (e.g. du) or",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784217823,
-      "score": 7,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Yann LeCun on AMI Labs, JEPA, and the AI World of 2030",
-      "url": "https://nebius.science/stories/meet-yann-lecuns-lab-and-the-ai-world-of-2030?shem=rimspwouohc,",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784216357,
-      "score": 4,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Sentinel – open-source QA agent that reads your code before it clicks",
-      "url": "https://blog.simbastack.com/announcing-sentinel/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784216113,
-      "score": 7,
-      "category": "industry",
+      "score": 50,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,33 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784214780,
-      "score": 24,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: QBasic Gorillas (Repeeled)",
-      "url": "https://gameswithtony.com/gorillas/",
-      "desc": "I&#x27;ve found the most engaging way to practice techniques for AI-assisted development and test models is to build fun side projects in vanilla JS.I spent many hours playing (and studying and editin",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784212480,
-      "score": 6,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
-      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784150196,
-      "score": 277,
+      "score": 70,
       "category": "industry",
       "tags": [
         "国际"
@@ -166,7 +153,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -177,7 +164,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
