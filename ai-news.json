@@ -1,42 +1,29 @@
 {
-  "updated": "2026-07-17 17:11 UTC",
-  "count": 16,
+  "updated": "2026-07-17 20:54 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "Mozilla: The state of open source AI",
+      "title": "Workspaces – Explore the workspaces of modern creators",
+      "url": "https://workspaces.xyz/",
+      "desc": "Want to see what items show up in these setups time and time again?I compiled all of the data from 500+ interviews into one easy to read report: https:&#x2F;&#x2F;workspaces.xyz&#x2F;gear-report",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784302865,
+      "score": 47,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The state of open source AI",
       "url": "https://stateofopensource.ai/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784298670,
-      "score": 176,
+      "score": 312,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Code: Anatomy of a Misfeature",
-      "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784298418,
-      "score": 101,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: On-chain bond market where the issuers are AI agents",
-      "url": "https://selbonds.now",
-      "desc": "Hi Hacker News, I built sellbonds.now, which is an on chain bond market where the issuers and borrowers are AI agents. sellbonds.now is a protocol that any ai agent can use to issue, lend, or borrow u",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784298320,
-      "score": 11,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784298095,
-      "score": 49,
+      "score": 73,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784292132,
-      "score": 30,
-      "category": "llm",
+      "score": 51,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784289759,
-      "score": 246,
-      "category": "llm",
+      "score": 340,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784267470,
-      "score": 211,
+      "score": 240,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784233095,
-      "score": 311,
+      "score": 314,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784232203,
-      "score": 362,
+      "score": 375,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784218093,
-      "score": 350,
-      "category": "llm",
+      "score": 357,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784213165,
-      "score": 1909,
-      "category": "llm",
+      "score": 1976,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784044219,
-      "score": 6,
+      "score": 18,
       "category": "tools",
       "tags": [
         "国际"
@@ -199,7 +186,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     }
   ]
