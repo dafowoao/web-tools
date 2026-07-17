@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-16 20:57 UTC",
-  "count": 15,
+  "updated": "2026-07-17 02:36 UTC",
+  "count": 14,
   "items": [
     {
       "title": "Timeline Scan – AI fixes the dates on your scanned photos",
@@ -9,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784233547,
-      "score": 4,
-      "category": "tools",
+      "score": 28,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784233095,
-      "score": 7,
-      "category": "llm",
+      "score": 167,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,34 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784232203,
-      "score": 6,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Be the ChatBOT",
-      "url": "https://bethechatbot.com/",
-      "desc": "I made this experimental art project&#x2F;game that&#x27;s an LLM chat assistant, but where you&#x27;re the AI.I wanted people to get a visceral sense of what it&#x27;s like to answer the kinds of thi",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784227491,
-      "score": 9,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks",
-      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784223886,
-      "score": 92,
-      "category": "industry",
+      "score": 146,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784220736,
-      "score": 15,
-      "category": "tools",
+      "score": 38,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784220097,
-      "score": 106,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Agent-talk: Enabling coding agents to work together",
-      "url": "https://github.com/xhluca/agent-talk",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784218460,
-      "score": 33,
-      "category": "llm",
+      "score": 162,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784218093,
-      "score": 157,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Leaves – A text-UI disk usage treemap visualizer",
-      "url": "https://github.com/patonw/leaves",
-      "desc": "GUI disk analyzers are great for figuring out what&#x27;s filling up your laptop&#x2F;desktop drive.On containers or remote servers, the options are limited to purely text based\nutilities (e.g. du) or",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784217823,
-      "score": 50,
-      "category": "tools",
+      "score": 252,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,8 +87,47 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784214780,
-      "score": 70,
-      "category": "industry",
+      "score": 101,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "desc": "https:&#x2F;&#x2F;www.kimi.com&#x2F;enKimi K3 Intelligence, Performance &amp; Price Analysis: https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;kimi-k3",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784213165,
+      "score": 1208,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784203141,
+      "score": 193,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Clx – Compile Lua to Native Executables Through C++20",
+      "url": "https://github.com/samyeyo/clx",
+      "desc": "Hi HN,clx is an ahead-of-time compiler for standard Lua that generates C++20 and produces standalone native executables through GCC, Clang or MSVC.The project started as an experiment to see whether m",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783773624,
+      "score": 88,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -164,7 +151,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -186,7 +173,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
