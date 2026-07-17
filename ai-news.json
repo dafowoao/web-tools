@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-17 02:36 UTC",
+  "updated": "2026-07-17 06:15 UTC",
   "count": 14,
   "items": [
     {
-      "title": "Timeline Scan – AI fixes the dates on your scanned photos",
-      "url": "https://timelinescan.com/",
+      "title": "UIUC AI Teaching Assistant",
+      "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784233547,
-      "score": 28,
-      "category": "llm",
+      "ts": 1784254998,
+      "score": 12,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784233095,
-      "score": 167,
-      "category": "tools",
+      "score": 208,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784232203,
-      "score": 146,
-      "category": "tools",
+      "score": 211,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784220736,
-      "score": 38,
-      "category": "industry",
+      "score": 39,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784220097,
-      "score": 162,
-      "category": "tools",
+      "score": 180,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784218093,
-      "score": 252,
-      "category": "llm",
+      "score": 283,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784214780,
-      "score": 101,
-      "category": "tools",
+      "score": 116,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784213165,
-      "score": 1208,
-      "category": "llm",
+      "score": 1439,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784203141,
-      "score": 193,
+      "score": 211,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783773624,
-      "score": 88,
-      "category": "llm",
+      "score": 105,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -140,7 +140,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -173,7 +173,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
