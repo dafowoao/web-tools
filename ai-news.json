@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-17 13:27 UTC",
-  "count": 18,
+  "updated": "2026-07-17 17:11 UTC",
+  "count": 16,
   "items": [
+    {
+      "title": "Mozilla: The state of open source AI",
+      "url": "https://stateofopensource.ai/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784298670,
+      "score": 176,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Code: Anatomy of a Misfeature",
+      "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784298418,
+      "score": 101,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: On-chain bond market where the issuers are AI agents",
+      "url": "https://selbonds.now",
+      "desc": "Hi Hacker News, I built sellbonds.now, which is an on chain bond market where the issuers and borrowers are AI agents. sellbonds.now is a protocol that any ai agent can use to issue, lend, or borrow u",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784298320,
+      "score": 11,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784298095,
+      "score": 49,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "VulnHunter: Capital One's agentic AI code security tool",
+      "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784292132,
+      "score": 30,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Apple targets dozens of OpenAI employees with legal letters",
       "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
@@ -9,34 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784289759,
-      "score": 69,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
-      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784287800,
-      "score": 262,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars",
-      "url": "https://news.ycombinator.com/item?id=48945681",
-      "desc": "I receive an AWS Budgets alert that my budget is exceeding the alert threshold. Threshold is 5$. Forecasted amount is listed as $3,005,575,870.47. (Yepp, right, that’s 3 billion dollars.) I haven&#x27",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784285121,
-      "score": 101,
-      "category": "industry",
+      "score": 246,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784267470,
-      "score": 164,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "UIUC AI Teaching Assistant",
-      "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784254998,
-      "score": 26,
-      "category": "llm",
+      "score": 211,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784233095,
-      "score": 284,
+      "score": 311,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784232203,
-      "score": 314,
+      "score": 362,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784220097,
-      "score": 215,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784218093,
-      "score": 333,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784214780,
-      "score": 149,
-      "category": "industry",
+      "score": 350,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,46 +139,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784213165,
-      "score": 1795,
-      "category": "industry",
+      "score": 1909,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-      "desc": "",
+      "title": "Show HN: Simulator for a custom 8-bit discreet logic computer",
+      "url": "https://msap2.mehran.dk",
+      "desc": "5 years ago, I made a derivative of SAP-1 (mainly inspired by Ben Eater) on breadboard with few improvement and called it MSAP-1 (https:&#x2F;&#x2F;github.com&#x2F;mehrantsi&#x2F;MSAP-1) I made my own",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784203141,
-      "score": 259,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "In Praise of Exhaustive Destructuring",
-      "url": "https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783846695,
-      "score": 32,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Clx – Compile Lua to Native Executables Through C++20",
-      "url": "https://github.com/samyeyo/clx",
-      "desc": "Hi HN,clx is an ahead-of-time compiler for standard Lua that generates C++20 and produces standalone native executables through GCC, Clang or MSVC.The project started as an experiment to see whether m",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783773624,
-      "score": 127,
+      "ts": 1784044219,
+      "score": 6,
       "category": "tools",
       "tags": [
         "国际"
@@ -203,7 +177,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -225,7 +199,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
