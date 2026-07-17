@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-17 06:15 UTC",
-  "count": 14,
+  "updated": "2026-07-17 09:56 UTC",
+  "count": 16,
   "items": [
+    {
+      "title": "EEG shows brain can simultaneous encode two speech streams",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784267470,
+      "score": 88,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "UIUC AI Teaching Assistant",
       "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
@@ -9,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784254998,
-      "score": 12,
-      "category": "tools",
+      "score": 18,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784233095,
-      "score": 208,
-      "category": "llm",
+      "score": 251,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784232203,
-      "score": 211,
-      "category": "industry",
+      "score": 272,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784220097,
-      "score": 180,
-      "category": "industry",
+      "score": 200,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784218093,
-      "score": 283,
+      "score": 307,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784214780,
-      "score": 116,
-      "category": "industry",
+      "score": 137,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784213165,
-      "score": 1439,
-      "category": "tools",
+      "score": 1632,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,8 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784203141,
-      "score": 211,
-      "category": "tools",
+      "score": 230,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "In Praise of Exhaustive Destructuring",
+      "url": "https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783846695,
+      "score": 19,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783773624,
-      "score": 105,
-      "category": "tools",
+      "score": 117,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -140,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -151,7 +177,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
