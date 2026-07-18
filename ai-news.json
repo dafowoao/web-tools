@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-18 13:14 UTC",
-  "count": 13,
+  "updated": "2026-07-18 16:57 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784391128,
+      "score": 29,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
+      "url": "https://q3edit.com",
+      "desc": "I&#x27;ve been building a level editor for Quake 3 that runs entirely in the browser: Radiant-style layout, brush and patch editing, CSG, terrain sculpting, and entity editing. It opens and saves .map",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784387560,
+      "score": 12,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "LG ThinQ Terms of Use",
+      "url": "https://news.ycombinator.com/item?id=48958273",
+      "desc": "Some of my kitchen appliances are LG and I installed the LG ThinQ app on my phone.Sometimes I like to leave a cold dish in the oven before I go out then remotely start it when I’m on my way back home,",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784383495,
+      "score": 38,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784379652,
+      "score": 271,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "What AI did to stackoverflow in a graph",
       "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
@@ -9,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784373166,
-      "score": 92,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Why do AI company logos look like buttholes? (2025)",
-      "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784372810,
-      "score": 274,
-      "category": "tools",
+      "score": 231,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,33 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784372429,
-      "score": 36,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784327190,
-      "score": 524,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Painting the sides of railroad rails white to reduce derailment",
-      "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784319179,
-      "score": 118,
+      "score": 138,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,20 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784307447,
-      "score": 673,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The state of open source AI",
-      "url": "https://stateofopensource.ai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784298670,
-      "score": 459,
+      "score": 740,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784253638,
-      "score": 48,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "url": "https://www.kimi.com/blog/kimi-k3",
-      "desc": "https:&#x2F;&#x2F;www.kimi.com&#x2F;enKimi K3 Intelligence, Performance &amp; Price Analysis: https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;kimi-k3",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784213165,
-      "score": 2041,
-      "category": "tools",
+      "score": 53,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -138,7 +125,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -160,7 +147,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
