@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-18 06:04 UTC",
+  "updated": "2026-07-18 09:25 UTC",
   "count": 12,
   "items": [
     {
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
       "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784327190,
-      "score": 436,
+      "score": 506,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784323373,
-      "score": 161,
-      "category": "tools",
+      "score": 174,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784319179,
-      "score": 72,
-      "category": "llm",
+      "score": 93,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784307447,
-      "score": 487,
-      "category": "llm",
+      "score": 579,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784302865,
-      "score": 82,
-      "category": "llm",
+      "score": 85,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,21 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784298670,
-      "score": 407,
-      "category": "llm",
+      "score": 436,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+      "title": "In-toto: A framework to secure the integrity of software supply chains",
+      "url": "https://in-toto.io/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784298095,
-      "score": 90,
-      "category": "llm",
+      "ts": 1784253638,
+      "score": 20,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784213165,
-      "score": 2011,
-      "category": "tools",
+      "score": 2027,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -114,7 +114,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -125,7 +125,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
