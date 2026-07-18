@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-17 20:54 UTC",
-  "count": 15,
+  "updated": "2026-07-18 02:27 UTC",
+  "count": 14,
   "items": [
+    {
+      "title": "A grumpy screed about AI in software engineering",
+      "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784335208,
+      "score": 34,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Texas wins court order to suspend domain name for violating age-verification law",
+      "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784327755,
+      "score": 135,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784327190,
+      "score": 303,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784323373,
+      "score": 125,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Painting the sides of railroad rails white to reduce derailment",
+      "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784319179,
+      "score": 48,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Thanks HN for 15 years of support and helping me find my life's work",
+      "url": "https://news.ycombinator.com/item?id=48949551",
+      "desc": "Tomorrow is the 15th anniversary of the first day of the Recurse Center (https:&#x2F;&#x2F;www.recurse.com&#x2F;)My cofounders and I did YC all the way back in the Summer of 2010, with the initial ide",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784307447,
+      "score": 357,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Workspaces – Explore the workspaces of modern creators",
       "url": "https://workspaces.xyz/",
@@ -9,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784302865,
-      "score": 47,
-      "category": "industry",
+      "score": 73,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784298670,
-      "score": 312,
-      "category": "tools",
+      "score": 377,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,85 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784298095,
-      "score": 73,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "VulnHunter: Capital One's agentic AI code security tool",
-      "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784292132,
-      "score": 51,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Apple targets dozens of OpenAI employees with legal letters",
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784289759,
-      "score": 340,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "EEG shows brain can simultaneous encode two speech streams",
-      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784267470,
-      "score": 240,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784233095,
-      "score": 314,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784232203,
-      "score": 375,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "NotebookLM is now Gemini Notebook",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784218093,
-      "score": 357,
+      "score": 85,
       "category": "industry",
       "tags": [
         "国际"
@@ -126,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784213165,
-      "score": 1976,
+      "score": 1998,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Simulator for a custom 8-bit discreet logic computer",
-      "url": "https://msap2.mehran.dk",
-      "desc": "5 years ago, I made a derivative of SAP-1 (mainly inspired by Ben Eater) on breadboard with few improvement and called it MSAP-1 (https:&#x2F;&#x2F;github.com&#x2F;mehrantsi&#x2F;MSAP-1) I made my own",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784044219,
-      "score": 18,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -153,7 +140,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
