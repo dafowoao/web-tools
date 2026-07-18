@@ -1,33 +1,7 @@
 {
-  "updated": "2026-07-18 02:27 UTC",
-  "count": 14,
+  "updated": "2026-07-18 06:04 UTC",
+  "count": 12,
   "items": [
-    {
-      "title": "A grumpy screed about AI in software engineering",
-      "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784335208,
-      "score": 34,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Texas wins court order to suspend domain name for violating age-verification law",
-      "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784327755,
-      "score": 135,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
       "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
@@ -35,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784327190,
-      "score": 303,
-      "category": "llm",
+      "score": 436,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784323373,
-      "score": 125,
+      "score": 161,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784319179,
-      "score": 48,
-      "category": "industry",
+      "score": 72,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784307447,
-      "score": 357,
-      "category": "tools",
+      "score": 487,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784302865,
-      "score": 73,
-      "category": "tools",
+      "score": 82,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784298670,
-      "score": 377,
-      "category": "industry",
+      "score": 407,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784298095,
-      "score": 85,
-      "category": "industry",
+      "score": 90,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784213165,
-      "score": 1998,
-      "category": "industry",
+      "score": 2011,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -140,7 +114,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -151,7 +125,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -173,7 +147,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
