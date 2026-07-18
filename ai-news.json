@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18 16:57 UTC",
-  "count": 12,
+  "updated": "2026-07-18 20:46 UTC",
+  "count": 11,
   "items": [
     {
       "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
@@ -9,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784391128,
-      "score": 29,
-      "category": "industry",
+      "score": 126,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,21 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784387560,
-      "score": 12,
+      "score": 42,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LG ThinQ Terms of Use",
-      "url": "https://news.ycombinator.com/item?id=48958273",
-      "desc": "Some of my kitchen appliances are LG and I installed the LG ThinQ app on my phone.Sometimes I like to leave a cold dish in the oven before I go out then remotely start it when I’m on my way back home,",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784383495,
-      "score": 38,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784379652,
-      "score": 271,
-      "category": "llm",
+      "score": 430,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784373166,
-      "score": 231,
+      "score": 327,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784372429,
-      "score": 138,
-      "category": "industry",
+      "score": 183,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784307447,
-      "score": 740,
-      "category": "tools",
+      "score": 780,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784253638,
-      "score": 53,
+      "score": 58,
       "category": "industry",
       "tags": [
         "国际"
@@ -114,7 +101,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -125,7 +112,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
