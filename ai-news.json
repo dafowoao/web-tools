@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-19 06:29 UTC",
-  "count": 12,
+  "updated": "2026-07-19 09:51 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+      "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784448024,
+      "score": 12,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "IceCream – Never use print() to debug again",
       "url": "https://github.com/gruns/icecream",
@@ -9,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784425144,
-      "score": 9,
-      "category": "tools",
+      "score": 21,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,21 +35,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784424559,
-      "score": 139,
-      "category": "industry",
+      "score": 207,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
       "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784412819,
-      "score": 398,
-      "category": "industry",
+      "score": 470,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "What's the deal with all the random weekly quota resets for agents lately?",
+      "url": "https://minimaxir.com/2026/07/agent-quota-reset/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784401583,
+      "score": 55,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784391128,
-      "score": 214,
-      "category": "industry",
+      "score": 232,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784387560,
-      "score": 80,
-      "category": "tools",
+      "score": 84,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784379652,
-      "score": 543,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "What AI did to stackoverflow in a graph",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784373166,
-      "score": 396,
+      "score": 562,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784372429,
-      "score": 233,
-      "category": "llm",
+      "score": 240,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -125,7 +138,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -147,7 +160,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     }
   ]
