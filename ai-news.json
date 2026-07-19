@@ -1,29 +1,42 @@
 {
-  "updated": "2026-07-19 09:51 UTC",
-  "count": 13,
+  "updated": "2026-07-19 13:16 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
-      "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784448024,
-      "score": 12,
+      "ts": 1784455403,
+      "score": 123,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "IceCream – Never use print() to debug again",
-      "url": "https://github.com/gruns/icecream",
+      "title": "Ollama: All Aboard Open Models",
+      "url": "https://ollama.com/blog/all-aboard-open-models",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784425144,
-      "score": 21,
-      "category": "industry",
+      "ts": 1784447984,
+      "score": 15,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784447679,
+      "score": 69,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784424559,
-      "score": 207,
-      "category": "llm",
+      "score": 278,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784412819,
-      "score": 470,
-      "category": "tools",
+      "score": 505,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,33 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784401583,
-      "score": 55,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "url": "https://ykdojo.github.io/claude-controls-mac/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784391128,
-      "score": 232,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
-      "url": "https://q3edit.com",
-      "desc": "I&#x27;ve been building a level editor for Quake 3 that runs entirely in the browser: Radiant-style layout, brush and patch editing, CSG, terrain sculpting, and entity editing. It opens and saves .map",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784387560,
-      "score": 84,
+      "score": 58,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,20 +87,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784379652,
-      "score": 562,
+      "score": 572,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+      "title": "Show HN: LoopGain – Stop agent loops with control theory, not max_iterations",
+      "url": "https://github.com/loopgain-ai/loopgain",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784372429,
-      "score": 240,
+      "ts": 1784117268,
+      "score": 11,
       "category": "tools",
       "tags": [
         "国际"
@@ -127,7 +114,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -138,7 +125,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -160,7 +147,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
