@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-19 16:57 UTC",
-  "count": 13,
+  "updated": "2026-07-19 20:48 UTC",
+  "count": 10,
   "items": [
+    {
+      "title": "Heavy TV watching associated with smaller brain structures, study finds",
+      "url": "https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784492758,
+      "score": 22,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784476945,
+      "score": 126,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "url": "https://news.ycombinator.com/item?id=48968606",
+      "desc": "I might be the only SRE on Earth with his own bowling center. It&#x27;s a more in-depth gig than you&#x27;d think.My family and I bought an abandoned 8-lane bowling center in the rural mid-west. In ou",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784472076,
+      "score": 713,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
       "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
@@ -9,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784470027,
-      "score": 36,
-      "category": "tools",
+      "score": 60,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,33 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784455403,
-      "score": 199,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Anthropic runs large-scale code migrations with Claude Code",
-      "url": "https://claude.com/blog/ai-code-migration",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784449875,
-      "score": 10,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ollama: All Aboard Open Models",
-      "url": "https://ollama.com/blog/all-aboard-open-models",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784447984,
-      "score": 45,
+      "score": 327,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,59 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784447679,
-      "score": 174,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI Mania Is Eviscerating Global Decision-Making",
-      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784424559,
-      "score": 331,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784412819,
-      "score": 550,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "What's the deal with all the random weekly quota resets for agents lately?",
-      "url": "https://minimaxir.com/2026/07/agent-quota-reset/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784401583,
-      "score": 68,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784379652,
-      "score": 576,
+      "score": 260,
       "category": "llm",
       "tags": [
         "国际"
@@ -138,7 +99,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -160,7 +121,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
