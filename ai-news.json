@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-19 02:41 UTC",
-  "count": 11,
+  "updated": "2026-07-19 06:29 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "IceCream – Never use print() to debug again",
+      "url": "https://github.com/gruns/icecream",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784425144,
+      "score": 9,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "AI Mania Is Eviscerating Global Decision-Making",
       "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
@@ -9,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784424559,
-      "score": 12,
+      "score": 139,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784412819,
-      "score": 251,
-      "category": "llm",
+      "score": 398,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784391128,
-      "score": 179,
-      "category": "tools",
+      "score": 214,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784387560,
-      "score": 68,
-      "category": "llm",
+      "score": 80,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784379652,
-      "score": 509,
-      "category": "tools",
+      "score": 543,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784373166,
-      "score": 368,
-      "category": "tools",
+      "score": 396,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784372429,
-      "score": 215,
-      "category": "industry",
+      "score": 233,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -101,7 +114,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -112,7 +125,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
