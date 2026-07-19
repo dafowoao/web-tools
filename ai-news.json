@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-18 20:46 UTC",
+  "updated": "2026-07-19 02:41 UTC",
   "count": 11,
   "items": [
+    {
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784424559,
+      "score": 12,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784412819,
+      "score": 251,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
       "url": "https://ykdojo.github.io/claude-controls-mac/",
@@ -9,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784391128,
-      "score": 126,
-      "category": "llm",
+      "score": 179,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784387560,
-      "score": 42,
-      "category": "industry",
+      "score": 68,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784379652,
-      "score": 430,
-      "category": "industry",
+      "score": 509,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784373166,
-      "score": 327,
-      "category": "industry",
+      "score": 368,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,33 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784372429,
-      "score": 183,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Thanks HN for 15 years of support and helping me find my life's work",
-      "url": "https://news.ycombinator.com/item?id=48949551",
-      "desc": "Tomorrow is the 15th anniversary of the first day of the Recurse Center (https:&#x2F;&#x2F;www.recurse.com&#x2F;)My cofounders and I did YC all the way back in the Summer of 2010, with the initial ide",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784307447,
-      "score": 780,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "In-toto: A framework to secure the integrity of software supply chains",
-      "url": "https://in-toto.io/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784253638,
-      "score": 58,
+      "score": 215,
       "category": "industry",
       "tags": [
         "国际"
@@ -112,7 +112,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
