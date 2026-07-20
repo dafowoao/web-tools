@@ -1,16 +1,42 @@
 {
-  "updated": "2026-07-20 18:02 UTC",
-  "count": 12,
+  "updated": "2026-07-20 21:11 UTC",
+  "count": 14,
   "items": [
     {
-      "title": "Over 30% of new ArXiv submissions now read as AI-written",
+      "title": "Agent swarms and the new model economics",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784570773,
+      "score": 51,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI, Vim, and the Illusion of Flow",
+      "url": "https://rosipov.com/blog/ai-vim-and-the-illusion-of-flow/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784570382,
+      "score": 11,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
       "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784565396,
-      "score": 79,
-      "category": "tools",
+      "score": 171,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,8 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784565130,
-      "score": 17,
-      "category": "llm",
+      "score": 42,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
+      "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784561312,
+      "score": 40,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784560422,
-      "score": 155,
-      "category": "llm",
+      "score": 226,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784558119,
-      "score": 25,
-      "category": "llm",
+      "score": 57,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784557307,
-      "score": 343,
-      "category": "industry",
+      "score": 722,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784543440,
-      "score": 449,
-      "category": "tools",
+      "score": 579,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784535216,
-      "score": 335,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
-      "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784104546,
-      "score": 113,
-      "category": "tools",
+      "score": 359,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -114,7 +140,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -125,7 +151,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -147,7 +173,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
