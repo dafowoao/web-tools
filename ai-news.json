@@ -1,16 +1,55 @@
 {
-  "updated": "2026-07-20 02:54 UTC",
-  "count": 12,
+  "updated": "2026-07-20 06:45 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "Show HN: A canvas-based note taking and organizer app",
-      "url": "https://www.passinote.app/",
-      "desc": "So I&#x27;ve been working on this app for a very long time now. Started off by wanting an app that separates long form notes from short form notes visually and keeps everything organized on a canvas.T",
+      "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
+      "url": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784496708,
-      "score": 42,
+      "ts": 1784522987,
+      "score": 21,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784521488,
+      "score": 27,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Power companies are using eminent domain to seize land for data centers",
+      "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784521162,
+      "score": 67,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784515876,
+      "score": 258,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784495890,
-      "score": 286,
-      "category": "llm",
+      "score": 327,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784476945,
-      "score": 233,
-      "category": "industry",
+      "score": 248,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784472076,
-      "score": 1627,
-      "category": "industry",
+      "score": 2044,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784455403,
-      "score": 403,
+      "score": 474,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ollama: All Aboard Open Models",
-      "url": "https://ollama.com/blog/all-aboard-open-models",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784447984,
-      "score": 111,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784447679,
-      "score": 327,
-      "category": "llm",
+      "score": 338,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784122304,
-      "score": 23,
-      "category": "industry",
+      "score": 36,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Self-Powered Trailers Promise Leaner Freight Runs",
+      "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783698276,
+      "score": 11,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -114,7 +153,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -125,7 +164,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -147,7 +186,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
