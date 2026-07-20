@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-20 06:45 UTC",
-  "count": 15,
+  "updated": "2026-07-20 10:51 UTC",
+  "count": 17,
   "items": [
+    {
+      "title": "Airbus Takes Flight from AWS",
+      "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784542342,
+      "score": 3,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
+      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784535216,
+      "score": 113,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
       "url": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
@@ -9,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784522987,
-      "score": 21,
-      "category": "industry",
+      "score": 105,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784521488,
-      "score": 27,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Power companies are using eminent domain to seize land for data centers",
-      "url": "https://fortune.com/2026/07/19/data-center-eminent-domain-public-use/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784521162,
-      "score": 67,
-      "category": "industry",
+      "score": 87,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,34 +61,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784515876,
-      "score": 258,
-      "category": "llm",
+      "score": 428,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "AI advice made people less accurate but more confident – sudy",
-      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "title": "LLMs aren't remotely like compilers or power tools",
+      "url": "https://blainehansen.me/post/llms-not-power-tools/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784495890,
-      "score": 327,
+      "ts": 1784512079,
+      "score": 17,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784476945,
-      "score": 248,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784472076,
-      "score": 2044,
+      "score": 2372,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784455403,
-      "score": 474,
+      "score": 532,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,8 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784447679,
-      "score": 338,
-      "category": "tools",
+      "score": 345,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "1-Bit LLM in the Browser",
+      "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784220632,
+      "score": 47,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,7 +139,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784122304,
-      "score": 36,
+      "score": 44,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
+      "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784104546,
+      "score": 48,
       "category": "tools",
       "tags": [
         "国际"
@@ -139,7 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783698276,
-      "score": 11,
+      "score": 42,
       "category": "llm",
       "tags": [
         "国际"
@@ -164,7 +190,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
