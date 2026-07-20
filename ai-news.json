@@ -1,15 +1,28 @@
 {
-  "updated": "2026-07-19 20:48 UTC",
-  "count": 10,
+  "updated": "2026-07-20 02:54 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "Heavy TV watching associated with smaller brain structures, study finds",
-      "url": "https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/",
+      "title": "Show HN: A canvas-based note taking and organizer app",
+      "url": "https://www.passinote.app/",
+      "desc": "So I&#x27;ve been working on this app for a very long time now. Started off by wanting an app that separates long form notes from short form notes visually and keeps everything organized on a canvas.T",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784496708,
+      "score": 42,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI advice made people less accurate but more confident – sudy",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784492758,
-      "score": 22,
+      "ts": 1784495890,
+      "score": 286,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784476945,
-      "score": 126,
-      "category": "llm",
+      "score": 233,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784472076,
-      "score": 713,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Clever hacker fits 537,000 domains in a $5 ESP32 ad-blocking dongle",
-      "url": "https://www.tomshardware.com/networking/clever-hacker-fits-537-000-domains-in-a-tiny-usd5-esp32-ad-blocking-dongle-firmware-uses-only-around-50kb-of-ram-and-can-answer-blocked-lookups-in-10-milliseconds",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784470027,
-      "score": 60,
-      "category": "llm",
+      "score": 1627,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,7 +61,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784455403,
-      "score": 327,
+      "score": 403,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ollama: All Aboard Open Models",
+      "url": "https://ollama.com/blog/all-aboard-open-models",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784447984,
+      "score": 111,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,8 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784447679,
-      "score": 260,
+      "score": 327,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Talk: The Art of Braiding Algorithms",
+      "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784122304,
+      "score": 23,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -88,7 +114,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -99,7 +125,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -121,7 +147,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
