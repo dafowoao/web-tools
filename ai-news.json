@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-20 10:51 UTC",
-  "count": 17,
+  "updated": "2026-07-20 14:04 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "Airport Simulator",
+      "url": "https://airport.apunen.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784543440,
+      "score": 220,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Airbus Takes Flight from AWS",
       "url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
@@ -9,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784542342,
-      "score": 3,
-      "category": "industry",
+      "score": 160,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,21 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784535216,
-      "score": 113,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
-      "url": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784522987,
-      "score": 105,
-      "category": "tools",
+      "score": 260,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,33 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784521488,
-      "score": 87,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784515876,
-      "score": 428,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LLMs aren't remotely like compilers or power tools",
-      "url": "https://blainehansen.me/post/llms-not-power-tools/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784512079,
-      "score": 17,
+      "score": 113,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784472076,
-      "score": 2372,
+      "score": 2616,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784455403,
-      "score": 532,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-      "url": "https://github.com/openai/codex/pull/33972/files",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784447679,
-      "score": 345,
-      "category": "industry",
+      "score": 573,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,21 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784220632,
-      "score": 47,
-      "category": "llm",
+      "score": 76,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Talk: The Art of Braiding Algorithms",
-      "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+      "title": "Show HN: Stacks – an hourly card solitaire about building four gardens",
+      "url": "https://plan9.kr/stacks/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784122304,
-      "score": 44,
-      "category": "llm",
+      "ts": 1784126421,
+      "score": 6,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784104546,
-      "score": 48,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Self-Powered Trailers Promise Leaner Freight Runs",
-      "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783698276,
-      "score": 42,
-      "category": "llm",
+      "score": 85,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -179,7 +127,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -190,7 +138,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -212,7 +160,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
