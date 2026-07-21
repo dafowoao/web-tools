@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-20 21:11 UTC",
-  "count": 14,
+  "updated": "2026-07-21 02:38 UTC",
+  "count": 15,
   "items": [
     {
       "title": "Agent swarms and the new model economics",
@@ -9,21 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784570773,
-      "score": 51,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI, Vim, and the Illusion of Flow",
-      "url": "https://rosipov.com/blog/ai-vim-and-the-illusion-of-flow/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784570382,
-      "score": 11,
-      "category": "tools",
+      "score": 130,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784565396,
-      "score": 171,
+      "score": 197,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784565130,
-      "score": 42,
-      "category": "industry",
+      "score": 64,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784561312,
-      "score": 40,
-      "category": "tools",
+      "score": 62,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,34 +61,47 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784560422,
-      "score": 226,
-      "category": "tools",
+      "score": 301,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Controlling Reasoning Effort in LLMs",
-      "url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784558119,
-      "score": 57,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "China's open-weights AI strategy is winning",
+      "title": "China’s open-weights AI strategy is winning",
       "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784557307,
-      "score": 722,
+      "score": 991,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Firefox 153 available with support for Vulkan video decoding, JPEG-XL",
+      "url": "https://www.phoronix.com/news/Firefox-153-Downloads",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784555233,
+      "score": 242,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Who's afraid of Chinese models?",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784545558,
+      "score": 318,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,20 +113,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784543440,
-      "score": 579,
-      "category": "llm",
+      "score": 726,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-      "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784535216,
-      "score": 359,
+      "ts": 1784515876,
+      "score": 687,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "My two year old taught me constraint solving",
+      "url": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1783711927,
+      "score": 38,
       "category": "industry",
       "tags": [
         "国际"
@@ -140,7 +153,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -173,7 +186,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
