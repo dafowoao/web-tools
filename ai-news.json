@@ -1,16 +1,81 @@
 {
-  "updated": "2026-07-21 13:48 UTC",
-  "count": 15,
+  "updated": "2026-07-21 17:19 UTC",
+  "count": 16,
   "items": [
     {
-      "title": "LLM spambots liked my Show HN post more than real people did",
-      "url": "https://sgnt.ai/p/show-hn-llm-spam/",
+      "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
+      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784632950,
-      "score": 12,
+      "ts": 1784653398,
+      "score": 4,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Bloomy (YC S26) is hiring a founding engineer",
+      "url": "https://news.ycombinator.com/item?id=48995037",
+      "desc": "About BloomyBloomy is an AI tutor and curriculum for K-12 students. Our student users are learning approximately 2x faster in early pilots, and students and teachers alike love our product.How it work",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784653220,
+      "score": 1,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Gumroad Says That It's Now Spending as Much on Human Employees as AI Tokens",
+      "url": "https://officechai.com/ai/gumroad-says-that-its-now-spending-as-much-on-human-employees-as-ai-tokens/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784651490,
+      "score": 6,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
+      "url": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784647901,
+      "score": 40,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784647036,
+      "score": 295,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Is Not a Compiler",
+      "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784645358,
+      "score": 107,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784623463,
-      "score": 286,
-      "category": "industry",
+      "score": 459,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784605925,
-      "score": 51,
-      "category": "llm",
+      "score": 67,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784570773,
-      "score": 236,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784565396,
-      "score": 230,
-      "category": "tools",
+      "score": 257,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784565130,
-      "score": 93,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784560422,
-      "score": 346,
-      "category": "tools",
+      "score": 94,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784557307,
-      "score": 1160,
-      "category": "industry",
+      "score": 1190,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,33 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784545558,
-      "score": 778,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Airport Simulator",
-      "url": "https://airport.apunen.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784543440,
-      "score": 812,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "My two year old taught me constraint solving",
-      "url": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1783711927,
-      "score": 88,
+      "score": 902,
       "category": "industry",
       "tags": [
         "国际"
@@ -153,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -164,7 +177,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -186,7 +199,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
