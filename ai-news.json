@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-21 02:38 UTC",
-  "count": 15,
+  "updated": "2026-07-21 06:28 UTC",
+  "count": 10,
   "items": [
+    {
+      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784606163,
+      "score": 158,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784605925,
+      "score": 22,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Agent swarms and the new model economics",
       "url": "https://cursor.com/blog/agent-swarm-model-economics",
@@ -9,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784570773,
-      "score": 130,
+      "score": 170,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784565396,
-      "score": 197,
-      "category": "industry",
+      "score": 208,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784565130,
-      "score": 64,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
-      "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784561312,
-      "score": 62,
-      "category": "llm",
+      "score": 80,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784560422,
-      "score": 301,
+      "score": 327,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784557307,
-      "score": 991,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Firefox 153 available with support for Vulkan video decoding, JPEG-XL",
-      "url": "https://www.phoronix.com/news/Firefox-153-Downloads",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784555233,
-      "score": 242,
-      "category": "tools",
+      "score": 1050,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784545558,
-      "score": 318,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Airport Simulator",
-      "url": "https://airport.apunen.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784543440,
-      "score": 726,
+      "score": 506,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784515876,
-      "score": 687,
-      "category": "tools",
+      "score": 722,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,55 +126,11 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783711927,
-      "score": 38,
-      "category": "industry",
+      "score": 59,
+      "category": "tools",
       "tags": [
         "国际"
       ]
-    },
-    {
-      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
-      "url": "https://www.36kr.com/p/210949",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "industry",
-      "tags": []
-    },
-    {
-      "title": "三大运营商年内推出5G消息",
-      "url": "https://www.36kr.com/p/210948",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "tools",
-      "tags": []
-    },
-    {
-      "title": "瑞德西韦同情用药的数据存在局限性，中国重症临床试验已中止",
-      "url": "https://www.36kr.com/p/210942",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "china",
-      "tags": []
-    },
-    {
-      "title": "第三方曝光罗永浩第二场直播数据：带货销售额下降近70%",
-      "url": "https://www.36kr.com/p/210929",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "llm",
-      "tags": []
     }
   ]
 }
