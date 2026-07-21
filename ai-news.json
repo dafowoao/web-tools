@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-21 06:28 UTC",
-  "count": 10,
+  "updated": "2026-07-21 10:24 UTC",
+  "count": 13,
   "items": [
     {
-      "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-      "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784606163,
-      "score": 158,
-      "category": "tools",
+      "ts": 1784623463,
+      "score": 86,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784605925,
-      "score": 22,
-      "category": "llm",
+      "score": 36,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784570773,
-      "score": 170,
+      "score": 199,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784565396,
-      "score": 208,
-      "category": "tools",
+      "score": 226,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784565130,
-      "score": 80,
+      "score": 89,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784560422,
-      "score": 327,
-      "category": "llm",
+      "score": 337,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784557307,
-      "score": 1050,
-      "category": "industry",
+      "score": 1115,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784545558,
-      "score": 506,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784515876,
-      "score": 722,
-      "category": "industry",
+      "score": 656,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,11 +113,55 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783711927,
-      "score": 59,
-      "category": "tools",
+      "score": 79,
+      "category": "llm",
       "tags": [
         "国际"
       ]
+    },
+    {
+      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
+      "url": "https://www.36kr.com/p/210949",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "llm",
+      "tags": []
+    },
+    {
+      "title": "三大运营商年内推出5G消息",
+      "url": "https://www.36kr.com/p/210948",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "industry",
+      "tags": []
+    },
+    {
+      "title": "瑞德西韦同情用药的数据存在局限性，中国重症临床试验已中止",
+      "url": "https://www.36kr.com/p/210942",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "china",
+      "tags": []
+    },
+    {
+      "title": "第三方曝光罗永浩第二场直播数据：带货销售额下降近70%",
+      "url": "https://www.36kr.com/p/210929",
+      "desc": "",
+      "source": "36氪",
+      "sourceColor": "#1db48c",
+      "ts": 0,
+      "score": 0,
+      "category": "llm",
+      "tags": []
     }
   ]
 }
