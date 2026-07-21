@@ -1,16 +1,146 @@
 {
-  "updated": "2026-07-21 17:19 UTC",
-  "count": 16,
+  "updated": "2026-07-21 21:09 UTC",
+  "count": 20,
   "items": [
     {
-      "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
-      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+      "title": "OpenAI and Hugging Face partner to address security incident",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784653398,
-      "score": 4,
+      "ts": 1784664592,
+      "score": 200,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784660679,
+      "score": 42,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Advertise in ChatGPT",
+      "url": "https://ads.openai.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784660324,
+      "score": 194,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI Agent – TRMNL",
+      "url": "https://help.trmnl.com/en/articles/14130438-ai-agent",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784658741,
+      "score": 24,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI makes programming differently difficult",
+      "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784658621,
+      "score": 122,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: A self-running space economy SIM in Rust and Bevy",
+      "url": "https://github.com/Kalcode/spaceprojectsim",
+      "desc": "I built this with Claude cause I always wanted to tinker with a simulation economoy and I love space themes.A space-economy sim where nothing is scripted. A few hundred autonomous ships each run their",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784658597,
+      "score": 47,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Firefox Containers Preview",
+      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784654879,
+      "score": 109,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Word in Web – Near MS Word Parity Docx Editor in Web",
+      "url": "https://word-in-web.com/",
+      "desc": "Word in web is a pure JS docx editor&#x2F;renderer benched against MS Word directly. This was largely inspired by Eigenpal going closed source, and some personal frustrations I had with working on com",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784654401,
+      "score": 14,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "desc": "https:&#x2F;&#x2F;x.com&#x2F;jack&#x2F;status&#x2F;2079605800998146171, https:&#x2F;&#x2F;xcancel.com&#x2F;jack&#x2F;status&#x2F;2079605800998146171https:&#x2F;&#x2F;buzz.xyz&#x2F;",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784654046,
+      "score": 145,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations",
+      "url": "https://github.com/AlmanacCode/codealmanac/",
+      "desc": "Hey HN! This is Divit from Almanac (YC S26). We built CodeAlmanac, a wiki for your coding agents that updates as you talk to them. It is open-source, local, and free.Here’s a demo: https:&#x2F;&#x2F;w",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784653921,
+      "score": 28,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Meta's AI models are powering the first wave of Genesis Mission projects",
+      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+      "desc": "https:&#x2F;&#x2F;www.energy.gov&#x2F;undersecretaryforscience&#x2F;genesis-miss...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784653398,
+      "score": 73,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -29,53 +159,14 @@
       ]
     },
     {
-      "title": "Gumroad Says That It's Now Spending as Much on Human Employees as AI Tokens",
-      "url": "https://officechai.com/ai/gumroad-says-that-its-now-spending-as-much-on-human-employees-as-ai-tokens/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784651490,
-      "score": 6,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Apple Fixes Hide My Email Vulnerability After 404 Media Coverage",
-      "url": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784647901,
-      "score": 40,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
       "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "desc": "",
+      "desc": "https:&#x2F;&#x2F;console.cloud.google.com&#x2F;agent-platform&#x2F;publishers&#x2F;g...",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784647036,
-      "score": 295,
+      "score": 514,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Is Not a Compiler",
-      "url": "https://blog.exe.dev/claude-is-not-a-compiler",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784645358,
-      "score": 107,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,73 +178,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784623463,
-      "score": 459,
+      "score": 510,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
-      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
-      "desc": "",
+      "title": "Show HN: Read the Tape – Wordle for daytrading, five blind S&P 500 charts a day",
+      "url": "https://readthetape.cc/",
+      "desc": "Read the Tape gives players the same 5 S&amp;P500 stock charts per day to predict. You select low, medium or high confidence and then call the chart UP or DOWN. It&#x27;s a 1d chart which then resolve",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784605925,
-      "score": 67,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Agent swarms and the new model economics",
-      "url": "https://cursor.com/blog/agent-swarm-model-economics",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784570773,
-      "score": 257,
+      "ts": 1784549236,
+      "score": 11,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
-      "url": "https://news.ycombinator.com/item?id=48981136",
-      "desc": "Hi HN, I’m Alex Southmayd, the founder of Bloomy (https:&#x2F;&#x2F;bloomylearning.com) – an AI-powered mastery-learning platform for K-12 students. Bloomy provides students with an AI tutor alongside",
+      "title": "Show HN: Justif – Knuth-Plass justification and microtypography for the web",
+      "url": "https://justif.lyall.co/",
+      "desc": "Justif is a drop-in JavaScript library that progressively enhances web pages to TeX-level text justification. Installation is a single &lt;script&gt; line, standard text and accessibility affordances ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784565130,
-      "score": 94,
+      "ts": 1784292440,
+      "score": 13,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "China’s open-weights AI strategy is winning",
-      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784557307,
-      "score": 1190,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Who's afraid of Chinese models?",
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784545558,
-      "score": 902,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -166,7 +218,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -177,7 +229,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -199,7 +251,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
