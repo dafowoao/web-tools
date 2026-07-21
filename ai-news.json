@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-21 10:24 UTC",
-  "count": 13,
+  "updated": "2026-07-21 13:48 UTC",
+  "count": 15,
   "items": [
+    {
+      "title": "LLM spambots liked my Show HN post more than real people did",
+      "url": "https://sgnt.ai/p/show-hn-llm-spam/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784632950,
+      "score": 12,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
       "url": "https://qwen.ai/blog?id=qwen-image-3.0",
@@ -9,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784623463,
-      "score": 86,
+      "score": 286,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784605925,
-      "score": 36,
-      "category": "industry",
+      "score": 51,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784570773,
-      "score": 199,
-      "category": "llm",
+      "score": 236,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784565396,
-      "score": 226,
-      "category": "llm",
+      "score": 230,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784565130,
-      "score": 89,
+      "score": 93,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784560422,
-      "score": 337,
+      "score": 346,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784557307,
-      "score": 1115,
-      "category": "llm",
+      "score": 1160,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784545558,
-      "score": 656,
-      "category": "llm",
+      "score": 778,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Airport Simulator",
+      "url": "https://airport.apunen.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784543440,
+      "score": 812,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1783711927,
-      "score": 79,
-      "category": "llm",
+      "score": 88,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -127,7 +153,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -160,7 +186,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
