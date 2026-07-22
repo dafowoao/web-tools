@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-22 02:36 UTC",
-  "count": 18,
+  "updated": "2026-07-22 06:27 UTC",
+  "count": 17,
   "items": [
     {
-      "title": "How an AI Anime Is Created",
-      "url": "https://www.aventos.dev/our-process?view=blog",
-      "desc": "",
+      "title": "Show HN: A new kind of FPS aim trainer",
+      "url": "https://openaim.pramit.gg/",
+      "desc": "I played a lot of Valorant and got mad, so I made an aim trainer that analyzes your raw crosshair movement to explore your raw motor and perceptual weaknesses instead of scoring scenarios.\nIt also cho",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784681580,
-      "score": 12,
+      "ts": 1784698771,
+      "score": 4,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784669274,
-      "score": 44,
+      "score": 67,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784668400,
-      "score": 123,
+      "score": 167,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784664592,
-      "score": 749,
+      "score": 961,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784660679,
-      "score": 146,
-      "category": "llm",
+      "score": 264,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784660324,
-      "score": 327,
-      "category": "llm",
+      "score": 605,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784658597,
-      "score": 89,
+      "score": 96,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784654046,
-      "score": 252,
-      "category": "tools",
+      "score": 295,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -114,7 +114,7 @@
       "sourceColor": "#ff6600",
       "ts": 1784653220,
       "score": 1,
-      "category": "industry",
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784649980,
-      "score": 12,
-      "category": "industry",
+      "score": 17,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,20 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784647036,
-      "score": 622,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Workaround – Unstar GitHub Repos in Bulk",
-      "url": "https://workaround.run/",
-      "desc": "Github currently doesn’t let you unstar repositories in bulk. To resolve that \nlet me introduce Workaround : a web app where users can not only unstar GitHub repos in bulk but also use AI filters and ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784367696,
-      "score": 8,
+      "score": 658,
       "category": "tools",
       "tags": [
         "国际"
@@ -165,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784292440,
-      "score": 90,
+      "score": 128,
       "category": "industry",
       "tags": [
         "国际"
@@ -178,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784226896,
-      "score": 35,
-      "category": "tools",
+      "score": 51,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -192,7 +179,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -225,7 +212,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
