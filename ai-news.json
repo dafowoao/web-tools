@@ -1,28 +1,54 @@
 {
-  "updated": "2026-07-22 10:24 UTC",
-  "count": 18,
+  "updated": "2026-07-22 13:52 UTC",
+  "count": 20,
   "items": [
     {
-      "title": "Microsoft strikes 'multibillion-dollar' deal with French AI firm Mistral",
-      "url": "https://www.france24.com/en/france/20260721-microsoft-strikes-multi-billion-dollar-deal-to-expand-france-ai-firm-mistral",
+      "title": "Businesses with ugly AI menu redesigns",
+      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784711578,
-      "score": 10,
-      "category": "industry",
+      "ts": 1784724585,
+      "score": 49,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Codeberg: ToU extension to prohibit LLM-extrusions",
-      "url": "https://codeberg.org/Codeberg/org/pulls/1253",
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "url": "https://www.cole-k.com/2026/07/21/reddit/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784708832,
-      "score": 8,
+      "ts": 1784723568,
+      "score": 107,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+      "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784721812,
+      "score": 61,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OverpAId – Fire your CEO. Hire the future",
+      "url": "https://overpaid.lol",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784717344,
+      "score": 389,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784699510,
-      "score": 14,
-      "category": "llm",
+      "score": 27,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784698771,
-      "score": 51,
+      "score": 72,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784673324,
-      "score": 641,
-      "category": "llm",
+      "score": 758,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784669274,
-      "score": 90,
-      "category": "tools",
+      "score": 112,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784668400,
-      "score": 200,
-      "category": "industry",
+      "score": 226,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784664592,
-      "score": 1179,
+      "score": 1372,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784660679,
-      "score": 376,
-      "category": "tools",
+      "score": 463,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784660324,
-      "score": 782,
-      "category": "tools",
+      "score": 928,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784654046,
-      "score": 321,
-      "category": "industry",
+      "score": 346,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -153,7 +179,7 @@
       "sourceColor": "#ff6600",
       "ts": 1784653220,
       "score": 1,
-      "category": "tools",
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -165,8 +191,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784647036,
-      "score": 694,
-      "category": "tools",
+      "score": 726,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -178,8 +204,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784292440,
-      "score": 161,
-      "category": "industry",
+      "score": 182,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -192,7 +218,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -203,7 +229,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -225,7 +251,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
