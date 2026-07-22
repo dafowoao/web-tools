@@ -1,16 +1,55 @@
 {
-  "updated": "2026-07-21 21:09 UTC",
-  "count": 20,
+  "updated": "2026-07-22 02:36 UTC",
+  "count": 18,
   "items": [
     {
-      "title": "OpenAI and Hugging Face partner to address security incident",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "title": "How an AI Anime Is Created",
+      "url": "https://www.aventos.dev/our-process?view=blog",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784664592,
-      "score": 200,
+      "ts": 1784681580,
+      "score": 12,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Gemini last models: temperature, top_p, and top_k are deprecated and ignored",
+      "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784669274,
+      "score": 44,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784668400,
+      "score": 123,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "desc": "https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;07&#x2F;21&#x2F;openai-says-hugging-face-br...See also Security incident disclosure – July 2026 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=489",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784664592,
+      "score": 749,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784660679,
-      "score": 42,
+      "score": 146,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,34 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784660324,
-      "score": 194,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI Agent – TRMNL",
-      "url": "https://help.trmnl.com/en/articles/14130438-ai-agent",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784658741,
-      "score": 24,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI makes programming differently difficult",
-      "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784658621,
-      "score": 122,
-      "category": "tools",
+      "score": 327,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,34 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784658597,
-      "score": 47,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Firefox Containers Preview",
-      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784654879,
-      "score": 109,
+      "score": 89,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Word in Web – Near MS Word Parity Docx Editor in Web",
-      "url": "https://word-in-web.com/",
-      "desc": "Word in web is a pure JS docx editor&#x2F;renderer benched against MS Word directly. This was largely inspired by Eigenpal going closed source, and some personal frustrations I had with working on com",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784654401,
-      "score": 14,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,33 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784654046,
-      "score": 145,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations",
-      "url": "https://github.com/AlmanacCode/codealmanac/",
-      "desc": "Hey HN! This is Divit from Almanac (YC S26). We built CodeAlmanac, a wiki for your coding agents that updates as you talk to them. It is open-source, local, and free.Here’s a demo: https:&#x2F;&#x2F;w",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784653921,
-      "score": 28,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Meta's AI models are powering the first wave of Genesis Mission projects",
-      "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
-      "desc": "https:&#x2F;&#x2F;www.energy.gov&#x2F;undersecretaryforscience&#x2F;genesis-miss...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784653398,
-      "score": 73,
+      "score": 252,
       "category": "tools",
       "tags": [
         "国际"
@@ -153,7 +114,20 @@
       "sourceColor": "#ff6600",
       "ts": 1784653220,
       "score": 1,
-      "category": "llm",
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: An MCP server that turns async-work practices into tools",
+      "url": "https://github.com/open-and-async/mcp",
+      "desc": "More than a decade ago, I adopted the self-imposed rule, if I answer a question more than once, the third time I need to be able to answer with a URL. Today, I published one very large URL - a book di",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784649980,
+      "score": 12,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -165,34 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784647036,
-      "score": 514,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784623463,
-      "score": 510,
+      "score": 622,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Read the Tape – Wordle for daytrading, five blind S&P 500 charts a day",
-      "url": "https://readthetape.cc/",
-      "desc": "Read the Tape gives players the same 5 S&amp;P500 stock charts per day to predict. You select low, medium or high confidence and then call the chart UP or DOWN. It&#x27;s a 1d chart which then resolve",
+      "title": "Show HN: Workaround – Unstar GitHub Repos in Bulk",
+      "url": "https://workaround.run/",
+      "desc": "Github currently doesn’t let you unstar repositories in bulk. To resolve that \nlet me introduce Workaround : a web app where users can not only unstar GitHub repos in bulk but also use AI filters and ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784549236,
-      "score": 11,
-      "category": "industry",
+      "ts": 1784367696,
+      "score": 8,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -204,8 +165,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784292440,
-      "score": 13,
-      "category": "llm",
+      "score": 90,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Recreating the math behind the first stealth aircraft",
+      "url": "https://www.pramit.gg/post/remaking-echo-1-stealth-physics",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784226896,
+      "score": 35,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -229,7 +203,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -251,7 +225,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     }
   ]
