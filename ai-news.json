@@ -1,15 +1,145 @@
 {
-  "updated": "2026-07-23 13:58 UTC",
-  "count": 19,
+  "updated": "2026-07-23 17:22 UTC",
+  "count": 17,
   "items": [
     {
-      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
-      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+      "title": "Launch HN: Screenpipe (YC S26) – Power your agents by your 24/7 screen recording",
+      "url": "https://news.ycombinator.com/item?id=49024620",
+      "desc": "Hi Hacker News, I&#x27;m Louis. I built Screenpipe (https:&#x2F;&#x2F;screenpipe.com), an app that records your screen and audio locally (only!), and gives AI agents a searchable memory of what you&#x",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784825318,
+      "score": 12,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Free way to get your data out of ChatGPT Business accounts",
+      "url": "https://github.com/Conradqh/scrapemychats",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784812202,
-      "score": 103,
+      "ts": 1784821551,
+      "score": 30,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+      "url": "https://github.com/onecli/onecli",
+      "desc": "hey HN, Jonathan and Guy here, creators of OneCLI (https:&#x2F;&#x2F;onecli.sh&#x2F;). OneCLI is an open source vault for AI Agents.Traditional vaults are used to store your secrets and, on demand, pr",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784821360,
+      "score": 16,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Fourth Circuit: Border Agents Can Search Your Phone by Hand, No Suspicion Needed",
+      "url": "https://www.eff.org/deeplinks/2026/07/fourth-circuit-says-border-agents-can-search-your-phone-hand-no-suspicion-required",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784820141,
+      "score": 25,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784819928,
+      "score": 11,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Startup founders urge Trump not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "desc": "https:&#x2F;&#x2F;littletech.org&#x2F;https:&#x2F;&#x2F;static.politico.com&#x2F;4a&#x2F;bf&#x2F;9c4021d8404386b0a311dcccf0...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784819920,
+      "score": 290,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: Is there a website that tracks excessive writes to SSDs in OS/app betas?",
+      "url": "https://news.ycombinator.com/item?id=49022990",
+      "desc": "If not, why not?That way, people can choose whether they want to install various software betas based on how much SSD wear they are willing to accept.And since this data would be made public and avail",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784819791,
+      "score": 22,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Palmier Pro – open-source macOS video editor built for AI",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "desc": "Hi HN, we are Marcos and Harrison, cofounders of Palmier (https:&#x2F;&#x2F;palmier.io). We are building Palmier Pro, an open source macOS video editor, with built-in AI generation and a local MCP ser",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784819497,
+      "score": 14,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Writing by hand is good for your brain",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784816683,
+      "score": 371,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "You can now run same OCI images as containers or Firecracker microVMs",
+      "url": "https://github.com/pullrun/pullrun",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784815719,
+      "score": 17,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
+      "url": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784815658,
+      "score": 45,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,177 +152,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784812150,
-      "score": 12,
+      "score": 351,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+      "desc": "OpenAI and Hugging Face address security incident during model evaluation - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48997548 - July 2026 (1121 comments)",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784769374,
+      "score": 226,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-      "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784811603,
-      "score": 100,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Protecting our FLOSS commons from LLMs",
-      "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784769293,
-      "score": 129,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Fairphone 6 wide camera experimental Linux support",
-      "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784751361,
-      "score": 141,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-      "url": "https://github.com/cactus-compute/cactus-hybrid",
-      "desc": "Hey HN, Henry &amp; Roman here from Cactus.A small, on-device model is fast and private, but sometimes wrong, but frontier models are getting expensive pretty fast. So, we post-trained Gemma 4 E2B pos",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784742989,
-      "score": 167,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "desc": "A digestion of the Jacobian conjecture counterexample - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48998362 - July 2026 (133 comments)Claude Fable produced a counterexample to the Jacobian Co",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784741440,
-      "score": 997,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Are AI labs pelicanmaxxing?",
-      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784740674,
-      "score": 607,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
-      "url": "https://unlayer.com",
-      "desc": "Hi HN, We’re Adeel and Umair, co-founders of Unlayer (https:&#x2F;&#x2F;unlayer.com&#x2F;). We let you add content creation to your applications without having to build an entire editor, renderer, tem",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784736123,
-      "score": 54,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "url": "https://bento.page/slides/",
-      "desc": "Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784733563,
-      "score": 918,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Quality non-fiction books are the antithesis of AI slop",
-      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-      "desc": "https:&#x2F;&#x2F;book-prize-index.vercel.app&#x2F;",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784729885,
-      "score": 429,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Businesses with ugly AI menu redesigns",
-      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784724585,
-      "score": 342,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "So Reddit has decided that plain HTML is unsafe",
-      "url": "https://www.cole-k.com/2026/07/21/reddit/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784723568,
-      "score": 556,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
-      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784617284,
-      "score": 37,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Test-time training 3D reconstruction",
-      "url": "https://github.com/Inception3D/TTT3R",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784160715,
-      "score": 13,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -205,7 +179,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -216,7 +190,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -238,7 +212,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
