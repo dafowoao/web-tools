@@ -1,29 +1,55 @@
 {
-  "updated": "2026-07-22 21:06 UTC",
+  "updated": "2026-07-23 02:42 UTC",
   "count": 15,
   "items": [
     {
-      "title": "Every .ru Domain Now Needs Government ID",
-      "url": "https://webhosting.today/2026/07/22/a-government-id-for-every-ru-domain-and-a-warning-for-every-country-code/",
+      "title": "OpenAI's accidental cyberattack against Hugging Face is science fiction",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784750243,
-      "score": 14,
+      "ts": 1784769374,
+      "score": 7,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Anthropomorphism in Children's Interactions with LLM Chatbots",
+      "url": "https://arxiv.org/abs/2607.18250",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784760598,
+      "score": 26,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)",
-      "url": "https://www.hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit",
+      "title": "Fairphone 6 wide camera experimental Linux support",
+      "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784749360,
-      "score": 3,
-      "category": "tools",
+      "ts": 1784751361,
+      "score": 75,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+      "url": "https://github.com/cactus-compute/cactus-hybrid",
+      "desc": "Hey HN, Henry &amp; Roman here from Cactus.A small, on-device model is fast and private, but sometimes wrong, but frontier models are getting expensive pretty fast. So, we post-trained Gemma 4 E2B pos",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784742989,
+      "score": 78,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784741440,
-      "score": 400,
+      "score": 639,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784740674,
-      "score": 230,
-      "category": "llm",
+      "score": 408,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784736123,
-      "score": 34,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
-      "url": "https://cruciblebench.ai/",
-      "desc": "I&#x27;m the author of a paper my friends and I wrote after we were curious if a MUD, text games originating in the 1970s, could be used to evaluate LLMs. We&#x27;ve spent the last several months on n",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784734741,
-      "score": 77,
-      "category": "industry",
+      "score": 46,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,60 +100,47 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784733563,
-      "score": 524,
+      "score": 675,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Which streaming service was that on again?",
-      "url": "https://www.timwehrle.de/blog/which-streaming-service-was-that-on-again/",
-      "desc": "",
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "desc": "https:&#x2F;&#x2F;book-prize-index.vercel.app&#x2F;",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784731574,
-      "score": 25,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
-      "url": "https://twitter.com/nikitabier/status/2079787406300266743",
-      "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;nikitabier&#x2F;status&#x2F;2079787406300266743",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784730313,
-      "score": 370,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL",
-      "url": "https://deepsql.ai/",
-      "desc": "Hi HN - I&#x27;m Venkat, founder of Stayflexi (YC), CMU CS grad and Ex-Oracle Query Engine team (patents in core databases)DeepSQL started as an internal tool to stop our own databases from becoming t",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784561540,
-      "score": 37,
+      "ts": 1784729885,
+      "score": 179,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Nvidia DGX Spark as a daily driver",
-      "url": "https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/",
+      "title": "Businesses with ugly AI menu redesigns",
+      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784490284,
-      "score": 42,
-      "category": "tools",
+      "ts": 1784724585,
+      "score": 192,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "So Reddit has decided that plain HTML is unsafe",
+      "url": "https://www.cole-k.com/2026/07/21/reddit/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784723568,
+      "score": 295,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -164,7 +164,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
