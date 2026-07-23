@@ -1,15 +1,41 @@
 {
-  "updated": "2026-07-23 10:22 UTC",
-  "count": 16,
+  "updated": "2026-07-23 13:58 UTC",
+  "count": 19,
   "items": [
     {
-      "title": "Petals: Run LLMs at home, BitTorrent-style",
-      "url": "https://petals.dev/",
+      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784770392,
-      "score": 116,
+      "ts": 1784812202,
+      "score": 103,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784812150,
+      "score": 12,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+      "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784811603,
+      "score": 100,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784769293,
-      "score": 64,
-      "category": "llm",
+      "score": 129,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784751361,
-      "score": 125,
-      "category": "llm",
+      "score": 141,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784742989,
-      "score": 140,
-      "category": "tools",
+      "score": 167,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784741440,
-      "score": 893,
-      "category": "industry",
+      "score": 997,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784740674,
-      "score": 547,
+      "score": 607,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784736123,
-      "score": 53,
-      "category": "llm",
+      "score": 54,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784733563,
-      "score": 850,
-      "category": "tools",
+      "score": 918,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784729885,
-      "score": 367,
+      "score": 429,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784724585,
-      "score": 305,
+      "score": 342,
       "category": "industry",
       "tags": [
         "国际"
@@ -139,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784723568,
-      "score": 476,
-      "category": "industry",
+      "score": 556,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -152,8 +178,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784617284,
-      "score": 18,
-      "category": "llm",
+      "score": 37,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Test-time training 3D reconstruction",
+      "url": "https://github.com/Inception3D/TTT3R",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784160715,
+      "score": 13,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -166,7 +205,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -199,7 +238,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
