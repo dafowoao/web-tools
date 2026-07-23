@@ -1,20 +1,7 @@
 {
-  "updated": "2026-07-23 06:29 UTC",
-  "count": 15,
+  "updated": "2026-07-23 10:22 UTC",
+  "count": 16,
   "items": [
-    {
-      "title": "Local AI that finds sensitive files on your Mac before attackers do",
-      "url": "https://www.vaultsort.com/guardian",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784783172,
-      "score": 4,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "Petals: Run LLMs at home, BitTorrent-style",
       "url": "https://petals.dev/",
@@ -22,8 +9,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784770392,
-      "score": 92,
-      "category": "industry",
+      "score": 116,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Protecting our FLOSS commons from LLMs",
+      "url": "https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784769293,
+      "score": 64,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784751361,
-      "score": 103,
+      "score": 125,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784742989,
-      "score": 109,
-      "category": "llm",
+      "score": 140,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784741440,
-      "score": 767,
-      "category": "llm",
+      "score": 893,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784740674,
-      "score": 468,
-      "category": "industry",
+      "score": 547,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784736123,
-      "score": 49,
+      "score": 53,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784733563,
-      "score": 752,
+      "score": 850,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784729885,
-      "score": 282,
-      "category": "llm",
+      "score": 367,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784724585,
-      "score": 236,
-      "category": "llm",
+      "score": 305,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,8 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784723568,
-      "score": 378,
+      "score": 476,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+      "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784617284,
+      "score": 18,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -164,7 +177,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
