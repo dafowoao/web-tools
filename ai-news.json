@@ -1,33 +1,7 @@
 {
-  "updated": "2026-07-24 02:38 UTC",
-  "count": 21,
+  "updated": "2026-07-24 06:25 UTC",
+  "count": 17,
   "items": [
-    {
-      "title": "A taxonomy of omnicidal futures involving artificial intelligence (2025)",
-      "url": "https://arxiv.org/abs/2507.09369",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784847073,
-      "score": 55,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Tell HN: Namecheap gave my account to an unverified third party",
-      "url": "https://news.ycombinator.com/item?id=49028037",
-      "desc": "I’ve been a NameCheap customer for 13 years. I’ve also helped out an old college club paying for a .com they use (that is registered to me under my name, address, and phone number). During a recent le",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784840729,
-      "score": 370,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
       "url": "https://news.ycombinator.com/item?id=49026810",
@@ -35,7 +9,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784834761,
-      "score": 251,
+      "score": 325,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784826382,
-      "score": 76,
-      "category": "tools",
+      "score": 94,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784825397,
-      "score": 211,
-      "category": "tools",
+      "score": 248,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784825318,
-      "score": 60,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Free way to get your data out of ChatGPT Business accounts",
-      "url": "https://github.com/Conradqh/scrapemychats",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784821551,
-      "score": 77,
-      "category": "tools",
+      "score": 71,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784821360,
-      "score": 81,
-      "category": "industry",
+      "score": 88,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784819928,
-      "score": 189,
-      "category": "industry",
+      "score": 256,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784819920,
-      "score": 747,
+      "score": 851,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784819497,
-      "score": 125,
+      "score": 139,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784816683,
-      "score": 1005,
+      "score": 1179,
       "category": "llm",
       "tags": [
         "国际"
@@ -165,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784814696,
-      "score": 189,
+      "score": 217,
       "category": "llm",
       "tags": [
         "国际"
@@ -178,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784812150,
-      "score": 608,
+      "score": 636,
       "category": "industry",
       "tags": [
         "国际"
@@ -191,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784769374,
-      "score": 398,
-      "category": "tools",
+      "score": 466,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -204,21 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784731150,
-      "score": 38,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Escape Analysis in Go: Stack vs. Heap Allocations Explained",
-      "url": "https://blog.jetbrains.com/go/2026/07/20/escape-analysis/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784617849,
-      "score": 37,
-      "category": "industry",
+      "score": 42,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -231,7 +179,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -242,7 +190,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -264,7 +212,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
