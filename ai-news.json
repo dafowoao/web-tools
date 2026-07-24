@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-24 06:25 UTC",
-  "count": 17,
+  "updated": "2026-07-24 10:16 UTC",
+  "count": 16,
   "items": [
+    {
+      "title": "I'm So Tired of \"Is This AI?\"",
+      "url": "https://www.trend-mill.com/p/im-so-tired-of-is-this-ai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784886282,
+      "score": 5,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Cookbook",
+      "url": "https://platform.claude.com/cookbook/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784869755,
+      "score": 55,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
       "url": "https://news.ycombinator.com/item?id=49026810",
@@ -9,21 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784834761,
-      "score": 325,
+      "score": 390,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
-      "url": "https://github.com/izeigerman/claude-thermos",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784826382,
-      "score": 94,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784825397,
-      "score": 248,
-      "category": "llm",
+      "score": 281,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784825318,
-      "score": 71,
+      "score": 75,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784821360,
-      "score": 88,
-      "category": "llm",
+      "score": 100,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784819928,
-      "score": 256,
-      "category": "tools",
+      "score": 322,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784819920,
-      "score": 851,
-      "category": "llm",
+      "score": 943,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784819497,
-      "score": 139,
-      "category": "llm",
+      "score": 160,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784816683,
-      "score": 1179,
-      "category": "llm",
+      "score": 1319,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,20 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784814696,
-      "score": 217,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784812150,
-      "score": 636,
+      "score": 247,
       "category": "industry",
       "tags": [
         "国际"
@@ -152,20 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784769374,
-      "score": 466,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Trifle – Open-source analytics that stores answers, not events",
-      "url": "https://trifle.io/",
-      "desc": "Trifle is an open-source time-series analytics library that aggregates nested counters instead of storing raw events. All in the database you already have. After rebuilding it twice over 10 years, it ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784731150,
-      "score": 42,
+      "score": 525,
       "category": "llm",
       "tags": [
         "国际"
@@ -179,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -190,7 +177,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -212,7 +199,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
