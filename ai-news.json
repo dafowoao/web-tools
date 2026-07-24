@@ -1,28 +1,15 @@
 {
-  "updated": "2026-07-24 17:37 UTC",
-  "count": 14,
+  "updated": "2026-07-24 21:03 UTC",
+  "count": 12,
   "items": [
     {
       "title": "Claude Opus 5",
-      "url": "https://www.anthropic.com/claude-opus-5-system-card",
-      "desc": "",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "desc": "https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-opus-5-system-card",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784912261,
-      "score": 308,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port",
-      "url": "https://openjdk.org/jeps/541",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784911953,
-      "score": 52,
+      "score": 969,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,34 +22,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784910811,
-      "score": 73,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Interview with a Maintainer",
-      "url": "https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784901108,
-      "score": 18,
+      "score": 312,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Kaizen #4: Overhauled Homelab",
-      "url": "https://timharek.no/blog/kaizen-4/",
-      "desc": "",
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "desc": "Letter: https:&#x2F;&#x2F;images.nvidia.com&#x2F;pdf&#x2F;Open-Weights-and-American-AI-L... [pdf]https:&#x2F;&#x2F;x.com&#x2F;JensenHuang&#x2F;status&#x2F;2080643682408321103, https:&#x2F;&#x2F;xcance",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784900800,
-      "score": 23,
-      "category": "llm",
+      "ts": 1784899950,
+      "score": 323,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,21 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784897639,
-      "score": 145,
-      "category": "tools",
+      "score": 222,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "AMD's Instinct MI455X: Aiming for the Sun",
-      "url": "https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the",
+      "title": "IRGC claims it destroyed Amazon's Bahrain data center",
+      "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784876347,
-      "score": 72,
-      "category": "industry",
+      "ts": 1784886778,
+      "score": 194,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,34 +74,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784869755,
-      "score": 266,
-      "category": "industry",
+      "score": 278,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-      "url": "https://news.ycombinator.com/item?id=49026810",
-      "desc": "I’ve been building Echo (https:&#x2F;&#x2F;echo.tracerml.ai&#x2F;), an experiment in making one AI system out of a pool of open-weight models rather than choosing a single model and using it for every",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784834761,
-      "score": 439,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Writing by hand is good for your brain",
-      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "title": "Self-host your mail server",
+      "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784816683,
-      "score": 1407,
-      "category": "industry",
+      "ts": 1784810950,
+      "score": 65,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Latest Airbus single aisle aircraft innovations",
+      "url": "https://www.airbus.com/en/newsroom/stories/2026-07-how-the-a321xlr-is-redefining-single-aisle-comfort-for-passengers",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784650937,
+      "score": 50,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -140,7 +114,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -151,7 +125,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
