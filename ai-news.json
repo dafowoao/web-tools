@@ -1,16 +1,68 @@
 {
-  "updated": "2026-07-24 10:16 UTC",
-  "count": 16,
+  "updated": "2026-07-24 13:44 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "I'm So Tired of \"Is This AI?\"",
-      "url": "https://www.trend-mill.com/p/im-so-tired-of-is-this-ai",
+      "title": "I Tried Building a Real App with AI. It Took a Year",
+      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784886282,
-      "score": 5,
+      "ts": 1784894417,
+      "score": 38,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Audio Player with \"Binaural Beats\" tuned to the same key as your music",
+      "url": "https://github.com/henrygabriels/binaural-studio",
+      "desc": "Hi HN, Gabriel here.This is a standalone binaural beat generator, combined with a two-deck local audio player built with the Web Audio API.It includes ten harmonic carrier pairs, seven brainwave-state",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784887299,
+      "score": 10,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "IRGC Claims It Destroyed Amazon's Bahrain Data Center",
+      "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784886778,
+      "score": 44,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Hetzner is working on LLM Inference",
+      "url": "https://sliplane.io/blog/hetzner-inference",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784885084,
+      "score": 89,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AMD's Instinct MI455X: Aiming for the Sun",
+      "url": "https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784876347,
+      "score": 40,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784869755,
-      "score": 55,
+      "score": 158,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,47 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784834761,
-      "score": 390,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The arguments against open source AI are bad",
-      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784825397,
-      "score": 281,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
-      "url": "https://news.ycombinator.com/item?id=49024620",
-      "desc": "Hi Hacker News, I&#x27;m Louis. I built Screenpipe (https:&#x2F;&#x2F;screenpipe.com), an app that records your screen and audio locally (only!), and gives AI agents a searchable memory of what you&#x",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784825318,
-      "score": 75,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
-      "url": "https://github.com/onecli/onecli",
-      "desc": "hey HN, Jonathan and Guy here, creators of OneCLI (https:&#x2F;&#x2F;onecli.sh&#x2F;). OneCLI is an open source vault for AI Agents.Traditional vaults are used to store your secrets and, on demand, pr",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784821360,
-      "score": 100,
-      "category": "industry",
+      "score": 418,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784819928,
-      "score": 322,
-      "category": "industry",
+      "score": 352,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784819920,
-      "score": 943,
+      "score": 1003,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784819497,
-      "score": 160,
-      "category": "tools",
+      "score": 177,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,33 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784816683,
-      "score": 1319,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
-      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784814696,
-      "score": 247,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-      "desc": "OpenAI and Hugging Face address security incident during model evaluation - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48997548 - July 2026 (1121 comments)",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784769374,
-      "score": 525,
+      "score": 1372,
       "category": "llm",
       "tags": [
         "国际"
@@ -166,7 +153,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -177,7 +164,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -199,7 +186,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
