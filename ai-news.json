@@ -1,20 +1,7 @@
 {
-  "updated": "2026-07-25 06:17 UTC",
+  "updated": "2026-07-25 09:46 UTC",
   "count": 16,
   "items": [
-    {
-      "title": "\"As millionaires we have a message for our new Prime Minister: Tax us.\"",
-      "url": "https://proudtopay.org",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784956221,
-      "score": 5,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
       "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
@@ -22,7 +9,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784953221,
-      "score": 18,
+      "score": 63,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784912261,
-      "score": 1446,
+      "score": 1551,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784910811,
-      "score": 473,
-      "category": "tools",
+      "score": 488,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784899950,
-      "score": 573,
-      "category": "industry",
+      "score": 606,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784897639,
-      "score": 288,
-      "category": "tools",
+      "score": 302,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784886778,
-      "score": 277,
-      "category": "industry",
+      "score": 296,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784869755,
-      "score": 303,
+      "score": 312,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784809881,
-      "score": 144,
-      "category": "industry",
+      "score": 180,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784734645,
-      "score": 164,
-      "category": "tools",
+      "score": 196,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,8 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784654879,
-      "score": 280,
+      "score": 338,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "PartialString – A finite-difference time-domain physical modelling synthesiser",
+      "url": "https://differentinstruments.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784639953,
+      "score": 19,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784550349,
-      "score": 63,
+      "score": 67,
       "category": "tools",
       "tags": [
         "国际"
@@ -166,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -177,7 +177,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
