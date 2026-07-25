@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-24 21:03 UTC",
-  "count": 12,
+  "updated": "2026-07-25 02:36 UTC",
+  "count": 16,
   "items": [
     {
       "title": "Claude Opus 5",
@@ -9,7 +9,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784912261,
-      "score": 969,
+      "score": 1332,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784910811,
-      "score": 312,
-      "category": "industry",
+      "score": 431,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784899950,
-      "score": 323,
-      "category": "tools",
+      "score": 514,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784897639,
-      "score": 222,
+      "score": 276,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784886778,
-      "score": 194,
-      "category": "llm",
+      "score": 250,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784869755,
-      "score": 278,
-      "category": "tools",
+      "score": 289,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,20 +87,72 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784810950,
-      "score": 65,
+      "score": 92,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+      "url": "https://globaloilnetwork.staffinganalytics.io/",
+      "desc": "OP here: I created this visualization tool as the byproduct of a supply chain class I taught at Columbia. The pedagogical exercise grew into a full blown visualization and paper about global oil trade",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784809881,
+      "score": 106,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
+      "url": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
+      "desc": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AWig98GVInohttps:&#x2F;&#x2F;www.tomshardware.com&#x2F;3d-printing&#x2F;mit-researchers-rev...https:&#x2F;&#x2F;www.yankodesign.com&#x2F;2026&#x2F;05&#x2",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784734645,
+      "score": 138,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Firefox Containers Preview",
+      "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784654879,
+      "score": 231,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Lucen a Python compiler that parallelizes for-loops via comment pragmas",
+      "url": "https://github.com/fcmv/lucen",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784648197,
+      "score": 6,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Latest Airbus single aisle aircraft innovations",
-      "url": "https://www.airbus.com/en/newsroom/stories/2026-07-how-the-a321xlr-is-redefining-single-aisle-comfort-for-passengers",
-      "desc": "",
+      "title": "The footprints of every building in NYC",
+      "url": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
+      "desc": "https:&#x2F;&#x2F;github.com&#x2F;CityOfNewYork&#x2F;nyc-geo-metadata&#x2F;blob&#x2F;main&#x2F;...",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784650937,
-      "score": 50,
+      "ts": 1784550349,
+      "score": 53,
       "category": "tools",
       "tags": [
         "国际"
@@ -114,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
