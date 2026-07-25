@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-25 02:36 UTC",
+  "updated": "2026-07-25 06:17 UTC",
   "count": 16,
   "items": [
+    {
+      "title": "\"As millionaires we have a message for our new Prime Minister: Tax us.\"",
+      "url": "https://proudtopay.org",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784956221,
+      "score": 5,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
+      "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784953221,
+      "score": 18,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Claude Opus 5",
       "url": "https://www.anthropic.com/news/claude-opus-5",
@@ -9,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784912261,
-      "score": 1332,
+      "score": 1446,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784910811,
-      "score": 431,
+      "score": 473,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784899950,
-      "score": 514,
+      "score": 573,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784897639,
-      "score": 276,
-      "category": "industry",
+      "score": 288,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784886778,
-      "score": 250,
-      "category": "tools",
+      "score": 277,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784869755,
-      "score": 289,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Self-host your mail server",
-      "url": "https://blog.haschek.at/2026/you-should-selfhost-your-mail.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784810950,
-      "score": 92,
-      "category": "llm",
+      "score": 303,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784809881,
-      "score": 106,
+      "score": 144,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784734645,
-      "score": 138,
-      "category": "industry",
+      "score": 164,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,21 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784654879,
-      "score": 231,
+      "score": 280,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Lucen a Python compiler that parallelizes for-loops via comment pragmas",
-      "url": "https://github.com/fcmv/lucen",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784648197,
-      "score": 6,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -152,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784550349,
-      "score": 53,
+      "score": 63,
       "category": "tools",
       "tags": [
         "国际"
@@ -177,7 +177,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
