@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-25 09:46 UTC",
-  "count": 16,
+  "updated": "2026-07-25 13:25 UTC",
+  "count": 13,
   "items": [
     {
       "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
@@ -9,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784953221,
-      "score": 63,
-      "category": "tools",
+      "score": 87,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,20 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784912261,
-      "score": 1551,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Be skeptical of OpenAI's rogue hacker agent story",
-      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784910811,
-      "score": 488,
+      "score": 1655,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784899950,
-      "score": 606,
-      "category": "tools",
+      "score": 623,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784897639,
-      "score": 302,
-      "category": "industry",
+      "score": 320,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784886778,
-      "score": 296,
+      "score": 316,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Cookbook",
-      "url": "https://platform.claude.com/cookbook/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784869755,
-      "score": 312,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784809881,
-      "score": 180,
+      "score": 209,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784734645,
-      "score": 196,
+      "score": 233,
       "category": "industry",
       "tags": [
         "国际"
@@ -126,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784654879,
-      "score": 338,
-      "category": "industry",
+      "score": 394,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784639953,
-      "score": 19,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The footprints of every building in NYC",
-      "url": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
-      "desc": "https:&#x2F;&#x2F;github.com&#x2F;CityOfNewYork&#x2F;nyc-geo-metadata&#x2F;blob&#x2F;main&#x2F;...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784550349,
-      "score": 67,
-      "category": "tools",
+      "score": 30,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -166,7 +127,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -177,7 +138,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -199,7 +160,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
