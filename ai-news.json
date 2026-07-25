@@ -1,55 +1,42 @@
 {
-  "updated": "2026-07-25 16:56 UTC",
-  "count": 12,
+  "updated": "2026-07-25 20:52 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Politician reads AI prompt during assembly",
-      "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
+      "title": "Show HN: Brolly, a plain-text weather forecast site",
+      "url": "https://brolly.sh/forecast/RWFP2qW8",
+      "desc": "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785000874,
+      "score": 46,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784997075,
-      "score": 5,
+      "ts": 1784990989,
+      "score": 231,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Writing a (valid) C program without main()",
-      "url": "https://labs.iximiuz.com/tutorials/c-program-without-main-a1eea557",
+      "title": "The AI Productivity Illusion",
+      "url": "https://www.hardresetmedia.com/p/the-ai-productivity-illusion",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784996473,
-      "score": 11,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank limits",
-      "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784994686,
-      "score": 19,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784990989,
-      "score": 38,
-      "category": "industry",
+      "ts": 1784987013,
+      "score": 20,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,21 +48,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784953221,
-      "score": 110,
-      "category": "industry",
+      "score": 122,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "desc": "https:&#x2F;&#x2F;www.anthropic.com&#x2F;claude-opus-5-system-card",
+      "title": "Show HN: I made some transistor animations",
+      "url": "https://brandonli.net/semisim/animations",
+      "desc": "Hi HN,\nI made some animations of the most important kinds of transistors using my semiconductor simulation, details of which are on the page. I tried to make the visuals as realistic as possible while",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784912261,
-      "score": 1719,
-      "category": "llm",
+      "ts": 1784918226,
+      "score": 53,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)",
+      "url": "https://www.hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784749360,
+      "score": 19,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784734645,
-      "score": 256,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "PartialString – A finite-difference time-domain physical modelling synthesiser",
-      "url": "https://differentinstruments.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784639953,
-      "score": 41,
-      "category": "llm",
+      "score": 266,
+      "category": "industry",
       "tags": [
         "国际"
       ]
