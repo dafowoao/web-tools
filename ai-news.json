@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-26 13:20 UTC",
-  "count": 17,
+  "updated": "2026-07-26 17:00 UTC",
+  "count": 18,
   "items": [
+    {
+      "title": "What if LLMs escape through inferences itself? This is fiction. For now",
+      "url": "https://www.agrillo.it/EvasionEn.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785083036,
+      "score": 4,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Park by Robot at London Gatwick Airport",
+      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785076827,
+      "score": 123,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: A browser-based video editor that renders videos directly with FFmpeg",
+      "url": "https://github.com/thiagoalbrecht/weave",
+      "desc": "Weave is a React app that provides a multi-track timeline editor to perform basic video edits like trimming, stitching, transitions, audio tracks etc. which maps directly to an FFmpeg command to rende",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785074876,
+      "score": 4,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: What are the most promising RL fields for a new master student?",
+      "url": "https://news.ycombinator.com/item?id=49057972",
+      "desc": "i am an incoming msc student thinking about a research direction in reinforcement learning. which rl subfields do you think have the most potential right now? i am particularly interested in emboddied",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785072179,
+      "score": 26,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The New AI Superpowers: Focus and Followthrough",
+      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785071583,
+      "score": 40,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
+      "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785061955,
+      "score": 20,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "GrapheneOS protections against data extraction from locked devices",
       "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
@@ -9,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785045442,
-      "score": 176,
-      "category": "industry",
+      "score": 274,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785032546,
-      "score": 159,
-      "category": "tools",
+      "score": 190,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785022370,
-      "score": 191,
+      "score": 220,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785020237,
-      "score": 112,
+      "score": 122,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785019870,
-      "score": 137,
-      "category": "industry",
+      "score": 193,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,21 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785019849,
-      "score": 144,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785016102,
-      "score": 187,
-      "category": "industry",
+      "score": 168,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785012155,
-      "score": 377,
-      "category": "llm",
+      "score": 425,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,60 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785008679,
-      "score": 181,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-      "url": "https://github.com/slvDev/esp32-ai",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785005990,
-      "score": 228,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Brolly, a plain-text weather forecast site",
-      "url": "https://brolly.sh/forecast/RWFP2qW8",
-      "desc": "The UK MET office recently redesigned their site, adding a lot of additional whitespace, scrolling, and animations. This significantly reduced its usability for me, and left me wanting an ‘at a glance",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785000874,
-      "score": 205,
+      "score": 197,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I made some transistor animations",
-      "url": "https://brandonli.net/semisim/animations",
-      "desc": "Hi HN,\nI made some animations of the most important kinds of transistors using my semiconductor simulation, details of which are on the page. I tried to make the visuals as realistic as possible while",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784918226,
-      "score": 196,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Rethinking Legal Education in the AI Era",
-      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784826768,
-      "score": 100,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -179,7 +192,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -212,7 +225,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
