@@ -1,16 +1,42 @@
 {
-  "updated": "2026-07-26 02:45 UTC",
-  "count": 19,
+  "updated": "2026-07-26 06:36 UTC",
+  "count": 20,
   "items": [
     {
-      "title": "Possible invasive species superspreader event near Strait of Hormuz",
-      "url": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
+      "title": "Agentic test processes, LLM benchmarks, and other notes on agentic coding",
+      "url": "https://danluu.com/ai-coding/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785028399,
-      "score": 22,
+      "ts": 1785034937,
+      "score": 11,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: I mapped every US golf course",
+      "url": "https://golfcoursebrowser.com/",
+      "desc": "I got tired of Googling basic course info, so I made a free directory of every US courseGoogle filters for golf course results are terrible so I built a better way to browse courses using OSM as the b",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785032546,
+      "score": 97,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: What 180k words look like as a temporal knowledge graph (Oz series)",
+      "url": "https://synaptale.com/graph?ch=100",
+      "desc": "The graph is free to explore and requires no registration.SynapTale builds a model of a story as a temporal graph made up of nodes (entities) and edges (their actions and relationships).\nThe graph is ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785032311,
+      "score": 15,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785022370,
-      "score": 90,
-      "category": "industry",
+      "score": 121,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785020237,
-      "score": 51,
-      "category": "tools",
+      "score": 86,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785019849,
-      "score": 46,
-      "category": "tools",
+      "score": 90,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785016102,
-      "score": 134,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Becoming a Research Engineer at a Big LLM Lab",
-      "url": "https://www.maxmynter.com/pages/blog/jobhunt",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785014382,
-      "score": 21,
-      "category": "tools",
+      "score": 164,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785012155,
-      "score": 176,
-      "category": "llm",
+      "score": 266,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785010734,
-      "score": 33,
-      "category": "llm",
+      "score": 38,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785008679,
-      "score": 85,
-      "category": "industry",
+      "score": 127,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785005990,
-      "score": 88,
+      "score": 145,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785000874,
-      "score": 137,
-      "category": "tools",
+      "score": 167,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784990989,
-      "score": 318,
-      "category": "tools",
+      "score": 360,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -165,8 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784918226,
-      "score": 138,
-      "category": "tools",
+      "score": 155,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -178,21 +191,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784826768,
-      "score": 10,
-      "category": "llm",
+      "score": 55,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Yorishiro – a macOS terminal where AI agents live",
-      "url": "https://github.com/sktkkoo/Yorishiro",
-      "desc": "Yorishiro is an open source project that gives Claude Code &#x2F; Codex a body-like anime character.\nThe name “Yorishiro” in Japanese means an object inhabited by spirit.My first idea started comunica",
+      "title": "Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?",
+      "url": "https://www.historicmysteries.com/unexplained-mysteries/agatha-christie-disappearance/23136/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784734396,
-      "score": 38,
-      "category": "llm",
+      "ts": 1784772113,
+      "score": 18,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -238,7 +251,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     }
   ]
