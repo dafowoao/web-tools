@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26 09:59 UTC",
-  "count": 19,
+  "updated": "2026-07-26 13:20 UTC",
+  "count": 17,
   "items": [
     {
       "title": "GrapheneOS protections against data extraction from locked devices",
@@ -9,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785045442,
-      "score": 68,
-      "category": "tools",
+      "score": 176,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785032546,
-      "score": 129,
-      "category": "llm",
+      "score": 159,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785022370,
-      "score": 149,
+      "score": 191,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785020237,
-      "score": 103,
-      "category": "tools",
+      "score": 112,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785019870,
-      "score": 89,
-      "category": "tools",
+      "score": 137,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785019849,
-      "score": 121,
-      "category": "llm",
+      "score": 144,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785016102,
-      "score": 175,
+      "score": 187,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785012155,
-      "score": 329,
-      "category": "industry",
+      "score": 377,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785008679,
-      "score": 158,
-      "category": "llm",
+      "score": 181,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785005990,
-      "score": 186,
+      "score": 228,
       "category": "industry",
       "tags": [
         "国际"
@@ -139,20 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785000874,
-      "score": 192,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Open-weight AI is having its Kubernetes moment",
-      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784990989,
-      "score": 376,
+      "score": 205,
       "category": "llm",
       "tags": [
         "国际"
@@ -165,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784918226,
-      "score": 183,
-      "category": "tools",
+      "score": 196,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -178,20 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784826768,
-      "score": 75,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?",
-      "url": "https://www.historicmysteries.com/unexplained-mysteries/agatha-christie-disappearance/23136/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784772113,
-      "score": 23,
+      "score": 100,
       "category": "tools",
       "tags": [
         "国际"
@@ -205,7 +179,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -238,7 +212,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
