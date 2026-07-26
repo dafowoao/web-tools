@@ -1,7 +1,137 @@
 {
-  "updated": "2026-07-25 20:52 UTC",
-  "count": 11,
+  "updated": "2026-07-26 02:45 UTC",
+  "count": 19,
   "items": [
+    {
+      "title": "Possible invasive species superspreader event near Strait of Hormuz",
+      "url": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785028399,
+      "score": 22,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785022370,
+      "score": 90,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Clinical failure rates over the decades: yikes",
+      "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785020237,
+      "score": 51,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Cloudflare's new AI traffic options for customers",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785019849,
+      "score": 46,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785016102,
+      "score": 134,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Becoming a Research Engineer at a Big LLM Lab",
+      "url": "https://www.maxmynter.com/pages/blog/jobhunt",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785014382,
+      "score": 21,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785012155,
+      "score": 176,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
+      "url": "https://news.ycombinator.com/item?id=49051130",
+      "desc": "I like writing Markdown, but do not like writing it inside a plain textarea.I wanted something I could use anywhere by dropping in a single web component:```&lt;writemark-editor name=&quot;body&quot;&",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785010734,
+      "score": 33,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "LLM Usage in Debian: Three Proposals",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785008679,
+      "score": 85,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785005990,
+      "score": 88,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Brolly, a plain-text weather forecast site",
       "url": "https://brolly.sh/forecast/RWFP2qW8",
@@ -9,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785000874,
-      "score": 46,
-      "category": "industry",
+      "score": 137,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,33 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784990989,
-      "score": 231,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The AI Productivity Illusion",
-      "url": "https://www.hardresetmedia.com/p/the-ai-productivity-illusion",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784987013,
-      "score": 20,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-      "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1784953221,
-      "score": 122,
+      "score": 318,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,34 +165,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784918226,
-      "score": 53,
+      "score": 138,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Teardown: The BMW / Harman IDC23H Infotainment Unit (B423)",
-      "url": "https://www.hakstuff.net/blog/teardown-the-bmw-idc23h-infotainment-unit",
+      "title": "Rethinking Legal Education in the AI Era",
+      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784749360,
-      "score": 19,
-      "category": "industry",
+      "ts": 1784826768,
+      "score": 10,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
-      "url": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
-      "desc": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AWig98GVInohttps:&#x2F;&#x2F;www.tomshardware.com&#x2F;3d-printing&#x2F;mit-researchers-rev...https:&#x2F;&#x2F;www.yankodesign.com&#x2F;2026&#x2F;05&#x2",
+      "title": "Show HN: Yorishiro – a macOS terminal where AI agents live",
+      "url": "https://github.com/sktkkoo/Yorishiro",
+      "desc": "Yorishiro is an open source project that gives Claude Code &#x2F; Codex a body-like anime character.\nThe name “Yorishiro” in Japanese means an object inhabited by spirit.My first idea started comunica",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784734645,
-      "score": 266,
-      "category": "industry",
+      "ts": 1784734396,
+      "score": 38,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -101,7 +205,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -134,7 +238,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
