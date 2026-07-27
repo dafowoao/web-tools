@@ -1,29 +1,94 @@
 {
-  "updated": "2026-07-27 14:32 UTC",
-  "count": 10,
+  "updated": "2026-07-27 17:42 UTC",
+  "count": 16,
   "items": [
     {
-      "title": "AI companies are shredding rare books",
-      "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
-      "desc": "",
+      "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+      "url": "https://usefeyn.com/blog/feynobg/",
+      "desc": "Hey HN, I’m Shreyash from Feyn. We help companies build custom models from their data.Today, we’re releasing FeyNoBg, an automatic background removal model. Alongside it, we&#x27;re open-sourcing NoBg",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785155532,
-      "score": 330,
+      "ts": 1785171548,
+      "score": 10,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Work out daily? OK, but how socially fit are you? (2023)",
-      "url": "https://news.harvard.edu/gazette/story/2023/02/work-out-daily-ok-but-how-socially-fit-are-you/",
+      "title": "MAI-Cyber 1",
+      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785155396,
+      "ts": 1785171142,
+      "score": 18,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785168120,
+      "score": 57,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Minecraft Java raises recommended memory to 16GB ahead of Vulkan transition",
+      "url": "https://videocardz.com/newz/minecraft-java-edition-raises-recommended-memory-to-16gb-ahead-of-vulkan-transition",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785165111,
+      "score": 56,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
+      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785164896,
       "score": 15,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI companies spend record sums on Washington lobbying",
+      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;PASMJ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785161268,
+      "score": 179,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI companies are shredding rare books",
+      "url": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
+      "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;HedgieMarkets&#x2F;status&#x2F;2081534588485296565",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785155532,
+      "score": 652,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785151952,
-      "score": 55,
-      "category": "industry",
+      "score": 72,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785140841,
-      "score": 62,
-      "category": "tools",
+      "score": 112,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785104501,
-      "score": 1020,
+      "score": 1184,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,7 +139,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784813364,
-      "score": 402,
+      "score": 443,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Running PrismML's Bonsai inside DRAM by breaking DDR4 timing rules",
+      "url": "https://news.ycombinator.com/item?id=49019271",
+      "desc": "The excitement surrounding PrismML’s 1-bit&#x2F;ternary Bonsai models has the industry closely watching how smartphone giants, particularly Apple, will implement LLMs on edge devices.Moving AI on-devi",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784801679,
+      "score": 5,
       "category": "llm",
       "tags": [
         "国际"
@@ -121,7 +199,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
