@@ -1,20 +1,7 @@
 {
-  "updated": "2026-07-27 02:53 UTC",
-  "count": 12,
+  "updated": "2026-07-27 07:30 UTC",
+  "count": 10,
   "items": [
-    {
-      "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
-      "url": "https://portzero.net/",
-      "desc": "Hi HN,Recently I wasted several hours wrangling my dev environment only to find out that the browser frontend was talking to the wrong version of the backend. This got me thinking--why on earth are we",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785110628,
-      "score": 11,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "US citizen charged after GrapheneOS phone wipes during airport search",
       "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
@@ -22,34 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785104501,
-      "score": 241,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Multiway Turing Machines (2021 pre-ai)",
-      "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785098983,
-      "score": 20,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "It's not empowering to hand off the details",
-      "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785088682,
-      "score": 186,
-      "category": "industry",
+      "score": 603,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785076827,
-      "score": 272,
-      "category": "industry",
+      "score": 277,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,21 +35,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785071583,
-      "score": 156,
-      "category": "tools",
+      "score": 195,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Rethinking legal education in the AI era",
-      "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+      "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
+      "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784826768,
-      "score": 142,
+      "ts": 1785061955,
+      "score": 119,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "What is happening to jobs? Separating AI hype from reality",
+      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785019870,
+      "score": 258,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784813364,
-      "score": 60,
-      "category": "tools",
+      "score": 260,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -114,7 +88,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -147,7 +121,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
