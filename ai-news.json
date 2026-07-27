@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-26 20:57 UTC",
-  "count": 13,
+  "updated": "2026-07-27 02:53 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "Show HN: Port Zero – how I learned to stop worrying and love PORT=0",
+      "url": "https://portzero.net/",
+      "desc": "Hi HN,Recently I wasted several hours wrangling my dev environment only to find out that the browser frontend was talking to the wrong version of the backend. This got me thinking--why on earth are we",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785110628,
+      "score": 11,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785104501,
+      "score": 241,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Multiway Turing Machines (2021 pre-ai)",
+      "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785098983,
+      "score": 20,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "It's not empowering to hand off the details",
       "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
@@ -9,20 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785088682,
-      "score": 21,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "SP/1.0: deterministic, reproducible verdicts for AI-agent decisions",
-      "url": "https://github.com/Fame510/SHACKLE/blob/master/SP-1.0-SPECIFICATION.md",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785087676,
-      "score": 6,
+      "score": 186,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785076827,
-      "score": 248,
+      "score": 272,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,59 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785071583,
-      "score": 88,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
-      "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785061955,
-      "score": 84,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GrapheneOS protections against data extraction from locked devices",
-      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785045442,
-      "score": 332,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785022370,
-      "score": 240,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "What is happening to jobs? Separating AI hype from reality",
-      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785019870,
-      "score": 228,
+      "score": 156,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,7 +87,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784826768,
-      "score": 128,
+      "score": 142,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Physically accurate black hole you can put in your room",
+      "url": "https://blackhole.plav.in",
+      "desc": "We have a black hole at home — with actual relativistic physics, live in your browser.I&#x27;m Sasha (Alexander) Plavin, an astrophysicist at Harvard&#x27;s Black Hole Initiative studying quasars and ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784813364,
+      "score": 60,
       "category": "tools",
       "tags": [
         "国际"
@@ -127,7 +114,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -138,7 +125,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
