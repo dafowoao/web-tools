@@ -1,16 +1,29 @@
 {
-  "updated": "2026-07-28 06:26 UTC",
-  "count": 14,
+  "updated": "2026-07-28 10:34 UTC",
+  "count": 16,
   "items": [
     {
-      "title": "How to choose an AI Agent platform for your team",
-      "url": "https://construct.computer/blog/how-to-choose-an-ai-agent-platform-for-your-team/",
+      "title": "Tell HN: Our paid Claude AI subscription unavailable >1 week and no support",
+      "url": "https://news.ycombinator.com/item?id=49080775",
+      "desc": "Dear all,our team is using a Claude AI Team plan for more than 1 year already:- we are a normal company, doing normal business, nothing critical- all our bills are paid and we can see them as paid- no",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785225619,
+      "score": 10,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Don't ask an LLM for a confidence score",
+      "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785216123,
-      "score": 4,
-      "category": "llm",
+      "ts": 1785197213,
+      "score": 33,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785195975,
-      "score": 29,
-      "category": "industry",
+      "score": 31,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785194497,
-      "score": 257,
-      "category": "tools",
+      "score": 341,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785192388,
-      "score": 45,
-      "category": "llm",
+      "score": 89,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785182302,
-      "score": 67,
-      "category": "llm",
+      "score": 73,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785177811,
-      "score": 133,
+      "score": 146,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785177362,
-      "score": 49,
-      "category": "industry",
+      "score": 72,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785171548,
-      "score": 101,
-      "category": "tools",
+      "score": 108,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785164896,
-      "score": 147,
+      "score": 159,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Modern email can be built from borrowed parts",
+      "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785140841,
+      "score": 189,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784812290,
-      "score": 86,
-      "category": "tools",
+      "score": 99,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -140,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -173,7 +199,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     }
   ]
