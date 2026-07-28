@@ -1,15 +1,15 @@
 {
-  "updated": "2026-07-28 02:30 UTC",
-  "count": 17,
+  "updated": "2026-07-28 06:26 UTC",
+  "count": 14,
   "items": [
     {
-      "title": "S.Korea's KOSPI tumbles nearly 5% as chipmakers slump on AI worries",
-      "url": "https://www.reuters.com/world/asia-pacific/skoreas-kospi-tumbles-nearly-5-chipmakers-slump-ai-worries-2026-07-07/",
+      "title": "How to choose an AI Agent platform for your team",
+      "url": "https://construct.computer/blog/how-to-choose-an-ai-agent-platform-for-your-team/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785201839,
-      "score": 6,
+      "ts": 1785216123,
+      "score": 4,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,21 +22,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785195975,
-      "score": 18,
-      "category": "tools",
+      "score": 29,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
       "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-      "url": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349",
-      "desc": "",
+      "url": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
+      "desc": "https:&#x2F;&#x2F;www.inc.com&#x2F;amaya-nichole&#x2F;netflix-company-retreat-sp...",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785194497,
-      "score": 174,
-      "category": "industry",
+      "score": 257,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -44,25 +44,12 @@
     {
       "title": "Kimi K3 Now Available via Telnyx Inference API",
       "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-      "desc": "",
+      "desc": "Moonshot AI released open weights for Kimi K3 today and it&#x27;s live on Telnyx Inference. The architecture and Moonshot&#x27;s own benchmarks are in their technical blog. This post is about running ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785192388,
-      "score": 22,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AMD Advancing AI 2026: Talking CDNA5 with AMD's Alan Smith",
-      "url": "https://chipsandcheese.com/p/amd-advancing-ai-2026-talking-cdna5",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785187064,
-      "score": 7,
-      "category": "industry",
+      "score": 45,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785182302,
-      "score": 60,
-      "category": "industry",
+      "score": 67,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785177811,
-      "score": 118,
-      "category": "industry",
+      "score": 133,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785177362,
-      "score": 14,
-      "category": "llm",
+      "score": 49,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785171548,
-      "score": 93,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "MAI-Cyber-1-Flash inside MDASH",
-      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785171142,
-      "score": 220,
+      "score": 101,
       "category": "tools",
       "tags": [
         "国际"
@@ -139,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785164896,
-      "score": 137,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Modern email can be built from borrowed parts",
-      "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785140841,
-      "score": 175,
-      "category": "llm",
+      "score": 147,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -165,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784812290,
-      "score": 68,
-      "category": "llm",
+      "score": 86,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -179,7 +140,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -190,7 +151,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -212,7 +173,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
