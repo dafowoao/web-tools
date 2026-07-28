@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-28 17:26 UTC",
-  "count": 16,
+  "updated": "2026-07-28 21:07 UTC",
+  "count": 12,
   "items": [
     {
       "title": "Discovering Cryptographic Weaknesses with Claude",
@@ -9,34 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785259336,
-      "score": 4,
+      "score": 108,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Scientific computing in the age of agentic AI",
-      "url": "https://openai.com/index/scientific-computing-agentic-ai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785258795,
-      "score": 4,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Flashpaper – Self-destructing secret sharing with no database",
-      "url": "https://flashpaper.app/",
-      "desc": "Hi everyone! This is my first HN and I’m very new to the scene. My name is Min from Bangkok.At first, I just want to create a dead man&#x27;s switch for personal use and for fun. then, I think about i",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785252995,
-      "score": 8,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785252035,
-      "score": 48,
-      "category": "tools",
+      "score": 76,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,21 +35,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785250872,
-      "score": 15,
-      "category": "tools",
+      "score": 85,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Una Watch: Garmin watch competitor but repairable, open ecosystem and USB-C",
+      "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
       "url": "https://unawatch.com/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785250093,
-      "score": 17,
-      "category": "tools",
+      "score": 88,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,46 +61,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785244034,
-      "score": 87,
+      "score": 102,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Mondragon Corporation – a federation of co-operatives",
-      "url": "https://en.wikipedia.org/wiki/Mondragon_Corporation",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785241147,
-      "score": 154,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
-      "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785240177,
-      "score": 50,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It",
+      "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
       "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785234050,
-      "score": 111,
+      "score": 158,
       "category": "tools",
       "tags": [
         "国际"
@@ -139,21 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785232753,
-      "score": 107,
-      "category": "llm",
+      "score": 135,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules",
-      "url": "https://necroticgnome.com/collections/dolmenwood",
+      "title": "Boris Cherny: We Cut 80% of Claude Code’s Prompt [video]",
+      "url": "https://www.youtube.com/watch?v=qyPCVqFUyDo",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1784932445,
-      "score": 54,
-      "category": "llm",
+      "ts": 1785195184,
+      "score": 7,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -166,7 +114,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -199,7 +147,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
