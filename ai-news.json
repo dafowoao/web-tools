@@ -1,42 +1,81 @@
 {
-  "updated": "2026-07-28 14:05 UTC",
-  "count": 21,
+  "updated": "2026-07-28 17:26 UTC",
+  "count": 16,
   "items": [
     {
-      "title": "Show HN: tale.fyi, we deserve a home for fiction",
-      "url": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
-      "desc": "for decades, i have been concerned that the internet was being built around non-fiction, so i built something to show how we could celebrate great fiction on the web.i started with an amazing library ",
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785244612,
-      "score": 24,
-      "category": "industry",
+      "ts": 1785259336,
+      "score": 4,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Over 150k Flights: Airlines Just Flew the Busiest Day in Recorded History",
-      "url": "https://simpleflying.com/over-150000-flights-airlines-busiest-day-recorded-history/",
+      "title": "Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785244519,
+      "ts": 1785258795,
+      "score": 4,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Flashpaper – Self-destructing secret sharing with no database",
+      "url": "https://flashpaper.app/",
+      "desc": "Hi everyone! This is my first HN and I’m very new to the scene. My name is Min from Bangkok.At first, I just want to create a dead man&#x27;s switch for personal use and for fun. then, I think about i",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785252995,
+      "score": 8,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
+      "url": "https://arxiv.org/abs/1202.4212",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785252035,
+      "score": 48,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Now Is the Time to Give LLMs Access to the ACM Digital Library",
+      "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785250872,
       "score": 15,
-      "category": "industry",
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs",
-      "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
+      "title": "Una Watch: Garmin watch competitor but repairable, open ecosystem and USB-C",
+      "url": "https://unawatch.com/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785244415,
-      "score": 26,
-      "category": "industry",
+      "ts": 1785250093,
+      "score": 17,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,34 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785244034,
-      "score": 35,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "What AI developers could learn from Charles Bukowski?",
-      "url": "https://galjot.si/what-ai-developers-could-learn-from-charles-bukowski",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785243612,
-      "score": 14,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Segue – Save context in one AI, load it in another by a short handle",
-      "url": "https://segue.ai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785241625,
-      "score": 8,
-      "category": "llm",
+      "score": 87,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785241147,
-      "score": 70,
-      "category": "llm",
+      "score": 154,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785240177,
-      "score": 22,
+      "score": 50,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785234050,
-      "score": 41,
+      "score": 111,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,86 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785232753,
-      "score": 63,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Don't ask an LLM for a confidence score",
-      "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785197213,
-      "score": 63,
+      "score": 107,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Kimi K3 Now Available via Telnyx Inference API",
-      "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-      "desc": "Moonshot AI released open weights for Kimi K3 today and it&#x27;s live on Telnyx Inference. The architecture and Moonshot&#x27;s own benchmarks are in their technical blog. This post is about running ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785192388,
-      "score": 114,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
-      "url": "https://www.rise-reforming.com",
-      "desc": "Hi HN! This is George, Lucas, and Jona from Rise Reforming\n(https:&#x2F;&#x2F;www.rise-reforming.com&#x2F;). We’re developing a process to convert gas produced at landfills, farms, and wastewater plan",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785182302,
-      "score": 82,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Self-contained highly-portable Python distributions",
-      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785177811,
-      "score": 156,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
-      "url": "https://github.com/FrigadeHQ/yap",
-      "desc": "Hey HN! I wanted to share this OSS project I&#x27;ve been working on.It&#x27;s called Yap and its a small menu-bar app for macOS that does voice to text for any input. You&#x27;ll set a hotkey, press ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785177362,
-      "score": 87,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Can LLMs identify 16 cards in 45 bit-queries?",
-      "url": "https://snwagh.com/blog/2026/open-problem/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785162972,
-      "score": 7,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -217,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784932445,
-      "score": 9,
+      "score": 54,
       "category": "llm",
       "tags": [
         "国际"
@@ -231,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
