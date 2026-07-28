@@ -1,14 +1,53 @@
 {
-  "updated": "2026-07-27 21:09 UTC",
-  "count": 16,
+  "updated": "2026-07-28 02:30 UTC",
+  "count": 17,
   "items": [
     {
-      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
-      "url": "https://www.rise-reforming.com",
-      "desc": "Hi HN! This is George, Lucas, and Jona from Rise Reforming\n(https:&#x2F;&#x2F;www.rise-reforming.com&#x2F;). We’re developing a process to convert gas produced at landfills, farms, and wastewater plan",
+      "title": "S.Korea's KOSPI tumbles nearly 5% as chipmakers slump on AI worries",
+      "url": "https://www.reuters.com/world/asia-pacific/skoreas-kospi-tumbles-nearly-5-chipmakers-slump-ai-worries-2026-07-07/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785182302,
+      "ts": 1785201839,
+      "score": 6,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "url": "https://arxiv.org/abs/2607.05283",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785195975,
+      "score": 18,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
+      "url": "https://www.inc.com/amaya-nichole/netflix-company-retreat-sparked-lawsuit-experts-say-real-damage-may-be-just-beginning/91380349",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785194497,
+      "score": 174,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Kimi K3 Now Available via Telnyx Inference API",
+      "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785192388,
       "score": 22,
       "category": "industry",
       "tags": [
@@ -16,26 +55,26 @@
       ]
     },
     {
-      "title": "The Author of Clean Code No Longer Reviews AI-Generated Code",
-      "url": "https://news.ycombinator.com/item?id=49074693",
-      "desc": "Tweet URL: https:&#x2F;&#x2F;x.com&#x2F;unclebobmartin&#x2F;status&#x2F;2080257779395154409?s=20Robert Martin, the author of Clean Code, tweeted the following:&gt; I’m significantly older than you. I ",
+      "title": "AMD Advancing AI 2026: Talking CDNA5 with AMD's Alan Smith",
+      "url": "https://chipsandcheese.com/p/amd-advancing-ai-2026-talking-cdna5",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785181626,
-      "score": 8,
-      "category": "llm",
+      "ts": 1785187064,
+      "score": 7,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
-      "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
-      "desc": "",
+      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+      "url": "https://www.rise-reforming.com",
+      "desc": "Hi HN! This is George, Lucas, and Jona from Rise Reforming\n(https:&#x2F;&#x2F;www.rise-reforming.com&#x2F;). We’re developing a process to convert gas produced at landfills, farms, and wastewater plan",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785181565,
-      "score": 52,
+      "ts": 1785182302,
+      "score": 60,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,8 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785177811,
-      "score": 57,
-      "category": "tools",
+      "score": 118,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
+      "url": "https://github.com/FrigadeHQ/yap",
+      "desc": "Hey HN! I wanted to share this OSS project I&#x27;ve been working on.It&#x27;s called Yap and its a small menu-bar app for macOS that does voice to text for any input. You&#x27;ll set a hotkey, press ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785177362,
+      "score": 14,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785171548,
-      "score": 59,
+      "score": 93,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785171142,
-      "score": 193,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Let's Seal – Let's Encrypt for document signing, free and self-hosted",
-      "url": "https://github.com/letsseal/letsseal",
-      "desc": "TLDR, Let&#x27;s Seal gives the finger to Adobe and every doc signing tool (docusign, google, etc) who pay to play with the Adobe Approved Trust List and then charge you for something that should be f",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785167533,
-      "score": 38,
-      "category": "llm",
+      "score": 220,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,34 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785164896,
-      "score": 94,
+      "score": 137,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI companies spend record sums on Washington lobbying",
-      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;PASMJ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785161268,
-      "score": 244,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Elevated errors on Claude Opus 5",
-      "url": "https://status.claude.com/incidents/mfdtrknpxghq",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785151952,
-      "score": 91,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785140841,
-      "score": 152,
+      "score": 175,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784812290,
-      "score": 7,
-      "category": "tools",
+      "score": 68,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -166,7 +179,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -199,7 +212,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
