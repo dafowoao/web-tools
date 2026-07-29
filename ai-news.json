@@ -1,16 +1,81 @@
 {
-  "updated": "2026-07-29 10:37 UTC",
-  "count": 15,
+  "updated": "2026-07-29 14:09 UTC",
+  "count": 17,
   "items": [
     {
-      "title": "ChatGPT claims rogue AI attacked more companies",
-      "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
+      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
+      "url": "https://arxiv.org/abs/2607.25398",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785315797,
-      "score": 19,
+      "ts": 1785330117,
+      "score": 54,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
+      "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785329907,
+      "score": 33,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Echologue – the private AI voice journal I built for myself",
+      "url": "https://echologue.com/",
+      "desc": "I have tried journaling many times but nothing stuck. So I decided to make my own app for myself with these features:* Voice first* Private first* AI chat* Automatic tagging, meaning extraction, and s",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785329016,
+      "score": 11,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
+      "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785327078,
+      "score": 23,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785325473,
+      "score": 138,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+      "url": "https://vimgolf.ai",
+      "desc": "Just launched my app, VimGolf.ai! As users complete the levels on the map, I introduce progressively more complicated concepts — it’s aimed at people who have never used Vim. Any feedback would be muc",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785317212,
+      "score": 27,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785301126,
-      "score": 190,
-      "category": "llm",
+      "score": 294,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785297149,
-      "score": 53,
-      "category": "llm",
+      "score": 69,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785289759,
-      "score": 192,
-      "category": "llm",
+      "score": 235,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785283883,
-      "score": 118,
+      "score": 136,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,34 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785276546,
-      "score": 319,
+      "score": 371,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Discovering Cryptographic Weaknesses with Claude",
-      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785259336,
-      "score": 219,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Now is the time to give LLMs access to the ACM digital library",
-      "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785250872,
-      "score": 167,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,33 +152,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785250093,
-      "score": 222,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
-      "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785234050,
-      "score": 188,
+      "score": 258,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Truth is not a direction: a Tarski attack on LLM probes",
-      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
+      "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
+      "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785156996,
-      "score": 101,
+      "ts": 1785113925,
+      "score": 8,
       "category": "tools",
       "tags": [
         "国际"
@@ -153,7 +179,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -164,7 +190,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -186,7 +212,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
