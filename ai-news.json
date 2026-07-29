@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-29 06:30 UTC",
+  "updated": "2026-07-29 10:37 UTC",
   "count": 15,
   "items": [
+    {
+      "title": "ChatGPT claims rogue AI attacked more companies",
+      "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785315797,
+      "score": 19,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "More Tailscale tricks for your jailbroken Kindle",
       "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
@@ -9,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785301126,
-      "score": 66,
+      "score": 190,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,21 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785297149,
-      "score": 35,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
-      "url": "https://github.com/jagg-ix/zil-lean",
-      "desc": "Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785291724,
-      "score": 11,
-      "category": "tools",
+      "score": 53,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785289759,
-      "score": 144,
+      "score": 192,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785283883,
-      "score": 86,
+      "score": 118,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785276546,
-      "score": 237,
-      "category": "industry",
+      "score": 319,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785259336,
-      "score": 202,
+      "score": 219,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785250872,
-      "score": 142,
-      "category": "tools",
+      "score": 167,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785250093,
-      "score": 172,
-      "category": "llm",
+      "score": 222,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785234050,
-      "score": 184,
+      "score": 188,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785156996,
-      "score": 69,
+      "score": 101,
       "category": "tools",
       "tags": [
         "国际"
@@ -153,7 +153,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -186,7 +186,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
