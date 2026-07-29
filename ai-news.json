@@ -1,15 +1,67 @@
 {
-  "updated": "2026-07-29 17:14 UTC",
+  "updated": "2026-07-29 20:55 UTC",
   "count": 18,
   "items": [
     {
-      "title": "Infrastructure Patterns for Agentic Applications",
-      "url": "https://render.com/blog/infrastructure-patterns-for-agentic-applications",
+      "title": "Claude Is Down",
+      "url": "https://status.claude.com/incidents/q2kg8n613kr3",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785344344,
-      "score": 12,
+      "ts": 1785354642,
+      "score": 168,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How much can you delegate to agents?",
+      "url": "https://newsletter.posthog.com/p/agent-autonomy",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785352033,
+      "score": 21,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+      "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785351430,
+      "score": 24,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: CheapFoodMap – A map of good meals under $10",
+      "url": "https://cheapfoodmap.com/",
+      "desc": "I was recently laid off after 18 years, and gave myself 100 days to build soething useful in public. CheapFoodMap is a crowdsourced map of meal under $10, excluding franchises, local good eats only.It",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785344392,
+      "score": 68,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Some thoughts about Anthropic's new cryptanalysis results",
+      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785343340,
+      "score": 69,
       "category": "llm",
       "tags": [
         "国际"
@@ -18,12 +70,12 @@
     {
       "title": "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
       "url": "https://kedge.dev/",
-      "desc": "I&#x27;m building Kedge, a globally distributed platform for stateful serverless apps. Here&#x27;s how you make a simple static site: `echo &#x27;# Hello world!&#x27; | ssh kedge.dev&#x27;I helped bui",
+      "desc": "I&#x27;m building Kedge, a globally distributed platform for stateful serverless apps. Here&#x27;s how you make a simple static site: `echo &#x27;# Hello world!&#x27; | ssh kedge.dev`I helped build Fl",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785341757,
-      "score": 14,
-      "category": "llm",
+      "score": 46,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785340527,
-      "score": 20,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: My domain registrar (Hover) rug-pulled me for $3000",
-      "url": "https://news.ycombinator.com/item?id=49099021",
-      "desc": "I registered the domain onlyfans.sexy ~6 years ago as a gag where I&#x27;d post pictures of fans (everything on the site and in this post is SFW).  This year I got an email stating that, like all prio",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785339988,
-      "score": 40,
-      "category": "tools",
+      "score": 42,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785337543,
-      "score": 249,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Hugging Face: Anatomy of a frontier-lab agent intrusion",
-      "url": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785337312,
-      "score": 60,
-      "category": "tools",
+      "score": 519,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,34 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785336988,
-      "score": 34,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "CipherX applies painless permanent tattoos with dissolving microneedle patches",
-      "url": "https://www.designboom.com/technology/cipherx-painless-permanent-tattoos-dissolving-microneedle-patches/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785334834,
-      "score": 13,
+      "score": 67,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "TokenTown: A visual way to understand how LLMs work",
-      "url": "https://laurentiugabriel.github.io/token-town/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785330317,
-      "score": 61,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785330117,
-      "score": 191,
-      "category": "tools",
+      "score": 259,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785327078,
-      "score": 66,
+      "score": 78,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,21 +152,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785325473,
-      "score": 227,
-      "category": "tools",
+      "score": 300,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "More Tailscale tricks for your jailbroken Kindle",
-      "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785301126,
-      "score": 355,
-      "category": "industry",
+      "ts": 1785270513,
+      "score": 190,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -178,8 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785113925,
-      "score": 86,
-      "category": "llm",
+      "score": 117,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -203,7 +203,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
