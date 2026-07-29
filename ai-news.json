@@ -1,7 +1,124 @@
 {
-  "updated": "2026-07-29 14:09 UTC",
-  "count": 17,
+  "updated": "2026-07-29 17:14 UTC",
+  "count": 18,
   "items": [
+    {
+      "title": "Infrastructure Patterns for Agentic Applications",
+      "url": "https://render.com/blog/infrastructure-patterns-for-agentic-applications",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785344344,
+      "score": 12,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
+      "url": "https://kedge.dev/",
+      "desc": "I&#x27;m building Kedge, a globally distributed platform for stateful serverless apps. Here&#x27;s how you make a simple static site: `echo &#x27;# Hello world!&#x27; | ssh kedge.dev&#x27;I helped bui",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785341757,
+      "score": 14,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+      "url": "https://usetokenless.com/",
+      "desc": "Hi HN, Rohit here from Tokenless (https:&#x2F;&#x2F;usetokenless.com&#x2F;), which I’m building alongside co-founders Andrew and Kev. We’re building an API gateway which routes agent traffic dynamical",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785340527,
+      "score": 20,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: My domain registrar (Hover) rug-pulled me for $3000",
+      "url": "https://news.ycombinator.com/item?id=49099021",
+      "desc": "I registered the domain onlyfans.sexy ~6 years ago as a gag where I&#x27;d post pictures of fans (everything on the site and in this post is SFW).  This year I got an email stating that, like all prio",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785339988,
+      "score": 40,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "url": "https://github.com/drumih/turbo-fieldfare",
+      "desc": "Hi HN,I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal.I have alwa",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785337543,
+      "score": 249,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Hugging Face: Anatomy of a frontier-lab agent intrusion",
+      "url": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785337312,
+      "score": 60,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+      "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785336988,
+      "score": 34,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "CipherX applies painless permanent tattoos with dissolving microneedle patches",
+      "url": "https://www.designboom.com/technology/cipherx-painless-permanent-tattoos-dissolving-microneedle-patches/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785334834,
+      "score": 13,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "TokenTown: A visual way to understand how LLMs work",
+      "url": "https://laurentiugabriel.github.io/token-town/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785330317,
+      "score": 61,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Handbook.md shows that long policy documents do not reliably govern agents",
       "url": "https://arxiv.org/abs/2607.25398",
@@ -9,34 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785330117,
-      "score": 54,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Bullshit Detector – agent skills that fact-check videos and articles",
-      "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785329907,
-      "score": 33,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Echologue – the private AI voice journal I built for myself",
-      "url": "https://echologue.com/",
-      "desc": "I have tried journaling many times but nothing stuck. So I decided to make my own app for myself with these features:* Voice first* Private first* AI chat* Automatic tagging, meaning extraction, and s",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785329016,
-      "score": 11,
-      "category": "industry",
+      "score": 191,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785327078,
-      "score": 23,
-      "category": "industry",
+      "score": 66,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,20 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785325473,
-      "score": 138,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
-      "url": "https://vimgolf.ai",
-      "desc": "Just launched my app, VimGolf.ai! As users complete the levels on the map, I introduce progressively more complicated concepts — it’s aimed at people who have never used Vim. Any feedback would be muc",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785317212,
-      "score": 27,
+      "score": 227,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,73 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785301126,
-      "score": 294,
+      "score": 355,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
-      "url": "https://transformer-transformer.github.io/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785297149,
-      "score": 69,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
-      "url": "https://learnvector.ai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785289759,
-      "score": 235,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Hubble: Open-source notetaking app for you and your agents",
-      "url": "https://www.hubble.md/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785283883,
-      "score": 136,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-      "url": "https://github.com/twalichiewicz/HNewhere",
-      "desc": "HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in anot",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785276546,
-      "score": 371,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
-      "url": "https://unawatch.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785250093,
-      "score": 258,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -165,8 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785113925,
-      "score": 8,
-      "category": "tools",
+      "score": 86,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -179,7 +192,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -190,7 +203,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
