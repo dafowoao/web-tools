@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-29 02:35 UTC",
+  "updated": "2026-07-29 06:30 UTC",
   "count": 15,
   "items": [
+    {
+      "title": "More Tailscale tricks for your jailbroken Kindle",
+      "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785301126,
+      "score": 66,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+      "url": "https://transformer-transformer.github.io/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785297149,
+      "score": 35,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+      "url": "https://github.com/jagg-ix/zil-lean",
+      "desc": "Google Zanzibar datalog lang lets you describe concepts and express how they are related. I generalize it to DSL you can use on Lean4 (and other languages) this lets you represent a knowledge base you",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785291724,
+      "score": 11,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
       "url": "https://learnvector.ai/",
@@ -9,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785289759,
-      "score": 17,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
-      "url": "https://andreadimatteo.com/md-to-html-compiler.html",
-      "desc": "Hi HN,I&#x27;m new to Rust and, after half of `The Rust Programming Language` I decided to delve into a project I would actually use: a markdown to html compiler that actually serves my micro-blog (I ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785287070,
-      "score": 7,
-      "category": "industry",
+      "score": 144,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785283883,
-      "score": 40,
+      "score": 86,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
-      "url": "https://studio.academa.ai/",
-      "desc": "Grant Sanderson (3Blue1Brown) created Manim, the Python library he uses to make the math animations in his videos.We reimplemented Manim with the same Python API, but the implementation underneath is ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785283663,
-      "score": 24,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785276546,
-      "score": 142,
+      "score": 237,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785259336,
-      "score": 186,
+      "score": 202,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Harmony Explained: Progress Towards a Scientific Theory of Music (2012)",
-      "url": "https://arxiv.org/abs/1202.4212",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785252035,
-      "score": 95,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785250872,
-      "score": 118,
+      "score": 142,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785250093,
-      "score": 145,
+      "score": 172,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785234050,
-      "score": 178,
-      "category": "industry",
+      "score": 184,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785156996,
-      "score": 16,
-      "category": "llm",
+      "score": 69,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -186,7 +186,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
