@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-28 21:07 UTC",
-  "count": 12,
+  "updated": "2026-07-29 02:35 UTC",
+  "count": 15,
   "items": [
+    {
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "url": "https://learnvector.ai/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785289759,
+      "score": 17,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Learning Rust by writing a Markdown to HTML compiler",
+      "url": "https://andreadimatteo.com/md-to-html-compiler.html",
+      "desc": "Hi HN,I&#x27;m new to Rust and, after half of `The Rust Programming Language` I decided to delve into a project I would actually use: a markdown to html compiler that actually serves my micro-blog (I ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785287070,
+      "score": 7,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Hubble: Open-source notetaking app for you and your agents",
+      "url": "https://www.hubble.md/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785283883,
+      "score": 40,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU",
+      "url": "https://studio.academa.ai/",
+      "desc": "Grant Sanderson (3Blue1Brown) created Manim, the Python library he uses to make the math animations in his videos.We reimplemented Manim with the same Python API, but the implementation underneath is ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785283663,
+      "score": 24,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "url": "https://github.com/twalichiewicz/HNewhere",
+      "desc": "HN is great for the links people share, but a big part of the value I get comes from reading the discussion around them. I realized I was always opening the article in one tab and the comments in anot",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785276546,
+      "score": 142,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Discovering Cryptographic Weaknesses with Claude",
       "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
@@ -9,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785259336,
-      "score": 108,
-      "category": "llm",
+      "score": 186,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,21 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785252035,
-      "score": 76,
-      "category": "industry",
+      "score": 95,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Now Is the Time to Give LLMs Access to the ACM Digital Library",
+      "title": "Now is the time to give LLMs access to the ACM digital library",
       "url": "https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785250872,
-      "score": 85,
-      "category": "industry",
+      "score": 118,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785250093,
-      "score": 88,
+      "score": 145,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code",
-      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
-      "desc": "To my knowledge, this is the first formally verified implementation of a 3D constructive solid geometry (CSG) operation: mesh intersection, implemented in Lean 4 and verified against a concise specifi",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785244034,
-      "score": 102,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,34 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785234050,
-      "score": 158,
-      "category": "tools",
+      "score": 178,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+      "title": "Truth is not a direction: a Tarski attack on LLM probes",
+      "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785232753,
-      "score": 135,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Boris Cherny: We Cut 80% of Claude Code’s Prompt [video]",
-      "url": "https://www.youtube.com/watch?v=qyPCVqFUyDo",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785195184,
-      "score": 7,
-      "category": "tools",
+      "ts": 1785156996,
+      "score": 16,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -125,7 +164,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
