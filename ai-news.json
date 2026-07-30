@@ -1,16 +1,81 @@
 {
-  "updated": "2026-07-29 20:55 UTC",
-  "count": 18,
+  "updated": "2026-07-30 02:23 UTC",
+  "count": 21,
   "items": [
     {
-      "title": "Claude Is Down",
-      "url": "https://status.claude.com/incidents/q2kg8n613kr3",
+      "title": "A pharmacy chain in Vermont implemented AI for efficiency",
+      "url": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785354642,
-      "score": 168,
+      "ts": 1785375310,
+      "score": 14,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: A local merge queue for parallel Claude Code agents",
+      "url": "https://github.com/funador/claude-code-merge-queue",
+      "desc": "I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785370816,
+      "score": 16,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Productivity Mirage",
+      "url": "https://frantic.im/mirage/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785367091,
+      "score": 53,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785365463,
+      "score": 69,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785360340,
+      "score": 229,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Cold Email",
+      "url": "https://zachholman.com/posts/cold-email",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785359202,
+      "score": 96,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785352033,
-      "score": 21,
-      "category": "industry",
+      "score": 44,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785351430,
-      "score": 24,
-      "category": "llm",
+      "score": 60,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785344392,
-      "score": 68,
-      "category": "industry",
+      "score": 130,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,20 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785343340,
-      "score": 69,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
-      "url": "https://kedge.dev/",
-      "desc": "I&#x27;m building Kedge, a globally distributed platform for stateful serverless apps. Here&#x27;s how you make a simple static site: `echo &#x27;# Hello world!&#x27; | ssh kedge.dev`I helped build Fl",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785341757,
-      "score": 46,
+      "score": 108,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785340527,
-      "score": 42,
-      "category": "industry",
+      "score": 53,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,20 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785337543,
-      "score": 519,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-      "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785336988,
-      "score": 67,
+      "score": 663,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,21 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785330117,
-      "score": 259,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Disrupting supply chain attacks on NPM and GitHub Actions",
-      "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785327078,
-      "score": 78,
-      "category": "llm",
+      "score": 296,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,21 +178,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785325473,
-      "score": 300,
-      "category": "llm",
+      "score": 349,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
       "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785270513,
-      "score": 190,
-      "category": "tools",
+      "score": 298,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -178,7 +204,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785113925,
-      "score": 117,
+      "score": 142,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
+      "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785104322,
+      "score": 24,
       "category": "industry",
       "tags": [
         "国际"
@@ -192,7 +231,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -225,7 +264,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
