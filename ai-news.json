@@ -1,29 +1,107 @@
 {
-  "updated": "2026-07-30 10:24 UTC",
+  "updated": "2026-07-30 14:00 UTC",
   "count": 18,
   "items": [
     {
-      "title": "Kuna: Decompiler Development in the Age of Coding Agents",
-      "url": "https://noelo.org/blog/kuna-release/",
-      "desc": "",
+      "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
+      "url": "https://prized.dev",
+      "desc": "Hi HN, we&#x27;re Marinos and Hudson, founders of Prized (https:&#x2F;&#x2F;prized.dev)! Prized lets non-engineer employees describe the internal tool they need and get a full-stack app, wired to thei",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785379276,
-      "score": 41,
-      "category": "tools",
+      "ts": 1785418143,
+      "score": 5,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: A local merge queue for parallel Claude Code agents",
-      "url": "https://github.com/funador/claude-code-merge-queue",
-      "desc": "I have been pushing up to 90 commits a day on a MacBook Air via 4-5 parallel agents. As you can imagine when all the agents try to build, test and run dev servers on an 8GB machine it is the fast lane",
+      "title": "OpenJDK Interim Policy on Generative AI",
+      "url": "https://openjdk.org/legal/ai",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785370816,
-      "score": 37,
+      "ts": 1785414998,
+      "score": 43,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785412865,
+      "score": 1,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
+      "url": "https://github.com/grafana/ai-sdk",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785412539,
+      "score": 16,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GCC steering committee announces AI policy",
+      "url": "https://lwn.net/Articles/1086041/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785411944,
+      "score": 136,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785411034,
+      "score": 41,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+      "url": "https://github.com/YoanWai/agent-manager",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785404067,
+      "score": 55,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Carolina Cloud pays SOFR on unused prepaid credits",
+      "url": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785403681,
+      "score": 47,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785367091,
-      "score": 249,
-      "category": "llm",
+      "score": 305,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785365463,
-      "score": 261,
+      "score": 337,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785360340,
-      "score": 483,
-      "category": "llm",
+      "score": 555,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,21 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785359202,
-      "score": 222,
+      "score": 261,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How much can you delegate to agents?",
-      "url": "https://newsletter.posthog.com/p/agent-autonomy",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785352033,
-      "score": 57,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,46 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785344392,
-      "score": 215,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Some thoughts about Anthropic's new cryptanalysis results",
-      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785343340,
-      "score": 157,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
-      "url": "https://usetokenless.com/",
-      "desc": "Hi HN, Rohit here from Tokenless (https:&#x2F;&#x2F;usetokenless.com&#x2F;), which I’m building alongside co-founders Andrew and Kev. We’re building an API gateway which routes agent traffic dynamical",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785340527,
-      "score": 62,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "desc": "Hi HN,I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal.I have alwa",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785337543,
-      "score": 808,
+      "score": 249,
       "category": "tools",
       "tags": [
         "国际"
@@ -152,34 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785270513,
-      "score": 388,
+      "score": 429,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
-      "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785113925,
-      "score": 146,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
-      "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785104322,
-      "score": 55,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -192,7 +192,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -203,7 +203,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -225,7 +225,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
