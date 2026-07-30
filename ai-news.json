@@ -1,16 +1,29 @@
 {
-  "updated": "2026-07-30 02:23 UTC",
-  "count": 21,
+  "updated": "2026-07-30 06:27 UTC",
+  "count": 22,
   "items": [
     {
-      "title": "A pharmacy chain in Vermont implemented AI for efficiency",
-      "url": "https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/",
+      "title": "1,741 \"informed\" consents with one click? GDPR complaint filed",
+      "url": "https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785375310,
-      "score": 14,
-      "category": "industry",
+      "ts": 1785389610,
+      "score": 40,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Kuna: Decompiler Development in the Age of Coding Agents",
+      "url": "https://noelo.org/blog/kuna-release/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785379276,
+      "score": 20,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785370816,
-      "score": 16,
-      "category": "industry",
+      "score": 28,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785367091,
-      "score": 53,
-      "category": "industry",
+      "score": 160,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785365463,
-      "score": 69,
-      "category": "llm",
+      "score": 156,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785360340,
-      "score": 229,
-      "category": "llm",
+      "score": 345,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785359202,
-      "score": 96,
-      "category": "llm",
+      "score": 160,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785352033,
-      "score": 44,
-      "category": "tools",
+      "score": 47,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785351430,
-      "score": 60,
-      "category": "industry",
+      "score": 76,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785344392,
-      "score": 130,
+      "score": 174,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785343340,
-      "score": 108,
-      "category": "industry",
+      "score": 134,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785340527,
-      "score": 53,
+      "score": 58,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,20 +165,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785337543,
-      "score": 663,
-      "category": "llm",
+      "score": 728,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Handbook.md shows that long policy documents do not reliably govern agents",
-      "url": "https://arxiv.org/abs/2607.25398",
+      "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+      "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785330117,
-      "score": 296,
+      "ts": 1785336988,
+      "score": 91,
       "category": "industry",
       "tags": [
         "国际"
@@ -178,8 +191,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785325473,
-      "score": 349,
-      "category": "industry",
+      "score": 359,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -191,8 +204,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785270513,
-      "score": 298,
-      "category": "industry",
+      "score": 346,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -204,8 +217,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785113925,
-      "score": 142,
-      "category": "industry",
+      "score": 144,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -217,7 +230,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785104322,
-      "score": 24,
+      "score": 47,
       "category": "industry",
       "tags": [
         "国际"
@@ -242,7 +255,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
