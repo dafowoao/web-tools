@@ -1,20 +1,7 @@
 {
-  "updated": "2026-07-30 06:27 UTC",
-  "count": 22,
+  "updated": "2026-07-30 10:24 UTC",
+  "count": 18,
   "items": [
-    {
-      "title": "1,741 \"informed\" consents with one click? GDPR complaint filed",
-      "url": "https://noyb.eu/en/1741-informed-consents-one-click-gdpr-complaint-against-dictcc-filed",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785389610,
-      "score": 40,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "Kuna: Decompiler Development in the Age of Coding Agents",
       "url": "https://noelo.org/blog/kuna-release/",
@@ -22,7 +9,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785379276,
-      "score": 20,
+      "score": 41,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785370816,
-      "score": 28,
+      "score": 37,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785367091,
-      "score": 160,
+      "score": 249,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785365463,
-      "score": 156,
-      "category": "industry",
+      "score": 261,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785360340,
-      "score": 345,
-      "category": "tools",
+      "score": 483,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785359202,
-      "score": 160,
-      "category": "tools",
+      "score": 222,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,20 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785352033,
-      "score": 47,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
-      "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785351430,
-      "score": 76,
+      "score": 57,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785344392,
-      "score": 174,
+      "score": 215,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785343340,
-      "score": 134,
-      "category": "llm",
+      "score": 157,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785340527,
-      "score": 58,
+      "score": 62,
       "category": "llm",
       "tags": [
         "国际"
@@ -165,33 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785337543,
-      "score": 728,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-      "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785336988,
-      "score": 91,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785325473,
-      "score": 359,
+      "score": 808,
       "category": "tools",
       "tags": [
         "国际"
@@ -204,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785270513,
-      "score": 346,
-      "category": "tools",
+      "score": 388,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -217,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785113925,
-      "score": 144,
-      "category": "tools",
+      "score": 146,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -230,7 +178,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785104322,
-      "score": 47,
+      "score": 55,
       "category": "industry",
       "tags": [
         "国际"
@@ -244,7 +192,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -277,7 +225,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
