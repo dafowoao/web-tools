@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-30 14:00 UTC",
-  "count": 18,
+  "updated": "2026-07-30 17:26 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785431751,
+      "score": 8,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "US gov and OpenAI mislabel map of Africa at global conference",
+      "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785430778,
+      "score": 14,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785424548,
+      "score": 223,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Claude-account – switch Claude Code accounts without logging in again",
+      "url": "https://github.com/hamzarehmandeveloper/claude-account",
+      "desc": "I use separate Claude Code accounts for work and personal projects. Having to log out and go through the login flow every time I switched accounts became annoying, so I built a small CLI to solve it.T",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785423539,
+      "score": 18,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
+      "url": "https://github.com/n67094/sdl_gp",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785422219,
+      "score": 38,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
       "url": "https://prized.dev",
@@ -9,33 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785418143,
-      "score": 5,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenJDK Interim Policy on Generative AI",
-      "url": "https://openjdk.org/legal/ai",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785414998,
-      "score": 43,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Mbodi AI (YC P25) Is Hiring Robotics/Research Engineers",
-      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785412865,
-      "score": 1,
+      "score": 49,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,34 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785412539,
-      "score": 16,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GCC steering committee announces AI policy",
-      "url": "https://lwn.net/Articles/1086041/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785411944,
-      "score": 136,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "ChatGPT, Roblox to Fall Under Strictest EU Rules for Platforms",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-29/chatgpt-roblox-to-fall-under-strictest-eu-rules-for-platforms",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785411034,
-      "score": 41,
-      "category": "industry",
+      "score": 49,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,99 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785404067,
-      "score": 55,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Carolina Cloud pays SOFR on unused prepaid credits",
-      "url": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785403681,
-      "score": 47,
+      "score": 80,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Productivity Mirage",
-      "url": "https://frantic.im/mirage/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785367091,
-      "score": 305,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LLM Honeypot",
-      "url": "https://llm2human.pages.dev/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785365463,
-      "score": 337,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI's top startups are barely publishing their research",
-      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785360340,
-      "score": 555,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Cold Email",
-      "url": "https://zachholman.com/posts/cold-email",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785359202,
-      "score": 261,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: CheapFoodMap – A map of good meals under $10",
-      "url": "https://cheapfoodmap.com/",
-      "desc": "I was recently laid off after 18 years, and gave myself 100 days to build soething useful in public. CheapFoodMap is a crowdsourced map of meal under $10, excluding franchises, local good eats only.It",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785344392,
-      "score": 249,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785270513,
-      "score": 429,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -225,7 +147,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     }
   ]
