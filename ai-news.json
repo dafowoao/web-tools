@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-30 17:26 UTC",
-  "count": 12,
+  "updated": "2026-07-30 21:09 UTC",
+  "count": 17,
   "items": [
+    {
+      "title": "I obtained Claude Opus 5 system prompt",
+      "url": "https://claude.ai/share/98073770-0ad9-431f-a1e7-e0243db18758",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785444821,
+      "score": 15,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785440067,
+      "score": 17,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "desc": "We recently used DeepSeek V4 Flash as a teacher for finance tasks with GPT-OSS-120B. Distillation works well on this problem. At a constrained 8k token budget, our self-distilled 120B scores 83.61% on",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785435186,
+      "score": 37,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
+      "url": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785434928,
+      "score": 9,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
+      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785432667,
+      "score": 214,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Advancing the price-performance frontier with GPT‑5.6",
       "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
@@ -9,20 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785431751,
-      "score": 8,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "US gov and OpenAI mislabel map of Africa at global conference",
-      "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785430778,
-      "score": 14,
+      "score": 400,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785424548,
-      "score": 223,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Claude-account – switch Claude Code accounts without logging in again",
-      "url": "https://github.com/hamzarehmandeveloper/claude-account",
-      "desc": "I use separate Claude Code accounts for work and personal projects. Having to log out and go through the login flow every time I switched accounts became annoying, so I built a small CLI to solve it.T",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785423539,
-      "score": 18,
-      "category": "industry",
+      "score": 389,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785422219,
-      "score": 38,
-      "category": "industry",
+      "score": 52,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,34 +113,60 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785418143,
-      "score": 49,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Go LLM SDK for streaming, tool-calling AI backends (plus frontend React lib)",
-      "url": "https://github.com/grafana/ai-sdk",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785412539,
-      "score": 49,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
-      "url": "https://github.com/YoanWai/agent-manager",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785404067,
-      "score": 80,
+      "score": 61,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GCC steering committee announces AI policy",
+      "url": "https://lwn.net/Articles/1086041/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785411944,
+      "score": 193,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Supapool – a Supabase per coding agent in ~400 ms",
+      "url": "https://supapool.io/",
+      "desc": "hi HN,I built supapool.io, an ephemeral full copy of supabase&#x27;s services that you can spin up in ~400 ms (Auth, postgres, storage, realtime).so if you run multiple coding agents in parallel in di",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785346475,
+      "score": 21,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Optimize and serve models with Fable quality at half the cost",
+      "url": "https://github.com/experientiallabs/world-model-optimizer",
+      "desc": "Hi HN, we built world-model-optimizer, an open source tool to continually improve a specialized model for an agent.It does this by simulating production tool responses through text world modeling (sim",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785108915,
+      "score": 54,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "2x, not 10x: coding with LLMs in 2026",
+      "url": "https://obryant.dev/p/2x-not-10x/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1784989625,
+      "score": 119,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -114,7 +179,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -125,7 +190,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
