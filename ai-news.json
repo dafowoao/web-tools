@@ -1,16 +1,107 @@
 {
-  "updated": "2026-07-31 17:28 UTC",
-  "count": 13,
+  "updated": "2026-07-31 21:03 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "Is AI reasoning right for the wrong reasons?",
-      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "title": "Show HN: How to build and self-host a code review agent",
+      "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
+      "desc": "Hey HN,I&#x27;ve had a side-project that I&#x27;ve slowly ticked away at over the last year called Tilde. Tilde is a harness SDK platform - I&#x27;ve tried to take the best things of OpenClaw, Hermes ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785529648,
+      "score": 4,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+      "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+      "desc": "https:&#x2F;&#x2F;github.com&#x2F;jwlaboratory&#x2F;bite-the-bullet",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785527741,
+      "score": 4,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI serves more than one billion active users",
+      "url": "https://openai.com/index/building-abundant-intelligence/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785511779,
-      "score": 73,
+      "ts": 1785526955,
+      "score": 7,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785524625,
+      "score": 171,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Golang proposal: container/: generic collection types",
+      "url": "https://github.com/golang/go/issues/80590",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785523187,
+      "score": 61,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
+      "url": "https://arxiv.org/abs/2607.28545",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785522763,
+      "score": 18,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Using the railway network as a flatbed scanner [video]",
+      "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785522644,
+      "score": 27,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Everyone is building LLM routers, we deprecated ours",
+      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785521199,
+      "score": 53,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,60 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785511708,
-      "score": 12,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I built a cross-browser extension that controls fingerprinting surfaces",
-      "url": "https://privacything.com/en/",
-      "desc": "Hello Hacker News! I’m Tomasz, creator of Privacy Thing, a browser extension for Firefox and Chromium-based browsers. I’ve just released its Preview version.Privacy Thing aims to reduce browser finger",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785509859,
-      "score": 13,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Bypassing Claude's upload limits, 4x (500 MB → 2 GB)",
-      "url": "https://blog.zernote.com/2gb-user-interviews-into-claude/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785508862,
-      "score": 9,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Situational Awareness down 67% in July in AI stock rout",
-      "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785505056,
-      "score": 112,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
-      "url": "https://arxiv.org/abs/2607.27197",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785497832,
-      "score": 111,
+      "score": 38,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+      "desc": "https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4-Flash-0731",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785484751,
+      "score": 487,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,34 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785482962,
-      "score": 410,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Gander, an Android file viewer that asks for no permissions",
-      "url": "https://github.com/mokshablr/gander",
-      "desc": "Hi HN,I built an Android file viewer that opens PDF, Word, Excel, PowerPoint, images, video, audio, Markdown and code, and asks for no permissions at all.I have always been uneasy about opening files ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785476713,
-      "score": 176,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: What should the GUI for AI agents look like?",
-      "url": "https://marbleos.com/demo",
-      "desc": "Hi HN! We’re Akilan and Miguel, the creators of MarbleOS.The inspiration for Marble comes from the GUI work at Xerox PARC, the 1984 Macintosh, and later NeXTSTEP, which became the foundation for Mac O",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785475049,
-      "score": 81,
-      "category": "tools",
+      "score": 462,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -127,7 +153,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -138,7 +164,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
