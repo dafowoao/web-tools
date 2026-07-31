@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-30 21:09 UTC",
-  "count": 17,
+  "updated": "2026-07-31 02:47 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "I obtained Claude Opus 5 system prompt",
-      "url": "https://claude.ai/share/98073770-0ad9-431f-a1e7-e0243db18758",
+      "title": "The AI Aesthetic",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785444821,
-      "score": 15,
-      "category": "industry",
+      "ts": 1785453736,
+      "score": 139,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785440067,
-      "score": 17,
+      "score": 218,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,20 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785435186,
-      "score": 37,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Noisegate – a differential-privacy gateway for untrusted AI agents",
-      "url": "https://github.com/yashmahajan10/llm-differential-privacy-gateway",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785434928,
-      "score": 9,
+      "score": 88,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785432667,
-      "score": 214,
+      "score": 307,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785431751,
-      "score": 400,
-      "category": "tools",
+      "score": 506,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785424548,
-      "score": 389,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
-      "url": "https://github.com/n67094/sdl_gp",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785422219,
-      "score": 52,
-      "category": "tools",
+      "score": 486,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785418143,
-      "score": 61,
-      "category": "tools",
+      "score": 68,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,20 +100,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785411944,
-      "score": 193,
-      "category": "llm",
+      "score": 244,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Supapool – a Supabase per coding agent in ~400 ms",
-      "url": "https://supapool.io/",
-      "desc": "hi HN,I built supapool.io, an ephemeral full copy of supabase&#x27;s services that you can spin up in ~400 ms (Auth, postgres, storage, realtime).so if you run multiple coding agents in parallel in di",
+      "title": "Show HN: Kedge – Full-stack cloud with forkable VM snapshots and global SQLite",
+      "url": "https://kedge.dev/",
+      "desc": "I&#x27;m building Kedge, a globally distributed platform for stateful serverless apps. Here&#x27;s how you make a simple static site: `echo &#x27;# Hello world!&#x27; | ssh kedge.dev`I helped build Fl",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785346475,
-      "score": 21,
+      "ts": 1785341757,
+      "score": 95,
       "category": "tools",
       "tags": [
         "国际"
@@ -152,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785108915,
-      "score": 54,
+      "score": 62,
       "category": "llm",
       "tags": [
         "国际"
@@ -165,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1784989625,
-      "score": 119,
-      "category": "industry",
+      "score": 220,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -190,7 +164,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
