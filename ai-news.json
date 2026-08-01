@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-01 16:58 UTC",
-  "count": 8,
+  "updated": "2026-08-01 20:52 UTC",
+  "count": 10,
   "items": [
+    {
+      "title": "Show HN: Cockpit for you Claude Code agents in Rust",
+      "url": "https://episko.dev/",
+      "desc": "Hi everyone!Hope you had a great day so far, and maybe its about to get just a little bit better (thanks Winter ;)So I had way to many terminal windows flying about when using Claude, and kept losing ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785611355,
+      "score": 6,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+      "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785608501,
+      "score": 5,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+      "url": "https://kaisel.dev/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785602740,
+      "score": 41,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Explorative modeling: Train on the best of K guesses",
       "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
@@ -9,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785597795,
-      "score": 16,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Charlie Stross – On the non-use of AI in my writing process",
-      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785589014,
       "score": 59,
-      "category": "tools",
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785552309,
-      "score": 220,
+      "score": 235,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785521098,
-      "score": 625,
-      "category": "tools",
+      "score": 644,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -73,7 +99,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
