@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-01 02:45 UTC",
-  "count": 14,
+  "updated": "2026-08-01 06:28 UTC",
+  "count": 13,
   "items": [
     {
-      "title": "Show HN: How to build and self-host a code review agent",
-      "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
-      "desc": "Hey HN,I&#x27;ve had a side-project that I&#x27;ve slowly ticked away at over the last year called Tilde. Tilde is a harness SDK platform - I&#x27;ve tried to take the best things of OpenClaw, Hermes ",
+      "title": "Flint: A Visualization Language for the AI Era",
+      "url": "https://microsoft.github.io/flint-chart/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785529648,
-      "score": 22,
-      "category": "industry",
+      "ts": 1785552309,
+      "score": 64,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785527741,
-      "score": 32,
+      "score": 33,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785524625,
-      "score": 475,
-      "category": "llm",
+      "score": 520,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785523187,
-      "score": 128,
-      "category": "llm",
+      "score": 145,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785522644,
-      "score": 54,
+      "score": 66,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785521199,
-      "score": 96,
-      "category": "llm",
+      "score": 110,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785521098,
-      "score": 476,
-      "category": "llm",
+      "score": 527,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785511779,
-      "score": 124,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-      "desc": "https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4-Flash-0731",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785484751,
-      "score": 535,
-      "category": "llm",
+      "score": 143,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785326350,
-      "score": 24,
+      "score": 38,
       "category": "llm",
       "tags": [
         "国际"
@@ -151,7 +138,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -173,7 +160,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     }
   ]
