@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-01 09:58 UTC",
-  "count": 14,
+  "updated": "2026-08-01 13:19 UTC",
+  "count": 13,
   "items": [
     {
-      "title": "EU will mandate labels on authentic-looking AI content starting August 2",
-      "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
+      "title": "Google kills Earth AI generator after one day",
+      "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785572815,
-      "score": 8,
-      "category": "industry",
+      "ts": 1785589364,
+      "score": 9,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785570730,
-      "score": 40,
-      "category": "llm",
+      "score": 209,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785552309,
-      "score": 122,
-      "category": "industry",
+      "score": 157,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785524625,
-      "score": 551,
+      "score": 563,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785523187,
-      "score": 154,
-      "category": "industry",
+      "score": 165,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785521199,
-      "score": 120,
-      "category": "tools",
+      "score": 122,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785521098,
-      "score": 573,
-      "category": "tools",
+      "score": 595,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785511779,
-      "score": 163,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785482962,
-      "score": 519,
-      "category": "tools",
+      "score": 175,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785326350,
-      "score": 43,
+      "score": 48,
       "category": "tools",
       "tags": [
         "国际"
@@ -140,7 +127,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -151,7 +138,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
