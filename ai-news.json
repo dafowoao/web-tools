@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-01 06:28 UTC",
-  "count": 13,
+  "updated": "2026-08-01 09:58 UTC",
+  "count": 14,
   "items": [
+    {
+      "title": "EU will mandate labels on authentic-looking AI content starting August 2",
+      "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785572815,
+      "score": 8,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI doesn't generate working products, that's still your job",
+      "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785570730,
+      "score": 40,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Flint: A Visualization Language for the AI Era",
       "url": "https://microsoft.github.io/flint-chart/",
@@ -9,21 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785552309,
-      "score": 64,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
-      "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-      "desc": "https:&#x2F;&#x2F;github.com&#x2F;jwlaboratory&#x2F;bite-the-bullet",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785527741,
-      "score": 33,
-      "category": "tools",
+      "score": 122,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785524625,
-      "score": 520,
-      "category": "tools",
+      "score": 551,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785523187,
-      "score": 145,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Using the railway network as a flatbed scanner [video]",
-      "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785522644,
-      "score": 66,
-      "category": "tools",
+      "score": 154,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785521199,
-      "score": 110,
-      "category": "industry",
+      "score": 120,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785521098,
-      "score": 527,
+      "score": 573,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,21 +100,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785511779,
-      "score": 143,
-      "category": "industry",
+      "score": 163,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
+      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785482962,
+      "score": 519,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The first transatlantic telegraph cable was a bold, beautiful failure (2019)",
       "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785326350,
-      "score": 38,
-      "category": "llm",
+      "score": 43,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -127,7 +140,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -138,7 +151,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
@@ -160,7 +173,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
