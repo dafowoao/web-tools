@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-31 21:03 UTC",
-  "count": 15,
+  "updated": "2026-08-01 02:45 UTC",
+  "count": 14,
   "items": [
     {
       "title": "Show HN: How to build and self-host a code review agent",
@@ -9,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785529648,
-      "score": 4,
-      "category": "llm",
+      "score": 22,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,20 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785527741,
-      "score": 4,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI serves more than one billion active users",
-      "url": "https://openai.com/index/building-abundant-intelligence/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785526955,
-      "score": 7,
+      "score": 32,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785524625,
-      "score": 171,
+      "score": 475,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,20 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785523187,
-      "score": 61,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
-      "url": "https://arxiv.org/abs/2607.28545",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785522763,
-      "score": 18,
+      "score": 128,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785522644,
-      "score": 27,
-      "category": "industry",
+      "score": 54,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,21 +74,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785521199,
-      "score": 53,
+      "score": 96,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "13 Models and 4 Agents on SWE Tasks: Go, Java, Python, Rust, TS",
-      "url": "https://swe-rebench.com",
+      "title": "qm – Multiplayer agent harness for work",
+      "url": "https://github.com/yc-software/qm",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785511708,
-      "score": 38,
-      "category": "industry",
+      "ts": 1785521098,
+      "score": 476,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Is AI reasoning right for the wrong reasons?",
+      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785511779,
+      "score": 124,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,21 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785484751,
-      "score": 487,
+      "score": 535,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+      "title": "The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",
+      "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785482962,
-      "score": 462,
-      "category": "industry",
+      "ts": 1785326350,
+      "score": 24,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -153,7 +140,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -164,7 +151,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -186,7 +173,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     }
   ]
