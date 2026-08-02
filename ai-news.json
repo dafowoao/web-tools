@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-02 06:32 UTC",
+  "updated": "2026-08-02 09:56 UTC",
   "count": 10,
   "items": [
     {
-      "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-      "url": "https://costperprompt.com/",
+      "title": "I don't recommend Tailwind CSS",
+      "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785635804,
-      "score": 13,
-      "category": "llm",
+      "ts": 1785654578,
+      "score": 79,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785624022,
-      "score": 13,
-      "category": "tools",
+      "score": 20,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785623112,
-      "score": 263,
-      "category": "tools",
+      "score": 299,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785622821,
-      "score": 12,
-      "category": "industry",
+      "score": 27,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785597795,
-      "score": 92,
+      "score": 102,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785439134,
-      "score": 7,
-      "category": "llm",
+      "score": 11,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -99,7 +99,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -121,7 +121,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
