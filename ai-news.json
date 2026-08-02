@@ -1,16 +1,42 @@
 {
-  "updated": "2026-08-02 16:57 UTC",
-  "count": 8,
+  "updated": "2026-08-02 20:55 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "Mozilla's Inaugural 'State of Open Source AI' Report Is Here",
-      "url": "https://blog.mozilla.org/en/mozilla/mozilla-state-of-open-source-ai-report/",
+      "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "url": "https://frogs.vaguespac.es/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785683782,
-      "score": 8,
+      "ts": 1785699728,
+      "score": 22,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "EU rules on AI models become enforceable. What's going to change?",
+      "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785699619,
+      "score": 30,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+      "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785698364,
+      "score": 51,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785669836,
-      "score": 66,
-      "category": "llm",
+      "score": 89,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785665904,
-      "score": 93,
-      "category": "industry",
+      "score": 115,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785661593,
-      "score": 130,
-      "category": "llm",
+      "score": 153,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -73,7 +99,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -95,7 +121,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
