@@ -1,29 +1,16 @@
 {
-  "updated": "2026-08-02 02:44 UTC",
-  "count": 11,
+  "updated": "2026-08-02 06:32 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
-      "url": "https://zenodo.org/records/21753002",
+      "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+      "url": "https://costperprompt.com/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785632505,
-      "score": 6,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
-      "url": "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785629185,
-      "score": 4,
-      "category": "tools",
+      "ts": 1785635804,
+      "score": 13,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785624022,
-      "score": 8,
-      "category": "industry",
+      "score": 13,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,20 +35,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785623112,
-      "score": 185,
+      "score": 263,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
-      "url": "https://kaisel.dev/",
+      "title": "Drug reverses autism-like brain changes in adult mice within hours",
+      "url": "https://www.uclahealth.org/news/release/drug-reverses-autism-like-brain-changes-adult-mice-within",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785602740,
-      "score": 54,
+      "ts": 1785622821,
+      "score": 12,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,20 +61,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785597795,
-      "score": 80,
+      "score": 92,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The Burau representation of the braid group is faithful for n = 4",
-      "url": "https://arxiv.org/abs/2607.05283",
+      "title": "P[drive failure]: how reliable is your NAS?",
+      "url": "https://khz.ac/low-voltage/drive-failure.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785195975,
-      "score": 48,
+      "ts": 1785439134,
+      "score": 7,
       "category": "llm",
       "tags": [
         "国际"
@@ -101,7 +88,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
@@ -112,7 +99,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -134,7 +121,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     }
   ]
