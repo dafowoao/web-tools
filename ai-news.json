@@ -1,42 +1,16 @@
 {
-  "updated": "2026-08-02 13:19 UTC",
-  "count": 12,
+  "updated": "2026-08-02 16:57 UTC",
+  "count": 8,
   "items": [
     {
-      "title": "Has the New Cocaine Arrived?",
-      "url": "https://playboy.substack.com/p/has-the-new-cocaine-finally-arrived",
+      "title": "Mozilla's Inaugural 'State of Open Source AI' Report Is Here",
+      "url": "https://blog.mozilla.org/en/mozilla/mozilla-state-of-open-source-ai-report/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785675906,
-      "score": 4,
+      "ts": 1785683782,
+      "score": 8,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
-      "url": "https://twitter.com/polynoamial/status/2083467194663571701",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785672097,
-      "score": 34,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
-      "url": "https://website-auditor.io/ai-visibility-index",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785671632,
-      "score": 34,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785669836,
-      "score": 17,
+      "score": 66,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785665904,
-      "score": 45,
-      "category": "llm",
+      "score": 93,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,34 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785661593,
-      "score": 68,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I don't recommend Tailwind CSS",
-      "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785654578,
-      "score": 124,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Vanishing Page: AI Firms Scan Then Destroy Rare Book Editions",
-      "url": "https://dallasexpress.com/national/the-vanishing-page-ai-firms-scan-then-destroy-rare-book-editions/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785322447,
-      "score": 42,
-      "category": "tools",
+      "score": 130,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -114,7 +62,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "tools",
       "tags": []
     },
     {
@@ -125,7 +73,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -147,7 +95,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     }
   ]
