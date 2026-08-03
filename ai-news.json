@@ -1,16 +1,81 @@
 {
-  "updated": "2026-08-03 14:37 UTC",
-  "count": 12,
+  "updated": "2026-08-03 17:50 UTC",
+  "count": 17,
   "items": [
     {
-      "title": "Ask HN: What are the viable alternatives to DuckDuckGo?",
-      "url": "https://news.ycombinator.com/item?id=49155492",
-      "desc": "More than 10 years ago I dropped Google Search because my searches were enshitified and bubble wrapped and quotes stop to matter so it became impossible to escape the bubble.As the saying goes, it hap",
+      "title": "A Chinese LLM attacked our lab, so we made it work for us",
+      "url": "https://jesta.ai/blog/darkreasoning",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785763364,
+      "ts": 1785776562,
+      "score": 11,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+      "url": "https://hoplite.sh",
+      "desc": "Hi HN, we’re Bence and Ryan, founders of Hoplite (https:&#x2F;&#x2F;hoplite.sh). Hoplite lets you deploy coding agents in the cloud, with a suite of tools that makes it incredibly easy to QA features.",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785774726,
       "score": 17,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+      "url": "https://armature.tech/",
+      "desc": "Hi HN! We’re Theodore and Louis, founders of Armature (YC P26). We reconstruct the entire session behind the MCP tool calls you receive, including what the user asked their agent to do and what the ag",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785773879,
+      "score": 13,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "What's the largest software project AI can complete on its own?",
+      "url": "https://epoch.ai/MirrorCode",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785773800,
+      "score": 44,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Why does Mail app contact iCloud when sending a non-iCloud email?",
+      "url": "https://lapcatsoftware.com/articles/2026/8/2.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785767391,
+      "score": 66,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "SQLite Critical CVEs or LLM Slop?",
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785756534,
+      "score": 637,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785755748,
-      "score": 61,
+      "score": 133,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785755175,
-      "score": 49,
-      "category": "llm",
+      "score": 82,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785749527,
-      "score": 200,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-      "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785747240,
-      "score": 18,
-      "category": "industry",
+      "score": 286,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785745797,
-      "score": 152,
-      "category": "industry",
+      "score": 227,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785446319,
-      "score": 54,
+      "score": 80,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Kraid is a now a real compiler",
+      "url": "https://www.collabora.com/news-and-blog/news-and-events/kraid-is-a-now-a-real-compiler.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785423123,
+      "score": 15,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785208623,
-      "score": 11,
-      "category": "industry",
+      "score": 32,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -114,7 +179,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     },
     {
@@ -125,7 +190,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -147,7 +212,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
