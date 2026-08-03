@@ -1,7 +1,72 @@
 {
-  "updated": "2026-08-03 07:25 UTC",
-  "count": 8,
+  "updated": "2026-08-03 11:22 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "EU enforces labeling AI generated content",
+      "url": "https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785750386,
+      "score": 10,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785749527,
+      "score": 80,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+      "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785747240,
+      "score": 8,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Bonsai: Janestreet's UI Library",
+      "url": "https://github.com/janestreet/bonsai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785745797,
+      "score": 64,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The AI Productivity Gap",
+      "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785740840,
+      "score": 57,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "AI migrated legacy COBOL programs to Java, bugs included",
       "url": "https://arxiv.org/abs/2607.28271",
@@ -9,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785726372,
-      "score": 37,
-      "category": "industry",
+      "score": 69,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,33 +87,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785699728,
-      "score": 136,
-      "category": "tools",
+      "score": 141,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
-      "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+      "title": "Train Simulator Controller",
+      "url": "https://z80.me/blog/tsc-2026-july/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785698364,
-      "score": 229,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Bor – Open-source policy management for Linux desktops",
-      "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-      "desc": "Hi HN! I&#x27;ve been working on Bor, an open-source system for centralized Linux desktop management.Bor consists of a lightweight Go agent and a central server. Policies are streamed to clients over ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785661593,
-      "score": 175,
+      "ts": 1785446319,
+      "score": 15,
       "category": "llm",
       "tags": [
         "国际"
@@ -95,7 +147,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     }
   ]
