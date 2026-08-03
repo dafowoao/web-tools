@@ -1,16 +1,29 @@
 {
-  "updated": "2026-08-03 17:50 UTC",
-  "count": 17,
+  "updated": "2026-08-03 21:01 UTC",
+  "count": 16,
   "items": [
     {
-      "title": "A Chinese LLM attacked our lab, so we made it work for us",
-      "url": "https://jesta.ai/blog/darkreasoning",
+      "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+      "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785776562,
-      "score": 11,
+      "ts": 1785787341,
+      "score": 19,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "DDoS against Norwegian government IT infrastructure – status",
+      "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785786987,
+      "score": 58,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785774726,
-      "score": 17,
-      "category": "industry",
+      "score": 32,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,33 +48,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785773879,
-      "score": 13,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "What's the largest software project AI can complete on its own?",
-      "url": "https://epoch.ai/MirrorCode",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785773800,
-      "score": 44,
+      "score": 27,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Why does Mail app contact iCloud when sending a non-iCloud email?",
-      "url": "https://lapcatsoftware.com/articles/2026/8/2.html",
+      "title": "Cloudflare Workers and Containers now support inbound TCP connections and gRPC",
+      "url": "https://blog.cloudflare.com/grpc-workers/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785767391,
-      "score": 66,
+      "ts": 1785763853,
+      "score": 26,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785756534,
-      "score": 637,
+      "score": 679,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785755748,
-      "score": 133,
+      "score": 164,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785755175,
-      "score": 82,
-      "category": "tools",
+      "score": 94,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785749527,
-      "score": 286,
+      "score": 333,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785745797,
-      "score": 227,
+      "score": 261,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785446319,
-      "score": 80,
-      "category": "tools",
+      "score": 92,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,21 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785423123,
-      "score": 15,
+      "score": 25,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Walk on Decomposed Subdomains",
-      "url": "https://clementjambon.github.io/wods/index.html#blogpost",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785208623,
-      "score": 32,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -179,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     },
     {
