@@ -1,41 +1,28 @@
 {
-  "updated": "2026-08-03 02:45 UTC",
-  "count": 10,
+  "updated": "2026-08-03 07:25 UTC",
+  "count": 8,
   "items": [
     {
-      "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
-      "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
+      "title": "AI migrated legacy COBOL programs to Java, bugs included",
+      "url": "https://arxiv.org/abs/2607.28271",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785716575,
-      "score": 22,
+      "ts": 1785726372,
+      "score": 37,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Mu – Tools for Agents",
-      "url": "https://github.com/micro/mu",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785708394,
-      "score": 36,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
       "url": "https://frogs.vaguespac.es/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785699728,
-      "score": 111,
+      "score": 136,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,20 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785698364,
-      "score": 197,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Fuse – statically typed functional programming language",
-      "url": "https://fuselang.org",
-      "desc": "Hi HN! I&#x27;ve been working on the fuse programming language, it&#x27;s a statically typed purely functional language with higher-kinder types and ad-hoc polymorphism. It compiles to the GRIN whole-",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785669836,
-      "score": 103,
+      "score": 229,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785661593,
-      "score": 170,
-      "category": "tools",
+      "score": 175,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -88,7 +62,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -99,7 +73,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -121,7 +95,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "industry",
       "tags": []
     }
   ]
