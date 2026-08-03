@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-02 20:55 UTC",
+  "updated": "2026-08-03 02:45 UTC",
   "count": 10,
   "items": [
     {
-      "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-      "url": "https://frogs.vaguespac.es/",
+      "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
+      "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785699728,
+      "ts": 1785716575,
       "score": 22,
       "category": "industry",
       "tags": [
@@ -16,14 +16,27 @@
       ]
     },
     {
-      "title": "EU rules on AI models become enforceable. What's going to change?",
-      "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+      "title": "Show HN: Mu – Tools for Agents",
+      "url": "https://github.com/micro/mu",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785699619,
-      "score": 30,
-      "category": "llm",
+      "ts": 1785708394,
+      "score": 36,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "url": "https://frogs.vaguespac.es/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785699728,
+      "score": 111,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785698364,
-      "score": 51,
-      "category": "industry",
+      "score": 197,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785669836,
-      "score": 89,
+      "score": 103,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "url": "https://publicdomainreview.org/essay/ars-notoria/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785665904,
-      "score": 115,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785661593,
-      "score": 153,
+      "score": 170,
       "category": "tools",
       "tags": [
         "国际"
@@ -88,7 +88,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
