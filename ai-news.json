@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-04 06:27 UTC",
+  "updated": "2026-08-04 10:38 UTC",
   "count": 16,
   "items": [
     {
-      "title": "Why did we wait so long for the bicycle? (2019)",
-      "url": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
+      "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
+      "url": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785800659,
-      "score": 26,
+      "ts": 1785835667,
+      "score": 29,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785799493,
-      "score": 106,
-      "category": "tools",
+      "score": 162,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785794689,
-      "score": 84,
-      "category": "llm",
+      "score": 107,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785791633,
-      "score": 721,
-      "category": "tools",
+      "score": 977,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785774726,
-      "score": 66,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "What's the largest software project AI can complete on its own?",
-      "url": "https://epoch.ai/MirrorCode",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785773800,
-      "score": 80,
-      "category": "tools",
+      "score": 72,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785769254,
-      "score": 151,
-      "category": "industry",
+      "score": 179,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785769254,
-      "score": 99,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "SQLite Critical CVEs or LLM Slop?",
-      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785756534,
-      "score": 706,
-      "category": "industry",
+      "score": 119,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785755748,
-      "score": 209,
-      "category": "tools",
+      "score": 221,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785749527,
-      "score": 450,
-      "category": "industry",
+      "score": 489,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,7 +126,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785745797,
-      "score": 330,
+      "score": 357,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle",
+      "url": "https://chipsandcheese.com/p/rosaiclabs-atom-rtl-and-32-tile-amx",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785473820,
+      "score": 8,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "That time when I failed the Microsoft interview",
+      "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785319370,
+      "score": 67,
       "category": "industry",
       "tags": [
         "国际"
@@ -166,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -177,7 +177,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "tools",
+      "category": "llm",
       "tags": []
     },
     {
