@@ -1,15 +1,67 @@
 {
-  "updated": "2026-08-04 10:38 UTC",
-  "count": 16,
+  "updated": "2026-08-04 14:10 UTC",
+  "count": 17,
   "items": [
     {
-      "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
-      "url": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
+      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+      "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785835667,
-      "score": 29,
+      "ts": 1785843017,
+      "score": 423,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785841297,
+      "score": 50,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+      "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785838393,
+      "score": 175,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Why Large Language Models Fail at Tabular Prediction",
+      "url": "https://arxiv.org/abs/2608.02412",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785838026,
+      "score": 32,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Homebench – Benchmark local LLMs for speed, memory, and quality",
+      "url": "https://github.com/david-g-3654/homebench",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785836923,
+      "score": 17,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785799493,
-      "score": 162,
+      "score": 239,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785794689,
-      "score": 107,
-      "category": "tools",
+      "score": 118,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785791633,
-      "score": 977,
-      "category": "llm",
+      "score": 1129,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785774726,
-      "score": 72,
-      "category": "llm",
+      "score": 75,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785769254,
-      "score": 179,
-      "category": "llm",
+      "score": 201,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,34 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785769254,
-      "score": 119,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AirLLM 70B inference with single 4GB GPU",
-      "url": "https://github.com/lyogavin/airllm",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785755748,
-      "score": 221,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785749527,
-      "score": 489,
-      "category": "llm",
+      "score": 133,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,21 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785745797,
-      "score": 357,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle",
-      "url": "https://chipsandcheese.com/p/rosaiclabs-atom-rtl-and-32-tile-amx",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785473820,
-      "score": 8,
-      "category": "llm",
+      "score": 370,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,7 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785319370,
-      "score": 67,
+      "score": 98,
       "category": "industry",
       "tags": [
         "国际"
