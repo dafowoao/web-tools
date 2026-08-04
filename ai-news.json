@@ -1,7 +1,72 @@
 {
-  "updated": "2026-08-04 14:10 UTC",
-  "count": 17,
+  "updated": "2026-08-04 17:48 UTC",
+  "count": 18,
   "items": [
+    {
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "url": "https://arxiv.org/abs/2602.16763",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785859839,
+      "score": 32,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The AI Demand Bubble",
+      "url": "https://www.wheresyoured.at/the-ai-demand-bubble/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785858711,
+      "score": 69,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785857862,
+      "score": 121,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
+      "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785855933,
+      "score": 114,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
+      "url": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785852450,
+      "score": 9,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "AI-Generated Images Discourage Me from Reading Your Blog",
       "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
@@ -9,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785843017,
-      "score": 423,
+      "score": 645,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785841297,
-      "score": 50,
-      "category": "tools",
+      "score": 157,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785838393,
-      "score": 175,
-      "category": "llm",
+      "score": 481,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785838026,
-      "score": 32,
-      "category": "tools",
+      "score": 78,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785836923,
-      "score": 17,
-      "category": "llm",
+      "score": 49,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,20 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785799493,
-      "score": 239,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785794689,
-      "score": 118,
+      "score": 292,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,21 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785791633,
-      "score": 1129,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-      "url": "https://hoplite.sh",
-      "desc": "Hi HN, we’re Bence and Ryan, founders of Hoplite (https:&#x2F;&#x2F;hoplite.sh). Hoplite lets you deploy coding agents in the cloud, with a suite of tools that makes it incredibly easy to QA features.",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785774726,
-      "score": 75,
-      "category": "tools",
+      "score": 1265,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,34 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785769254,
-      "score": 201,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Who wants to be hired? (August 2026)",
-      "url": "https://news.ycombinator.com/item?id=49156682",
-      "desc": "Share your information if you are looking for work. Please use this format:  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé&#x2F;CV:\n  Email:\n\nPlease only post if you are personal",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785769254,
-      "score": 133,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Bonsai: Janestreet's UI Library",
-      "url": "https://github.com/janestreet/bonsai",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785745797,
-      "score": 370,
-      "category": "industry",
+      "score": 213,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -165,7 +178,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785319370,
-      "score": 98,
+      "score": 120,
       "category": "industry",
       "tags": [
         "国际"
@@ -179,7 +192,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
