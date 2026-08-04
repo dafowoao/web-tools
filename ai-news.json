@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-04 02:29 UTC",
-  "count": 17,
+  "updated": "2026-08-04 06:27 UTC",
+  "count": 16,
   "items": [
     {
-      "title": "LLMs Can't Jump",
-      "url": "https://openreview.net/pdf?id=klU4737opt",
+      "title": "Why did we wait so long for the bicycle? (2019)",
+      "url": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785800688,
-      "score": 6,
-      "category": "tools",
+      "ts": 1785800659,
+      "score": 26,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785799493,
-      "score": 37,
+      "score": 106,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785794689,
-      "score": 62,
-      "category": "tools",
+      "score": 84,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785791633,
-      "score": 482,
+      "score": 721,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785774726,
-      "score": 60,
+      "score": 66,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785773800,
-      "score": 69,
+      "score": 80,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785769254,
-      "score": 114,
+      "score": 151,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785769254,
-      "score": 61,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Frame selection is the whole game: notes on making LLMs watch video",
-      "url": "https://leoaido.com/how-llms-watch-video/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785763690,
-      "score": 12,
+      "score": 99,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785756534,
-      "score": 699,
-      "category": "tools",
+      "score": 706,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785755748,
-      "score": 192,
-      "category": "llm",
+      "score": 209,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -152,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785749527,
-      "score": 394,
+      "score": 450,
       "category": "industry",
       "tags": [
         "国际"
@@ -165,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785745797,
-      "score": 307,
-      "category": "llm",
+      "score": 330,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -179,7 +166,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
@@ -212,7 +199,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     }
   ]
