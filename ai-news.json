@@ -1,7 +1,85 @@
 {
-  "updated": "2026-08-04 17:48 UTC",
+  "updated": "2026-08-04 21:12 UTC",
   "count": 18,
   "items": [
+    {
+      "title": "Oxide Computer raises $445M (SEC Form D)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785874420,
+      "score": 32,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Waymo CEO explains why Tesla's camera-only self-driving falls short",
+      "url": "https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785874275,
+      "score": 17,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+      "url": "https://edotenv.com/",
+      "desc": "We are Rui and Michael and we’re building EdotEnv (https:&#x2F;&#x2F;edotenv.com): self-improving RL environments from Quant Trading workflows.With all the benchmaxxing around, evals saturate and beco",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785868562,
+      "score": 19,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Blackmail Fail (2013)",
+      "url": "https://gwern.net/blackmail",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785867069,
+      "score": 20,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Warp Agent CLI",
+      "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785863321,
+      "score": 78,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785861365,
+      "score": 157,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
       "url": "https://arxiv.org/abs/2602.16763",
@@ -9,21 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785859839,
-      "score": 32,
-      "category": "tools",
+      "score": 55,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The AI Demand Bubble",
-      "url": "https://www.wheresyoured.at/the-ai-demand-bubble/",
+      "title": "Cloudflare enforces engineering standards using AI",
+      "url": "https://blog.cloudflare.com/engineering-standards-enforcement/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785858711,
-      "score": 69,
-      "category": "llm",
+      "ts": 1785858590,
+      "score": 19,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785857862,
-      "score": 121,
-      "category": "industry",
+      "score": 266,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,34 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785855933,
-      "score": 114,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "It's not a fear of \"AI communism\"; it's a fear of competitive market capitalism",
-      "url": "http://observationalepidemiology.blogspot.com/2026/07/its-not-fear-of-ai-communism-its-fear.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785852450,
-      "score": 9,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785843017,
-      "score": 645,
-      "category": "llm",
+      "score": 194,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,21 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785841297,
-      "score": 157,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
-      "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785838393,
-      "score": 481,
-      "category": "industry",
+      "score": 211,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,21 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785838026,
-      "score": 78,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Homebench – Benchmark local LLMs for speed, memory, and quality",
-      "url": "https://github.com/david-g-3654/homebench",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785836923,
-      "score": 49,
-      "category": "tools",
+      "score": 96,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,7 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785799493,
-      "score": 292,
+      "score": 322,
       "category": "industry",
       "tags": [
         "国际"
@@ -152,34 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785791633,
-      "score": 1265,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Who is hiring? (August 2026)",
-      "url": "https://news.ycombinator.com/item?id=49156683",
-      "desc": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are p",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785769254,
-      "score": 213,
+      "score": 1300,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "That time when I failed the Microsoft interview",
-      "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785319370,
-      "score": 120,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -192,7 +192,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "llm",
       "tags": []
     },
     {
@@ -203,7 +203,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "llm",
+      "category": "industry",
       "tags": []
     },
     {
