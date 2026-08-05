@@ -1,7 +1,85 @@
 {
-  "updated": "2026-08-04 21:12 UTC",
-  "count": 18,
+  "updated": "2026-08-05 02:28 UTC",
+  "count": 19,
   "items": [
+    {
+      "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
+      "url": "https://www.asiae.co.kr/en/article/2026080416131786841",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785893666,
+      "score": 5,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "url": "https://queue.acm.org/detail.cfm?id=3807963",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785887452,
+      "score": 77,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: SIMD Viterbi Decoder in Rust",
+      "url": "https://github.com/brian-armstrong/fec",
+      "desc": "I wrote libcorrect in C in 2016 and wanted to revisit it in Rust. Instead of doing just a direct conversion, I went down the rabbit hole of making Rust&#x27;s std::simd work for me. I ended up with a ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785883025,
+      "score": 24,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "desc": "https:&#x2F;&#x2F;www.interpol.int&#x2F;Media&#x2F;Documents&#x2F;Publications&#x2F;Cyberc...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785880901,
+      "score": 147,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Cloudflare Wallets: the programmable wallet for the agentic Internet",
+      "url": "https://blog.cloudflare.com/wallets/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785879062,
+      "score": 19,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785878059,
+      "score": 43,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Oxide Computer raises $445M (SEC Form D)",
       "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
@@ -9,20 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785874420,
-      "score": 32,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Waymo CEO explains why Tesla's camera-only self-driving falls short",
-      "url": "https://electrek.co/2026/08/04/waymo-co-ceo-camera-only-self-driving-tesla/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785874275,
-      "score": 17,
+      "score": 192,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785868562,
-      "score": 19,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Blackmail Fail (2013)",
-      "url": "https://gwern.net/blackmail",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785867069,
-      "score": 20,
-      "category": "industry",
+      "score": 31,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785863321,
-      "score": 78,
-      "category": "tools",
+      "score": 95,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785861365,
-      "score": 157,
+      "score": 319,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,20 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785859839,
-      "score": 55,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Cloudflare enforces engineering standards using AI",
-      "url": "https://blog.cloudflare.com/engineering-standards-enforcement/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785858590,
-      "score": 19,
+      "score": 82,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,21 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785857862,
-      "score": 266,
+      "score": 336,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Online ad giant Adform was hacked, proving once again why ad blockers are needed",
-      "url": "https://this.weekinsecurity.com/online-advertising-giant-adform-was-hacked-proving-once-again-why-ad-blockers-are-necessary/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785855933,
-      "score": 194,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,20 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785841297,
-      "score": 211,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Why Large Language Models Fail at Tabular Prediction",
-      "url": "https://arxiv.org/abs/2608.02412",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785838026,
-      "score": 96,
+      "score": 232,
       "category": "llm",
       "tags": [
         "国际"
@@ -165,21 +178,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785799493,
-      "score": 322,
-      "category": "industry",
+      "score": 355,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "desc": "",
+      "title": "Show HN: A little physical breakout clone",
+      "url": "https://brontosaurusrex.github.io/physical/v7/",
+      "desc": "Idea: How about a 5 minute game I can play in my browser and it&#x27;s actually fun to play.Controls: Mouse or keyboard (left&#x2F;right, left alt&#x2F;right alt or A&#x2F;D), space and esc are pause ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785791633,
-      "score": 1300,
-      "category": "llm",
+      "ts": 1785508993,
+      "score": 12,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -225,7 +238,7 @@
       "sourceColor": "#1db48c",
       "ts": 0,
       "score": 0,
-      "category": "industry",
+      "category": "tools",
       "tags": []
     }
   ]
