@@ -1,7 +1,85 @@
 {
-  "updated": "2026-08-05 17:36 UTC",
-  "count": 10,
+  "updated": "2026-08-05 21:07 UTC",
+  "count": 16,
   "items": [
+    {
+      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785959246,
+      "score": 98,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Sula: A Gemini protocol server written in Scryer Prolog",
+      "url": "https://sagredo.dev/projects/sula/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785955978,
+      "score": 20,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "url": "https://blog.fogus.me/llm/born-against.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785955069,
+      "score": 93,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785953936,
+      "score": 119,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: ClickBench Playground – a playground for 110 database systems",
+      "url": "https://benchmark.clickhouse.com/playground/",
+      "desc": "I created it mostly for testing and exploration, but the main reason was that it became possible after previous work.",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785953855,
+      "score": 8,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+      "url": "https://arxiv.org/abs/2510.01395",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785953823,
+      "score": 51,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
       "url": "https://www.hyperprobe.co",
@@ -9,33 +87,59 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785948435,
-      "score": 8,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The next chapter of our AI momentum",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785945931,
-      "score": 51,
+      "score": 31,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Intelligence Is Not the Main Bottleneck",
-      "url": "https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck",
+      "title": "I’m leaving OpenAI to build telepathy",
+      "url": "https://naomibashkansky.com/blog/telepathy/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785938646,
-      "score": 92,
+      "ts": 1785948333,
+      "score": 68,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "desc": "https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;08&#x2F;05&#x2F;google-deepmind-demis-hassa...https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;google-shakes-up-ai-leaders...https:&#x2F;&#x2F;www.di",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785945931,
+      "score": 286,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "See the Sun like never before with most detailed images yet",
+      "url": "https://www.bbc.com/news/articles/c36d4376nd2o",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785944003,
+      "score": 19,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Proxmox VE now available for ARM64",
+      "url": "https://forum.proxmox.com/threads/proxmox-virtual-environment-now-available-for-64-bit-arm-arm64.185527/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785940929,
+      "score": 32,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785938410,
-      "score": 54,
-      "category": "llm",
+      "score": 84,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785938333,
-      "score": 307,
-      "category": "industry",
+      "score": 394,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785938052,
-      "score": 58,
-      "category": "industry",
+      "score": 86,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,34 +191,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785936872,
-      "score": 45,
+      "score": 80,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
-      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785933707,
-      "score": 177,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Why Erdős Problems Are Falling to AI",
-      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785930574,
-      "score": 112,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,7 +204,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785927697,
-      "score": 178,
+      "score": 217,
       "category": "industry",
       "tags": [
         "国际"
