@@ -1,16 +1,94 @@
 {
-  "updated": "2026-08-05 10:34 UTC",
-  "count": 11,
+  "updated": "2026-08-05 14:07 UTC",
+  "count": 13,
   "items": [
     {
-      "title": "The software group Palantir paid just £2M in corporation tax in the UK in 2024",
-      "url": "https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices",
+      "title": "Universities would prefer no AI",
+      "url": "https://hollisrobbinsanecdotal.substack.com/p/universities-would-prefer-not-to",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785922577,
-      "score": 22,
+      "ts": 1785936775,
+      "score": 8,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Drone carrying explosive device causes disruption at major German airport",
+      "url": "https://www.cnn.com/2026/08/05/europe/cargo-plane-leipzig-disruption-intl",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785934720,
+      "score": 7,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Iowa-led states ask OpenAI to keep their bots on a leash",
+      "url": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785933770,
+      "score": 50,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785933707,
+      "score": 72,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Anthropic AI created fake profiles and impersonated people in attempted hack",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785932207,
+      "score": 20,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Why the Legendary Erdős Problems Are Falling to AI",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785930574,
+      "score": 47,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Position: LLMs Can't Jump",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785927697,
+      "score": 123,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785904604,
-      "score": 43,
+      "score": 74,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785902847,
-      "score": 33,
-      "category": "tools",
+      "score": 55,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785887452,
-      "score": 217,
+      "score": 259,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: SIMD Viterbi Decoder in Rust",
-      "url": "https://github.com/brian-armstrong/fec",
-      "desc": "I wrote libcorrect in C in 2016 and wanted to revisit it in Rust. Instead of doing just a direct conversion, I went down the rabbit hole of making Rust&#x27;s std::simd work for me. I ended up with a ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785883025,
-      "score": 47,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,21 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785880901,
-      "score": 247,
+      "score": 278,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Oxide Computer raises $445M (SEC Form D)",
-      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785874420,
-      "score": 243,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,21 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785861365,
-      "score": 426,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-      "url": "https://arxiv.org/abs/2602.16763",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785859839,
-      "score": 99,
-      "category": "industry",
+      "score": 457,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,21 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785799493,
-      "score": 388,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785791633,
-      "score": 1356,
-      "category": "tools",
+      "score": 408,
+      "category": "industry",
       "tags": [
         "国际"
       ]
