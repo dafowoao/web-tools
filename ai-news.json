@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-05 02:28 UTC",
-  "count": 19,
+  "updated": "2026-08-05 06:27 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.29377",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785904604,
+      "score": 6,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "An SLM trained on $8 ESP32-S3",
+      "url": "https://github.com/Carloscodix/qapla",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785902847,
+      "score": 13,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
       "url": "https://www.asiae.co.kr/en/article/2026080416131786841",
@@ -9,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785893666,
-      "score": 5,
-      "category": "industry",
+      "score": 72,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785887452,
-      "score": 77,
-      "category": "industry",
+      "score": 167,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785883025,
-      "score": 24,
-      "category": "tools",
+      "score": 37,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785880901,
-      "score": 147,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Cloudflare Wallets: the programmable wallet for the agentic Internet",
-      "url": "https://blog.cloudflare.com/wallets/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785879062,
-      "score": 19,
-      "category": "tools",
+      "score": 190,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785878059,
-      "score": 43,
-      "category": "industry",
+      "score": 46,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,34 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785874420,
-      "score": 192,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
-      "url": "https://edotenv.com/",
-      "desc": "We are Rui and Michael and we’re building EdotEnv (https:&#x2F;&#x2F;edotenv.com): self-improving RL environments from Quant Trading workflows.With all the benchmaxxing around, evals saturate and beco",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785868562,
-      "score": 31,
+      "score": 236,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Warp Agent CLI",
-      "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785863321,
-      "score": 95,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785861365,
-      "score": 319,
-      "category": "llm",
+      "score": 363,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785859839,
-      "score": 82,
+      "score": 90,
       "category": "industry",
       "tags": [
         "国际"
@@ -152,21 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785857862,
-      "score": 336,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
-      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785841297,
-      "score": 232,
-      "category": "llm",
+      "score": 355,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -178,68 +152,11 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785799493,
-      "score": 355,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: A little physical breakout clone",
-      "url": "https://brontosaurusrex.github.io/physical/v7/",
-      "desc": "Idea: How about a 5 minute game I can play in my browser and it&#x27;s actually fun to play.Controls: Mouse or keyboard (left&#x2F;right, left alt&#x2F;right alt or A&#x2F;D), space and esc are pause ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785508993,
-      "score": 12,
+      "score": 373,
       "category": "industry",
       "tags": [
         "国际"
       ]
-    },
-    {
-      "title": "中芯国际与嘉楠科技合作14nm矿机芯片，知情人士：能否量产要看行情",
-      "url": "https://www.36kr.com/p/210949",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "llm",
-      "tags": []
-    },
-    {
-      "title": "三大运营商年内推出5G消息",
-      "url": "https://www.36kr.com/p/210948",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "industry",
-      "tags": []
-    },
-    {
-      "title": "瑞德西韦同情用药的数据存在局限性，中国重症临床试验已中止",
-      "url": "https://www.36kr.com/p/210942",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "china",
-      "tags": []
-    },
-    {
-      "title": "第三方曝光罗永浩第二场直播数据：带货销售额下降近70%",
-      "url": "https://www.36kr.com/p/210929",
-      "desc": "",
-      "source": "36氪",
-      "sourceColor": "#1db48c",
-      "ts": 0,
-      "score": 0,
-      "category": "tools",
-      "tags": []
     }
   ]
 }
