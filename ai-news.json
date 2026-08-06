@@ -1,20 +1,7 @@
 {
-  "updated": "2026-08-06 06:30 UTC",
-  "count": 17,
+  "updated": "2026-08-06 10:38 UTC",
+  "count": 15,
   "items": [
-    {
-      "title": "Ship Safe, an open source security scanner for coding agents",
-      "url": "https://github.com/asamassekou10/ship-safe",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785988948,
-      "score": 5,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
       "url": "https://github.com/pradipta/wallfacer",
@@ -22,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785988376,
-      "score": 12,
-      "category": "tools",
+      "score": 22,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785982514,
-      "score": 193,
-      "category": "tools",
+      "score": 238,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785964317,
-      "score": 156,
-      "category": "llm",
+      "score": 185,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785963532,
-      "score": 26,
+      "score": 44,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Sula: A Gemini protocol server written in Scryer Prolog",
-      "url": "https://sagredo.dev/projects/sula/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785955978,
-      "score": 50,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785955069,
-      "score": 207,
-      "category": "tools",
+      "score": 278,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785953936,
-      "score": 279,
-      "category": "industry",
+      "score": 322,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785953823,
-      "score": 98,
-      "category": "llm",
+      "score": 128,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785948435,
-      "score": 51,
-      "category": "tools",
+      "score": 58,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785945931,
-      "score": 593,
+      "score": 668,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785938410,
-      "score": 120,
-      "category": "tools",
+      "score": 131,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -165,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785938333,
-      "score": 529,
-      "category": "tools",
+      "score": 564,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -178,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785938052,
-      "score": 111,
+      "score": 113,
       "category": "industry",
       "tags": [
         "国际"
@@ -191,7 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785930574,
-      "score": 133,
+      "score": 138,
       "category": "llm",
       "tags": [
         "国际"
@@ -204,7 +178,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785927697,
-      "score": 263,
+      "score": 278,
       "category": "industry",
       "tags": [
         "国际"
@@ -217,7 +191,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785773823,
-      "score": 6,
+      "score": 25,
       "category": "industry",
       "tags": [
         "国际"
