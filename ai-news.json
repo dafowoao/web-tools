@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-05 21:07 UTC",
+  "updated": "2026-08-06 02:31 UTC",
   "count": 16,
   "items": [
+    {
+      "title": "LLMs won't break symmetric crypto",
+      "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785980346,
+      "score": 16,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Prime Agent: A self-improving RLM agent",
+      "url": "https://www.primeintellect.ai/blog/prime-agent",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785964317,
+      "score": 109,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "When online commenters detect my art as AI",
+      "url": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785963532,
+      "score": 14,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
       "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
@@ -9,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785959246,
-      "score": 98,
-      "category": "industry",
+      "score": 250,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785955978,
-      "score": 20,
-      "category": "industry",
+      "score": 46,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785955069,
-      "score": 93,
-      "category": "llm",
+      "score": 145,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,20 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785953936,
-      "score": 119,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: ClickBench Playground – a playground for 110 database systems",
-      "url": "https://benchmark.clickhouse.com/playground/",
-      "desc": "I created it mostly for testing and exploration, but the main reason was that it became possible after previous work.",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785953855,
-      "score": 8,
+      "score": 230,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785953823,
-      "score": 51,
-      "category": "industry",
+      "score": 78,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785948435,
-      "score": 31,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I’m leaving OpenAI to build telepathy",
-      "url": "https://naomibashkansky.com/blog/telepathy/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785948333,
-      "score": 68,
+      "score": 45,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,33 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785945931,
-      "score": 286,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "See the Sun like never before with most detailed images yet",
-      "url": "https://www.bbc.com/news/articles/c36d4376nd2o",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785944003,
-      "score": 19,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Proxmox VE now available for ARM64",
-      "url": "https://forum.proxmox.com/threads/proxmox-virtual-environment-now-available-for-64-bit-arm-arm64.185527/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785940929,
-      "score": 32,
+      "score": 495,
       "category": "industry",
       "tags": [
         "国际"
@@ -152,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785938410,
-      "score": 84,
-      "category": "tools",
+      "score": 107,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -165,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785938333,
-      "score": 394,
-      "category": "llm",
+      "score": 478,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -178,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785938052,
-      "score": 86,
-      "category": "tools",
+      "score": 108,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -191,7 +178,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785936872,
-      "score": 80,
+      "score": 92,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Why Erdős Problems Are Falling to AI",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785930574,
+      "score": 126,
       "category": "tools",
       "tags": [
         "国际"
@@ -204,8 +204,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785927697,
-      "score": 217,
-      "category": "industry",
+      "score": 247,
+      "category": "tools",
       "tags": [
         "国际"
       ]
