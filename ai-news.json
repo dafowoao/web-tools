@@ -1,15 +1,41 @@
 {
-  "updated": "2026-08-06 10:38 UTC",
-  "count": 15,
+  "updated": "2026-08-06 14:07 UTC",
+  "count": 14,
   "items": [
     {
-      "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
-      "url": "https://github.com/pradipta/wallfacer",
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785988376,
-      "score": 22,
+      "ts": 1786017487,
+      "score": 48,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: demake – one source project compiles to any retro game console ROM",
+      "url": "https://geosona.com/demake/",
+      "desc": "This started life as a graphics tool for a specific problem: gen AI can make retro-styled sprites but can&#x27;t follow exact hardware constraints of pixels and colors.While building this I liked the ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786015680,
+      "score": 17,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785997482,
+      "score": 140,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785982514,
-      "score": 238,
+      "score": 288,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785964317,
-      "score": 185,
+      "score": 203,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "When online commenters detect my art as AI",
-      "url": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785963532,
-      "score": 44,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785955069,
-      "score": 278,
-      "category": "llm",
+      "score": 319,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785953936,
-      "score": 322,
+      "score": 359,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785953823,
-      "score": 128,
+      "score": 148,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785948435,
-      "score": 58,
-      "category": "industry",
+      "score": 62,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785945931,
-      "score": 668,
-      "category": "llm",
+      "score": 732,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785938410,
-      "score": 131,
+      "score": 133,
       "category": "industry",
       "tags": [
         "国际"
@@ -139,34 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785938333,
-      "score": 564,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Building an Advanced Agentic Harness",
-      "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785938052,
-      "score": 113,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Why Erdős Problems Are Falling to AI",
-      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785930574,
-      "score": 138,
-      "category": "llm",
+      "score": 600,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -178,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785927697,
-      "score": 278,
-      "category": "industry",
+      "score": 292,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -191,7 +178,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785773823,
-      "score": 25,
+      "score": 41,
       "category": "industry",
       "tags": [
         "国际"
