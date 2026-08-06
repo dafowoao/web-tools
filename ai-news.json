@@ -1,15 +1,41 @@
 {
-  "updated": "2026-08-06 02:31 UTC",
-  "count": 16,
+  "updated": "2026-08-06 06:30 UTC",
+  "count": 17,
   "items": [
     {
-      "title": "LLMs won't break symmetric crypto",
-      "url": "https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto",
+      "title": "Ship Safe, an open source security scanner for coding agents",
+      "url": "https://github.com/asamassekou10/ship-safe",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1785980346,
-      "score": 16,
+      "ts": 1785988948,
+      "score": 5,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
+      "url": "https://github.com/pradipta/wallfacer",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785988376,
+      "score": 12,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Nashville uses eminent domain to block data center near zoo",
+      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785982514,
+      "score": 193,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785964317,
-      "score": 109,
-      "category": "tools",
+      "score": 156,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785963532,
-      "score": 14,
+      "score": 26,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785959246,
-      "score": 250,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785955978,
-      "score": 46,
-      "category": "llm",
+      "score": 50,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785955069,
-      "score": 145,
+      "score": 207,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785953936,
-      "score": 230,
+      "score": 279,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785953823,
-      "score": 78,
-      "category": "tools",
+      "score": 98,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785948435,
-      "score": 45,
+      "score": 51,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785945931,
-      "score": 495,
-      "category": "industry",
+      "score": 593,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785938410,
-      "score": 107,
-      "category": "industry",
+      "score": 120,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -152,7 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785938333,
-      "score": 478,
+      "score": 529,
       "category": "tools",
       "tags": [
         "国际"
@@ -165,21 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785938052,
-      "score": 108,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Painting with Gaussians",
-      "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785936872,
-      "score": 92,
-      "category": "tools",
+      "score": 111,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -191,8 +191,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785930574,
-      "score": 126,
-      "category": "tools",
+      "score": 133,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -204,8 +204,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785927697,
-      "score": 247,
-      "category": "tools",
+      "score": 263,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Decimen Optical Transfer: fountain-coded QR file transfer",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785773823,
+      "score": 6,
+      "category": "industry",
       "tags": [
         "国际"
       ]
