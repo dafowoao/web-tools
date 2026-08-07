@@ -1,29 +1,68 @@
 {
-  "updated": "2026-08-07 05:39 UTC",
-  "count": 12,
+  "updated": "2026-08-07 08:58 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "Anthropic CEO reportedly worried new hires only care about money",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html",
+      "title": "I won't read LLM authored fiction",
+      "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786079727,
-      "score": 7,
+      "ts": 1786088756,
+      "score": 50,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Mythos Attempted to Social Engineer Open Source Maintainer to Merge Malware",
-      "url": "https://socket.dev/blog/ai-agent-open-source-malware",
+      "title": "Artificial Intelligence used to design new viruses",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786075447,
-      "score": 17,
+      "ts": 1786084275,
+      "score": 27,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786063050,
+      "score": 56,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
+      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+      "desc": "https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;new-mexico-court-orders-meta-p...https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;aug&#x2F;06&#x2F;new-mexic...https:&#x2F;&#x2F;w",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786061188,
+      "score": 232,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
+      "url": "https://zenodo.org/records/21359923",
+      "desc": "Author here.Background, for anyone who hasn&#x27;t followed this fight: IBM&#x27;s iron–sulfur SQD results (Sci. Adv. 2025) are one of the flagship &quot;quantum computers are useful for chemistry now",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786056609,
+      "score": 12,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786051821,
-      "score": 83,
+      "score": 103,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786047791,
-      "score": 510,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
-      "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786041889,
-      "score": 469,
-      "category": "llm",
+      "score": 637,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786035724,
-      "score": 196,
-      "category": "industry",
+      "score": 233,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786032351,
-      "score": 97,
+      "score": 103,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786031955,
-      "score": 193,
+      "score": 205,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,8 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786031378,
-      "score": 367,
+      "score": 395,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Software development with AI is starting to feel like cooking steak",
+      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786030248,
+      "score": 365,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786017487,
-      "score": 276,
-      "category": "industry",
+      "score": 298,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,8 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785793167,
-      "score": 8,
-      "category": "llm",
+      "score": 13,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -152,8 +191,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785506434,
-      "score": 26,
-      "category": "tools",
+      "score": 32,
+      "category": "llm",
       "tags": [
         "国际"
       ]
