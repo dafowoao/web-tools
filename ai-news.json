@@ -1,29 +1,29 @@
 {
-  "updated": "2026-08-07 00:52 UTC",
-  "count": 11,
+  "updated": "2026-08-07 05:39 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-      "url": "https://www.bbc.com/news/articles/cj63966j95yo",
+      "title": "Anthropic CEO reportedly worried new hires only care about money",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786058955,
-      "score": 24,
+      "ts": 1786079727,
+      "score": 7,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
-      "url": "https://zenodo.org/records/21359923",
-      "desc": "Author here.Background, for anyone who hasn&#x27;t followed this fight: IBM&#x27;s iron–sulfur SQD results (Sci. Adv. 2025) are one of the flagship &quot;quantum computers are useful for chemistry now",
+      "title": "Mythos Attempted to Social Engineer Open Source Maintainer to Merge Malware",
+      "url": "https://socket.dev/blog/ai-agent-open-source-malware",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786056609,
-      "score": 6,
-      "category": "llm",
+      "ts": 1786075447,
+      "score": 17,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786051821,
-      "score": 50,
+      "score": 83,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786047791,
-      "score": 326,
+      "score": 510,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786041889,
-      "score": 418,
-      "category": "industry",
+      "score": 469,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786035724,
-      "score": 140,
-      "category": "tools",
+      "score": 196,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786032351,
-      "score": 84,
+      "score": 97,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786031955,
-      "score": 185,
+      "score": 193,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786031378,
-      "score": 311,
+      "score": 367,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,7 +126,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786017487,
-      "score": 248,
+      "score": 276,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Learning to fly FPV drones with AI flight coach",
+      "url": "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785793167,
+      "score": 8,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785506434,
-      "score": 5,
+      "score": 26,
       "category": "tools",
       "tags": [
         "国际"
