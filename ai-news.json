@@ -1,41 +1,80 @@
 {
-  "updated": "2026-08-07 13:01 UTC",
-  "count": 12,
+  "updated": "2026-08-07 16:53 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Show HN: Certo – An open source platform to deliver Open Badges",
-      "url": "https://github.com/schroedinger-Hat/certo",
-      "desc": "Certo is open-source infrastructure for issuing, managing, verifying, and exchanging digital credentials.It implements Open Badges 3.0[1] and W3C Verifiable Credentials[2] which are the open standards",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786093830,
-      "score": 6,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Generative \"AI\": The Guitar Hero of Creativity",
-      "url": "https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity/",
+      "title": "The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI",
+      "url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786093656,
-      "score": 22,
+      "ts": 1786120737,
+      "score": 4,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+      "title": "The AI Billboards Are Killing SF",
+      "url": "https://sfstandard.com/pacific-standard-time/2026/08/07/sf-ai-billboards-dystopian-not-funny/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786063050,
-      "score": 66,
+      "ts": 1786120336,
+      "score": 9,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "This Mine Predicts Major Wars. It's Opening Again",
+      "url": "https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786119277,
+      "score": 5,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI agents fake identities, target real people in new security incident",
+      "url": "https://www.cnn.com/2026/08/04/tech/ai-anthropic-openai-security-breach-intl-hnk",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786118675,
+      "score": 5,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Wyzer Programming Language",
+      "url": "https://github.com/Wyzer-Lang/wyzer",
+      "desc": "So i&#x27;ve been working on this project since a few days (or months i should say), it&#x27;s called wyzer (meaning wiser) it&#x27;s a statically typed, compiled, resource-oriented programming langua",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786105735,
+      "score": 98,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "url": "https://blog.cloudflare.com/kitesurf/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786099327,
+      "score": 70,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,34 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786061188,
-      "score": 398,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
-      "url": "https://zenodo.org/records/21359923",
-      "desc": "Author here.Background, for anyone who hasn&#x27;t followed this fight: IBM&#x27;s iron–sulfur SQD results (Sci. Adv. 2025) are one of the flagship &quot;quantum computers are useful for chemistry now",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786056609,
-      "score": 15,
+      "score": 557,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "url": "https://www.aleksagordic.com/blog/vllm",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786051821,
-      "score": 126,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786047791,
-      "score": 737,
-      "category": "llm",
+      "score": 800,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786035724,
-      "score": 260,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
-      "url": "https://github.com/CopilotKit/channels-sdk",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786032351,
-      "score": 107,
+      "score": 289,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786031955,
-      "score": 210,
-      "category": "industry",
+      "score": 217,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,21 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786031378,
-      "score": 430,
+      "score": 465,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786017487,
-      "score": 317,
-      "category": "llm",
       "tags": [
         "国际"
       ]
