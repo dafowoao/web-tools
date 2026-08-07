@@ -1,29 +1,29 @@
 {
-  "updated": "2026-08-07 08:58 UTC",
-  "count": 15,
+  "updated": "2026-08-07 13:01 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "I won't read LLM authored fiction",
-      "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
-      "desc": "",
+      "title": "Show HN: Certo – An open source platform to deliver Open Badges",
+      "url": "https://github.com/schroedinger-Hat/certo",
+      "desc": "Certo is open-source infrastructure for issuing, managing, verifying, and exchanging digital credentials.It implements Open Badges 3.0[1] and W3C Verifiable Credentials[2] which are the open standards",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786088756,
-      "score": 50,
+      "ts": 1786093830,
+      "score": 6,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Artificial Intelligence used to design new viruses",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo",
+      "title": "Generative \"AI\": The Guitar Hero of Creativity",
+      "url": "https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786084275,
-      "score": 27,
-      "category": "industry",
+      "ts": 1786093656,
+      "score": 22,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786063050,
-      "score": 56,
-      "category": "industry",
+      "score": 66,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786061188,
-      "score": 232,
-      "category": "tools",
+      "score": 398,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786056609,
-      "score": 12,
-      "category": "llm",
+      "score": 15,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786051821,
-      "score": 103,
-      "category": "tools",
+      "score": 126,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786047791,
-      "score": 637,
-      "category": "industry",
+      "score": 737,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786035724,
-      "score": 233,
-      "category": "llm",
+      "score": 260,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786032351,
-      "score": 103,
-      "category": "llm",
+      "score": 107,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786031955,
-      "score": 205,
+      "score": 210,
       "category": "industry",
       "tags": [
         "国际"
@@ -139,21 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786031378,
-      "score": 395,
+      "score": 430,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Software development with AI is starting to feel like cooking steak",
-      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786030248,
-      "score": 365,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -165,33 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786017487,
-      "score": 298,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Learning to fly FPV drones with AI flight coach",
-      "url": "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785793167,
-      "score": 13,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Sylvester–Gallai Theorem",
-      "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785506434,
-      "score": 32,
+      "score": 317,
       "category": "llm",
       "tags": [
         "国际"
