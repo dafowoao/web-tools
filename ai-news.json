@@ -1,29 +1,68 @@
 {
-  "updated": "2026-08-08 12:46 UTC",
-  "count": 9,
+  "updated": "2026-08-08 16:32 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-      "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
+      "title": "Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All",
+      "url": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786191363,
-      "score": 5,
+      "ts": 1786198026,
+      "score": 27,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786197342,
+      "score": 76,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "title": "A domain can now say it is for sale, in DNS",
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786195611,
+      "score": 129,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
       "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786186664,
-      "score": 47,
-      "category": "industry",
+      "score": 136,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786134304,
+      "score": 77,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786127117,
-      "score": 258,
-      "category": "industry",
+      "score": 283,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786124190,
-      "score": 488,
-      "category": "industry",
+      "score": 504,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786106547,
-      "score": 749,
-      "category": "industry",
+      "score": 859,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786099327,
-      "score": 199,
-      "category": "tools",
+      "score": 209,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,34 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786061188,
-      "score": 773,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "desc": "https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;am...https:&#x2F;&#x2F;chatjimmy.ai&#x2F;",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786047791,
-      "score": 907,
+      "score": 781,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Sign language translation with smart glasses",
-      "url": "https://github.com/aadisang/hand-wave",
-      "desc": "Hi!I have relatives that speak sign language, and always found it odd that despite unbelievable advances in AI in recent years, the problem still felt somewhat neglected.Especially with the advent of ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785880708,
-      "score": 9,
-      "category": "industry",
       "tags": [
         "国际"
       ]
