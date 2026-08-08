@@ -1,15 +1,28 @@
 {
-  "updated": "2026-08-08 08:39 UTC",
+  "updated": "2026-08-08 12:46 UTC",
   "count": 9,
   "items": [
     {
-      "title": "Mythos social engineering AISI INC-2026-07-28-01",
-      "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+      "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
+      "url": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786160516,
-      "score": 58,
+      "ts": 1786191363,
+      "score": 5,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786186664,
+      "score": 47,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786127117,
-      "score": 229,
-      "category": "llm",
+      "score": 258,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786124190,
-      "score": 462,
-      "category": "llm",
+      "score": 488,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786106547,
-      "score": 615,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Wyzer Programming Language",
-      "url": "https://github.com/Wyzer-Lang/wyzer",
-      "desc": "So i&#x27;ve been working on this project since a few days (or months i should say), it&#x27;s called wyzer (meaning wiser) it&#x27;s a statically typed, compiled, resource-oriented programming langua",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786105735,
-      "score": 197,
-      "category": "tools",
+      "score": 749,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786099327,
-      "score": 190,
+      "score": 199,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786061188,
-      "score": 757,
-      "category": "tools",
+      "score": 773,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,20 +100,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786047791,
-      "score": 898,
-      "category": "llm",
+      "score": 907,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-      "url": "https://provenmetal.com",
-      "desc": "Hey HN, we’re Will &amp; Johnny from ProvenMetal (https:&#x2F;&#x2F;provenmetal.com). You send us design files or specs and we give you assembled boards domestically in days.The US produced 30% of PCB",
+      "title": "Show HN: Sign language translation with smart glasses",
+      "url": "https://github.com/aadisang/hand-wave",
+      "desc": "Hi!I have relatives that speak sign language, and always found it odd that despite unbelievable advances in AI in recent years, the problem still felt somewhat neglected.Especially with the advent of ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786031955,
-      "score": 229,
+      "ts": 1785880708,
+      "score": 9,
       "category": "industry",
       "tags": [
         "国际"
