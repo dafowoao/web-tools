@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08 04:56 UTC",
-  "count": 10,
+  "updated": "2026-08-08 08:39 UTC",
+  "count": 9,
   "items": [
     {
       "title": "Mythos social engineering AISI INC-2026-07-28-01",
@@ -9,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786160516,
-      "score": 27,
-      "category": "llm",
+      "score": 58,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786127117,
-      "score": 196,
-      "category": "tools",
+      "score": 229,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786124190,
-      "score": 423,
-      "category": "industry",
+      "score": 462,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786106547,
-      "score": 510,
-      "category": "llm",
+      "score": 615,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786105735,
-      "score": 182,
-      "category": "industry",
+      "score": 197,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786099327,
-      "score": 176,
-      "category": "industry",
+      "score": 190,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786061188,
-      "score": 744,
-      "category": "industry",
+      "score": 757,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786047791,
-      "score": 896,
-      "category": "industry",
+      "score": 898,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -114,20 +114,7 @@
       "sourceColor": "#ff6600",
       "ts": 1786031955,
       "score": 229,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Captain Bible Reverse Engineering",
-      "url": "https://github.com/peterkelly/captain-bible-re",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785692314,
-      "score": 22,
-      "category": "llm",
+      "category": "industry",
       "tags": [
         "国际"
       ]
