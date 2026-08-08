@@ -1,16 +1,55 @@
 {
-  "updated": "2026-08-08 16:32 UTC",
+  "updated": "2026-08-08 20:28 UTC",
   "count": 10,
   "items": [
     {
-      "title": "Sensitive Info Goes into 'No Reply' Emails Constantly. This Guy Sees It All",
-      "url": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
+      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786198026,
-      "score": 27,
+      "ts": 1786212571,
+      "score": 246,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "TinySol, a tiny solitaire game for DOS",
+      "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786210960,
+      "score": 18,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Fastmail offers EU data region",
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786205091,
+      "score": 202,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Message your other Claude Code sessions",
+      "url": "https://code.claude.com/docs/en/cross-session-messaging",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786203289,
+      "score": 12,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786197342,
-      "score": 76,
+      "score": 124,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786195611,
-      "score": 129,
-      "category": "industry",
+      "score": 264,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786186664,
-      "score": 136,
-      "category": "llm",
+      "score": 252,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786134304,
-      "score": 77,
-      "category": "llm",
+      "score": 149,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786127117,
-      "score": 283,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786124190,
-      "score": 504,
+      "score": 292,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,34 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786106547,
-      "score": 859,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-      "url": "https://blog.cloudflare.com/kitesurf/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786099327,
-      "score": 209,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "desc": "https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;new-mexico-court-orders-meta-p...https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;aug&#x2F;06&#x2F;new-mexic...https:&#x2F;&#x2F;w",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786061188,
-      "score": 781,
-      "category": "tools",
+      "score": 929,
+      "category": "industry",
       "tags": [
         "国际"
       ]
