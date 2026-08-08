@@ -1,29 +1,29 @@
 {
-  "updated": "2026-08-07 20:39 UTC",
+  "updated": "2026-08-08 01:36 UTC",
   "count": 10,
   "items": [
     {
-      "title": "Databricks drove down AI coding spend 70%",
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "title": "Should AI labs be treated like the owners of dangerous animals?",
+      "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786127117,
-      "score": 94,
-      "category": "llm",
+      "ts": 1786147411,
+      "score": 28,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5",
-      "url": "https://theclaudyssey.com/",
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786125314,
-      "score": 20,
-      "category": "tools",
+      "ts": 1786127117,
+      "score": 165,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,21 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786124190,
-      "score": 255,
+      "score": 390,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "This Mine Predicts Major Wars. It's Opening Again",
-      "url": "https://www.bloomberg.com/graphics/2026-opinion-australia-tungsten-mine-us-war-defense-china/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786119277,
-      "score": 60,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786106547,
-      "score": 173,
+      "score": 417,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786105735,
-      "score": 153,
-      "category": "llm",
+      "score": 172,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786099327,
-      "score": 120,
-      "category": "tools",
+      "score": 165,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786061188,
-      "score": 687,
+      "score": 718,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786047791,
-      "score": 862,
-      "category": "industry",
+      "score": 886,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,8 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786031955,
-      "score": 225,
+      "score": 227,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Captain Bible Reverse Engineering",
+      "url": "https://github.com/peterkelly/captain-bible-re",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785692314,
+      "score": 11,
+      "category": "tools",
       "tags": [
         "国际"
       ]
