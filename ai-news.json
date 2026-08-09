@@ -1,15 +1,28 @@
 {
-  "updated": "2026-08-08 20:28 UTC",
-  "count": 10,
+  "updated": "2026-08-09 01:42 UTC",
+  "count": 8,
   "items": [
     {
-      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+      "title": "The AI Apocalypse Is Here",
+      "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786212571,
-      "score": 246,
+      "ts": 1786238916,
+      "score": 3,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "You can build an AI agent's memory layer with only Go's standard library",
+      "url": "https://towardsdev.com/the-memory-efficient-ai-agent-building-a-context-engine-in-go-d4b7557c44d8?sk=22b2ffc30beac55a6f47841eb4df980b",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786229406,
+      "score": 4,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786210960,
-      "score": 18,
-      "category": "industry",
+      "score": 47,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786205091,
-      "score": 202,
-      "category": "tools",
+      "score": 320,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786203289,
-      "score": 12,
-      "category": "llm",
+      "score": 59,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786197342,
-      "score": 124,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A domain can now say it is for sale, in DNS",
-      "url": "https://specification.website/spec/foundations/for-sale-dns/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786195611,
-      "score": 264,
-      "category": "llm",
+      "score": 152,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786186664,
-      "score": 252,
+      "score": 339,
       "category": "tools",
       "tags": [
         "国际"
@@ -96,37 +96,11 @@
     {
       "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
       "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-      "desc": "",
+      "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;un1c0rnioz&#x2F;status&#x2F;2084686552299634805",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786134304,
-      "score": 149,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Managing AI Coding Costs at Scale",
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786127117,
-      "score": 292,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786106547,
-      "score": 929,
+      "score": 217,
       "category": "industry",
       "tags": [
         "国际"
