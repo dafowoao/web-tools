@@ -1,7 +1,85 @@
 {
-  "updated": "2026-08-09 16:34 UTC",
-  "count": 3,
+  "updated": "2026-08-09 20:31 UTC",
+  "count": 8,
   "items": [
+    {
+      "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
+      "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786303240,
+      "score": 22,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786303009,
+      "score": 105,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenChamber: An Agentic Development Environment",
+      "url": "https://openchamber.dev/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786296436,
+      "score": 60,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
+      "url": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786295405,
+      "score": 9,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "UnYOLO: Agent credential broker and policy engine for your GitHub account",
+      "url": "https://unyolo.io/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786290783,
+      "score": 10,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+      "url": "https://github.com/eighttrigrams/us-vs-them",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786289129,
+      "score": 35,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Airy – Free, fast, and simple voice content creation",
       "url": "https://airy.so",
@@ -9,34 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786267772,
-      "score": 22,
+      "score": 30,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
-      "url": "http://longbets.org/601/",
+      "title": "Cross-compilation with Wails (2025)",
+      "url": "https://chriswheeler.dev/posts/cross-compilation-with-wails/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786249826,
-      "score": 185,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Fastmail offers EU data region",
-      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786205091,
-      "score": 481,
-      "category": "tools",
+      "ts": 1785961775,
+      "score": 5,
+      "category": "industry",
       "tags": [
         "国际"
       ]
