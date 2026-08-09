@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-09 08:41 UTC",
-  "count": 8,
+  "updated": "2026-08-09 12:48 UTC",
+  "count": 6,
   "items": [
+    {
+      "title": "Show HN: Airy – Free, fast, and simple voice content creation",
+      "url": "https://airy.so",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786267772,
+      "score": 8,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
       "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
@@ -9,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786262451,
-      "score": 4,
+      "score": 51,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,34 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786249826,
-      "score": 133,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-      "url": "https://marketnow.site/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786245181,
-      "score": 12,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "ChatGPT starts blocking direct requests to copy an author's style",
-      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786240898,
-      "score": 52,
-      "category": "tools",
+      "score": 165,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786237198,
-      "score": 110,
-      "category": "llm",
+      "score": 150,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786205091,
-      "score": 403,
-      "category": "tools",
+      "score": 451,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786203289,
-      "score": 121,
+      "score": 137,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786186664,
-      "score": 392,
-      "category": "industry",
       "tags": [
         "国际"
       ]
