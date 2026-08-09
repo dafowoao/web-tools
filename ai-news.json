@@ -1,15 +1,41 @@
 {
-  "updated": "2026-08-09 05:04 UTC",
+  "updated": "2026-08-09 08:41 UTC",
   "count": 8,
   "items": [
     {
-      "title": "\"The original URL for this prediction will no longer be available in 11 years.\" (2011)",
-      "url": "https://longbets.org/601/",
+      "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+      "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786262451,
+      "score": 4,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
+      "url": "http://longbets.org/601/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786249826,
-      "score": 9,
+      "score": 133,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+      "url": "https://marketnow.site/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786245181,
+      "score": 12,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,34 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786240898,
-      "score": 30,
-      "category": "llm",
+      "score": 52,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Melatonin impairs morning cognition in healthy young adults",
+      "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
       "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786237198,
-      "score": 20,
+      "score": 110,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "TinySol, a tiny solitaire game for DOS",
-      "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786210960,
-      "score": 51,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786205091,
-      "score": 355,
+      "score": 403,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786203289,
-      "score": 93,
-      "category": "industry",
+      "score": 121,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786186664,
-      "score": 377,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-      "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;un1c0rnioz&#x2F;status&#x2F;2084686552299634805",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786134304,
-      "score": 249,
+      "score": 392,
       "category": "industry",
       "tags": [
         "国际"
