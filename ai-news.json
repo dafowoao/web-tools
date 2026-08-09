@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09 12:48 UTC",
-  "count": 6,
+  "updated": "2026-08-09 16:34 UTC",
+  "count": 3,
   "items": [
     {
       "title": "Show HN: Airy – Free, fast, and simple voice content creation",
@@ -9,21 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786267772,
-      "score": 8,
+      "score": 22,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-      "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786262451,
-      "score": 51,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,21 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786249826,
-      "score": 165,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
-      "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786237198,
-      "score": 150,
-      "category": "industry",
+      "score": 185,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,21 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786205091,
-      "score": 451,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Message your other Claude Code sessions",
-      "url": "https://code.claude.com/docs/en/cross-session-messaging",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786203289,
-      "score": 137,
-      "category": "llm",
+      "score": 481,
+      "category": "tools",
       "tags": [
         "国际"
       ]
