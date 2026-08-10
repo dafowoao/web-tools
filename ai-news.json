@@ -1,16 +1,29 @@
 {
-  "updated": "2026-08-10 01:45 UTC",
-  "count": 8,
+  "updated": "2026-08-10 05:26 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-      "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
+      "title": "Auto mode is now the default in Claude Code",
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786312343,
-      "score": 41,
-      "category": "industry",
+      "ts": 1786333800,
+      "score": 70,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "url": "https://www.whodunnitai.com/",
+      "desc": "Hey HN!I&#x27;m excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very e",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786331920,
+      "score": 28,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786308526,
-      "score": 46,
-      "category": "tools",
+      "score": 73,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786306724,
-      "score": 95,
-      "category": "llm",
+      "score": 108,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786306545,
-      "score": 24,
+      "score": 31,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786304632,
-      "score": 74,
+      "score": 98,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786303009,
-      "score": 415,
-      "category": "industry",
+      "score": 535,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786296436,
-      "score": 106,
-      "category": "industry",
+      "score": 129,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786289129,
-      "score": 44,
-      "category": "industry",
+      "score": 47,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Everything you do is being recorded",
+      "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+      "desc": "https:&#x2F;&#x2F;www.theatlantic.com&#x2F;technology&#x2F;2026&#x2F;05&#x2F;ai-wearable-s...https:&#x2F;&#x2F;archive.is&#x2F;JxaZ7",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786275048,
+      "score": 249,
+      "category": "tools",
       "tags": [
         "国际"
       ]
