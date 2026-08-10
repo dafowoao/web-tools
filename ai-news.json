@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-10 16:53 UTC",
-  "count": 15,
+  "updated": "2026-08-10 20:41 UTC",
+  "count": 18,
   "items": [
+    {
+      "title": "Claude moves bound of the Riemann Hypothesis from 41.6% to 67.2%",
+      "url": "https://twitter.com/jarredsumner/status/2086869681785500011",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786385057,
+      "score": 27,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Learning more about Claude's mathematical capabilities",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786383673,
+      "score": 117,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
       "url": "https://www.stoaexchange.com",
@@ -9,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786379727,
-      "score": 5,
-      "category": "industry",
+      "score": 54,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,21 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786377563,
-      "score": 16,
+      "score": 106,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "'Pervert glasses': Backlash against Meta's smart glasses grows",
-      "url": "https://www.seattletimes.com/business/technology/pervert-glasses-backlash-against-metas-smart-glasses-grows/",
+      "title": "The Tragedy of the Cognitive Commons",
+      "url": "https://arxiv.org/abs/2607.29380",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786374788,
-      "score": 108,
-      "category": "industry",
+      "ts": 1786377315,
+      "score": 63,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +74,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786373792,
+      "score": 118,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786372700,
+      "score": 66,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "There is no “done”: Reflections on a completed Appalachian Trail thru-hike (2022)",
+      "url": "https://thetrek.co/appalachian-trail/there-is-no-done-reflections-on-a-completed-at-thru-hike/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786372374,
       "score": 31,
-      "category": "tools",
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,21 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786371641,
-      "score": 11,
-      "category": "industry",
+      "score": 57,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "AI Fortunes Are Reviving an Old Debate About Private Power",
-      "url": "https://ai-updates.net/ai-fortunes-philanthropy-private-power/",
-      "desc": "",
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "desc": "https:&#x2F;&#x2F;archive.is&#x2F;20LOJhttps:&#x2F;&#x2F;www.meta.com&#x2F;thefutureisforeveryone&#x2F;",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786369007,
-      "score": 12,
-      "category": "tools",
+      "ts": 1786370782,
+      "score": 210,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,21 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786368940,
-      "score": 8,
+      "score": 75,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Mistral Patent for \"Code implemented tool calls\"",
+      "title": "Mistral Patent for “Code implemented tool calls”",
       "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786368552,
-      "score": 122,
-      "category": "tools",
+      "score": 177,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,33 +165,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786366670,
-      "score": 9,
-      "category": "industry",
+      "score": 30,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
-      "url": "https://bobdahacker.com/blog/tldv-hack",
+      "title": "Tail-call optimization in C is relatively recent (2025)",
+      "url": "https://lwn.net/Articles/1034703/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786364765,
-      "score": 323,
+      "ts": 1786361680,
+      "score": 102,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Tail-call optimization in C is relatively recent",
-      "url": "https://lwn.net/Articles/1034703/",
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786361680,
-      "score": 80,
+      "ts": 1786356602,
+      "score": 904,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,7 +204,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786341758,
-      "score": 483,
+      "score": 579,
       "category": "llm",
       "tags": [
         "国际"
@@ -165,7 +217,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786331920,
-      "score": 173,
+      "score": 187,
       "category": "industry",
       "tags": [
         "国际"
@@ -178,21 +230,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786123756,
-      "score": 31,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Tail-Call Interpreters in Rust – Jimmy Ostler",
-      "url": "https://lordgoati.us/blog/tail-call/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786104310,
-      "score": 73,
-      "category": "industry",
+      "score": 90,
+      "category": "llm",
       "tags": [
         "国际"
       ]
