@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-10 09:19 UTC",
-  "count": 11,
+  "updated": "2026-08-10 13:05 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+      "url": "https://bobdahacker.com/blog/tldv-hack",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786364765,
+      "score": 11,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Tail-call optimization in C is relatively recent",
+      "url": "https://lwn.net/Articles/1034703/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786361680,
+      "score": 29,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Because It's Not Fun Enough: why languages fail",
+      "url": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786361267,
+      "score": 50,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Meta's new open-weight model targets local agentic AI",
+      "url": "https://twitter.com/finkd/status/2086754845218726027",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786359303,
+      "score": 16,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "url": "https://www.docker.com/products/docker-sandboxes/",
@@ -9,20 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786341758,
-      "score": 173,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Philippines' big offshoring industry is growing despite AI",
-      "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786336524,
-      "score": 47,
+      "score": 326,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786333800,
-      "score": 201,
-      "category": "llm",
+      "score": 253,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786331920,
-      "score": 76,
+      "score": 125,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,34 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786308526,
-      "score": 91,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Hacker's Renaissance (2025)",
-      "url": "https://phrack.org/issues/72/19#article",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786306724,
-      "score": 111,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The main way I've seen people turn ideologically crazy (2025)",
-      "url": "https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786306552,
-      "score": 118,
-      "category": "industry",
+      "score": 110,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786304632,
-      "score": 122,
+      "score": 134,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786303009,
-      "score": 627,
-      "category": "industry",
+      "score": 705,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786296436,
-      "score": 143,
-      "category": "tools",
+      "score": 164,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,8 +152,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786275048,
-      "score": 300,
-      "category": "tools",
+      "score": 345,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Tail-Call Interpreters in Rust – Jimmy Ostler",
+      "url": "https://lordgoati.us/blog/tail-call/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786104310,
+      "score": 45,
+      "category": "llm",
       "tags": [
         "国际"
       ]
