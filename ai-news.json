@@ -1,15 +1,67 @@
 {
-  "updated": "2026-08-09 20:31 UTC",
+  "updated": "2026-08-10 01:45 UTC",
   "count": 8,
   "items": [
     {
-      "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
-      "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
+      "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
+      "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786303240,
-      "score": 22,
+      "ts": 1786312343,
+      "score": 41,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Tuxedo No. 2 – Cocktail recipes",
+      "url": "https://tuxedono2.com",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786308526,
+      "score": 46,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Hacker's Renaissance (2025)",
+      "url": "https://phrack.org/issues/72/19#article",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786306724,
+      "score": 95,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Alphabet Soup, a multiplayer game, build the longest word to win",
+      "url": "https://alphabetsoup.club",
+      "desc": "I&#x27;ve been working on a simple multiplayer word game called Alphabet Soup.It&#x27;s a bit like NYT Spelling Bee, except it&#x27;s multiplayer and only your best (longest) word counts toward your s",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786306545,
+      "score": 24,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The tragedy of the commons, AI edition",
+      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786304632,
+      "score": 74,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786303009,
-      "score": 105,
-      "category": "tools",
+      "score": 415,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,34 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786296436,
-      "score": 60,
+      "score": 106,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: A replayable A2A jury for tracing how agents influence decisions",
-      "url": "https://github.com/nMaroulis/protolink/tree/main/examples/ai_courtroom",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786295405,
-      "score": 9,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "UnYOLO: Agent credential broker and policy engine for your GitHub account",
-      "url": "https://unyolo.io/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786290783,
-      "score": 10,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,33 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786289129,
-      "score": 35,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Airy – Free, fast, and simple voice content creation",
-      "url": "https://airy.so",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786267772,
-      "score": 30,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Cross-compilation with Wails (2025)",
-      "url": "https://chriswheeler.dev/posts/cross-compilation-with-wails/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1785961775,
-      "score": 5,
+      "score": 44,
       "category": "industry",
       "tags": [
         "国际"
