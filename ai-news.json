@@ -1,7 +1,124 @@
 {
-  "updated": "2026-08-10 13:05 UTC",
-  "count": 13,
+  "updated": "2026-08-10 16:53 UTC",
+  "count": 15,
   "items": [
+    {
+      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+      "url": "https://www.stoaexchange.com",
+      "desc": "Hi HN, we’re Eren, Berat and Kaan. We’re building Stoa (https:&#x2F;&#x2F;www.stoaexchange.com), a marketplace for new and used GPUs and AI servers.GPUs are the collateral in the data center buildout.",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786379727,
+      "score": 5,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+      "url": "https://github.com/AntigmaLabs/ante",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786377563,
+      "score": 16,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "'Pervert glasses': Backlash against Meta's smart glasses grows",
+      "url": "https://www.seattletimes.com/business/technology/pervert-glasses-backlash-against-metas-smart-glasses-grows/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786374788,
+      "score": 108,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+      "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786373792,
+      "score": 31,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+      "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786371641,
+      "score": 11,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI Fortunes Are Reviving an Old Debate About Private Power",
+      "url": "https://ai-updates.net/ai-fortunes-philanthropy-private-power/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786369007,
+      "score": 12,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Humanising LLM Outputs Is Dumb",
+      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786368940,
+      "score": 8,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Mistral Patent for \"Code implemented tool calls\"",
+      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786368552,
+      "score": 122,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Signal is working on a paid option to create an account without a phone number",
+      "url": "https://aboutsignal.com/news/signal-login-registration-without-a-phone-number/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786366670,
+      "score": 9,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
       "url": "https://bobdahacker.com/blog/tldv-hack",
@@ -9,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786364765,
-      "score": 11,
-      "category": "industry",
+      "score": 323,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,33 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786361680,
-      "score": 29,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Because It's Not Fun Enough: why languages fail",
-      "url": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786361267,
-      "score": 50,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Meta's new open-weight model targets local agentic AI",
-      "url": "https://twitter.com/finkd/status/2086754845218726027",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786359303,
-      "score": 16,
+      "score": 80,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,21 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786341758,
-      "score": 326,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Auto mode is now the default in Claude Code",
-      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786333800,
-      "score": 253,
-      "category": "industry",
+      "score": 483,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,73 +165,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786331920,
-      "score": 125,
-      "category": "tools",
+      "score": 173,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Tuxedo No. 2 – Cocktail recipes",
-      "url": "https://tuxedono2.com",
-      "desc": "",
+      "title": "Ask HN: In your experience, what are sound conventions for e-ink UI development?",
+      "url": "https://news.ycombinator.com/item?id=49213660",
+      "desc": "TL;DR I&#x27;m looking for advice regarding browser-based frontend development from people with practical e-ink UI experience. My specific device is a Bigme Hibreak Pro BW but I&#x27;m aiming for rela",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786308526,
-      "score": 110,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The tragedy of the commons, AI edition",
-      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786304632,
-      "score": 134,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How I use LLMs to learn complex topics",
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786303009,
-      "score": 705,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenChamber: An Agentic Development Environment",
-      "url": "https://openchamber.dev/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786296436,
-      "score": 164,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Everything you do is being recorded",
-      "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-      "desc": "https:&#x2F;&#x2F;www.theatlantic.com&#x2F;technology&#x2F;2026&#x2F;05&#x2F;ai-wearable-s...https:&#x2F;&#x2F;archive.is&#x2F;JxaZ7",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786275048,
-      "score": 345,
-      "category": "llm",
+      "ts": 1786123756,
+      "score": 31,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -165,8 +191,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786104310,
-      "score": 45,
-      "category": "llm",
+      "score": 73,
+      "category": "industry",
       "tags": [
         "国际"
       ]
