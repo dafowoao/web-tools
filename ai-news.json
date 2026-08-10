@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-10 05:26 UTC",
-  "count": 10,
+  "updated": "2026-08-10 09:19 UTC",
+  "count": 11,
   "items": [
+    {
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786341758,
+      "score": 173,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Philippines' big offshoring industry is growing despite AI",
+      "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786336524,
+      "score": 47,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Auto mode is now the default in Claude Code",
       "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
@@ -9,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786333800,
-      "score": 70,
-      "category": "tools",
+      "score": 201,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786331920,
-      "score": 28,
-      "category": "llm",
+      "score": 76,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786308526,
-      "score": 73,
-      "category": "industry",
+      "score": 91,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,21 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786306724,
-      "score": 108,
+      "score": 111,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Alphabet Soup, a multiplayer game, build the longest word to win",
-      "url": "https://alphabetsoup.club",
-      "desc": "I&#x27;ve been working on a simple multiplayer word game called Alphabet Soup.It&#x27;s a bit like NYT Spelling Bee, except it&#x27;s multiplayer and only your best (longest) word counts toward your s",
+      "title": "The main way I've seen people turn ideologically crazy (2025)",
+      "url": "https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786306545,
-      "score": 31,
-      "category": "llm",
+      "ts": 1786306552,
+      "score": 118,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786304632,
-      "score": 98,
-      "category": "industry",
+      "score": 122,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786303009,
-      "score": 535,
-      "category": "llm",
+      "score": 627,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786296436,
-      "score": 129,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-      "url": "https://github.com/eighttrigrams/us-vs-them",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786289129,
-      "score": 47,
-      "category": "llm",
+      "score": 143,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786275048,
-      "score": 249,
+      "score": 300,
       "category": "tools",
       "tags": [
         "国际"
