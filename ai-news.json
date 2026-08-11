@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11 01:42 UTC",
-  "count": 18,
+  "updated": "2026-08-11 05:07 UTC",
+  "count": 15,
   "items": [
     {
       "title": "World Train Map – 1247 train routes around the world",
@@ -9,21 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786401734,
-      "score": 31,
+      "score": 83,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
-      "url": "https://github.com/leog/ai-pulse",
-      "desc": "Hi HN!I run a few Claude Code sessions in parallel and kept cmd-tabbing around just to find out one of them had been sitting on a permission prompt for ten minutes. There&#x27;s a hardware gadget I li",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786399661,
-      "score": 6,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786395175,
-      "score": 63,
-      "category": "industry",
+      "score": 82,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,21 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786382527,
-      "score": 168,
+      "score": 244,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GPT 5.6 Cyber",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786382040,
-      "score": 65,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786379727,
-      "score": 63,
+      "score": 71,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,20 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786379338,
-      "score": 61,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
-      "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786373792,
-      "score": 143,
+      "score": 105,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786372700,
-      "score": 90,
-      "category": "llm",
+      "score": 103,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786371641,
-      "score": 100,
-      "category": "llm",
+      "score": 130,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786370782,
-      "score": 362,
+      "score": 434,
       "category": "tools",
       "tags": [
         "国际"
@@ -152,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786368940,
-      "score": 153,
-      "category": "tools",
+      "score": 185,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -165,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786368552,
-      "score": 208,
-      "category": "tools",
+      "score": 213,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -178,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786361680,
-      "score": 122,
-      "category": "llm",
+      "score": 136,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -191,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786356602,
-      "score": 1039,
-      "category": "industry",
+      "score": 1075,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -204,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786341758,
-      "score": 626,
-      "category": "llm",
+      "score": 642,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -217,8 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786123756,
-      "score": 142,
-      "category": "industry",
+      "score": 168,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -230,8 +191,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785943343,
-      "score": 36,
-      "category": "industry",
+      "score": 87,
+      "category": "llm",
       "tags": [
         "国际"
       ]
