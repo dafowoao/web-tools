@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-11 05:07 UTC",
-  "count": 15,
+  "updated": "2026-08-11 08:55 UTC",
+  "count": 18,
   "items": [
+    {
+      "title": "Claude Code pricing: same tokens, same model, up to 40x the price",
+      "url": "https://quesma.com/blog/claude-code-pricing-for-enterprise/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786437294,
+      "score": 5,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "World Train Map – 1247 train routes around the world",
       "url": "https://worldtrainmap.com/",
@@ -9,7 +22,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786401734,
-      "score": 83,
+      "score": 121,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "As AI eats the web, the internet’s collective memory is disappearing",
+      "url": "https://thewalrus.ca/google-search-is-dying/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786401390,
+      "score": 245,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How Claude marks AI-generated content",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786397816,
+      "score": 164,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,8 +61,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786395175,
-      "score": 82,
-      "category": "tools",
+      "score": 109,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Learning more about Claude's mathematical capabilities",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786383673,
+      "score": 191,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786382527,
-      "score": 244,
+      "score": 318,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786379727,
-      "score": 71,
-      "category": "tools",
+      "score": 75,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786379338,
-      "score": 105,
-      "category": "tools",
+      "score": 166,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+      "url": "https://github.com/AntigmaLabs/ante",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786377563,
+      "score": 130,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786372700,
-      "score": 103,
-      "category": "industry",
+      "score": 108,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786371641,
-      "score": 130,
+      "score": 142,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786370782,
-      "score": 434,
-      "category": "tools",
+      "score": 499,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,20 +178,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786368940,
-      "score": 185,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Mistral Patent for “Code implemented tool calls”",
-      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786368552,
-      "score": 213,
+      "score": 210,
       "category": "industry",
       "tags": [
         "国际"
@@ -139,7 +191,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786361680,
-      "score": 136,
+      "score": 146,
       "category": "tools",
       "tags": [
         "国际"
@@ -152,20 +204,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786356602,
-      "score": 1075,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "url": "https://www.docker.com/products/docker-sandboxes/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786341758,
-      "score": 642,
+      "score": 1107,
       "category": "tools",
       "tags": [
         "国际"
@@ -178,8 +217,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786123756,
-      "score": 168,
-      "category": "llm",
+      "score": 183,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -191,8 +230,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785943343,
-      "score": 87,
-      "category": "llm",
+      "score": 128,
+      "category": "industry",
       "tags": [
         "国际"
       ]
