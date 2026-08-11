@@ -1,29 +1,68 @@
 {
-  "updated": "2026-08-10 20:41 UTC",
+  "updated": "2026-08-11 01:42 UTC",
   "count": 18,
   "items": [
     {
-      "title": "Claude moves bound of the Riemann Hypothesis from 41.6% to 67.2%",
-      "url": "https://twitter.com/jarredsumner/status/2086869681785500011",
+      "title": "World Train Map – 1247 train routes around the world",
+      "url": "https://worldtrainmap.com/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786385057,
-      "score": 27,
+      "ts": 1786401734,
+      "score": 31,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Learning more about Claude's mathematical capabilities",
-      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "title": "Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
+      "url": "https://github.com/leog/ai-pulse",
+      "desc": "Hi HN!I run a few Claude Code sessions in parallel and kept cmd-tabbing around just to find out one of them had been sitting on a permission prompt for ten minutes. There&#x27;s a hardware gadget I li",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786399661,
+      "score": 6,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Confessions of a Long-Distance Sailor",
+      "url": "https://arachnoid.com/lutusp/sailbook.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786383673,
-      "score": 117,
+      "ts": 1786395175,
+      "score": 63,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
+      "desc": "Hey HN,Henry from Cactus here!We previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and microco",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786382527,
+      "score": 168,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GPT 5.6 Cyber",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786382040,
+      "score": 65,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,34 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786379727,
-      "score": 54,
+      "score": 63,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
-      "url": "https://github.com/AntigmaLabs/ante",
-      "desc": "",
+      "title": "What's the best programming language for coding agents?",
+      "url": "http://danluu.com/pl-tokens/",
+      "desc": "Related: Which programming languages are most token-efficient? - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46582728 - Jan 2026 (91 comments)",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786377563,
-      "score": 106,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Tragedy of the Cognitive Commons",
-      "url": "https://arxiv.org/abs/2607.29380",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786377315,
-      "score": 63,
-      "category": "llm",
+      "ts": 1786379338,
+      "score": 61,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786373792,
-      "score": 118,
-      "category": "llm",
+      "score": 143,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786372700,
-      "score": 66,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "There is no “done”: Reflections on a completed Appalachian Trail thru-hike (2022)",
-      "url": "https://thetrek.co/appalachian-trail/there-is-no-done-reflections-on-a-completed-at-thru-hike/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786372374,
-      "score": 31,
+      "score": 90,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786371641,
-      "score": 57,
-      "category": "tools",
+      "score": 100,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786370782,
-      "score": 210,
-      "category": "llm",
+      "score": 362,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786368940,
-      "score": 75,
-      "category": "industry",
+      "score": 153,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -152,21 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786368552,
-      "score": 177,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Signal is working on a paid option to create an account without a phone number",
-      "url": "https://aboutsignal.com/news/signal-login-registration-without-a-phone-number/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786366670,
-      "score": 30,
-      "category": "llm",
+      "score": 208,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -178,8 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786361680,
-      "score": 102,
-      "category": "tools",
+      "score": 122,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -191,8 +191,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786356602,
-      "score": 904,
-      "category": "llm",
+      "score": 1039,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -204,21 +204,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786341758,
-      "score": 579,
+      "score": 626,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-      "url": "https://www.whodunnitai.com/",
-      "desc": "Hey HN!I&#x27;m excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very e",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786331920,
-      "score": 187,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -230,8 +217,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786123756,
-      "score": 90,
-      "category": "llm",
+      "score": 142,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The “mechanical miracle” that ruined Mark Twain’s life",
+      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785943343,
+      "score": 36,
+      "category": "industry",
       "tags": [
         "国际"
       ]
