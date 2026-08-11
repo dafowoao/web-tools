@@ -1,28 +1,28 @@
 {
-  "updated": "2026-08-11 08:55 UTC",
-  "count": 18,
+  "updated": "2026-08-11 13:03 UTC",
+  "count": 16,
   "items": [
     {
-      "title": "Claude Code pricing: same tokens, same model, up to 40x the price",
-      "url": "https://quesma.com/blog/claude-code-pricing-for-enterprise/",
+      "title": "OpenAI's Only Ethicist Reportedly Left Last Month",
+      "url": "https://gizmodo.com/openais-only-ethicist-reportedly-left-last-month-she-wasnt-replaced-2000796883",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786437294,
-      "score": 5,
-      "category": "industry",
+      "ts": 1786450987,
+      "score": 21,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "World Train Map – 1247 train routes around the world",
-      "url": "https://worldtrainmap.com/",
+      "title": "How to organize Claude Code for product work",
+      "url": "https://www.theaithinker.com/p/how-to-organize-claude-code-for-product",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786401734,
-      "score": 121,
+      "ts": 1786446154,
+      "score": 3,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786401390,
-      "score": 245,
-      "category": "tools",
+      "score": 447,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786397816,
-      "score": 164,
+      "score": 241,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786395175,
-      "score": 109,
-      "category": "llm",
+      "score": 135,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786383673,
-      "score": 191,
-      "category": "industry",
+      "score": 229,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786382527,
-      "score": 318,
-      "category": "tools",
+      "score": 390,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786379338,
-      "score": 166,
-      "category": "llm",
+      "score": 210,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,34 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786377563,
-      "score": 130,
+      "score": 147,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786372700,
-      "score": 108,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
-      "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786371641,
-      "score": 142,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -165,21 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786370782,
-      "score": 499,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Humanising LLM Outputs Is Dumb",
-      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786368940,
-      "score": 210,
-      "category": "industry",
+      "score": 550,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -191,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786361680,
-      "score": 146,
+      "score": 155,
       "category": "tools",
       "tags": [
         "国际"
@@ -204,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786356602,
-      "score": 1107,
-      "category": "tools",
+      "score": 1132,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -217,7 +178,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786123756,
-      "score": 183,
+      "score": 184,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Hollywood and Shanghai Cinema in the 1930s [pdf]",
+      "url": "https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2225&context=clcweb",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1785948128,
+      "score": 5,
       "category": "industry",
       "tags": [
         "国际"
@@ -230,8 +204,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1785943343,
-      "score": 128,
-      "category": "industry",
+      "score": 159,
+      "category": "tools",
       "tags": [
         "国际"
       ]
