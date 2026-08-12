@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-12 16:55 UTC",
+  "updated": "2026-08-12 20:42 UTC",
   "count": 12,
   "items": [
+    {
+      "title": "Building Security Agents That Cannot Escape Their Trust Boundary",
+      "url": "https://cynative.com/blog/agent-trust-boundaries/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786562974,
+      "score": 3,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Lovable raises $400M Series C",
+      "url": "https://lovable.dev/blog/series-c",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786551634,
+      "score": 60,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Hax – a minimalist, terminal-native coding agent written in C",
       "url": "https://usehax.dev/",
@@ -9,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786545825,
-      "score": 27,
-      "category": "llm",
+      "score": 67,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786544550,
-      "score": 313,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
-      "url": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786543563,
-      "score": 77,
-      "category": "tools",
+      "score": 591,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786543366,
-      "score": 103,
-      "category": "llm",
+      "score": 176,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,21 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786542965,
-      "score": 65,
+      "score": 82,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "AI is removing the middle class of software engineering",
+      "title": "AI is removing the middle class of software engineering?",
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786540805,
-      "score": 339,
-      "category": "industry",
+      "score": 584,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786533216,
-      "score": 106,
+      "score": 152,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786529189,
-      "score": 193,
+      "score": 233,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786529065,
-      "score": 190,
+      "score": 216,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,21 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786521080,
-      "score": 53,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "US hires over 2k video gamers as air traffic controllers",
-      "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786490777,
-      "score": 178,
-      "category": "llm",
+      "score": 58,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -152,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786012190,
-      "score": 120,
+      "score": 141,
       "category": "llm",
       "tags": [
         "国际"
