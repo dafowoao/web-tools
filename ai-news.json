@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-12 01:54 UTC",
-  "count": 12,
+  "updated": "2026-08-12 05:36 UTC",
+  "count": 11,
   "items": [
+    {
+      "title": "llama.cpp",
+      "url": "https://llama.app",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786510319,
+      "score": 4,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786500342,
+      "score": 106,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "US hires over 2k video gamers as air traffic controllers",
       "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
@@ -9,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786490777,
-      "score": 74,
-      "category": "tools",
+      "score": 104,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,20 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786485378,
-      "score": 120,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Suzanne: AI tool for designing and manufacturing physical products",
-      "url": "https://www.suzanne3d.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786483706,
-      "score": 39,
+      "score": 179,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,34 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786467429,
-      "score": 270,
+      "score": 323,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786459833,
-      "score": 287,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything",
-      "url": "https://www.trykeet.com/",
-      "desc": "Hi HN! We’re Zack and Tommy the Co-Founders of Keet (https:&#x2F;&#x2F;trykeet.com). We are building a mobile app that generates courses on any topic, with short videos for explanation and games for r",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786459717,
-      "score": 40,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786454520,
-      "score": 491,
-      "category": "llm",
+      "score": 568,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786450987,
-      "score": 279,
-      "category": "llm",
+      "score": 359,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786444847,
-      "score": 161,
-      "category": "industry",
+      "score": 173,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,21 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786401390,
-      "score": 869,
+      "score": 884,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "How Claude marks AI-generated content",
-      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "title": "Show HN: Find stale, orphaned, deleted-but-retrievable RAG vectors",
+      "url": "https://github.com/rimironenko/rag-staleness-check",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786397816,
-      "score": 421,
-      "category": "tools",
+      "ts": 1786036434,
+      "score": 4,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786024074,
-      "score": 26,
-      "category": "industry",
+      "score": 52,
+      "category": "tools",
       "tags": [
         "国际"
       ]
