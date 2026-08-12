@@ -1,7 +1,85 @@
 {
-  "updated": "2026-08-12 09:10 UTC",
-  "count": 9,
+  "updated": "2026-08-12 13:07 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "Delphi 13 Community Edition Is Now Available",
+      "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786533216,
+      "score": 35,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "url": "https://woxi.ad-si.com",
+      "desc": "Woxi is an interpreter for the Wolfram Language written in Rust.It comes with Woxi Studio, a Mathematica-like GUI built with iced, but you can also use Woxi through a CLI, Jupyter kernel, Python packa",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786529189,
+      "score": 110,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "What sort of maths are LLMs good at?",
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786529065,
+      "score": 123,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Facebook is paying controversial creators to produce rage-bait content",
+      "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786527330,
+      "score": 259,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Dutch Train Map Simulator",
+      "url": "https://spoorkaart.zaza.dev",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786525761,
+      "score": 68,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "url": "https://discoveredmaterials.com/research/",
+      "desc": "Hey HN, we&#x27;re Advaith and Akash from Discovered Materials ( https:&#x2F;&#x2F;discoveredmaterials.com&#x2F; ).  We build AI agents that discover new materials for the semiconductor industry.GPUs ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786521080,
+      "score": 31,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "llama.cpp",
       "url": "https://llama.app",
@@ -9,20 +87,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786510319,
-      "score": 195,
+      "score": 294,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Crew, a multiplayer workspace for humans and AI agents to work together",
-      "url": "https://github.com/JamelHammoud/crew",
+      "title": "US hires over 2k video gamers as air traffic controllers",
+      "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786503603,
-      "score": 6,
+      "ts": 1786490777,
+      "score": 151,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786485378,
-      "score": 221,
-      "category": "industry",
+      "score": 250,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786467429,
-      "score": 373,
-      "category": "industry",
+      "score": 397,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786454520,
-      "score": 617,
+      "score": 648,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,46 +152,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786450987,
-      "score": 430,
+      "score": 473,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
-      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+      "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+      "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786444847,
-      "score": 180,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "As AI eats the web, the internet’s collective memory is disappearing",
-      "url": "https://thewalrus.ca/google-search-is-dying/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786401390,
-      "score": 899,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Line9 – A Mermaid rendering engine with its own layout",
-      "url": "https://line9.ai/diagram",
-      "desc": "Line9 is a new rendering engine for Mermaid flowchart diagrams that aims to remove the need for manual adjustment of layout. Mermaid is a popular text-based language for describing multiple types of d",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786024074,
-      "score": 69,
+      "ts": 1786012190,
+      "score": 51,
       "category": "tools",
       "tags": [
         "国际"
