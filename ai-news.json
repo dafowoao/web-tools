@@ -1,7 +1,85 @@
 {
-  "updated": "2026-08-12 13:07 UTC",
-  "count": 13,
+  "updated": "2026-08-12 16:55 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "Hax – a minimalist, terminal-native coding agent written in C",
+      "url": "https://usehax.dev/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786545825,
+      "score": 27,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786544550,
+      "score": 313,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
+      "url": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786543563,
+      "score": 77,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786543366,
+      "score": 103,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "My Agent Setup",
+      "url": "https://chad.cm/posts/2026-8-11-my-agent-setup",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786542965,
+      "score": 65,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI is removing the middle class of software engineering",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786540805,
+      "score": 339,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Delphi 13 Community Edition Is Now Available",
       "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
@@ -9,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786533216,
-      "score": 35,
+      "score": 106,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786529189,
-      "score": 110,
-      "category": "llm",
+      "score": 193,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,34 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786529065,
-      "score": 123,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Facebook is paying controversial creators to produce rage-bait content",
-      "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786527330,
-      "score": 259,
+      "score": 190,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Dutch Train Map Simulator",
-      "url": "https://spoorkaart.zaza.dev",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786525761,
-      "score": 68,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,20 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786521080,
-      "score": 31,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "llama.cpp",
-      "url": "https://llama.app",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786510319,
-      "score": 294,
+      "score": 53,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,60 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786490777,
-      "score": 151,
+      "score": 178,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "WorldClaw Agentic 3D open-world generation at scale",
-      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786485378,
-      "score": 250,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Go is an ideal language for AI-assisted software engineering",
-      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786467429,
-      "score": 397,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://stolen-thoughts.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786454520,
-      "score": 648,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI’s head of ethics leaves less than a year after joining",
-      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;W48UVhttps:&#x2F;&#x2F;aimagazine.com&#x2F;news&#x2F;why-did-openai-head-of-ethics-ch...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786450987,
-      "score": 473,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -165,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786012190,
-      "score": 51,
-      "category": "tools",
+      "score": 120,
+      "category": "llm",
       "tags": [
         "国际"
       ]
