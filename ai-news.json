@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12 05:36 UTC",
-  "count": 11,
+  "updated": "2026-08-12 09:10 UTC",
+  "count": 9,
   "items": [
     {
       "title": "llama.cpp",
@@ -9,33 +9,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786510319,
-      "score": 4,
+      "score": 195,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "title": "Crew, a multiplayer workspace for humans and AI agents to work together",
+      "url": "https://github.com/JamelHammoud/crew",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786500342,
-      "score": 106,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "US hires over 2k video gamers as air traffic controllers",
-      "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786490777,
-      "score": 104,
+      "ts": 1786503603,
+      "score": 6,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786485378,
-      "score": 179,
-      "category": "llm",
+      "score": 221,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786467429,
-      "score": 323,
+      "score": 373,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786454520,
-      "score": 568,
+      "score": 617,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786450987,
-      "score": 359,
-      "category": "tools",
+      "score": 430,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786444847,
-      "score": 173,
-      "category": "tools",
+      "score": 180,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786401390,
-      "score": 884,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Find stale, orphaned, deleted-but-retrievable RAG vectors",
-      "url": "https://github.com/rimironenko/rag-staleness-check",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786036434,
-      "score": 4,
-      "category": "llm",
+      "score": 899,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786024074,
-      "score": 52,
+      "score": 69,
       "category": "tools",
       "tags": [
         "国际"
