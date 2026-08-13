@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13 01:56 UTC",
-  "count": 11,
+  "updated": "2026-08-13 05:39 UTC",
+  "count": 10,
   "items": [
     {
       "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
@@ -9,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786579303,
-      "score": 14,
-      "category": "tools",
+      "score": 28,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786551634,
-      "score": 94,
+      "score": 117,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786548770,
-      "score": 408,
-      "category": "tools",
+      "score": 481,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786544550,
-      "score": 802,
-      "category": "llm",
+      "score": 917,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786543366,
-      "score": 235,
-      "category": "industry",
+      "score": 259,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,7 +74,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786540805,
-      "score": 729,
+      "score": 814,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Delphi 13 Community Edition Is Now Available",
+      "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786533216,
+      "score": 169,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786529189,
-      "score": 256,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "What sort of maths are LLMs good at?",
-      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786529065,
-      "score": 236,
+      "score": 275,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786521080,
-      "score": 115,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Waits: Arthur Samuel's Checkers",
-      "url": "https://timereshared.com/waits-samuel-checkers/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786240794,
-      "score": 4,
-      "category": "llm",
+      "score": 130,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786012190,
-      "score": 155,
+      "score": 159,
       "category": "llm",
       "tags": [
         "国际"
