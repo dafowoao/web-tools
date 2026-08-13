@@ -1,29 +1,107 @@
 {
-  "updated": "2026-08-13 16:55 UTC",
+  "updated": "2026-08-13 20:41 UTC",
   "count": 16,
   "items": [
     {
-      "title": "Samsung is using Claude to verify chip designs. It's not going smoothly",
-      "url": "https://www.neowin.net/news/samsung-is-using-claude-to-verify-chip-designs-and-its-not-going-smoothly/",
+      "title": "Airbnb Eval-driven development: Lessons from evaluating GenAI at scale",
+      "url": "https://medium.com/airbnb-engineering/eval-driven-development-lessons-from-evaluating-genai-at-scale-e817e5ae5788",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786637158,
-      "score": 16,
+      "ts": 1786649218,
+      "score": 3,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Text AI watermarks will always be trivial to remove",
-      "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786633630,
-      "score": 38,
+      "ts": 1786649138,
+      "score": 17,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side with Them",
+      "url": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786647892,
+      "score": 25,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI Is Threatening Natural Resources for Billions",
+      "url": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786645700,
+      "score": 37,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786644602,
+      "score": 233,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Gemini 3.7 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "desc": "https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;models&#x2F;gemini-3.7-flas...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786641802,
+      "score": 415,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Mistral OCR 4.1",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786640712,
+      "score": 170,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI At Home Part 1: A Box Of Scraps",
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786638125,
+      "score": 56,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,34 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786630974,
-      "score": 23,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
-      "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786630714,
-      "score": 38,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Heart aerospace completes first flight of largest electric aircraft",
-      "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786630311,
-      "score": 95,
-      "category": "industry",
+      "score": 51,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786629467,
-      "score": 40,
-      "category": "llm",
+      "score": 49,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786628179,
-      "score": 66,
+      "score": 115,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786626329,
-      "score": 102,
-      "category": "industry",
+      "score": 147,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,21 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786625882,
-      "score": 369,
+      "score": 486,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "DeepSeek API Pricing Update",
-      "url": "https://twitter.com/deepseek_ai/status/2087864589895798968",
-      "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;deepseek_ai&#x2F;status&#x2F;2087864589895798968",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786625361,
-      "score": 96,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,8 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786608870,
-      "score": 15,
-      "category": "tools",
+      "score": 35,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,60 +191,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786596821,
-      "score": 374,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "DeepSeek V4 Pro 0813",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "desc": "https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;deepseek-v4-prohttps:&#x2F;&#x2F;twitter.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024, h",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786550690,
-      "score": 1010,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Grok 4.6",
-      "url": "https://x.ai/news/grok-4-6",
-      "desc": "https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;articles&#x2F;grok-4-6-benchmarks-a...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786548770,
-      "score": 616,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "url": "https://discoveredmaterials.com/research/",
-      "desc": "Hey HN, we&#x27;re Advaith and Akash from Discovered Materials ( https:&#x2F;&#x2F;discoveredmaterials.com&#x2F; ).  We build AI agents that discover new materials for the semiconductor industry.GPUs ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786521080,
-      "score": 153,
+      "score": 424,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The mathematical physics of rainbows and glories (2001) [pdf]",
-      "url": "https://tlakoba.w3.uvm.edu/AppliedUGMath/auxpaper_rainbow_glory_review.pdf",
-      "desc": "",
+      "title": "Show HN: OJCP – an open protocol for agent-consumable job data",
+      "url": "https://ojcp.dev/",
+      "desc": "Author here!Agents are applying to jobs for people right now, with progressively more volume, and there&#x27;s nothing built for it. So they scrape career pages and fight ATS forms with Playwright&#x2",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786431829,
-      "score": 19,
-      "category": "industry",
+      "ts": 1786548434,
+      "score": 21,
+      "category": "tools",
       "tags": [
         "国际"
       ]
