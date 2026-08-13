@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-13 05:39 UTC",
-  "count": 10,
+  "updated": "2026-08-13 09:11 UTC",
+  "count": 11,
   "items": [
+    {
+      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+      "url": "https://openai.com/codex/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786596821,
+      "score": 89,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
       "url": "https://www.ballet.dev/",
@@ -9,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786579303,
-      "score": 28,
-      "category": "industry",
+      "score": 29,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,7 +35,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786551634,
-      "score": 117,
+      "score": 138,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "desc": "https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;https:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;deepseek-v4-prohttps:&#x2F;&#x2F;twitter.com&#x2F;ChrisGPT&#x2F;status&#x2F;2087572834650407024, h",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786550690,
+      "score": 911,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786548770,
-      "score": 481,
+      "score": 540,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786544550,
-      "score": 917,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786543366,
-      "score": 259,
-      "category": "tools",
+      "score": 275,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786540805,
-      "score": 814,
-      "category": "tools",
+      "score": 874,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786533216,
-      "score": 169,
+      "score": 172,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786529189,
-      "score": 275,
-      "category": "industry",
+      "score": 289,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786521080,
-      "score": 130,
-      "category": "industry",
+      "score": 135,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786012190,
-      "score": 159,
-      "category": "llm",
+      "score": 160,
+      "category": "tools",
       "tags": [
         "国际"
       ]
