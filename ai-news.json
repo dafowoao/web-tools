@@ -1,33 +1,7 @@
 {
-  "updated": "2026-08-14 09:05 UTC",
-  "count": 13,
+  "updated": "2026-08-14 13:04 UTC",
+  "count": 11,
   "items": [
-    {
-      "title": "Covert CIA program said to be behind mysterious attacks on Galápagos boats",
-      "url": "https://www.washingtonpost.com/investigations/2026/08/13/covert-cia-program-said-be-behind-mysterious-attacks-galpagos-boats/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786694630,
-      "score": 8,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Connecticut judge says plaintiff hid messages for AI in court filings",
-      "url": "https://www.reuters.com/legal/litigation/connecticut-judge-says-plaintiff-hid-messages-ai-court-filings-2026-08-13/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786694004,
-      "score": 7,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
       "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
@@ -35,7 +9,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786687744,
-      "score": 21,
+      "score": 48,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786649138,
-      "score": 105,
+      "score": 116,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786644602,
-      "score": 583,
-      "category": "industry",
+      "score": 648,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786641802,
-      "score": 815,
+      "score": 893,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786640712,
-      "score": 337,
-      "category": "industry",
+      "score": 380,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786638125,
-      "score": 116,
+      "score": 120,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786633630,
-      "score": 122,
-      "category": "industry",
+      "score": 133,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786626852,
-      "score": 307,
+      "score": 339,
       "category": "tools",
       "tags": [
         "国际"
@@ -139,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786626329,
-      "score": 202,
-      "category": "tools",
+      "score": 208,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786625882,
-      "score": 653,
+      "score": 690,
       "category": "tools",
       "tags": [
         "国际"
@@ -165,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786608870,
-      "score": 98,
-      "category": "llm",
+      "score": 100,
+      "category": "tools",
       "tags": [
         "国际"
       ]
