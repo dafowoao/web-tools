@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-14 05:36 UTC",
-  "count": 10,
+  "updated": "2026-08-14 09:05 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "Covert CIA program said to be behind mysterious attacks on Galápagos boats",
+      "url": "https://www.washingtonpost.com/investigations/2026/08/13/covert-cia-program-said-be-behind-mysterious-attacks-galpagos-boats/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786694630,
+      "score": 8,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Connecticut judge says plaintiff hid messages for AI in court filings",
+      "url": "https://www.reuters.com/legal/litigation/connecticut-judge-says-plaintiff-hid-messages-ai-court-filings-2026-08-13/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786694004,
+      "score": 7,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+      "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786687744,
+      "score": 21,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
       "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
@@ -9,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786649138,
-      "score": 90,
-      "category": "industry",
+      "score": 105,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786644602,
-      "score": 511,
-      "category": "tools",
+      "score": 583,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786641802,
-      "score": 725,
+      "score": 815,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786640712,
-      "score": 286,
-      "category": "llm",
+      "score": 337,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786638125,
-      "score": 111,
-      "category": "industry",
+      "score": 116,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786633630,
-      "score": 110,
-      "category": "tools",
+      "score": 122,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786626852,
-      "score": 280,
-      "category": "llm",
+      "score": 307,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786626329,
-      "score": 190,
-      "category": "industry",
+      "score": 202,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786625882,
-      "score": 604,
+      "score": 653,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,7 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786608870,
-      "score": 93,
+      "score": 98,
       "category": "llm",
       "tags": [
         "国际"
