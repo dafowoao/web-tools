@@ -1,20 +1,7 @@
 {
-  "updated": "2026-08-14 01:53 UTC",
-  "count": 13,
+  "updated": "2026-08-14 05:36 UTC",
+  "count": 10,
   "items": [
-    {
-      "title": "How AI text watermarking works",
-      "url": "https://declaude.org/watermarking/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786663015,
-      "score": 76,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
       "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
@@ -22,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786649138,
-      "score": 66,
-      "category": "tools",
+      "score": 90,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,21 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786644602,
-      "score": 423,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Compute-optimal is not cluster-optimal",
-      "url": "https://szha.ai/blog/compute-optimal-is-not-cluster-optimal/",
-      "desc": "https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2608.10605: Our new paper folds the systems stage into the scaling-law stage. Price every candidate architecture on what the cluster actually delivers, and th",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786642809,
-      "score": 7,
-      "category": "research",
+      "score": 511,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786641802,
-      "score": 619,
+      "score": 725,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786640712,
-      "score": 252,
-      "category": "tools",
+      "score": 286,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786638125,
-      "score": 91,
-      "category": "llm",
+      "score": 111,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786633630,
-      "score": 98,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Heart aerospace completes first flight of largest electric aircraft",
-      "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786630311,
-      "score": 120,
-      "category": "llm",
+      "score": 110,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786626852,
-      "score": 246,
-      "category": "industry",
+      "score": 280,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786626329,
-      "score": 177,
-      "category": "llm",
+      "score": 190,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786625882,
-      "score": 559,
+      "score": 604,
       "category": "tools",
       "tags": [
         "国际"
@@ -165,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786608870,
-      "score": 84,
-      "category": "tools",
+      "score": 93,
+      "category": "llm",
       "tags": [
         "国际"
       ]
