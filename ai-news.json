@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-15 01:11 UTC",
-  "count": 6,
+  "updated": "2026-08-15 04:29 UTC",
+  "count": 8,
   "items": [
+    {
+      "title": "AI Driven Testing",
+      "url": "https://app.deltix.ai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786761734,
+      "score": 10,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Youngest Black professor at Cambridge who faced plagiarism claims is found dead",
+      "url": "https://apnews.com/article/jason-arday-cambridge-professor-london-dead-reports-9036e2b405f5849415534e80bb1b9cb1",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786756695,
+      "score": 25,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Mole – Deep research agent for your terminal",
       "url": "https://github.com/lajosdeme/mole",
@@ -9,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786733568,
-      "score": 46,
-      "category": "llm",
+      "score": 58,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786726634,
-      "score": 33,
-      "category": "llm",
+      "score": 37,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786724121,
-      "score": 130,
+      "score": 159,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786723139,
-      "score": 197,
-      "category": "industry",
+      "score": 232,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786722190,
-      "score": 271,
+      "score": 316,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786717359,
-      "score": 51,
-      "category": "llm",
+      "score": 56,
+      "category": "tools",
       "tags": [
         "国际"
       ]
