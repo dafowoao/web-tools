@@ -1,59 +1,7 @@
 {
-  "updated": "2026-08-14 20:30 UTC",
-  "count": 10,
+  "updated": "2026-08-15 01:11 UTC",
+  "count": 6,
   "items": [
-    {
-      "title": "Anthropic Risk August 2026 [pdf]",
-      "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786735935,
-      "score": 13,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
-      "url": "https://www.aletheionagi.com",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786735697,
-      "score": 3,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "What You Gain by Building Your Own Game Engine",
-      "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786735220,
-      "score": 3,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How Claude's text watermarking works",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786734951,
-      "score": 33,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "Show HN: Mole – Deep research agent for your terminal",
       "url": "https://github.com/lajosdeme/mole",
@@ -61,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786733568,
-      "score": 17,
-      "category": "industry",
+      "score": 46,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786726634,
-      "score": 16,
-      "category": "industry",
+      "score": 33,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786724121,
-      "score": 84,
-      "category": "llm",
+      "score": 130,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786723139,
-      "score": 95,
-      "category": "tools",
+      "score": 197,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786722190,
-      "score": 158,
-      "category": "llm",
+      "score": 271,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786717359,
-      "score": 45,
+      "score": 51,
       "category": "llm",
       "tags": [
         "国际"
