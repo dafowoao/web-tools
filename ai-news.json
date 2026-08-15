@@ -1,29 +1,42 @@
 {
-  "updated": "2026-08-15 04:29 UTC",
-  "count": 8,
+  "updated": "2026-08-15 08:27 UTC",
+  "count": 9,
   "items": [
     {
-      "title": "AI Driven Testing",
-      "url": "https://app.deltix.ai",
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786761734,
-      "score": 10,
+      "ts": 1786779106,
+      "score": 6,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Youngest Black professor at Cambridge who faced plagiarism claims is found dead",
-      "url": "https://apnews.com/article/jason-arday-cambridge-professor-london-dead-reports-9036e2b405f5849415534e80bb1b9cb1",
+      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "url": "https://chenxiachan.github.io/thoughtdag/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786756695,
-      "score": 25,
-      "category": "llm",
+      "ts": 1786768927,
+      "score": 16,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Deltix – AI Driven Testing",
+      "url": "https://app.deltix.ai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786761734,
+      "score": 26,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786733568,
-      "score": 58,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
-      "url": "https://arxiv.org/abs/2608.12700",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786726634,
-      "score": 37,
-      "category": "industry",
+      "score": 69,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786724121,
-      "score": 159,
+      "score": 204,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786723139,
-      "score": 232,
-      "category": "llm",
+      "score": 289,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786722190,
-      "score": 316,
+      "score": 375,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,8 +100,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786717359,
-      "score": 56,
-      "category": "tools",
+      "score": 61,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Silent Shark – tactical map-based WWII submarine sim",
+      "url": "https://silentshark.app/",
+      "desc": "I posted an early beta of this game a few months ago: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48180924 - May 2026 (45 comments) and today released the full version.You all gave extremely v",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786563432,
+      "score": 9,
+      "category": "llm",
       "tags": [
         "国际"
       ]
