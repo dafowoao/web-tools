@@ -1,55 +1,94 @@
 {
-  "updated": "2026-08-15 12:35 UTC",
-  "count": 11,
+  "updated": "2026-08-15 16:22 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "OpenAI rolling out ads for Europe later this month",
-      "url": "https://openai.com/policies/eu-privacy-policy-preview/",
+      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+      "url": "https://spectrum.ieee.org/ai-designed-virus",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786791156,
-      "score": 10,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Debian has begun voting on the future of AI/LLM contributions",
-      "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786785607,
-      "score": 39,
+      "ts": 1786807945,
+      "score": 18,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "title": "The AI Situation in Software Development",
+      "url": "https://srikanth.ch/posts/the-ai-situation/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786779106,
-      "score": 50,
+      "ts": 1786803147,
+      "score": 20,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Ask HN: How do you keep up with HN these days?",
-      "url": "https://news.ycombinator.com/item?id=49308059",
-      "desc": "In the last 2-3 years, mostly because of AI, keeping up with interesting articles on HN has become harder and harder.How do you deal with it? Besides the simple solution of simply ignoring interesting",
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786773552,
+      "ts": 1786802935,
       "score": 50,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786801426,
+      "score": 27,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Could a computer scientist build a brain?",
+      "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786800388,
+      "score": 14,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Brain turns listening inward during REM sleep, EEG recordings suggest",
+      "url": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786799368,
+      "score": 31,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Working with AI Feels More Like Leadership Than Coding",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786790381,
+      "score": 98,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,34 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786768927,
-      "score": 53,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Deltix – AI Driven Testing",
-      "url": "https://app.deltix.ai",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786761734,
-      "score": 37,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Mole – Deep research agent for your terminal",
-      "url": "https://github.com/lajosdeme/mole",
-      "desc": "Doing research with agents is fun until they blow way past budget, jumble the sources, and don&#x27;t even give you the best possible answer, just sound confident.And if you want to run some research ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786733568,
-      "score": 76,
-      "category": "llm",
+      "score": 89,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786724121,
-      "score": 257,
+      "score": 290,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786723139,
-      "score": 328,
+      "score": 341,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,21 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786722190,
-      "score": 422,
+      "score": 458,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Silent Shark – tactical map-based WWII submarine sim",
-      "url": "https://silentshark.app/",
-      "desc": "I posted an early beta of this game a few months ago: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=48180924 - May 2026 (45 comments) and today released the full version.You all gave extremely v",
+      "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+      "url": "https://baselashraf81.github.io/eigendrum/",
+      "desc": "Hi HN, I built Eigendrum, a web tool that solves the 2D wave equation for arbitrary shapes so you can hear what they sound like as drums.How it works:\n* Solves -∇²u = λu using finite element analysis ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786563432,
-      "score": 45,
-      "category": "llm",
+      "ts": 1786380811,
+      "score": 104,
+      "category": "tools",
       "tags": [
         "国际"
       ]
