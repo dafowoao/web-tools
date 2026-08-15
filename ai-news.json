@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-15 08:27 UTC",
-  "count": 9,
+  "updated": "2026-08-15 12:35 UTC",
+  "count": 11,
   "items": [
+    {
+      "title": "OpenAI rolling out ads for Europe later this month",
+      "url": "https://openai.com/policies/eu-privacy-policy-preview/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786791156,
+      "score": 10,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Debian has begun voting on the future of AI/LLM contributions",
+      "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786785607,
+      "score": 39,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
       "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
@@ -9,7 +35,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786779106,
-      "score": 6,
+      "score": 50,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: How do you keep up with HN these days?",
+      "url": "https://news.ycombinator.com/item?id=49308059",
+      "desc": "In the last 2-3 years, mostly because of AI, keeping up with interesting articles on HN has become harder and harder.How do you deal with it? Besides the simple solution of simply ignoring interesting",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786773552,
+      "score": 50,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786768927,
-      "score": 16,
+      "score": 53,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786761734,
-      "score": 26,
-      "category": "tools",
+      "score": 37,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786733568,
-      "score": 69,
+      "score": 76,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786724121,
-      "score": 204,
+      "score": 257,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786723139,
-      "score": 289,
-      "category": "industry",
+      "score": 328,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786722190,
-      "score": 375,
+      "score": 422,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
-      "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786717359,
-      "score": 61,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786563432,
-      "score": 9,
+      "score": 45,
       "category": "llm",
       "tags": [
         "国际"
