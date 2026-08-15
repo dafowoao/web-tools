@@ -1,41 +1,80 @@
 {
-  "updated": "2026-08-15 16:22 UTC",
-  "count": 12,
+  "updated": "2026-08-15 20:20 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
-      "url": "https://spectrum.ieee.org/ai-designed-virus",
+      "title": "Why tech bosses keep sharing their manifestos about AI",
+      "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786807945,
-      "score": 18,
-      "category": "industry",
+      "ts": 1786822232,
+      "score": 4,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The AI Situation in Software Development",
-      "url": "https://srikanth.ch/posts/the-ai-situation/",
+      "title": "So How Is AI Drug Discovery Doing, Really?",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786803147,
-      "score": 20,
+      "ts": 1786821173,
+      "score": 30,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Secondhand book sales are booming. Is it because of AI?",
-      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+      "title": "IBM Simon (1994): the original smartphone, explained in its own ad [video]",
+      "url": "https://www.youtube.com/watch?v=xoTFywZpPcc",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786802935,
-      "score": 50,
+      "ts": 1786821107,
+      "score": 7,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+      "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786818805,
+      "score": 1,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786817582,
+      "score": 218,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
+      "url": "https://www.nature.com/articles/d41586-026-02448-x",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786811914,
+      "score": 113,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786801426,
-      "score": 27,
+      "score": 46,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786800388,
-      "score": 14,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Brain turns listening inward during REM sleep, EEG recordings suggest",
-      "url": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786799368,
-      "score": 31,
+      "score": 65,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786790381,
-      "score": 98,
+      "score": 204,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,47 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786768927,
-      "score": 89,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Maximizing the value of your Claude Code sessions",
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786724121,
-      "score": 290,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI by Hand",
-      "url": "https://www.byhand.ai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786723139,
-      "score": 341,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786722190,
-      "score": 458,
-      "category": "tools",
+      "score": 96,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786380811,
-      "score": 104,
+      "score": 156,
       "category": "tools",
       "tags": [
         "国际"
