@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-16 04:34 UTC",
-  "count": 7,
+  "updated": "2026-08-16 08:28 UTC",
+  "count": 8,
   "items": [
+    {
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "url": "https://littlelearner-ll.github.io/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786865873,
+      "score": 55,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Laptop is the last place your secrets are still in plaintext",
+      "url": "https://github.com/jitpass/jit",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786863304,
+      "score": 41,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Patterns and problems in emerging multi-agent systems",
       "url": "https://www.anthropic.com/research/multiagent-systems",
@@ -9,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786846373,
-      "score": 14,
-      "category": "tools",
+      "score": 71,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786833711,
-      "score": 17,
-      "category": "industry",
+      "score": 32,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786821173,
-      "score": 116,
-      "category": "industry",
+      "score": 136,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786817582,
-      "score": 448,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Working with AI feels more like leadership than coding",
-      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786790381,
-      "score": 287,
-      "category": "tools",
+      "score": 485,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786462204,
-      "score": 3,
+      "score": 9,
       "category": "industry",
       "tags": [
         "国际"
