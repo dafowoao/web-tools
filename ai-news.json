@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-16 08:28 UTC",
-  "count": 8,
+  "updated": "2026-08-16 12:37 UTC",
+  "count": 7,
   "items": [
+    {
+      "title": "Show HN: Grafana agent observability for Hermes Agent",
+      "url": "https://github.com/alexander-akhmetov/grafana-agento11y-hermes",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786869650,
+      "score": 8,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "What happens when an LLM never sees material beyond fifth grade?",
       "url": "https://littlelearner-ll.github.io/",
@@ -9,21 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786865873,
-      "score": 55,
+      "score": 158,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Laptop is the last place your secrets are still in plaintext",
-      "url": "https://github.com/jitpass/jit",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786863304,
-      "score": 41,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786846373,
-      "score": 71,
+      "score": 127,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786833711,
-      "score": 32,
-      "category": "tools",
+      "score": 40,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786821173,
-      "score": 136,
+      "score": 148,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
-      "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786818805,
-      "score": 1,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786817582,
-      "score": 485,
-      "category": "industry",
+      "score": 520,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786462204,
-      "score": 9,
-      "category": "industry",
+      "score": 14,
+      "category": "tools",
       "tags": [
         "国际"
       ]
