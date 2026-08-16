@@ -1,41 +1,28 @@
 {
-  "updated": "2026-08-15 20:20 UTC",
-  "count": 11,
+  "updated": "2026-08-16 01:15 UTC",
+  "count": 9,
   "items": [
     {
-      "title": "Why tech bosses keep sharing their manifestos about AI",
-      "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+      "title": "ChatGPT lost 22 points of web share in a year",
+      "url": "https://aicharts.grok.me/c/market-share",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786822232,
-      "score": 4,
+      "ts": 1786839740,
+      "score": 12,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "So How Is AI Drug Discovery Doing, Really?",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
       "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "desc": "",
+      "desc": "https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41573-026-01496-2",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786821173,
-      "score": 30,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "IBM Simon (1994): the original smartphone, explained in its own ad [video]",
-      "url": "https://www.youtube.com/watch?v=xoTFywZpPcc",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786821107,
-      "score": 7,
+      "score": 84,
       "category": "tools",
       "tags": [
         "国际"
@@ -49,20 +36,33 @@
       "sourceColor": "#ff6600",
       "ts": 1786818805,
       "score": 1,
-      "category": "tools",
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "title": "AI has access to a vastly larger working memory than the human brain",
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786817582,
-      "score": 218,
+      "score": 406,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "I Remain a Skeptic",
+      "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786812178,
+      "score": 56,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,60 +74,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786811914,
-      "score": 113,
+      "score": 156,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
-      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786801426,
-      "score": 46,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Could a computer scientist build a brain?",
-      "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786800388,
-      "score": 65,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Working with AI Feels More Like Leadership Than Coding",
+      "title": "Working with AI feels more like leadership than coding",
       "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786790381,
-      "score": 204,
+      "score": 264,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "title": "Jaithon 3, a fast programming language with the perfect syntax",
+      "url": "https://github.com/abhiramasonny/jaithon",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786768927,
-      "score": 96,
-      "category": "llm",
+      "ts": 1786490037,
+      "score": 20,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786380811,
-      "score": 156,
-      "category": "tools",
+      "score": 202,
+      "category": "llm",
       "tags": [
         "国际"
       ]
