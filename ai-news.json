@@ -1,67 +1,80 @@
 {
-  "updated": "2026-08-17 16:26 UTC",
-  "count": 13,
+  "updated": "2026-08-17 20:25 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
-      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786981797,
-      "score": 164,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-      "url": "https://news.ycombinator.com/item?id=49332751",
-      "desc": "Hi HN! I&#x27;m Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options,",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786980978,
-      "score": 22,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ahmad on X: \"Anthropic's War on open source AI\" / X",
-      "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786980274,
-      "score": 9,
+      "ts": 1786996035,
+      "score": 159,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
-      "url": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/",
+      "title": "AirTag reveals Amazon is trashing rare books to train AI",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786977009,
-      "score": 21,
-      "category": "llm",
+      "ts": 1786993571,
+      "score": 95,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786990216,
+      "score": 80,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "An Update on Leaving Gmail for Fastmail",
+      "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786986920,
+      "score": 10,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
+      "url": "https://speko.ai/",
+      "desc": "Hi HN! I&#x27;m Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options,",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786980978,
+      "score": 76,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786976318,
-      "score": 95,
+      "score": 255,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,34 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786975676,
-      "score": 70,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GitHub down again? no PR access",
-      "url": "https://news.ycombinator.com/item?id=49330632",
-      "desc": "Githubstatus.com currently says everything is working, but it isn&#x27;t",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786973848,
-      "score": 276,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: A community library for Claude Code status lines",
-      "url": "https://statuslin.es",
-      "desc": "All status line renderings are captured from live sandbox containers under various scenarios.Anyone can submit a status line, and each one is manually reviewed before approval.Source: https:&#x2F;&#x2",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786972327,
-      "score": 4,
+      "score": 191,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Incident with Github.com",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "desc": "Just got this message: &quot;No server is currently available to service your request. Sorry about that. Please try refreshing and contact us if the problem persists.&quot;Edit: at the time of posting",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786973706,
+      "score": 394,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786972020,
-      "score": 38,
+      "score": 59,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,47 +126,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786968582,
-      "score": 180,
+      "score": 255,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "On AI regulation and messaging",
+      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+      "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;DarioAmodei&#x2F;status&#x2F;2088758816376807762",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786931996,
+      "score": 219,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Pi coding agent: config folder is out of place on Linux",
-      "url": "https://github.com/earendil-works/pi/issues/534",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786957877,
-      "score": 29,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Rhombus 1.1 is now available",
-      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786927701,
-      "score": 115,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+      "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
       "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786917223,
-      "score": 596,
-      "category": "tools",
+      "score": 739,
+      "category": "industry",
       "tags": [
         "国际"
       ]
