@@ -1,16 +1,29 @@
 {
-  "updated": "2026-08-17 08:41 UTC",
-  "count": 9,
+  "updated": "2026-08-17 12:41 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "HackEurope 2026: A short rant on AI and hackathons",
-      "url": "https://duti.dev/blog/2026/spr/",
+      "title": "Anthropic becomes the 'Apple of AI': Most revenue despite being most expensive",
+      "url": "https://www.techradar.com/pro/anthropic-becomes-the-apple-of-ai-as-it-grabs-most-revenue-despite-being-the-most-expensive",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786951723,
-      "score": 13,
+      "ts": 1786964205,
+      "score": 7,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Self hosted email continues to steeply decline",
+      "url": "https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786963514,
+      "score": 58,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786927701,
-      "score": 75,
+      "score": 97,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786917223,
-      "score": 220,
-      "category": "industry",
+      "score": 395,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786914430,
-      "score": 204,
-      "category": "tools",
+      "score": 215,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786910473,
-      "score": 56,
+      "score": 80,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786904230,
-      "score": 90,
-      "category": "industry",
+      "score": 106,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786902586,
-      "score": 480,
+      "score": 554,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786891495,
-      "score": 277,
-      "category": "industry",
+      "score": 302,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786884501,
-      "score": 642,
-      "category": "llm",
+      "score": 690,
+      "category": "industry",
       "tags": [
         "国际"
       ]
