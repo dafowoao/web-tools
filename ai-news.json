@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-16 20:21 UTC",
-  "count": 9,
+  "updated": "2026-08-17 01:12 UTC",
+  "count": 11,
   "items": [
+    {
+      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786917223,
+      "score": 141,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786914430,
+      "score": 94,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Case Against Formal Verification, 50 Years Later",
+      "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786912738,
+      "score": 78,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786912276,
+      "score": 178,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "MathCode, Mathematical Coding Agent",
       "url": "https://math-ai-org.github.io/mathcode/",
@@ -9,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786904230,
-      "score": 25,
-      "category": "industry",
+      "score": 54,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786902586,
-      "score": 106,
-      "category": "industry",
+      "score": 271,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786891495,
-      "score": 174,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: A public AI whose memory is shared across all users",
-      "url": "https://wildstatic.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786886505,
-      "score": 63,
-      "category": "industry",
+      "score": 223,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786884501,
-      "score": 413,
-      "category": "tools",
+      "score": 528,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786882940,
-      "score": 299,
+      "score": 354,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI in drug discovery – what it is, where we stand and the path forward",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "desc": "https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41573-026-01496-2",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786821173,
-      "score": 178,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786579322,
-      "score": 11,
+      "score": 22,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786574818,
-      "score": 18,
+      "score": 25,
       "category": "llm",
       "tags": [
         "国际"
