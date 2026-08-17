@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-17 04:40 UTC",
-  "count": 10,
+  "updated": "2026-08-17 08:41 UTC",
+  "count": 9,
   "items": [
     {
-      "title": "Gmail might partially be to blame for receiving emails from other Sean Conners",
-      "url": "https://boston.conman.org/2026/08/11.1",
+      "title": "HackEurope 2026: A short rant on AI and hackathons",
+      "url": "https://duti.dev/blog/2026/spr/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786936897,
-      "score": 16,
-      "category": "tools",
+      "ts": 1786951723,
+      "score": 13,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,8 +22,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786927701,
-      "score": 38,
-      "category": "llm",
+      "score": 75,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786917223,
+      "score": 220,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,33 +48,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786914430,
-      "score": 157,
-      "category": "llm",
+      "score": 204,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786912276,
-      "score": 240,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Red queen hypothesis – a new way forward for self-improving AI",
+      "title": "Red queen hypothesis – A new way forward for self-improving AI",
       "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786910473,
-      "score": 27,
+      "score": 56,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786904230,
-      "score": 75,
-      "category": "tools",
+      "score": 90,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786902586,
-      "score": 347,
+      "score": 480,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786891495,
-      "score": 251,
+      "score": 277,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786884501,
-      "score": 582,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
-      "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786882940,
-      "score": 373,
+      "score": 642,
       "category": "llm",
       "tags": [
         "国际"
