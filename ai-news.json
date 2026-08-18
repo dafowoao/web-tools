@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18 01:10 UTC",
+  "updated": "2026-08-18 04:34 UTC",
   "count": 13,
   "items": [
     {
@@ -9,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787012955,
-      "score": 7,
-      "category": "industry",
+      "score": 56,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787009308,
-      "score": 6,
-      "category": "industry",
+      "score": 52,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787004077,
-      "score": 74,
-      "category": "tools",
+      "score": 109,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787000598,
-      "score": 87,
-      "category": "llm",
+      "score": 237,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786999570,
+      "score": 229,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786996035,
-      "score": 566,
-      "category": "llm",
+      "score": 697,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786986920,
-      "score": 105,
-      "category": "tools",
+      "score": 152,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786980978,
-      "score": 90,
+      "score": 96,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786976318,
-      "score": 311,
-      "category": "industry",
+      "score": 335,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786975676,
-      "score": 250,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Incident with Github.com",
-      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-      "desc": "Just got this message: &quot;No server is currently available to service your request. Sorry about that. Please try refreshing and contact us if the problem persists.&quot;Edit: at the time of posting",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786973706,
-      "score": 524,
-      "category": "tools",
+      "score": 265,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786968582,
-      "score": 297,
-      "category": "tools",
+      "score": 313,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786931996,
-      "score": 234,
+      "score": 235,
       "category": "llm",
       "tags": [
         "国际"
@@ -165,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786687096,
-      "score": 36,
-      "category": "llm",
+      "score": 42,
+      "category": "tools",
       "tags": [
         "国际"
       ]
