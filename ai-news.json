@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-18 04:34 UTC",
+  "updated": "2026-08-18 08:35 UTC",
   "count": 13,
   "items": [
     {
-      "title": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",
-      "url": "https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy",
+      "title": "Expert Witness to ChatGPT: \"Show how 3M is 0 percent at fault\"",
+      "url": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787012955,
-      "score": 56,
+      "ts": 1787024681,
+      "score": 42,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787009308,
-      "score": 52,
+      "score": 98,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787004077,
-      "score": 109,
-      "category": "industry",
+      "score": 174,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787000598,
-      "score": 237,
+      "score": 410,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786999570,
-      "score": 229,
-      "category": "tools",
+      "score": 444,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786996035,
-      "score": 697,
-      "category": "tools",
+      "score": 849,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786986920,
-      "score": 152,
-      "category": "llm",
+      "score": 211,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786980978,
-      "score": 96,
-      "category": "tools",
+      "score": 101,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786976318,
-      "score": 335,
-      "category": "tools",
+      "score": 366,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786975676,
-      "score": 265,
+      "score": 295,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786968582,
-      "score": 313,
-      "category": "industry",
+      "score": 337,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786931996,
-      "score": 235,
-      "category": "llm",
+      "score": 241,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -165,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786687096,
-      "score": 42,
-      "category": "tools",
+      "score": 49,
+      "category": "industry",
       "tags": [
         "国际"
       ]
