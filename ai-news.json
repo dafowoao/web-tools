@@ -1,42 +1,107 @@
 {
-  "updated": "2026-08-18 12:43 UTC",
+  "updated": "2026-08-18 16:30 UTC",
   "count": 13,
   "items": [
     {
-      "title": "Google buys crashed airline Spirit's data at auction, because AI",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "desc": "",
+      "title": "Launch HN: Machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+      "url": "https://machine0.io",
+      "desc": "Hi HN! I’m Barnaby, founder of machine0 (https:&#x2F;&#x2F;machine0.io). I’m building a CLI for long horizon agent compute: `machine0 new mybox` gives your agent a persistent cloud VM, billed by the m",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787048008,
-      "score": 176,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "25 Years of Haiku: From \"Ok, Let's Start\" to the Present",
-      "url": "https://www.desktoponfire.com/haiku_inc/969/25-years-of-haiku/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787021859,
-      "score": 16,
+      "ts": 1787070402,
+      "score": 3,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Repair Cafe – Fix Your Broken Items",
-      "url": "https://www.repaircafe.org/",
+      "title": "Tell HN: Cursor has a hidden terminal command for steering its desktop AI agents",
+      "url": "https://news.ycombinator.com/item?id=49348049",
+      "desc": "Looks like an upcoming feature. It&#x27;s fully functional as far as I could tell. More https:&#x2F;&#x2F;runtimewire.com&#x2F;article&#x2F;cursor-built-a-hidden-terminal-command-for-steering-its-desk",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787070061,
+      "score": 3,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
+      "url": "https://github.com/therepanic/openleetcode",
+      "desc": "You write a standard solution, just like on LeetCode, and run it through the CLI. It identifies the problem by ID or title, executes your code against local test cases, and shows the result.It current",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787067040,
+      "score": 4,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
+      "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
+      "desc": "Working on Mac, Linux, and Windows now. I include a simple GUI to find new models and get things built and set up. It is working quite well across a few models for me. The GitHub README and DESIGN.md ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787063360,
+      "score": 9,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Using the railway network as a flatbed scanner",
+      "url": "https://philo.gay/linecam/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787009308,
-      "score": 141,
+      "ts": 1787057034,
+      "score": 220,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Fairphone is now officially available in the United States",
+      "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787056973,
+      "score": 203,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+      "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787055778,
+      "score": 107,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Google has acquired the data of failed US airline Spirit",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787048008,
+      "score": 428,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787004077,
-      "score": 239,
-      "category": "llm",
+      "score": 269,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787000598,
-      "score": 515,
-      "category": "tools",
+      "score": 591,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,85 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786999570,
-      "score": 694,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI;DR (AI; Didn't Read)",
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786996035,
-      "score": 967,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "An update on leaving Gmail for Fastmail",
-      "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786986920,
-      "score": 268,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-      "url": "https://speko.ai/",
-      "desc": "Hi HN! I&#x27;m Bek, founder of Speko, a platform that finds an optimal combination of speech-to-text, LLM, and text-to-speech models, given your constraints, among all our public benchmarked options,",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786980978,
-      "score": 110,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786976318,
-      "score": 394,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How to disable or avoid intrusive AI",
-      "url": "https://www.librarian.net/notoai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786975676,
-      "score": 312,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786968582,
-      "score": 349,
+      "score": 928,
       "category": "tools",
       "tags": [
         "国际"
@@ -165,8 +152,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786821107,
-      "score": 50,
+      "score": 73,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Baking a Model: A Metaphor for LLM Training",
+      "url": "https://newsletter.kentbeck.com/p/baking-a-model",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786751205,
+      "score": 24,
+      "category": "tools",
       "tags": [
         "国际"
       ]
