@@ -1,16 +1,29 @@
 {
-  "updated": "2026-08-19 12:44 UTC",
-  "count": 5,
+  "updated": "2026-08-19 16:30 UTC",
+  "count": 8,
   "items": [
     {
-      "title": "GrapheneOS in 2027 available on high-end Motorola phones",
+      "title": "Devices with GrapheneOS support should be available in 2027",
       "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787140018,
-      "score": 87,
-      "category": "tools",
+      "score": 443,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787138510,
+      "score": 299,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787134500,
-      "score": 71,
+      "score": 162,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,20 +48,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787104713,
-      "score": 96,
+      "score": 131,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
-      "url": "https://machine0.io",
-      "desc": "Hi HN! I’m Barnaby, founder of machine0 (https:&#x2F;&#x2F;machine0.io). I’m building a CLI for long horizon agent compute: `machine0 new mybox` gives your agent a persistent cloud VM, billed by the m",
+      "title": "AI usage patterns in software teams",
+      "url": "https://linear.app/data",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787070402,
-      "score": 78,
+      "ts": 1787090887,
+      "score": 171,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Microgpt in pure C hits 10M tps on Apple m5",
+      "url": "https://github.com/vixhal-baraiya/microgpt-c",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787068006,
+      "score": 40,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787055778,
-      "score": 233,
+      "score": 284,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Nikon F100 Film Camera Repair Notes",
+      "url": "https://github.com/enthdegree/f100",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786755057,
+      "score": 22,
+      "category": "llm",
       "tags": [
         "国际"
       ]
