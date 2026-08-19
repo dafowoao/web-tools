@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-19 01:12 UTC",
-  "count": 11,
+  "updated": "2026-08-19 04:35 UTC",
+  "count": 7,
   "items": [
     {
-      "title": "GPT-5.6 Sol: 70% off in Devin",
-      "url": "https://devin.ai/blog/gpt-5-6-sol-promo",
-      "desc": "",
+      "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
+      "url": "https://github.com/katiahayati/lucasartsifier/",
+      "desc": "Hi HN, I&#x27;ve become lazier in my old age and struggle to replay my favorite Sierra games from the 80s and 90s because I keep getting into those situations where I need an item from 3 acts ago, I h",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787091134,
+      "ts": 1787104713,
       "score": 9,
-      "category": "llm",
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787090887,
-      "score": 32,
-      "category": "tools",
+      "score": 79,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787087661,
-      "score": 108,
-      "category": "industry",
+      "score": 124,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787081429,
-      "score": 205,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
-      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787073893,
-      "score": 284,
-      "category": "llm",
+      "score": 226,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787072535,
-      "score": 255,
+      "score": 265,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,47 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787070402,
-      "score": 59,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Openleetcode – Local LeetCode runner where tests live in the repo",
-      "url": "https://github.com/therepanic/openleetcode",
-      "desc": "You write a standard solution, just like on LeetCode, and run it through the CLI. It identifies the problem by ID or title, executes your code against local test cases, and shows the result.It current",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787067040,
-      "score": 51,
+      "score": 68,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Using the railway network as a flatbed scanner",
-      "url": "https://philo.gay/linecam/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787057034,
-      "score": 396,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Loft Day – a wedding invitation turned point-and-click game",
-      "url": "https://marketa.behdad.org/loft-day",
-      "desc": "I wanted to make a fun, wholesome experience for our wedding website. Before long, it had turned into Loft Day: a point-and-click browser game with ten rooms, a party, a road trip, and a lot of smalle",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787042421,
-      "score": 5,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786981797,
-      "score": 697,
-      "category": "tools",
+      "score": 778,
+      "category": "industry",
       "tags": [
         "国际"
       ]
