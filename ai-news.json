@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-19 08:36 UTC",
-  "count": 4,
+  "updated": "2026-08-19 12:44 UTC",
+  "count": 5,
   "items": [
+    {
+      "title": "GrapheneOS in 2027 available on high-end Motorola phones",
+      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787140018,
+      "score": 87,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+      "url": "https://theremin.bizibah.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787134500,
+      "score": 71,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
       "url": "https://github.com/katiahayati/lucasartsifier/",
@@ -9,20 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787104713,
-      "score": 48,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI usage patterns in software teams",
-      "url": "https://linear.app/data",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787090887,
-      "score": 131,
+      "score": 96,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787070402,
-      "score": 74,
+      "score": 78,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787055778,
-      "score": 190,
-      "category": "llm",
+      "score": 233,
+      "category": "tools",
       "tags": [
         "国际"
       ]
