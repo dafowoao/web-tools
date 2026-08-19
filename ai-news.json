@@ -1,7 +1,85 @@
 {
-  "updated": "2026-08-19 16:30 UTC",
-  "count": 8,
+  "updated": "2026-08-19 20:26 UTC",
+  "count": 10,
   "items": [
+    {
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787161649,
+      "score": 58,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
+      "url": "https://demo.frugaltokens.com/",
+      "desc": "I wanted to share a project I’ve been working on called Frugal Tokens. I originally built it because I was curious to see how much all of my sessions cost and how much cache misses affected that spend",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787159255,
+      "score": 21,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+      "url": "https://github.com/onecli/onecli",
+      "desc": "Hi HN, Jonathan &amp; Guy here from OneCLI, an agent harness built for teams, giving every employee a secured, sandboxed personal agent.Here’s what you can do with it:1. get a sandboxed agent, with al",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787156942,
+      "score": 38,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Extensible Software in the age of LLMs",
+      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787156765,
+      "score": 71,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
+      "url": "https://arxiv.org/abs/2503.08679",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787156337,
+      "score": 48,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Mathematics in the age of AI",
+      "url": "https://arxiv.org/abs/2608.16753",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787152465,
+      "score": 65,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Devices with GrapheneOS support should be available in 2027",
       "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
@@ -9,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787140018,
-      "score": 443,
-      "category": "industry",
+      "score": 540,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787138510,
-      "score": 299,
-      "category": "industry",
+      "score": 587,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,34 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787134500,
-      "score": 162,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
-      "url": "https://github.com/katiahayati/lucasartsifier/",
-      "desc": "Hi HN, I&#x27;ve become lazier in my old age and struggle to replay my favorite Sierra games from the 80s and 90s because I keep getting into those situations where I need an item from 3 acts ago, I h",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787104713,
-      "score": 131,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI usage patterns in software teams",
-      "url": "https://linear.app/data",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787090887,
-      "score": 171,
-      "category": "tools",
+      "score": 206,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,33 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787068006,
-      "score": 40,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
-      "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
-      "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;kuberwastaken&#x2F;status&#x2F;2089377982536388964https:&#x2F;&#x2F;cdn.kuber.studio&#x2F;chat&#x2F;hp-laser-1008a-driver",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787055778,
-      "score": 284,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Nikon F100 Film Camera Repair Notes",
-      "url": "https://github.com/enthdegree/f100",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786755057,
-      "score": 22,
+      "score": 101,
       "category": "llm",
       "tags": [
         "国际"
