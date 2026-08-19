@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19 04:35 UTC",
-  "count": 7,
+  "updated": "2026-08-19 08:36 UTC",
+  "count": 4,
   "items": [
     {
       "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
@@ -9,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787104713,
-      "score": 9,
-      "category": "industry",
+      "score": 48,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,46 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787090887,
-      "score": 79,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
-      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787087661,
-      "score": 124,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Norway should buy OpenAI",
-      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787081429,
-      "score": 226,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Code May–August 2026 weekly limits promotion",
-      "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787072535,
-      "score": 265,
+      "score": 131,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,21 +35,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787070402,
-      "score": 68,
+      "score": 74,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Universal health coverage could save $1T and 114k lives a year: study",
-      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-      "desc": "",
+      "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+      "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+      "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;kuberwastaken&#x2F;status&#x2F;2089377982536388964https:&#x2F;&#x2F;cdn.kuber.studio&#x2F;chat&#x2F;hp-laser-1008a-driver",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786981797,
-      "score": 778,
-      "category": "industry",
+      "ts": 1787055778,
+      "score": 190,
+      "category": "llm",
       "tags": [
         "国际"
       ]
