@@ -1,27 +1,14 @@
 {
-  "updated": "2026-08-18 20:22 UTC",
+  "updated": "2026-08-19 01:12 UTC",
   "count": 11,
   "items": [
     {
-      "title": "Norway Should Buy OpenAI",
-      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "title": "GPT-5.6 Sol: 70% off in Devin",
+      "url": "https://devin.ai/blog/gpt-5-6-sol-promo",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787081429,
-      "score": 110,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
-      "url": "https://pantheongpu.com/",
-      "desc": "Hi HN, I built PantheonGPU because I wanted a better way to answer a simple question: is this GPU actually healthy and performing the way it should?A GPU can show normal temperatures and utilization a",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787078871,
+      "ts": 1787091134,
       "score": 9,
       "category": "llm",
       "tags": [
@@ -29,27 +16,53 @@
       ]
     },
     {
-      "title": "Show HN: macOS data protection keychain for Electron apps",
-      "url": "https://github.com/biw/keychain-store",
-      "desc": "Hey HN,I&#x27;ve been working on Hansel [1] (an encrypted personal data store you can query with agents), and there wasn&#x27;t a good way to use the modern macOS Data Protection Keychain.Electron&#x2",
+      "title": "AI usage patterns in software teams",
+      "url": "https://linear.app/data",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787073919,
-      "score": 15,
+      "ts": 1787090887,
+      "score": 32,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787087661,
+      "score": 108,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+      "title": "Norway should buy OpenAI",
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787081429,
+      "score": 205,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
       "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787073893,
-      "score": 220,
-      "category": "industry",
+      "score": 284,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787072535,
-      "score": 236,
+      "score": 255,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,21 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787070402,
-      "score": 38,
+      "score": 59,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
+      "title": "Show HN: Openleetcode – Local LeetCode runner where tests live in the repo",
       "url": "https://github.com/therepanic/openleetcode",
       "desc": "You write a standard solution, just like on LeetCode, and run it through the CLI. It identifies the problem by ID or title, executes your code against local test cases, and shows the result.It current",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787067040,
-      "score": 32,
-      "category": "tools",
+      "score": 51,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,34 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787057034,
-      "score": 328,
+      "score": 396,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Fairphone is now officially available in the United States",
-      "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
-      "desc": "",
+      "title": "Show HN: Loft Day – a wedding invitation turned point-and-click game",
+      "url": "https://marketa.behdad.org/loft-day",
+      "desc": "I wanted to make a fun, wholesome experience for our wedding website. Before long, it had turned into Loft Day: a point-and-click browser game with ten rooms, a party, a road trip, and a lot of smalle",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787056973,
-      "score": 309,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Google has acquired the data of failed US airline Spirit",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787048008,
-      "score": 527,
-      "category": "tools",
+      "ts": 1787042421,
+      "score": 5,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786981797,
-      "score": 560,
+      "score": 697,
       "category": "tools",
       "tags": [
         "国际"
