@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-20 04:36 UTC",
-  "count": 11,
+  "updated": "2026-08-20 08:37 UTC",
+  "count": 10,
   "items": [
+    {
+      "title": "Don't Paste the AI, please",
+      "url": "https://dontpastetheai.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787214044,
+      "score": 5,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787200922,
+      "score": 49,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Universality of Gradient Descent Neural Network Training",
       "url": "https://arxiv.org/abs/2007.13664",
@@ -9,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787184312,
-      "score": 16,
-      "category": "llm",
+      "score": 28,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787174390,
-      "score": 165,
+      "score": 244,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787161649,
-      "score": 366,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787156942,
-      "score": 62,
-      "category": "llm",
+      "score": 75,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787156765,
-      "score": 124,
-      "category": "industry",
+      "score": 148,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787152465,
-      "score": 135,
-      "category": "industry",
+      "score": 163,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787138510,
-      "score": 804,
+      "score": 883,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787134500,
-      "score": 264,
-      "category": "industry",
+      "score": 271,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,34 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787090421,
-      "score": 204,
+      "score": 257,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "MicroGPT-C in pure C hits 10M TPS on Apple M5",
-      "url": "https://github.com/vixhal-baraiya/microgpt-c",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787068006,
-      "score": 125,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Error by AI scribe during medical appointment leaves patient devastated",
-      "url": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786677850,
-      "score": 28,
-      "category": "tools",
       "tags": [
         "国际"
       ]
