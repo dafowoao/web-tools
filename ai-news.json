@@ -1,7 +1,111 @@
 {
-  "updated": "2026-08-20 12:47 UTC",
+  "updated": "2026-08-20 16:33 UTC",
   "count": 10,
   "items": [
+    {
+      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+      "url": "https://github.com/runvendo/vendo",
+      "desc": "Hi HN, we’re Yousef &amp; Nour, founders of Vendo (https:&#x2F;&#x2F;vendo.run). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787239792,
+      "score": 12,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Clean up Claude 5's token vomit with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787239562,
+      "score": 40,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Anti-AI fonts are useless and harmful",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787238413,
+      "score": 15,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Could AIs Become Conscious?",
+      "url": "https://economist.com/leaders/2026/08/20/could-ais-become-conscious",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787237232,
+      "score": 7,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+      "url": "https://pub.doub.ly/",
+      "desc": "Hi HN, I built this. Quick background on why it exists:When music is streamed on digital streaming platforms (think Spotify, Apple Music, Pandora), there are two separate royalty streams: one for the ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787236708,
+      "score": 26,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Hacking with Claude on a $27 Smart Watch",
+      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787234889,
+      "score": 41,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "DiffusionGemma Technical Report",
+      "url": "https://arxiv.org/abs/2608.00146",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787232272,
+      "score": 72,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "desc": "https:&#x2F;&#x2F;blog.rust-lang.org&#x2F;2026&#x2F;08&#x2F;20&#x2F;supply-chain-attack-on...https:&#x2F;&#x2F;github.com&#x2F;rustsec&#x2F;advisory-db&#x2F;issues&#x2F;3161",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787232192,
+      "score": 232,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
@@ -9,125 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787227478,
-      "score": 33,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Australia passes law to levy tech giants that fail to pay for local news",
-      "url": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787225023,
-      "score": 14,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Don't Paste the AI, please",
-      "url": "https://dontpastetheai.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787214044,
-      "score": 608,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Feature Request: Support AGENTS.md",
-      "url": "https://github.com/anthropics/claude-code/issues/6235",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787174390,
-      "score": 308,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-      "url": "https://github.com/onecli/onecli",
-      "desc": "Hi HN, Jonathan &amp; Guy here from OneCLI, an agent harness built for teams, giving every employee a secured, sandboxed personal agent.Here’s what you can do with it:1. get a sandboxed agent, with al",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787156942,
-      "score": 81,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Extensible Software in the age of LLMs",
-      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787156765,
-      "score": 158,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Mathematics in the age of AI",
-      "url": "https://arxiv.org/abs/2608.16753",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787152465,
-      "score": 187,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787138510,
-      "score": 943,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Air Theremin – A browser theremin you play by waving at your webcam",
-      "url": "https://theremin.bizibah.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787134500,
-      "score": 287,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "fx :Tiny, open, native coding agent.",
-      "url": "https://fx.sh",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787090421,
       "score": 292,
-      "category": "tools",
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "An American Mosaic (interactive map of ancestry census data)",
+      "url": "https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786897970,
+      "score": 23,
+      "category": "llm",
       "tags": [
         "国际"
       ]
