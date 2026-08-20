@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-19 20:26 UTC",
-  "count": 10,
+  "updated": "2026-08-20 01:11 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
+      "url": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787185096,
+      "score": 8,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Universality of Gradient Descent Neural Network Training",
+      "url": "https://arxiv.org/abs/2007.13664",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787184312,
+      "score": 5,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Collaborative Human Agent Protocol (CHAP)",
+      "url": "https://github.com/BrightbeamAI/chap",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787177356,
+      "score": 17,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Feature Request: Support AGENTS.md",
+      "url": "https://github.com/anthropics/claude-code/issues/6235",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787174390,
+      "score": 126,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
       "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
@@ -9,20 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787161649,
-      "score": 58,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
-      "url": "https://demo.frugaltokens.com/",
-      "desc": "I wanted to share a project I’ve been working on called Frugal Tokens. I originally built it because I was curious to see how much all of my sessions cost and how much cache misses affected that spend",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787159255,
-      "score": 21,
+      "score": 283,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787156942,
-      "score": 38,
-      "category": "tools",
+      "score": 51,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,20 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787156765,
-      "score": 71,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
-      "url": "https://arxiv.org/abs/2503.08679",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787156337,
-      "score": 48,
+      "score": 104,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787152465,
-      "score": 65,
+      "score": 118,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787140018,
-      "score": 540,
+      "score": 573,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,34 +126,47 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787138510,
-      "score": 587,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Air Theremin – a browser theremin you play by waving at your webcam",
-      "url": "https://theremin.bizibah.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787134500,
-      "score": 206,
+      "score": 740,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Microgpt in pure C hits 10M tps on Apple m5",
+      "title": "Air Theremin – A browser theremin you play by waving at your webcam",
+      "url": "https://theremin.bizibah.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787134500,
+      "score": 247,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "fx :Tiny, open, native coding agent.",
+      "url": "https://fx.sh",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787090421,
+      "score": 173,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "MicroGPT-C in pure C hits 10M TPS on Apple M5",
       "url": "https://github.com/vixhal-baraiya/microgpt-c",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787068006,
-      "score": 101,
-      "category": "llm",
+      "score": 120,
+      "category": "tools",
       "tags": [
         "国际"
       ]
