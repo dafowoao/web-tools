@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-20 16:33 UTC",
+  "updated": "2026-08-20 20:26 UTC",
   "count": 10,
   "items": [
+    {
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "desc": "Hello everyone. I&#x27;ve been working on this experimental editor called Huzzah.I&#x27;ve been working almost exclusively with coding agents since January of this year, and over the past few months I",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787252736,
+      "score": 39,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Scientific study reveals TikTok videos deactivate key cognitive brain regions",
+      "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787252072,
+      "score": 199,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: We chased a weather balloon across Montana and never found it",
+      "url": "https://radi8.dev/blog/uplink/",
+      "desc": "Since April, I have been working with Sam Flynn (https:&#x2F;&#x2F;drook.dev) to make this balloon payload, UpLink. We did a similar launch last year with Hack Club but this was our first independent ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787247212,
+      "score": 39,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
       "url": "https://github.com/runvendo/vendo",
@@ -9,47 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787239792,
-      "score": 12,
+      "score": 29,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Clean up Claude 5's token vomit with a separate LLM",
-      "url": "https://github.com/zachahn/vomit",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787239562,
-      "score": 40,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Anti-AI fonts are useless and harmful",
-      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787238413,
-      "score": 15,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Could AIs Become Conscious?",
-      "url": "https://economist.com/leaders/2026/08/20/could-ais-become-conscious",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787237232,
-      "score": 7,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,20 +61,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787236708,
-      "score": 26,
+      "score": 53,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Hacking with Claude on a $27 Smart Watch",
-      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-      "desc": "",
+      "title": "Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",
+      "url": "https://github.com/paulsp94/omacosy",
+      "desc": "I have been using omarchy on my tower since nearly a year now, shortly after it was released first. I really love the experience I am having with it but I still use my macbook for daly work, so I want",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787234889,
-      "score": 41,
+      "ts": 1787235128,
+      "score": 31,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787232272,
-      "score": 72,
-      "category": "tools",
+      "score": 118,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787232192,
-      "score": 232,
+      "score": 316,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,21 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787227478,
-      "score": 292,
+      "score": 415,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "An American Mosaic (interactive map of ancestry census data)",
-      "url": "https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html",
+      "title": "Gauguin, Descartes, Bayes: A Diurnal Golem's Brain",
+      "url": "https://dl.acm.org/doi/10.1145/3759429.3762631",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786897970,
-      "score": 23,
-      "category": "llm",
+      "ts": 1786645821,
+      "score": 11,
+      "category": "industry",
       "tags": [
         "国际"
       ]
