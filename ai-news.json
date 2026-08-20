@@ -1,20 +1,7 @@
 {
-  "updated": "2026-08-20 01:11 UTC",
-  "count": 13,
+  "updated": "2026-08-20 04:36 UTC",
+  "count": 11,
   "items": [
-    {
-      "title": "Raiders of the Lost Array: vibe-coding a macOS driver for my orphaned Drobo",
-      "url": "https://fetzu.ch/blog/20260819_claudevsdrobo/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787185096,
-      "score": 8,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "Universality of Gradient Descent Neural Network Training",
       "url": "https://arxiv.org/abs/2007.13664",
@@ -22,21 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787184312,
-      "score": 5,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Collaborative Human Agent Protocol (CHAP)",
-      "url": "https://github.com/BrightbeamAI/chap",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787177356,
-      "score": 17,
-      "category": "tools",
+      "score": 16,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787174390,
-      "score": 126,
-      "category": "industry",
+      "score": 165,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787161649,
-      "score": 283,
+      "score": 366,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787156942,
-      "score": 51,
+      "score": 62,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787156765,
-      "score": 104,
-      "category": "llm",
+      "score": 124,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787152465,
-      "score": 118,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Devices with GrapheneOS support should be available in 2027",
-      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787140018,
-      "score": 573,
-      "category": "llm",
+      "score": 135,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787138510,
-      "score": 740,
-      "category": "industry",
+      "score": 804,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787134500,
-      "score": 247,
+      "score": 264,
       "category": "industry",
       "tags": [
         "国际"
@@ -152,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787090421,
-      "score": 173,
+      "score": 204,
       "category": "industry",
       "tags": [
         "国际"
@@ -165,7 +126,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787068006,
-      "score": 120,
+      "score": 125,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Error by AI scribe during medical appointment leaves patient devastated",
+      "url": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786677850,
+      "score": 28,
       "category": "tools",
       "tags": [
         "国际"
