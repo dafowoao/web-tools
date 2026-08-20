@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-20 08:37 UTC",
+  "updated": "2026-08-20 12:47 UTC",
   "count": 10,
   "items": [
+    {
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "desc": "I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes&#x2F;sec on an iPhone 15).The idea is basically GitHub Copilot or Tabnine, except instead of promptin",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787227478,
+      "score": 33,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Australia passes law to levy tech giants that fail to pay for local news",
+      "url": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787225023,
+      "score": 14,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Don't Paste the AI, please",
       "url": "https://dontpastetheai.com/",
@@ -9,34 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787214044,
-      "score": 5,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787200922,
-      "score": 49,
+      "score": 608,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Universality of Gradient Descent Neural Network Training",
-      "url": "https://arxiv.org/abs/2007.13664",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787184312,
-      "score": 28,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787174390,
-      "score": 244,
-      "category": "llm",
+      "score": 308,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787156942,
-      "score": 75,
-      "category": "industry",
+      "score": 81,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787156765,
-      "score": 148,
-      "category": "llm",
+      "score": 158,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787152465,
-      "score": 163,
+      "score": 187,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787138510,
-      "score": 883,
-      "category": "llm",
+      "score": 943,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787134500,
-      "score": 271,
-      "category": "llm",
+      "score": 287,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787090421,
-      "score": 257,
-      "category": "industry",
+      "score": 292,
+      "category": "tools",
       "tags": [
         "国际"
       ]
