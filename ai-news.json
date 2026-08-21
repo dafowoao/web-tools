@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-21 04:36 UTC",
-  "count": 11,
+  "updated": "2026-08-21 08:39 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+      "url": "https://Argentic.network",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787293456,
+      "score": 7,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Seed: Minimal, self-modifying agent harness",
+      "url": "https://github.com/vivekhaldar/seed",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787289650,
+      "score": 17,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
@@ -9,33 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787279867,
-      "score": 150,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Artificial Intelligence Policy",
-      "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787276247,
-      "score": 32,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Copyright does not protect AI-generated content in EU",
-      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787271312,
-      "score": 152,
+      "score": 310,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,8 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787252736,
-      "score": 245,
-      "category": "tools",
+      "score": 301,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+      "url": "https://github.com/runvendo/vendo",
+      "desc": "Hi HN, we’re Yousef &amp; Nour, founders of Vendo (https:&#x2F;&#x2F;vendo.run). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787239792,
+      "score": 34,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787239562,
-      "score": 209,
+      "score": 247,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787238413,
-      "score": 133,
-      "category": "tools",
+      "score": 156,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787234889,
-      "score": 90,
-      "category": "tools",
+      "score": 94,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787232272,
-      "score": 142,
-      "category": "tools",
+      "score": 152,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787232192,
-      "score": 424,
+      "score": 484,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "desc": "I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes&#x2F;sec on an iPhone 15).The idea is basically GitHub Copilot or Tabnine, except instead of promptin",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787227478,
-      "score": 536,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,8 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786970567,
-      "score": 19,
-      "category": "tools",
+      "score": 49,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The case against a C alternative (2022)",
+      "url": "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786893429,
+      "score": 3,
+      "category": "industry",
       "tags": [
         "国际"
       ]
