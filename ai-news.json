@@ -1,28 +1,80 @@
 {
-  "updated": "2026-08-21 16:33 UTC",
-  "count": 4,
+  "updated": "2026-08-21 20:24 UTC",
+  "count": 9,
   "items": [
     {
-      "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-      "url": "https://canews24.online/?p=71",
+      "title": "Quick impressions: A week of using Codex more than Claude",
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787325942,
-      "score": 55,
+      "ts": 1787341908,
+      "score": 5,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
+      "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787338108,
+      "score": 15,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+      "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787331623,
+      "score": 1,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787329672,
+      "score": 46,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
       "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787322712,
-      "score": 65,
+      "score": 118,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "I'm becoming AI-blind",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787312885,
+      "score": 166,
       "category": "tools",
       "tags": [
         "国际"
@@ -30,26 +82,39 @@
     },
     {
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787306746,
-      "score": 605,
-      "category": "llm",
+      "ts": 1787279867,
+      "score": 445,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Flat Chair by Sara Paculdo",
-      "url": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
-      "desc": "",
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "desc": "https:&#x2F;&#x2F;archive.is&#x2F;w1enghttps:&#x2F;&#x2F;papers.ssrn.com&#x2F;sol3&#x2F;papers.cfm?abstract_id=6868618",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1786975297,
-      "score": 99,
-      "category": "llm",
+      "ts": 1787120011,
+      "score": 134,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
+      "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
+      "desc": "Working on Mac, Linux, and Windows now. I include a simple GUI to find new models and get things built and set up. It is working quite well across a few models for me. The GitHub README and DESIGN.md ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787063360,
+      "score": 61,
+      "category": "industry",
       "tags": [
         "国际"
       ]
