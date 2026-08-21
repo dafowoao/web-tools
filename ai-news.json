@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-20 20:26 UTC",
+  "updated": "2026-08-21 01:15 UTC",
   "count": 10,
   "items": [
+    {
+      "title": "Copyright does not protect AI-generated content in EU",
+      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787271312,
+      "score": 46,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Early-life stress leaves a 'scar' inside brain cells",
+      "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787260116,
+      "score": 13,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
@@ -9,60 +35,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787252736,
-      "score": 39,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Scientific study reveals TikTok videos deactivate key cognitive brain regions",
-      "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787252072,
-      "score": 199,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: We chased a weather balloon across Montana and never found it",
-      "url": "https://radi8.dev/blog/uplink/",
-      "desc": "Since April, I have been working with Sam Flynn (https:&#x2F;&#x2F;drook.dev) to make this balloon payload, UpLink. We did a similar launch last year with Hack Club but this was our first independent ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787247212,
-      "score": 39,
+      "score": 216,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
-      "url": "https://github.com/runvendo/vendo",
-      "desc": "Hi HN, we’re Yousef &amp; Nour, founders of Vendo (https:&#x2F;&#x2F;vendo.run). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or",
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787239792,
-      "score": 29,
-      "category": "tools",
+      "ts": 1787239562,
+      "score": 188,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
-      "url": "https://pub.doub.ly/",
-      "desc": "Hi HN, I built this. Quick background on why it exists:When music is streamed on digital streaming platforms (think Spotify, Apple Music, Pandora), there are two separate royalty streams: one for the ",
+      "title": "Anti-AI fonts are useless and harmful",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787236708,
-      "score": 53,
-      "category": "industry",
+      "ts": 1787238413,
+      "score": 114,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787235128,
-      "score": 31,
-      "category": "llm",
+      "score": 48,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Hacking with Claude on a $27 smart watch",
+      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787234889,
+      "score": 82,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787232272,
-      "score": 118,
-      "category": "llm",
+      "score": 134,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787232192,
-      "score": 316,
+      "score": 391,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787227478,
-      "score": 415,
+      "score": 496,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Gauguin, Descartes, Bayes: A Diurnal Golem's Brain",
-      "url": "https://dl.acm.org/doi/10.1145/3759429.3762631",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786645821,
-      "score": 11,
-      "category": "industry",
       "tags": [
         "国际"
       ]
