@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-21 01:15 UTC",
-  "count": 10,
+  "updated": "2026-08-21 04:36 UTC",
+  "count": 11,
   "items": [
+    {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787279867,
+      "score": 150,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Artificial Intelligence Policy",
+      "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787276247,
+      "score": 32,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Copyright does not protect AI-generated content in EU",
       "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
@@ -9,21 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787271312,
-      "score": 46,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Early-life stress leaves a 'scar' inside brain cells",
-      "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787260116,
-      "score": 13,
-      "category": "tools",
+      "score": 152,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787252736,
-      "score": 216,
-      "category": "llm",
+      "score": 245,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787239562,
-      "score": 188,
-      "category": "llm",
+      "score": 209,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,20 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787238413,
-      "score": 114,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Omacosy – Omarchy-style tiling desktop for macOS, no SIP",
-      "url": "https://github.com/paulsp94/omacosy",
-      "desc": "I have been using omarchy on my tower since nearly a year now, shortly after it was released first. I really love the experience I am having with it but I still use my macbook for daly work, so I want",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787235128,
-      "score": 48,
+      "score": 133,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787234889,
-      "score": 82,
+      "score": 90,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787232272,
-      "score": 134,
+      "score": 142,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787232192,
-      "score": 391,
+      "score": 424,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,8 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787227478,
-      "score": 496,
+      "score": 536,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Captain Zilog",
+      "url": "https://www.zilog.com/captain_zilog/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1786970567,
+      "score": 19,
+      "category": "tools",
       "tags": [
         "国际"
       ]
