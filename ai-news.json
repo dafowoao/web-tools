@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-21 12:44 UTC",
-  "count": 10,
+  "updated": "2026-08-21 16:33 UTC",
+  "count": 4,
   "items": [
+    {
+      "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+      "url": "https://canews24.online/?p=71",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787325942,
+      "score": 55,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claudette: Make Claude Stop Talking Like a BuzzFeed Article",
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787322712,
+      "score": 65,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
       "url": "https://annas-archive.pk/blog/physical-destruction.html",
@@ -9,99 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787306746,
-      "score": 126,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Seed: Minimal, self-modifying agent harness",
-      "url": "https://github.com/vivekhaldar/seed",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787289650,
-      "score": 39,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "desc": "Hello everyone. I&#x27;ve been working on this experimental editor called Huzzah.I&#x27;ve been working almost exclusively with coding agents since January of this year, and over the past few months I",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787252736,
-      "score": 337,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
-      "url": "https://github.com/runvendo/vendo",
-      "desc": "Hi HN, we’re Yousef &amp; Nour, founders of Vendo (https:&#x2F;&#x2F;vendo.run). Vendo lets users create new features inside the software they already use. A user describes the dashboard, workflow, or",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787239792,
-      "score": 47,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "url": "https://github.com/zachahn/vomit",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787239562,
-      "score": 267,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Anti-AI fonts are useless and harmful",
-      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787238413,
-      "score": 180,
+      "score": 605,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "DiffusionGemma Technical Report",
-      "url": "https://arxiv.org/abs/2608.00146",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787232272,
-      "score": 155,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Malicious Rust crate Arrayref runs a build-time payload",
-      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "desc": "https:&#x2F;&#x2F;blog.rust-lang.org&#x2F;2026&#x2F;08&#x2F;20&#x2F;supply-chain-attack-on...https:&#x2F;&#x2F;github.com&#x2F;rustsec&#x2F;advisory-db&#x2F;issues&#x2F;3161",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787232192,
-      "score": 518,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,20 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1786975297,
-      "score": 51,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Captain Zilog",
-      "url": "https://www.zilog.com/captain_zilog/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1786970567,
-      "score": 62,
+      "score": 99,
       "category": "llm",
       "tags": [
         "国际"
