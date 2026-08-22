@@ -1,16 +1,42 @@
 {
-  "updated": "2026-08-22 16:22 UTC",
-  "count": 8,
+  "updated": "2026-08-22 20:21 UTC",
+  "count": 7,
   "items": [
     {
-      "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
-      "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+      "title": "Show HN: Make your logo extra bright on HDR screens",
+      "url": "https://www.soverybright.com/",
+      "desc": "Certain logos started standing out to me on LinkedIn as brighter&#x2F;whiter than everything else around them.I dug in and found out this is accomplished by adding a gain-map to an existing JPEG, visi",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787424183,
+      "score": 14,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787400426,
-      "score": 142,
+      "ts": 1787422456,
+      "score": 10,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+      "url": "https://twitter.com/argofowl/status/2091150597374537729",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787417929,
+      "score": 90,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,86 +48,47 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787392154,
-      "score": 172,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Embedded AI",
-      "url": "https://nostarch.com/embedded-ai",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787389646,
-      "score": 17,
+      "score": 226,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "How Thailand Resisted Colonization",
-      "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787336922,
-      "score": 89,
+      "ts": 1787319813,
+      "score": 50,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Guess which of these LLM outputs is watermarked",
+      "url": "https://sgoedecke.github.io/watermark-quiz/",
+      "desc": "https:&#x2F;&#x2F;www.seangoedecke.com&#x2F;readers-cant-identify-watermark...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787234638,
+      "score": 32,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-      "desc": "",
+      "title": "Show HN: Anonymous age verification with passkey-powered encryption",
+      "url": "https://loginwithone.com/",
+      "desc": "This project has been kicking around in my head since I first heard about the webauthn PRF extension in early 2024. I&#x27;ve slowly chipped away at it since, and finally got things to a shareable sta",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787322712,
-      "score": 328,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I'm becoming AI-blind",
-      "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787312885,
-      "score": 446,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
-      "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787260116,
-      "score": 120,
+      "ts": 1787146870,
+      "score": 28,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI boosted homework scores, then exam scores dropped: study",
-      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-      "desc": "https:&#x2F;&#x2F;archive.is&#x2F;w1enghttps:&#x2F;&#x2F;papers.ssrn.com&#x2F;sol3&#x2F;papers.cfm?abstract_id=6868618",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787120011,
-      "score": 353,
-      "category": "tools",
       "tags": [
         "国际"
       ]
