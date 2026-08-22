@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22 04:31 UTC",
-  "count": 8,
+  "updated": "2026-08-22 08:28 UTC",
+  "count": 7,
   "items": [
     {
       "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
@@ -9,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787353746,
-      "score": 52,
-      "category": "llm",
+      "score": 66,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787329672,
-      "score": 92,
+      "score": 97,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787322712,
-      "score": 225,
-      "category": "industry",
+      "score": 258,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787312885,
-      "score": 306,
-      "category": "tools",
+      "score": 351,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787279867,
-      "score": 542,
+      "score": 559,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787260116,
-      "score": 63,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Autolith: A programming agent with a live runtime",
-      "url": "https://www.lambda-symbolics.com/autolith",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787240457,
-      "score": 44,
-      "category": "tools",
+      "score": 85,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787120011,
-      "score": 260,
-      "category": "llm",
+      "score": 298,
+      "category": "industry",
       "tags": [
         "国际"
       ]
