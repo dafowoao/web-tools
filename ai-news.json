@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22 12:36 UTC",
-  "count": 9,
+  "updated": "2026-08-22 16:22 UTC",
+  "count": 8,
   "items": [
     {
       "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
@@ -9,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787400426,
-      "score": 7,
-      "category": "industry",
+      "score": 142,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787392154,
-      "score": 46,
-      "category": "llm",
+      "score": 172,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787389646,
-      "score": 3,
-      "category": "industry",
+      "score": 17,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787336922,
-      "score": 38,
+      "score": 89,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787322712,
-      "score": 301,
+      "score": 328,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787312885,
-      "score": 403,
+      "score": 446,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,20 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787260116,
-      "score": 96,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Autolith: A programming agent with a live runtime",
-      "url": "https://www.lambda-symbolics.com/autolith",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787240457,
-      "score": 73,
+      "score": 120,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787120011,
-      "score": 323,
+      "score": 353,
       "category": "tools",
       "tags": [
         "国际"
