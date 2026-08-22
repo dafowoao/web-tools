@@ -1,28 +1,54 @@
 {
-  "updated": "2026-08-22 08:28 UTC",
-  "count": 7,
+  "updated": "2026-08-22 12:36 UTC",
+  "count": 9,
   "items": [
     {
-      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-      "url": "https://ozbrain.com",
-      "desc": "I think agent-first chat interfaces will be a primary software modality and busy dashboard&#x2F;UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow&#x2F;go with me.A lot",
+      "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+      "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787353746,
-      "score": 66,
+      "ts": 1787400426,
+      "score": 7,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+      "title": "Munder Difflin – Agent harness to run an office of your clones",
+      "url": "https://munderdiffl.in/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787329672,
-      "score": 97,
+      "ts": 1787392154,
+      "score": 46,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Embedded AI",
+      "url": "https://nostarch.com/embedded-ai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787389646,
+      "score": 3,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How Thailand Resisted Colonization",
+      "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787336922,
+      "score": 38,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787322712,
-      "score": 258,
-      "category": "llm",
+      "score": 301,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787312885,
-      "score": 351,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787279867,
-      "score": 559,
-      "category": "tools",
+      "score": 403,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,7 +87,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787260116,
-      "score": 85,
+      "score": 96,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Autolith: A programming agent with a live runtime",
+      "url": "https://www.lambda-symbolics.com/autolith",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787240457,
+      "score": 73,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787120011,
-      "score": 298,
-      "category": "industry",
+      "score": 323,
+      "category": "tools",
       "tags": [
         "国际"
       ]
