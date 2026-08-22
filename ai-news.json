@@ -1,42 +1,16 @@
 {
-  "updated": "2026-08-21 20:24 UTC",
-  "count": 9,
+  "updated": "2026-08-22 01:10 UTC",
+  "count": 7,
   "items": [
     {
-      "title": "Quick impressions: A week of using Codex more than Claude",
-      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-      "desc": "",
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "url": "https://ozbrain.com",
+      "desc": "I think agent-first chat interfaces will be a primary software modality and busy dashboard&#x2F;UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow&#x2F;go with me.A lot",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787341908,
-      "score": 5,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787338108,
-      "score": 15,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
-      "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787331623,
-      "score": 1,
-      "category": "tools",
+      "ts": 1787353746,
+      "score": 30,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787329672,
-      "score": 46,
-      "category": "llm",
+      "score": 82,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787322712,
-      "score": 118,
-      "category": "industry",
+      "score": 195,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787312885,
-      "score": 166,
-      "category": "tools",
+      "score": 261,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787279867,
-      "score": 445,
-      "category": "industry",
+      "score": 526,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787120011,
-      "score": 134,
-      "category": "industry",
+      "score": 227,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787063360,
-      "score": 61,
+      "score": 78,
       "category": "industry",
       "tags": [
         "国际"
