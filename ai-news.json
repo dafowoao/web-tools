@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22 01:10 UTC",
-  "count": 7,
+  "updated": "2026-08-22 04:31 UTC",
+  "count": 8,
   "items": [
     {
       "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
@@ -9,7 +9,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787353746,
-      "score": 30,
+      "score": 52,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787329672,
-      "score": 82,
-      "category": "tools",
+      "score": 92,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787322712,
-      "score": 195,
-      "category": "llm",
+      "score": 225,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787312885,
-      "score": 261,
-      "category": "industry",
+      "score": 306,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787279867,
-      "score": 526,
+      "score": 542,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
+      "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787260116,
+      "score": 63,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Autolith: A programming agent with a live runtime",
+      "url": "https://www.lambda-symbolics.com/autolith",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787240457,
+      "score": 44,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787120011,
-      "score": 227,
+      "score": 260,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
-      "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
-      "desc": "Working on Mac, Linux, and Windows now. I include a simple GUI to find new models and get things built and set up. It is working quite well across a few models for me. The GitHub README and DESIGN.md ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787063360,
-      "score": 78,
-      "category": "industry",
       "tags": [
         "国际"
       ]
