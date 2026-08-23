@@ -1,15 +1,15 @@
 {
-  "updated": "2026-08-23 01:16 UTC",
-  "count": 10,
+  "updated": "2026-08-23 04:35 UTC",
+  "count": 8,
   "items": [
     {
-      "title": "AI has failed to win people's trust. Its makers? less trusted",
-      "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
+      "title": "Palantir's Karp – frontier AI labs that are 'trying to drug addict us'",
+      "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787441420,
-      "score": 13,
+      "ts": 1787457826,
+      "score": 5,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,21 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787436867,
-      "score": 42,
+      "score": 68,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Make your logo extra bright on HDR screens",
-      "url": "https://www.soverybright.com/",
-      "desc": "Certain logos started standing out to me on LinkedIn as brighter&#x2F;whiter than everything else around them.I dug in and found out this is accomplished by adding a gain-map to an existing JPEG, visi",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787424183,
-      "score": 48,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,20 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787422456,
-      "score": 171,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-      "url": "https://twitter.com/argofowl/status/2091150597374537729",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787417929,
-      "score": 163,
+      "score": 236,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787392154,
-      "score": 248,
-      "category": "llm",
+      "score": 263,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787353746,
-      "score": 78,
-      "category": "llm",
+      "score": 82,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787341908,
-      "score": 122,
-      "category": "llm",
+      "score": 159,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787319813,
-      "score": 106,
-      "category": "industry",
+      "score": 131,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787240457,
-      "score": 109,
-      "category": "llm",
+      "score": 117,
+      "category": "tools",
       "tags": [
         "国际"
       ]
