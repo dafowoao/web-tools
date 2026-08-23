@@ -1,20 +1,7 @@
 {
-  "updated": "2026-08-23 08:28 UTC",
-  "count": 7,
+  "updated": "2026-08-23 12:37 UTC",
+  "count": 5,
   "items": [
-    {
-      "title": "Steve French (SMB3/CIFSFS Linux kernel maintainer) has died",
-      "url": "https://www.phoronix.com/news/SMB3-CIFS-Maintainer-Change",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787470071,
-      "score": 5,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "NanoGPT Speedrun Frontier",
       "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
@@ -22,7 +9,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787436867,
-      "score": 92,
+      "score": 115,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787422456,
-      "score": 322,
-      "category": "llm",
+      "score": 386,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787392154,
-      "score": 277,
-      "category": "industry",
+      "score": 290,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787341908,
-      "score": 189,
+      "score": 213,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787319813,
-      "score": 153,
+      "score": 175,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Autolith: A programming agent with a live runtime",
-      "url": "https://www.lambda-symbolics.com/autolith",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787240457,
-      "score": 122,
-      "category": "industry",
       "tags": [
         "国际"
       ]
