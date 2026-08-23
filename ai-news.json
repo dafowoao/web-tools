@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-22 20:21 UTC",
-  "count": 7,
+  "updated": "2026-08-23 01:16 UTC",
+  "count": 10,
   "items": [
+    {
+      "title": "AI has failed to win people's trust. Its makers? less trusted",
+      "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787441420,
+      "score": 13,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787436867,
+      "score": 42,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Make your logo extra bright on HDR screens",
       "url": "https://www.soverybright.com/",
@@ -9,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787424183,
-      "score": 14,
+      "score": 48,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787422456,
-      "score": 10,
+      "score": 171,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787417929,
-      "score": 90,
-      "category": "industry",
+      "score": 163,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +74,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787392154,
-      "score": 226,
-      "category": "tools",
+      "score": 248,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "url": "https://ozbrain.com",
+      "desc": "I think agent-first chat interfaces will be a primary software modality and busy dashboard&#x2F;UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow&#x2F;go with me.A lot",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787353746,
+      "score": 78,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "A week of using Codex more than Claude",
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787341908,
+      "score": 122,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,34 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787319813,
-      "score": 50,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Guess which of these LLM outputs is watermarked",
-      "url": "https://sgoedecke.github.io/watermark-quiz/",
-      "desc": "https:&#x2F;&#x2F;www.seangoedecke.com&#x2F;readers-cant-identify-watermark...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787234638,
-      "score": 32,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Anonymous age verification with passkey-powered encryption",
-      "url": "https://loginwithone.com/",
-      "desc": "This project has been kicking around in my head since I first heard about the webauthn PRF extension in early 2024. I&#x27;ve slowly chipped away at it since, and finally got things to a shareable sta",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787146870,
-      "score": 28,
+      "score": 106,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Autolith: A programming agent with a live runtime",
+      "url": "https://www.lambda-symbolics.com/autolith",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787240457,
+      "score": 109,
+      "category": "llm",
       "tags": [
         "国际"
       ]
