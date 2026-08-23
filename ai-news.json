@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-23 12:37 UTC",
-  "count": 5,
+  "updated": "2026-08-23 16:23 UTC",
+  "count": 7,
   "items": [
+    {
+      "title": "How Complex Systems Fail",
+      "url": "https://how.complexsystems.fail/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787498011,
+      "score": 38,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787494989,
+      "score": 67,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
+      "url": "https://twitter.com/AndrewYNg/status/2090840747738374568",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787484488,
+      "score": 20,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "NanoGPT Speedrun Frontier",
       "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
@@ -9,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787436867,
-      "score": 115,
+      "score": 130,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787422456,
-      "score": 386,
-      "category": "industry",
+      "score": 430,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,20 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787392154,
-      "score": 290,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A week of using Codex more than Claude",
-      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787341908,
-      "score": 213,
+      "score": 295,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787319813,
-      "score": 175,
-      "category": "tools",
+      "score": 193,
+      "category": "llm",
       "tags": [
         "国际"
       ]
