@@ -1,15 +1,119 @@
 {
-  "updated": "2026-08-23 16:23 UTC",
-  "count": 7,
+  "updated": "2026-08-23 20:21 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "How Complex Systems Fail",
+      "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
+      "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787509653,
+      "score": 4,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787508997,
+      "score": 33,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI and Infrastructure Engineering",
+      "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787508541,
+      "score": 8,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Explain it to me like I'm ten",
+      "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787508493,
+      "score": 24,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Predicting AI model release dates with stats",
+      "url": "https://releaseoracle.xyz/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787508090,
+      "score": 7,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "I turned Unix talk from 1983 into the interface for my AI",
+      "url": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787508020,
+      "score": 6,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787507992,
+      "score": 21,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+      "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787504824,
+      "score": 7,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How Complex Systems Fail (1998)",
       "url": "https://how.complexsystems.fail/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787498011,
-      "score": 38,
+      "score": 158,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,73 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787494989,
-      "score": 67,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Andrew Ng: \"AI Engineering Skills Map: Building and Deploying AI Applications\"",
-      "url": "https://twitter.com/AndrewYNg/status/2090840747738374568",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787484488,
-      "score": 20,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787436867,
-      "score": 130,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787422456,
-      "score": 430,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Munder Difflin – Agent harness to run an office of your clones",
-      "url": "https://munderdiffl.in/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787392154,
-      "score": 295,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787319813,
-      "score": 193,
-      "category": "llm",
+      "score": 525,
+      "category": "industry",
       "tags": [
         "国际"
       ]
