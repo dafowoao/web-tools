@@ -1,14 +1,14 @@
 {
-  "updated": "2026-08-23 04:35 UTC",
-  "count": 8,
+  "updated": "2026-08-23 08:28 UTC",
+  "count": 7,
   "items": [
     {
-      "title": "Palantir's Karp – frontier AI labs that are 'trying to drug addict us'",
-      "url": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
+      "title": "Steve French (SMB3/CIFSFS Linux kernel maintainer) has died",
+      "url": "https://www.phoronix.com/news/SMB3-CIFS-Maintainer-Change",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787457826,
+      "ts": 1787470071,
       "score": 5,
       "category": "llm",
       "tags": [
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787436867,
-      "score": 68,
-      "category": "tools",
+      "score": 92,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787422456,
-      "score": 236,
+      "score": 322,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,20 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787392154,
-      "score": 263,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-      "url": "https://ozbrain.com",
-      "desc": "I think agent-first chat interfaces will be a primary software modality and busy dashboard&#x2F;UI will go away. I’m not sure who exactly wins it, but I want my knowledge to grow&#x2F;go with me.A lot",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787353746,
-      "score": 82,
+      "score": 277,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787341908,
-      "score": 159,
+      "score": 189,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787319813,
-      "score": 131,
+      "score": 153,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787240457,
-      "score": 117,
-      "category": "tools",
+      "score": 122,
+      "category": "industry",
       "tags": [
         "国际"
       ]
