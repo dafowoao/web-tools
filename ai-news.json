@@ -1,7 +1,98 @@
 {
-  "updated": "2026-08-24 16:36 UTC",
-  "count": 19,
+  "updated": "2026-08-24 20:29 UTC",
+  "count": 14,
   "items": [
+    {
+      "title": "Qwen 3.6 is now much easier to run locally on your Mac, thanks to JetBrains",
+      "url": "https://www.neowin.net/news/qwen-36-is-now-much-easier-to-run-locally-on-your-mac-thanks-to-jetbrains/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787600871,
+      "score": 7,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
+      "url": "https://github.com/l3a0/claude-plugins",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787599938,
+      "score": 19,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "LLMs could control their host machines by exploiting inference engines",
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787598186,
+      "score": 33,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
+      "url": "https://github.com/getkern/kern",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787595899,
+      "score": 25,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+      "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787593994,
+      "score": 1,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Agent Lightning v1.0",
+      "url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787592202,
+      "score": 9,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
+      "url": "https://picomq.com/",
+      "desc": "PicoMQ is a Rust server for Durable Streams, built on Object Store. Cheap, URL-addressable, granular streams (create&#x2F;append&#x2F;read&#x2F;long-poll&#x2F;SSE), with Pico Protocol or Durable Strea",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787587697,
+      "score": 53,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Coding expertise is going to collapse from AI reliance",
       "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
@@ -9,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787586753,
-      "score": 82,
-      "category": "tools",
+      "score": 319,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787586525,
-      "score": 60,
+      "score": 254,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787585284,
-      "score": 95,
-      "category": "llm",
+      "score": 387,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,72 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787584963,
-      "score": 96,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "NetBSD GSoC 2026 Improving RAIDframe",
-      "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787584658,
-      "score": 7,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
-      "url": "https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787584225,
-      "score": 102,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Free Inference Engineer and Model Training Roadmap",
-      "url": "https://inferquest.org",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787583721,
-      "score": 8,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Agent Is Not the Model",
-      "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787570440,
-      "score": 54,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787564702,
-      "score": 161,
+      "score": 226,
       "category": "industry",
       "tags": [
         "国际"
@@ -126,46 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787553007,
-      "score": 137,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OCR It – pull text out of un-copyable documents for your LLM",
-      "url": "https://github.com/thiagotigaz/ocr-it",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787552731,
-      "score": 103,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "New EU-wide product repair rules come into force",
-      "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787550447,
-      "score": 223,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I built a low-latency AI companion that plays Skyrim with me",
-      "url": "https://pantel.is/projects/ai-gaming-companion/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787527097,
-      "score": 295,
+      "score": 165,
       "category": "llm",
       "tags": [
         "国际"
@@ -178,73 +165,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787517489,
-      "score": 378,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Google Workspace thinks my domain is an email provider (2025)",
-      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787513372,
-      "score": 371,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787508997,
-      "score": 713,
+      "score": 461,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "url": "https://fabiensanglard.net/agent.md/index.html",
-      "desc": "",
+      "title": "Show HN: A puzzle I couldn't solve for a year – cubers cracked it in an hour",
+      "url": "https://skimmiq.com/pt/",
+      "desc": "Dev here. I created a puzzle that looks like Rubik&#x27;s cube but works differently. Instead of turning faces, closed bands of 12 stickers slide around the cube. Every scramble is solvable. I built o",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787507992,
-      "score": 378,
+      "ts": 1787331947,
+      "score": 9,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How Complex Systems Fail (1998)",
-      "url": "https://how.complexsystems.fail/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787498011,
-      "score": 364,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI Chip Architectures",
-      "url": "https://www.jepeake.com/ai-chip-architectures",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787451910,
-      "score": 134,
-      "category": "tools",
       "tags": [
         "国际"
       ]
