@@ -1,29 +1,94 @@
 {
-  "updated": "2026-08-24 12:48 UTC",
-  "count": 17,
+  "updated": "2026-08-24 16:36 UTC",
+  "count": 19,
   "items": [
     {
-      "title": "Ask HN: Why do corporate failures always seem to punish the wrong people?",
-      "url": "https://news.ycombinator.com/item?id=49418675",
-      "desc": "My partner was let go after 15 years working tirelessly for one of the big five. She&#x27;s probably the most resilient, rewarded and liked person that has survived and fought through this part of the",
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787573936,
-      "score": 8,
+      "ts": 1787586753,
+      "score": 82,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "IPFS Maintainers Winding Down",
+      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787586525,
+      "score": 60,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787585284,
+      "score": 95,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Anthropic candidates face blunt money question",
-      "url": "https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question",
+      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "url": "https://developers.openai.com/api/docs/pricing",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787572546,
-      "score": 13,
-      "category": "llm",
+      "ts": 1787584963,
+      "score": 96,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "NetBSD GSoC 2026 Improving RAIDframe",
+      "url": "https://blog.netbsd.org/tnf/entry/gsoc2026_raidframe",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787584658,
+      "score": 7,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Anna's Archive Owes $340 Million, Lost Several Domains, but It's Still Online",
+      "url": "https://torrentfreak.com/annas-archive-owes-340-million-lost-several-domains-but-its-still-online/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787584225,
+      "score": 102,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Free Inference Engineer and Model Training Roadmap",
+      "url": "https://inferquest.org",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787583721,
+      "score": 8,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787570440,
-      "score": 9,
-      "category": "industry",
+      "score": 54,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787564702,
-      "score": 83,
+      "score": 161,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787553007,
-      "score": 77,
+      "score": 137,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787552731,
-      "score": 68,
-      "category": "tools",
+      "score": 103,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,21 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787550447,
-      "score": 163,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Why is Anthropic's public writing style so unlike Claude's?",
-      "url": "https://cmart.blog/claude-writing/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787542362,
-      "score": 57,
-      "category": "tools",
+      "score": 223,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,21 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787527097,
-      "score": 211,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Implementation of GPT-2 in pure CMake",
-      "url": "https://github.com/AlpinDale/gpt2.cmake",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787521277,
-      "score": 84,
-      "category": "tools",
+      "score": 295,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,7 +178,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787517489,
-      "score": 240,
+      "score": 378,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,8 +191,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787513372,
-      "score": 336,
-      "category": "llm",
+      "score": 371,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -165,21 +204,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787508997,
-      "score": 595,
+      "score": 713,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Explain it to me like I'm ten",
-      "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787508493,
-      "score": 156,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -191,8 +217,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787507992,
-      "score": 332,
-      "category": "tools",
+      "score": 378,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -204,8 +230,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787498011,
-      "score": 336,
-      "category": "tools",
+      "score": 364,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -217,8 +243,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787451910,
-      "score": 99,
-      "category": "llm",
+      "score": 134,
+      "category": "tools",
       "tags": [
         "国际"
       ]
