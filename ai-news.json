@@ -1,7 +1,85 @@
 {
-  "updated": "2026-08-24 04:43 UTC",
-  "count": 11,
+  "updated": "2026-08-24 08:46 UTC",
+  "count": 15,
   "items": [
+    {
+      "title": "Anthropic Claude and API service outages",
+      "url": "https://status.claude.com/uptime",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787553148,
+      "score": 45,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787553007,
+      "score": 30,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OCR It – pull text out of un-copyable documents for your LLM",
+      "url": "https://github.com/thiagotigaz/ocr-it",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787552731,
+      "score": 18,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
+      "url": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787551250,
+      "score": 6,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "New EU-wide product repair rules come into force",
+      "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787550447,
+      "score": 86,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Why is Anthropic's public writing style so unlike Claude's?",
+      "url": "https://cmart.blog/claude-writing/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787542362,
+      "score": 7,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "I built a low-latency AI companion that plays Skyrim with me",
       "url": "https://pantel.is/projects/ai-gaming-companion/",
@@ -9,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787527097,
-      "score": 35,
+      "score": 136,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,33 +100,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787521277,
-      "score": 55,
-      "category": "llm",
+      "score": 78,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
-      "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
-      "desc": "",
+      "title": "I were 17, I'd learn how to build LLMs from scratch",
+      "url": "https://twitter.com/paulg/status/2091544343589060625",
+      "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;paulg&#x2F;status&#x2F;2091544343589060625",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787517050,
-      "score": 50,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Training AI to Paint with Code",
-      "url": "https://surya.website/rling-qwen-to-paint-with-code",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787513969,
-      "score": 24,
+      "ts": 1787517489,
+      "score": 68,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787513372,
-      "score": 219,
-      "category": "industry",
+      "score": 290,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,21 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787508997,
-      "score": 329,
+      "score": 480,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI and Infrastructure Engineering",
-      "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787508541,
-      "score": 59,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787508493,
-      "score": 100,
+      "score": 131,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,7 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787507992,
-      "score": 219,
+      "score": 299,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,7 +178,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787498011,
-      "score": 273,
+      "score": 307,
       "category": "tools",
       "tags": [
         "国际"
@@ -139,7 +191,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787451910,
-      "score": 55,
+      "score": 73,
       "category": "industry",
       "tags": [
         "国际"
