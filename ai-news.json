@@ -1,16 +1,68 @@
 {
-  "updated": "2026-08-23 20:21 UTC",
-  "count": 10,
+  "updated": "2026-08-24 01:15 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
-      "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
+      "title": "Implementation of GPT-2 in pure CMake",
+      "url": "https://github.com/AlpinDale/gpt2.cmake",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787509653,
-      "score": 4,
+      "ts": 1787521277,
+      "score": 25,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Residential proxies scraping your site? Drain their bandwidth",
+      "url": "https://layer3intel.com/blog/residential-proxy-bandwidth-drain",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787518214,
+      "score": 14,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
+      "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787517050,
+      "score": 21,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Training AI to Paint with Code",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787513969,
+      "score": 15,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787513372,
+      "score": 168,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787508997,
-      "score": 33,
-      "category": "industry",
+      "score": 191,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787508541,
-      "score": 8,
-      "category": "industry",
+      "score": 38,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,34 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787508493,
-      "score": 24,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Predicting AI model release dates with stats",
-      "url": "https://releaseoracle.xyz/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787508090,
-      "score": 7,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I turned Unix talk from 1983 into the interface for my AI",
-      "url": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787508020,
-      "score": 6,
-      "category": "industry",
+      "score": 78,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787507992,
-      "score": 21,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
-      "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787504824,
-      "score": 7,
+      "score": 146,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,20 +126,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787498011,
-      "score": 158,
+      "score": 234,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "title": "AI Chip Architectures",
+      "url": "https://www.jepeake.com/ai-chip-architectures",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787494989,
-      "score": 525,
+      "ts": 1787451910,
+      "score": 36,
       "category": "industry",
       "tags": [
         "国际"
