@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-24 01:15 UTC",
+  "updated": "2026-08-24 04:43 UTC",
   "count": 11,
   "items": [
+    {
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://pantel.is/projects/ai-gaming-companion/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787527097,
+      "score": 35,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Implementation of GPT-2 in pure CMake",
       "url": "https://github.com/AlpinDale/gpt2.cmake",
@@ -9,20 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787521277,
-      "score": 25,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Residential proxies scraping your site? Drain their bandwidth",
-      "url": "https://layer3intel.com/blog/residential-proxy-bandwidth-drain",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787518214,
-      "score": 14,
+      "score": 55,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787517050,
-      "score": 21,
+      "score": 50,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787513969,
-      "score": 15,
-      "category": "tools",
+      "score": 24,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787513372,
-      "score": 168,
-      "category": "tools",
+      "score": 219,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787508997,
-      "score": 191,
+      "score": 329,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787508541,
-      "score": 38,
+      "score": 59,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787508493,
-      "score": 78,
-      "category": "tools",
+      "score": 100,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787507992,
-      "score": 146,
-      "category": "industry",
+      "score": 219,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787498011,
-      "score": 234,
-      "category": "industry",
+      "score": 273,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787451910,
-      "score": 36,
+      "score": 55,
       "category": "industry",
       "tags": [
         "国际"
