@@ -1,28 +1,41 @@
 {
-  "updated": "2026-08-24 20:29 UTC",
+  "updated": "2026-08-25 01:12 UTC",
   "count": 14,
   "items": [
     {
-      "title": "Qwen 3.6 is now much easier to run locally on your Mac, thanks to JetBrains",
-      "url": "https://www.neowin.net/news/qwen-36-is-now-much-easier-to-run-locally-on-your-mac-thanks-to-jetbrains/",
+      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+      "url": "https://github.com/murerkinn/bookshelf",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787600871,
-      "score": 7,
-      "category": "tools",
+      "ts": 1787612437,
+      "score": 25,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
-      "url": "https://github.com/l3a0/claude-plugins",
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787599938,
-      "score": 19,
+      "ts": 1787609620,
+      "score": 199,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787605298,
+      "score": 49,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787598186,
-      "score": 33,
-      "category": "tools",
+      "score": 88,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -44,11 +57,11 @@
     {
       "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
       "url": "https://github.com/getkern/kern",
-      "desc": "",
+      "desc": "I built kern because I needed a fast, zero-daemon tool to set CPU&#x2F;RAM limits and run isolated tasks without the overhead of Docker. It&#x27;s a single 1.5MB Rust binary using OCI images, cgroup v",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787595899,
-      "score": 25,
+      "score": 48,
       "category": "industry",
       "tags": [
         "国际"
@@ -62,7 +75,7 @@
       "sourceColor": "#ff6600",
       "ts": 1787593994,
       "score": 1,
-      "category": "industry",
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787592202,
-      "score": 9,
-      "category": "tools",
+      "score": 43,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787587697,
-      "score": 53,
-      "category": "industry",
+      "score": 92,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787586753,
-      "score": 319,
-      "category": "llm",
+      "score": 450,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787586525,
-      "score": 254,
-      "category": "industry",
+      "score": 321,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787585284,
-      "score": 387,
-      "category": "tools",
+      "score": 550,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,21 +152,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787584963,
-      "score": 226,
-      "category": "industry",
+      "score": 289,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://pantel.is/projects/ai-gaming-companion/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787553007,
-      "score": 165,
-      "category": "llm",
+      "ts": 1787527097,
+      "score": 341,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -165,21 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787517489,
-      "score": 461,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: A puzzle I couldn't solve for a year – cubers cracked it in an hour",
-      "url": "https://skimmiq.com/pt/",
-      "desc": "Dev here. I created a puzzle that looks like Rubik&#x27;s cube but works differently. Instead of turning faces, closed bands of 12 stickers slide around the cube. Every scramble is solvable. I built o",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787331947,
-      "score": 9,
-      "category": "industry",
+      "score": 505,
+      "category": "llm",
       "tags": [
         "国际"
       ]
