@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-25 01:12 UTC",
-  "count": 14,
+  "updated": "2026-08-25 04:37 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "Headlong: A Microharness for Persistent Agents",
+      "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787630059,
+      "score": 8,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
       "url": "https://github.com/murerkinn/bookshelf",
@@ -9,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787612437,
-      "score": 25,
-      "category": "llm",
+      "score": 60,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787609620,
-      "score": 199,
-      "category": "industry",
+      "score": 316,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787605298,
-      "score": 49,
-      "category": "industry",
+      "score": 70,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787598186,
-      "score": 88,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
-      "url": "https://github.com/getkern/kern",
-      "desc": "I built kern because I needed a fast, zero-daemon tool to set CPU&#x2F;RAM limits and run isolated tasks without the overhead of Docker. It&#x27;s a single 1.5MB Rust binary using OCI images, cgroup v",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787595899,
-      "score": 48,
-      "category": "industry",
+      "score": 112,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -75,19 +75,19 @@
       "sourceColor": "#ff6600",
       "ts": 1787593994,
       "score": 1,
-      "category": "tools",
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Agent Lightning v1.0",
-      "url": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
+      "title": "Characterizing Agentic Flooding of Government Services",
+      "url": "https://arxiv.org/abs/2608.16603",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787592202,
-      "score": 43,
+      "ts": 1787589021,
+      "score": 63,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787587697,
-      "score": 92,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Coding expertise is going to collapse from AI reliance",
-      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787586753,
-      "score": 450,
-      "category": "tools",
+      "score": 104,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787586525,
-      "score": 321,
-      "category": "tools",
+      "score": 339,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,34 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787585284,
-      "score": 550,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-      "url": "https://developers.openai.com/api/docs/pricing",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787584963,
-      "score": 289,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I built a low-latency AI companion that plays Skyrim with me",
-      "url": "https://pantel.is/projects/ai-gaming-companion/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787527097,
-      "score": 341,
-      "category": "industry",
+      "score": 614,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -178,7 +139,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787517489,
-      "score": 505,
+      "score": 529,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Training AI to Paint with Code",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787513969,
+      "score": 44,
       "category": "llm",
       "tags": [
         "国际"
