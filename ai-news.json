@@ -1,16 +1,81 @@
 {
-  "updated": "2026-08-25 16:36 UTC",
-  "count": 14,
+  "updated": "2026-08-25 20:27 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "Anthropic Sees over $30T in Potential Revenue",
-      "url": "https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea",
+      "title": "OpenAI's Head of Data Centers Has Left the Company",
+      "url": "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787674811,
-      "score": 12,
+      "ts": 1787686659,
+      "score": 10,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+      "url": "https://pgbot.dev/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787682657,
+      "score": 44,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Dolly Parton has died",
+      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+      "desc": "https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;entertainment&#x2F;dolly-parton-de...https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;arts&#x2F;music&#x2F;dolly-parton-d..",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787680942,
+      "score": 698,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
+      "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787678932,
+      "score": 1,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
+      "url": "https://github.com/jeffhajewski/latticedb",
+      "desc": "We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better.",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787676725,
+      "score": 59,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Run Minecraft in a Windows sandbox for computer use agents",
+      "url": "https://cua.ai/docs/how-to-guides/sandbox/minecraft",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787674188,
+      "score": 18,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,151 +87,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787671421,
-      "score": 143,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787669338,
-      "score": 50,
+      "score": 224,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "desc": "",
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "url": "https://github.com/ThinkOffApp/CarWatch",
+      "desc": "Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer&#x27;s cloud se",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787662882,
-      "score": 478,
+      "ts": 1787671220,
+      "score": 36,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-      "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
-      "desc": "",
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "desc": "https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-08-25&#x2F;openai-cl..., https:&#x2F;&#x2F;archive.ph&#x2F;yCTrr",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787661180,
-      "score": 99,
+      "ts": 1787666762,
+      "score": 159,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Headlong: A Microharness for Persistent Agents",
-      "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787630059,
-      "score": 106,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-      "url": "https://github.com/murerkinn/bookshelf",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787612437,
-      "score": 154,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787609620,
-      "score": 570,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787605298,
-      "score": 143,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LLMs could control their host machines by exploiting inference engines",
-      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787598186,
-      "score": 179,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-      "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787593994,
-      "score": 1,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787585284,
-      "score": 813,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I were 17, I'd learn how to build LLMs from scratch",
-      "url": "https://twitter.com/paulg/status/2091544343589060625",
-      "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;paulg&#x2F;status&#x2F;2091544343589060625",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787517489,
-      "score": 583,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -178,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787513969,
-      "score": 171,
+      "score": 189,
       "category": "tools",
       "tags": [
         "国际"
