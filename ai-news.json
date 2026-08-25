@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25 08:40 UTC",
-  "count": 13,
+  "updated": "2026-08-25 12:45 UTC",
+  "count": 12,
   "items": [
     {
       "title": "Show HN: Screen memory without screenshots, just text to Markdown",
@@ -9,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787632404,
-      "score": 41,
-      "category": "industry",
+      "score": 56,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787630059,
-      "score": 50,
+      "score": 86,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787612437,
-      "score": 88,
-      "category": "industry",
+      "score": 121,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787609620,
-      "score": 433,
-      "category": "industry",
+      "score": 512,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787605298,
-      "score": 89,
-      "category": "llm",
+      "score": 121,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787598186,
-      "score": 136,
-      "category": "industry",
+      "score": 163,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -88,7 +88,7 @@
       "sourceColor": "#ff6600",
       "ts": 1787593994,
       "score": 1,
-      "category": "tools",
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787589021,
-      "score": 68,
-      "category": "industry",
+      "score": 71,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787587697,
-      "score": 115,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "IPFS Maintainers Winding Down",
-      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787586525,
-      "score": 343,
+      "score": 138,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787585284,
-      "score": 693,
-      "category": "llm",
+      "score": 755,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -152,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787517489,
-      "score": 541,
-      "category": "industry",
+      "score": 564,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -165,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787513969,
-      "score": 82,
+      "score": 125,
       "category": "tools",
       "tags": [
         "国际"
