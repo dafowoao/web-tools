@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-25 04:37 UTC",
-  "count": 12,
+  "updated": "2026-08-25 08:40 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+      "url": "https://github.com/dragthelake/ambient-context",
+      "desc": "It&#x27;s a macOS menu bar app that reads the text of your focused window every few seconds through the Accessibility API. No screenshots, no video, or OCR. It writes plain markdown, one file per day,",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787632404,
+      "score": 41,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Headlong: A Microharness for Persistent Agents",
       "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
@@ -9,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787630059,
-      "score": 8,
+      "score": 50,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787612437,
-      "score": 60,
-      "category": "tools",
+      "score": 88,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787609620,
-      "score": 316,
-      "category": "llm",
+      "score": 433,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787605298,
-      "score": 70,
+      "score": 89,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787598186,
-      "score": 112,
-      "category": "tools",
+      "score": 136,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -75,7 +88,7 @@
       "sourceColor": "#ff6600",
       "ts": 1787593994,
       "score": 1,
-      "category": "industry",
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787589021,
-      "score": 63,
-      "category": "llm",
+      "score": 68,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787587697,
-      "score": 104,
+      "score": 115,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787586525,
-      "score": 339,
+      "score": 343,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787585284,
-      "score": 614,
-      "category": "tools",
+      "score": 693,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787517489,
-      "score": 529,
-      "category": "tools",
+      "score": 541,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787513969,
-      "score": 44,
-      "category": "llm",
+      "score": 82,
+      "category": "tools",
       "tags": [
         "国际"
       ]
