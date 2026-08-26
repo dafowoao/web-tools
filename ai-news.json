@@ -1,16 +1,29 @@
 {
-  "updated": "2026-08-26 04:38 UTC",
+  "updated": "2026-08-26 08:41 UTC",
   "count": 12,
   "items": [
     {
-      "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
-      "url": "https://news.ycombinator.com/item?id=49443820",
-      "desc": "I am looking for ideas on what to train a specialized model for!What is one simple thing you repeatedly ask ChatGPT, Claude, or another model to do that it still somehow messes up?",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787714271,
+      "ts": 1787729491,
+      "score": 24,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "I miss the old Claude Code",
+      "url": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787726075,
       "score": 22,
-      "category": "industry",
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,20 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787711725,
-      "score": 9,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The brain may be about to have its Ozempic moment",
-      "url": "https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787704841,
-      "score": 64,
+      "score": 49,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787697607,
-      "score": 48,
+      "score": 77,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787695730,
-      "score": 70,
-      "category": "llm",
+      "score": 92,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787680942,
-      "score": 1328,
+      "score": 1442,
       "category": "tools",
       "tags": [
         "国际"
@@ -88,7 +88,7 @@
       "sourceColor": "#ff6600",
       "ts": 1787678932,
       "score": 1,
-      "category": "industry",
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787676725,
-      "score": 128,
+      "score": 151,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787671220,
-      "score": 117,
-      "category": "industry",
+      "score": 135,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787666762,
-      "score": 386,
-      "category": "industry",
+      "score": 466,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787643131,
-      "score": 27,
-      "category": "tools",
+      "score": 29,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787513969,
-      "score": 199,
-      "category": "industry",
+      "score": 207,
+      "category": "llm",
       "tags": [
         "国际"
       ]
