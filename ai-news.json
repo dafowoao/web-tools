@@ -1,7 +1,98 @@
 {
-  "updated": "2026-08-26 16:47 UTC",
+  "updated": "2026-08-26 22:45 UTC",
   "count": 11,
   "items": [
+    {
+      "title": "WebMCP Challenge – OpenAI",
+      "url": "https://openai.com/webmcp-challenge/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787777404,
+      "score": 13,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: We built the smallest dual-band aircraft tracker",
+      "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
+      "desc": "We&#x27;ve been building open source embedded ADS-B receivers for a while, and spent the past 8 months smallifying our existing receiver tech with a new chip from Semtech. Ask me anything about ADSB o",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787776724,
+      "score": 14,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Devx – Autonomous AI coding agent built for Android Termux and desktop",
+      "url": "https://github.com/apvcode/Termux-Dev",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787776632,
+      "score": 7,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Serve Markdown to AI Agents with Accept Headers",
+      "url": "https://acceptmarkdown.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787773559,
+      "score": 62,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The turbulent AI era is here. The choices we make now are critical",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787772947,
+      "score": 11,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "url": "https://github.com/tailscale/tailcat",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787766142,
+      "score": 410,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Build your own theme park",
+      "url": "https://www.magicpatterns.com/theme-park",
+      "desc": "I built an agent that helps you build Rollercoaster Tycoon-influenced theme parks. You can prompt something like “Build me a cool theme park” and it’ll build a cohesive theme park with multiple worlds",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787762401,
+      "score": 19,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
       "url": "https://www.risklytics.ai/",
@@ -9,125 +100,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787760361,
-      "score": 5,
+      "score": 24,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "US sanctions Italian hosting provider for encrypted email to Antifa and PKK",
-      "url": "https://home.treasury.gov/news/press-releases/sb0616",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787759809,
-      "score": 18,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787759715,
-      "score": 11,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "It's so hard to finish an idea that is not yours (and suggested by AI)",
+      "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
       "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787758205,
-      "score": 32,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
-      "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787756535,
-      "score": 43,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AurionMail: E2EE suite (CryptPad/Stalwart) with single-password UX",
-      "url": "https://github.com/AurionMail/docs",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787756471,
-      "score": 24,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "VMs won't contain cyber-capable agents",
-      "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787755770,
-      "score": 9,
+      "score": 155,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: How much of Hacker News is AI?",
-      "url": "https://hnstats.com",
-      "desc": "This website counts titles containing the standalone word &quot;AI&quot;, case-sensitive and\nword-bounded. &quot;OpenAI&quot; doesn&#x27;t count. &quot;AI-powered&quot; does. There&#x27;s a toggle for",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787753765,
-      "score": 42,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "France reaches 94.9% fiber coverage in 2026",
-      "url": "https://cartefibre.arcep.fr",
+      "title": "PageRank explained",
+      "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787751155,
-      "score": 141,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787738695,
-      "score": 377,
-      "category": "industry",
+      "ts": 1787754545,
+      "score": 113,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787733557,
-      "score": 323,
+      "score": 418,
       "category": "tools",
       "tags": [
         "国际"
