@@ -1,29 +1,55 @@
 {
-  "updated": "2026-08-26 08:41 UTC",
-  "count": 12,
+  "updated": "2026-08-26 12:50 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+      "title": "Debian polls its developers on AI: permit or ban?",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787729491,
-      "score": 24,
+      "ts": 1787740297,
+      "score": 32,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787738695,
+      "score": 196,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "XCancel and Nitter are receiving C&D letters from XCorp",
+      "url": "https://news.ycombinator.com/item?id=49446210",
+      "desc": "https:&#x2F;&#x2F;xcancel.com\n&quot;On Monday 24th August at 8PM EST, we received at letter from X Corp. asking to cease and desist the service XCancel.\nThe service XCancel is stopped until further no",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787736878,
+      "score": 97,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "I miss the old Claude Code",
-      "url": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/",
+      "title": "RAG Is Simpler Than You Think",
+      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787726075,
-      "score": 22,
-      "category": "tools",
+      "ts": 1787733557,
+      "score": 167,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787711725,
-      "score": 49,
-      "category": "industry",
+      "score": 67,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787697607,
-      "score": 77,
+      "score": 95,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787695730,
-      "score": 92,
-      "category": "tools",
+      "score": 104,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787680942,
-      "score": 1442,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
-      "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787678932,
-      "score": 1,
+      "score": 1497,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787676725,
-      "score": 151,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-      "url": "https://github.com/ThinkOffApp/CarWatch",
-      "desc": "Found that you can actually run a 35B Qwen model on a Pi with very impressive intelligence and stability. Built connectors for car ODB to read all about car internals, and manufacturer&#x27;s cloud se",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787671220,
-      "score": 135,
-      "category": "tools",
+      "score": 164,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,34 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787666762,
-      "score": 466,
+      "score": 524,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I built self-hosted deployment automation tool for Windows and IIS",
-      "url": "https://fdeploy.com/",
-      "desc": "Seven years in the making (I admit that I did get a kid at some point which slowed down progress and brought it to a halt quite a few times), I decided to finaly release it, with a rather drastic chan",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787643131,
-      "score": 29,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Training AI to Paint with Code",
-      "url": "https://surya.website/rling-qwen-to-paint-with-code",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787513969,
-      "score": 207,
-      "category": "llm",
       "tags": [
         "国际"
       ]
