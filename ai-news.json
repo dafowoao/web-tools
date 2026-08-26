@@ -1,16 +1,120 @@
 {
-  "updated": "2026-08-26 12:50 UTC",
-  "count": 10,
+  "updated": "2026-08-26 16:47 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Debian polls its developers on AI: permit or ban?",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/26/debian-polls-its-developers-on-whether-to-burn-the-bots-tame-the-bots-or-let-em-loose/5292270",
+      "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
+      "url": "https://www.risklytics.ai/",
+      "desc": "Hi HN, we&#x27;re Sam and Alex, founders of Risklytics (https:&#x2F;&#x2F;risklytics.ai). We&#x27;re both on leave from Harvard, and we run an insurance brokerage for companies building robots, drones",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787760361,
+      "score": 5,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "US sanctions Italian hosting provider for encrypted email to Antifa and PKK",
+      "url": "https://home.treasury.gov/news/press-releases/sb0616",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787740297,
-      "score": 32,
+      "ts": 1787759809,
+      "score": 18,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787759715,
+      "score": 11,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "It's so hard to finish an idea that is not yours (and suggested by AI)",
+      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787758205,
+      "score": 32,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
+      "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787756535,
+      "score": 43,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AurionMail: E2EE suite (CryptPad/Stalwart) with single-password UX",
+      "url": "https://github.com/AurionMail/docs",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787756471,
+      "score": 24,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "VMs won't contain cyber-capable agents",
+      "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787755770,
+      "score": 9,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: How much of Hacker News is AI?",
+      "url": "https://hnstats.com",
+      "desc": "This website counts titles containing the standalone word &quot;AI&quot;, case-sensitive and\nword-bounded. &quot;OpenAI&quot; doesn&#x27;t count. &quot;AI-powered&quot; does. There&#x27;s a toggle for",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787753765,
+      "score": 42,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "France reaches 94.9% fiber coverage in 2026",
+      "url": "https://cartefibre.arcep.fr",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787751155,
+      "score": 141,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787738695,
-      "score": 196,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "XCancel and Nitter are receiving C&D letters from XCorp",
-      "url": "https://news.ycombinator.com/item?id=49446210",
-      "desc": "https:&#x2F;&#x2F;xcancel.com\n&quot;On Monday 24th August at 8PM EST, we received at letter from X Corp. asking to cease and desist the service XCancel.\nThe service XCancel is stopped until further no",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787736878,
-      "score": 97,
-      "category": "llm",
+      "score": 377,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,85 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787733557,
-      "score": 167,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
-      "url": "https://arxiv.org/abs/2607.21503",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787711725,
-      "score": 67,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
-      "url": "https://github.com/runetes/maiao",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787697607,
-      "score": 95,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-      "url": "https://github.com/swimmingbrain/texbrain",
-      "desc": "I&#x27;m a master&#x27;s engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortun",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787695730,
-      "score": 104,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Dolly Parton has died",
-      "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "desc": "https:&#x2F;&#x2F;www.cnn.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;entertainment&#x2F;dolly-parton-de...https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;08&#x2F;25&#x2F;arts&#x2F;music&#x2F;dolly-parton-d..",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787680942,
-      "score": 1497,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
-      "url": "https://github.com/jeffhajewski/latticedb",
-      "desc": "We have been using graph DBs more and more at work. I found them painful to work with locally and decided to try and build something better.",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787676725,
-      "score": 164,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "desc": "https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-08-25&#x2F;openai-cl..., https:&#x2F;&#x2F;archive.ph&#x2F;yCTrr",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787666762,
-      "score": 524,
+      "score": 323,
       "category": "tools",
       "tags": [
         "国际"
