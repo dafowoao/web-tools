@@ -1,29 +1,29 @@
 {
-  "updated": "2026-08-25 20:27 UTC",
-  "count": 10,
+  "updated": "2026-08-26 01:15 UTC",
+  "count": 9,
   "items": [
     {
-      "title": "OpenAI's Head of Data Centers Has Left the Company",
-      "url": "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83",
+      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "url": "https://github.com/runetes/maiao",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787686659,
-      "score": 10,
-      "category": "industry",
+      "ts": 1787697607,
+      "score": 23,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
-      "url": "https://pgbot.dev/",
-      "desc": "",
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "url": "https://github.com/swimmingbrain/texbrain",
+      "desc": "I&#x27;m a master&#x27;s engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortun",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787682657,
-      "score": 44,
-      "category": "industry",
+      "ts": 1787695730,
+      "score": 41,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787680942,
-      "score": 698,
-      "category": "tools",
+      "score": 1189,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,33 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787676725,
-      "score": 59,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Run Minecraft in a Windows sandbox for computer use agents",
-      "url": "https://cua.ai/docs/how-to-guides/sandbox/minecraft",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787674188,
-      "score": 18,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How much of HN is AI?",
-      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787671421,
-      "score": 224,
+      "score": 105,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787671220,
-      "score": 36,
-      "category": "llm",
+      "score": 94,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787666762,
-      "score": 159,
-      "category": "llm",
+      "score": 316,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: I built self-hosted deployment automation tool for Windows and IIS",
+      "url": "https://fdeploy.com/",
+      "desc": "Seven years in the making (I admit that I did get a kid at some point which slowed down progress and brought it to a halt quite a few times), I decided to finaly release it, with a rather drastic chan",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787643131,
+      "score": 16,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787513969,
-      "score": 189,
-      "category": "tools",
+      "score": 195,
+      "category": "industry",
       "tags": [
         "国际"
       ]
