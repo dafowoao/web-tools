@@ -1,28 +1,145 @@
 {
-  "updated": "2026-08-27 07:46 UTC",
-  "count": 11,
+  "updated": "2026-08-27 18:52 UTC",
+  "count": 14,
   "items": [
     {
-      "title": "Laion Big Video Dataset",
-      "url": "https://projects.laion.ai/bvd/",
+      "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+      "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787795426,
-      "score": 53,
+      "ts": 1787851993,
+      "score": 88,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "title": "Gemini Omni 1.1 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787795182,
-      "score": 482,
+      "ts": 1787850392,
+      "score": 45,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Bild AI (YC W25) is hiring product and AI engineers",
+      "url": "https://www.bild.ai/jobs",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787850014,
+      "score": 1,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",
+      "url": "https://github.com/kelviq/tare",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787848664,
+      "score": 45,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "CMS with AI, Not AI CMS: Wagtail 8.0's New API",
+      "url": "https://wagtail.org/blog/cms-with-ai-not-ai-cms-wagtail-80s-new-api/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787848341,
+      "score": 12,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
+      "url": "https://news.ycombinator.com/item?id=49466715",
+      "desc": "Hi HN, we&#x27;re the founders of Salem Robotics (https:&#x2F;&#x2F;salemroboticsinc.com). We give existing mobile robots the task-specific intelligence to carry out surveys and physically interactive",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787845564,
+      "score": 27,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Nvidia projects $673B in sales as AI demand widens",
+      "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787843056,
+      "score": 90,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "507 Mechanical Movements",
+      "url": "https://507movements.com/",
+      "desc": "Book (1868): https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;fivehundredseven00browiala",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787839698,
+      "score": 329,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
+      "url": "https://aiandeducation.mit.edu/report/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787836065,
+      "score": 78,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: The load-bearing vocabulary of Claude",
+      "url": "https://louisabraham.github.io/load-bearing/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787821189,
+      "score": 160,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Humanity has the debate about AI consciousness backwards",
+      "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
+      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;uLYYURelated: Don’t mistake chatbot intelligence for consciousness - https:&#x2F;&#x2F;www.economist.com&#x2F;by-invitation&#x2F;2026&#x2F;08&#x2F;20&#x2F;dont-mist..",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787798227,
+      "score": 42,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,111 +152,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787793175,
-      "score": 908,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Serve Markdown to AI Agents with Accept Headers",
-      "url": "https://acceptmarkdown.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787773559,
-      "score": 123,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
-      "url": "https://github.com/tailscale/tailcat",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787766142,
-      "score": 553,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Build your own theme park",
-      "url": "https://www.magicpatterns.com/theme-park",
-      "desc": "I built an agent that helps you build Rollercoaster Tycoon-influenced theme parks. You can prompt something like “Build me a cool theme park” and it’ll build a cohesive theme park with multiple worlds",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787762401,
-      "score": 43,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
-      "url": "https://www.risklytics.ai/",
-      "desc": "Hi HN, we&#x27;re Sam and Alex, founders of Risklytics (https:&#x2F;&#x2F;risklytics.ai). We&#x27;re both on leave from Harvard, and we run an insurance brokerage for companies building robots, drones",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787760361,
-      "score": 51,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787759715,
-      "score": 226,
+      "score": 1743,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
-      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
-      "desc": "",
+      "title": "Show HN: A lightweight, stateless database for agent memory",
+      "url": "https://polign.com/blog-edge-agent-memory",
+      "desc": "I&#x27;ve been working on Polign and built a small prototype around something I&#x27;ve been thinking about with agent memory. I have built a lightweight&#x2F;stateless vector db + BM25 search which w",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787758205,
-      "score": 201,
+      "ts": 1787757891,
+      "score": 11,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "VMs won't contain cyber-capable agents",
-      "url": "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/",
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787755770,
-      "score": 161,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "RAG Is Simpler Than You Think",
-      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787733557,
-      "score": 453,
+      "ts": 1787743434,
+      "score": 68,
       "category": "tools",
       "tags": [
         "国际"
