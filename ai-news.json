@@ -1,15 +1,106 @@
 {
-  "updated": "2026-08-27 18:52 UTC",
-  "count": 14,
+  "updated": "2026-08-28 04:03 UTC",
+  "count": 16,
   "items": [
     {
-      "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
-      "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go",
+      "title": "Alphabet stock sheds $700B as AI bills climb",
+      "url": "https://www.semafor.com/article/08/27/2026/alphabet-stock-sheds-700b-as-ai-bills-climb",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787851993,
-      "score": 88,
+      "ts": 1787883791,
+      "score": 14,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787882618,
+      "score": 112,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Stripe said to abandon $50B pursuit of PayPal",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787882246,
+      "score": 42,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "url": "https://www.terminal-bench-science.ai/announcement",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787875611,
+      "score": 52,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI Engineer Notebooks – free, framework-free RAG/agents/evals on Colab",
+      "url": "https://github.com/calmrocks/ai-engineer-notebooks",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787867199,
+      "score": 64,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "url": "https://github.com/experientiallabs/experiential",
+      "desc": "Hi HN, we built an open source model gateway. It&#x27;s a single place to manage our own self hosted, frontier, and open source models in one place.It’s is rust native, built for concurrency, and impl",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787865515,
+      "score": 131,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Gemini-3.5-Transcribe",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787853822,
+      "score": 182,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Voronoi Go",
+      "url": "https://voronoigo.com/",
+      "desc": "I posted once before but wanted to share again because a lot has changed. There&#x27;s now a fairly strong bot to play against (contributed by a community member) and also correspondence games. The co",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787853817,
+      "score": 100,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,47 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787850392,
-      "score": 45,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Bild AI (YC W25) is hiring product and AI engineers",
-      "url": "https://www.bild.ai/jobs",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787850014,
-      "score": 1,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",
-      "url": "https://github.com/kelviq/tare",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787848664,
-      "score": 45,
+      "score": 202,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "CMS with AI, Not AI CMS: Wagtail 8.0's New API",
-      "url": "https://wagtail.org/blog/cms-with-ai-not-ai-cms-wagtail-80s-new-api/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787848341,
-      "score": 12,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787845564,
-      "score": 27,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Nvidia projects $673B in sales as AI demand widens",
-      "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787843056,
-      "score": 90,
-      "category": "llm",
+      "score": 43,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787839698,
-      "score": 329,
+      "score": 508,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787836065,
-      "score": 78,
-      "category": "tools",
+      "score": 122,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787821189,
-      "score": 160,
-      "category": "llm",
+      "score": 393,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,8 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787798227,
-      "score": 42,
-      "category": "llm",
+      "score": 91,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -152,20 +191,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787793175,
-      "score": 1743,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: A lightweight, stateless database for agent memory",
-      "url": "https://polign.com/blog-edge-agent-memory",
-      "desc": "I&#x27;ve been working on Polign and built a small prototype around something I&#x27;ve been thinking about with agent memory. I have built a lightweight&#x2F;stateless vector db + BM25 search which w",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787757891,
-      "score": 11,
+      "score": 1850,
       "category": "tools",
       "tags": [
         "国际"
@@ -178,7 +204,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787743434,
-      "score": 68,
+      "score": 239,
       "category": "tools",
       "tags": [
         "国际"
