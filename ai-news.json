@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-29 10:50 UTC",
-  "count": 7,
+  "updated": "2026-08-29 16:16 UTC",
+  "count": 6,
   "items": [
+    {
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788012130,
+      "score": 239,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "StemDeck, a free, open-source and local AI stem separator",
       "url": "https://github.com/stemdeckapp/stemdeck",
@@ -9,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787966653,
-      "score": 106,
+      "score": 168,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,34 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787959665,
-      "score": 162,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Sesame - a local-first, open-source password manager",
-      "url": "https://usesesame.app/",
-      "desc": "I have been working on Sesame, an open-source password manager that keeps your vault local by default. You don&#x27;t need an account to create or use a vault, and the hosted service never receives th",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787944454,
-      "score": 52,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-      "url": "https://arxiv.org/abs/2608.23691",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787936472,
-      "score": 108,
-      "category": "tools",
+      "score": 221,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787930413,
-      "score": 704,
+      "score": 752,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,20 +61,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787921933,
-      "score": 609,
+      "score": 669,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
-      "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;ni6I3https:&#x2F;&#x2F;storage.courtlistener.com&#x2F;recap&#x2F;gov.uscourts.cand.46...",
+      "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
+      "url": "https://typebase.io",
+      "desc": "Hey HN!I built Typebase, a library that gives you Convex&#x27;s DX with Supabase&#x27;s openness.After trying Supabase I liked how fast it is to spin up a DB and auth, but really didn&#x27;t like usin",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787882618,
-      "score": 575,
+      "ts": 1787744011,
+      "score": 38,
       "category": "llm",
       "tags": [
         "国际"
