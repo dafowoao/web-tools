@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-29 02:43 UTC",
-  "count": 10,
+  "updated": "2026-08-29 10:50 UTC",
+  "count": 7,
   "items": [
     {
       "title": "StemDeck, a free, open-source and local AI stem separator",
@@ -9,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787966653,
-      "score": 28,
-      "category": "llm",
+      "score": 106,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,34 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787959665,
-      "score": 28,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Identifying fake cosmetics using AI",
-      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787955507,
-      "score": 34,
+      "score": 162,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Stopping the smart TV from being used against you",
-      "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787948877,
-      "score": 156,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787944454,
-      "score": 41,
+      "score": 52,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787936472,
-      "score": 85,
-      "category": "llm",
+      "score": 108,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787930413,
-      "score": 610,
-      "category": "llm",
+      "score": 704,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,20 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787921933,
-      "score": 498,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787898837,
-      "score": 462,
+      "score": 609,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787882618,
-      "score": 542,
+      "score": 575,
       "category": "llm",
       "tags": [
         "国际"
