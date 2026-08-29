@@ -1,16 +1,55 @@
 {
-  "updated": "2026-08-29 16:16 UTC",
-  "count": 6,
+  "updated": "2026-08-29 22:24 UTC",
+  "count": 7,
   "items": [
     {
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "url": "https://lwn.net/Articles/1091231/",
+      "title": "Domain-Driven Agents",
+      "url": "https://coldtake.dev/blog/domain-driven-agents",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788012130,
-      "score": 239,
+      "ts": 1788031708,
+      "score": 23,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "LLMs are making me lose my savviness",
+      "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788028732,
+      "score": 49,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "vLLM v0.28.0",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788027720,
+      "score": 63,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788023987,
+      "score": 181,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787966653,
-      "score": 168,
-      "category": "tools",
+      "score": 190,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,33 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787959665,
-      "score": 221,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GLM-5.3 is now open-weight",
-      "url": "https://huggingface.co/zai-org/GLM-5.3",
-      "desc": "https:&#x2F;&#x2F;twitter.com&#x2F;Zai_org&#x2F;status&#x2F;2093354097122455713https:&#x2F;&#x2F;z.ai&#x2F;blog&#x2F;glm-5.3",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787930413,
-      "score": 752,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "U.S. sanctions against the A/I Collective",
-      "url": "https://www.inventati.org/",
-      "desc": "Earlier:US Government designates host of noblogs.org a &quot;global terrorist&quot; - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49464391 -  (131 comments)US sanctions Italian hosting provide",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787921933,
-      "score": 669,
+      "score": 266,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787744011,
-      "score": 38,
+      "score": 87,
       "category": "llm",
       "tags": [
         "国际"
