@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-30 03:54 UTC",
-  "count": 10,
+  "updated": "2026-08-30 09:46 UTC",
+  "count": 9,
   "items": [
+    {
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "url": "https://arxiv.org/abs/1804.07389",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788078206,
+      "score": 28,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
       "url": "https://github.com/mk6i/open-oscar-server",
@@ -9,7 +22,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788050015,
-      "score": 5,
+      "score": 38,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Rise and Fall of Agent Civilizations",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788047004,
+      "score": 111,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,34 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788045437,
-      "score": 170,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
-      "url": "https://defrag98.com",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788043877,
-      "score": 105,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Domain-Driven Agents",
-      "url": "https://coldtake.dev/blog/domain-driven-agents",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788031708,
-      "score": 67,
-      "category": "llm",
+      "score": 299,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788023987,
-      "score": 290,
-      "category": "industry",
+      "score": 390,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788018482,
-      "score": 151,
-      "category": "industry",
+      "score": 196,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787966653,
-      "score": 209,
+      "score": 226,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787959665,
-      "score": 280,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Typebase – A single-folder back end you write in TypeScript",
-      "url": "https://typebase.io",
-      "desc": "Hey HN!I built Typebase, a library that gives you Convex&#x27;s DX with Supabase&#x27;s openness.After trying Supabase I liked how fast it is to spin up a DB and auth, but really didn&#x27;t like usin",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787744011,
-      "score": 101,
-      "category": "industry",
+      "score": 290,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787684247,
-      "score": 20,
-      "category": "industry",
+      "score": 68,
+      "category": "tools",
       "tags": [
         "国际"
       ]
