@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-30 16:08 UTC",
-  "count": 10,
+  "updated": "2026-08-30 22:25 UTC",
+  "count": 8,
   "items": [
+    {
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788122813,
+      "score": 27,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Haiku R1/beta6 has been released",
+      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788105670,
+      "score": 211,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Claude Session URL appended to commit messages and PR descriptions by default",
       "url": "https://github.com/anthropics/claude-code/issues/66504",
@@ -9,46 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788094254,
-      "score": 97,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "No AI Fridays",
-      "url": "https://noaifridays.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788093065,
-      "score": 190,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-      "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788085211,
-      "score": 52,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "What We Tell AI",
-      "url": "https://www.whatwetellai.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788084974,
-      "score": 6,
+      "score": 173,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,34 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788078206,
-      "score": 157,
+      "score": 184,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-      "url": "https://github.com/mk6i/open-oscar-server",
+      "title": "The Rise and Fall of Agent Civilizations",
+      "url": "https://www.dwarkesh.com/p/openai-huggingface",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788050015,
-      "score": 51,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788045437,
-      "score": 377,
-      "category": "industry",
+      "ts": 1788047004,
+      "score": 208,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,20 +74,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788018482,
-      "score": 257,
-      "category": "llm",
+      "score": 278,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Dad's Custom Atari Peripherals – By Jim Trageser",
-      "url": "https://www.goto10retro.com/p/dads-custom-atari-peripherals",
+      "title": "Electric rain can eat through metal",
+      "url": "https://www.scientificamerican.com/article/electric-rain-can-eat-through-metal/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787851221,
-      "score": 14,
+      "ts": 1787832251,
+      "score": 80,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787577595,
-      "score": 73,
+      "score": 120,
       "category": "llm",
       "tags": [
         "国际"
