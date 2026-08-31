@@ -1,15 +1,67 @@
 {
-  "updated": "2026-08-31 03:57 UTC",
-  "count": 8,
+  "updated": "2026-08-31 10:43 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "Why do I lose my passion and want to do nothing?",
-      "url": "https://news.ycombinator.com/item?id=49505014",
-      "desc": "When AI makes results readily available, why do I lose my passion and want to do nothing?",
+      "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
+      "url": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788144037,
-      "score": 55,
+      "ts": 1788165181,
+      "score": 3,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788162558,
+      "score": 54,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+      "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788161027,
+      "score": 41,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Code reduces it's weekly limit by 17% – compared to today",
+      "url": "https://twitter.com/ClaudeDevs/status/2093742322525810912",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788159725,
+      "score": 30,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "P99 0 ms* autocomplete for 240M domain names",
+      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788146433,
+      "score": 131,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788139702,
-      "score": 74,
-      "category": "tools",
+      "score": 196,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788133292,
-      "score": 24,
-      "category": "industry",
+      "score": 101,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788122813,
-      "score": 68,
+      "score": 111,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788105670,
-      "score": 270,
-      "category": "industry",
+      "score": 326,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788078206,
-      "score": 196,
+      "score": 204,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787832251,
-      "score": 102,
-      "category": "industry",
+      "score": 112,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787756684,
-      "score": 36,
-      "category": "industry",
+      "score": 46,
+      "category": "tools",
       "tags": [
         "国际"
       ]
