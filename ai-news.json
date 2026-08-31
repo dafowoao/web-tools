@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-30 22:25 UTC",
+  "updated": "2026-08-31 03:57 UTC",
   "count": 8,
   "items": [
+    {
+      "title": "Why do I lose my passion and want to do nothing?",
+      "url": "https://news.ycombinator.com/item?id=49505014",
+      "desc": "When AI makes results readily available, why do I lose my passion and want to do nothing?",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788144037,
+      "score": 55,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788139702,
+      "score": 74,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How to build a diffusion language model",
+      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788133292,
+      "score": 24,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Continuous Diffusion Language Models (CDLM's)",
       "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
@@ -9,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788122813,
-      "score": 27,
-      "category": "industry",
+      "score": 68,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788105670,
-      "score": 211,
+      "score": 270,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-      "url": "https://github.com/anthropics/claude-code/issues/66504",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788094254,
-      "score": 173,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,34 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788078206,
-      "score": 184,
+      "score": 196,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Rise and Fall of Agent Civilizations",
-      "url": "https://www.dwarkesh.com/p/openai-huggingface",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788047004,
-      "score": 208,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Nancy Grace Roman Space Telescope",
-      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
-      "desc": "https:&#x2F;&#x2F;nextspaceflight.com&#x2F;launches&#x2F;details&#x2F;6983&#x2F;https:&#x2F;&#x2F;www.npr.org&#x2F;2026&#x2F;08&#x2F;28&#x2F;nx-s1-5905370&#x2F;nasa-nancy-grac...https:&#x2F;&#x2F;en.w",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788018482,
-      "score": 278,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,21 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787832251,
-      "score": 80,
-      "category": "tools",
+      "score": 102,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "What my dad taught me about AI coding in the 90s",
-      "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
+      "title": "Commercially Available Bike Generators Are Not Sustainable (2011)",
+      "url": "https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787577595,
-      "score": 120,
-      "category": "llm",
+      "ts": 1787756684,
+      "score": 36,
+      "category": "industry",
       "tags": [
         "国际"
       ]
