@@ -1,29 +1,55 @@
 {
-  "updated": "2026-08-31 18:50 UTC",
-  "count": 12,
+  "updated": "2026-08-31 23:38 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
-      "desc": "https:&#x2F;&#x2F;cybercity.carino.systems&#x2F;https:&#x2F;&#x2F;github.com&#x2F;MiguelCarino&#x2F;CyberCityASCII City: Traffic and Detail Update - https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=DSRo",
+      "title": "How we configured OpenTelemetry logs in Rails",
+      "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788200493,
-      "score": 15,
+      "ts": 1788210742,
+      "score": 13,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Autonomous (YC F25) is hiring engineers",
+      "url": "https://news.ycombinator.com/item?id=49514781",
+      "desc": "ATG (Autonomous Technologies Group) is an AI lab deploying frontier reasoning systems within financial markets. Autonomous (https:&#x2F;&#x2F;becomeautonomous.com) is an agentic wealth strategist buil",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788210009,
+      "score": 1,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "url": "https://jobs.ashbyhq.com/workweave",
-      "desc": "",
+      "title": "Show HN: Markdown Viewer and Editor",
+      "url": "https://kingsbridge-consultancy.com/md-viewer/",
+      "desc": "I built an online viewer and editor for .md files where the file stays on your machine. Free to use and code is available under MIT License here: https:&#x2F;&#x2F;github.com&#x2F;hattray&#x2F;markdow",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788200126,
-      "score": 1,
-      "category": "industry",
+      "ts": 1788209703,
+      "score": 12,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "desc": "ASCII City: Traffic and Detail Update - https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=DSRooHo_HSIASCII City Update: Interiors, Elevation and Skyscrapers - https:&#x2F;&#x2F;www.youtube.com&#x2F;watch",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788200493,
+      "score": 173,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788199940,
-      "score": 32,
-      "category": "tools",
+      "score": 71,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788190474,
-      "score": 23,
+      "score": 41,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788188561,
-      "score": 26,
+      "score": 35,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788185235,
-      "score": 121,
+      "score": 166,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788180082,
-      "score": 112,
-      "category": "industry",
+      "score": 268,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788175045,
-      "score": 131,
-      "category": "tools",
+      "score": 157,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,21 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788162558,
-      "score": 303,
-      "category": "industry",
+      "score": 335,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Terrance Tao explains 6 essential mathematical concepts [video]",
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
       "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788129421,
-      "score": 9,
-      "category": "tools",
+      "score": 149,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,7 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788072724,
-      "score": 18,
+      "score": 131,
       "category": "tools",
       "tags": [
         "国际"
@@ -152,7 +178,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1787776724,
-      "score": 45,
+      "score": 71,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude × retrocomputing: emulating a QIC-117 tape drive",
+      "url": "https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1787597899,
+      "score": 11,
       "category": "industry",
       "tags": [
         "国际"
