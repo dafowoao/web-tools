@@ -1,29 +1,29 @@
 {
-  "updated": "2026-09-01 03:48 UTC",
-  "count": 13,
+  "updated": "2026-09-01 09:12 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "How we configured OpenTelemetry logs in Rails",
-      "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
+      "title": "AI Can Make You Suck Faster Too",
+      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788210742,
-      "score": 25,
+      "ts": 1788240776,
+      "score": 89,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Autonomous (YC F25) is hiring engineers",
-      "url": "https://news.ycombinator.com/item?id=49514781",
-      "desc": "ATG (Autonomous Technologies Group) is an AI lab deploying frontier reasoning systems within financial markets. Autonomous (https:&#x2F;&#x2F;becomeautonomous.com) is an agentic wealth strategist buil",
+      "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
+      "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788210009,
-      "score": 1,
-      "category": "tools",
+      "ts": 1788225940,
+      "score": 40,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,20 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788200493,
-      "score": 243,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The safest job from AI may be writing",
-      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788199940,
-      "score": 120,
+      "score": 325,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788190474,
-      "score": 51,
+      "score": 53,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-      "url": "https://github.com/Hebbian-Robotics/hflow",
-      "desc": "Hi HN, we’re Brandon and Kingston, the founders of Hebbian Robotics. We built HFlow (https:&#x2F;&#x2F;github.com&#x2F;Hebbian-Robotics&#x2F;hflow), an SDK that turns multimodal recordings from robots",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788188561,
-      "score": 44,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788185235,
-      "score": 194,
+      "score": 216,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788180082,
-      "score": 332,
-      "category": "industry",
+      "score": 401,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788162558,
-      "score": 354,
-      "category": "tools",
+      "score": 369,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788129421,
-      "score": 264,
-      "category": "tools",
+      "score": 413,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,33 +113,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788072724,
-      "score": 167,
-      "category": "tools",
+      "score": 210,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: We built the smallest dual-band aircraft tracker",
-      "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
-      "desc": "We&#x27;ve been building open source embedded ADS-B receivers for a while, and spent the past 8 months smallifying our existing receiver tech with a new chip from Semtech. Ask me anything about ADSB o",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1787776724,
-      "score": 79,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude × retrocomputing: emulating a QIC-117 tape drive",
-      "url": "https://dmitrybrant.com/2026/08/23/claude-x-retrocomputing-emulating-a-qic-117-tape-drive",
+      "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1787597899,
-      "score": 26,
+      "ts": 1788038717,
+      "score": 8,
       "category": "llm",
       "tags": [
         "国际"
