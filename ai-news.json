@@ -1,29 +1,29 @@
 {
-  "updated": "2026-09-01 09:12 UTC",
-  "count": 10,
+  "updated": "2026-09-01 16:08 UTC",
+  "count": 7,
   "items": [
     {
-      "title": "AI Can Make You Suck Faster Too",
-      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
-      "desc": "",
+      "title": "Ask HN: Who is hiring? (September 2026)",
+      "url": "https://news.ycombinator.com/item?id=49522897",
+      "desc": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are p",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788240776,
-      "score": 89,
-      "category": "industry",
+      "ts": 1788274877,
+      "score": 52,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
-      "url": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
+      "title": "Saab Enters Collaborative Combat Aircraft Race with High-End Concept",
+      "url": "https://aviationweek.com/defense/aircraft-propulsion/saab-enters-collaborative-combat-aircraft-race-high-end-concept",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788225940,
-      "score": 40,
-      "category": "llm",
+      "ts": 1788272370,
+      "score": 55,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,33 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788200493,
-      "score": 325,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-      "url": "https://usealmanac.com/",
-      "desc": "Hi HN, I&#x27;m Kushagra, one of three founders of Almanac, a Hermes with a brain that knows everything about your company.We started our journey with setting up Hermes for our company, thinking it mu",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788190474,
-      "score": 53,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788185235,
-      "score": 216,
+      "score": 374,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788180082,
-      "score": 401,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788162558,
-      "score": 369,
-      "category": "industry",
+      "score": 473,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788129421,
-      "score": 413,
-      "category": "industry",
+      "score": 547,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788072724,
-      "score": 210,
-      "category": "llm",
+      "score": 261,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788038717,
-      "score": 8,
-      "category": "llm",
+      "score": 259,
+      "category": "industry",
       "tags": [
         "国际"
       ]
