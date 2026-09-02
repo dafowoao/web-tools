@@ -1,28 +1,132 @@
 {
-  "updated": "2026-09-02 08:26 UTC",
-  "count": 15,
+  "updated": "2026-09-02 16:02 UTC",
+  "count": 14,
   "items": [
     {
-      "title": "When Claude Code went rogue, years of Bengaluru heritage work disappeared",
-      "url": "https://www.deccanherald.com/india/karnataka/bengaluru/when-claude-code-went-rogue-years-of-bengaluru-heritage-work-disappeared-4131958",
+      "title": "Gemini 3.8 Flash",
+      "url": "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788336063,
-      "score": 4,
+      "ts": 1788361960,
+      "score": 145,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Mayor says 'large chunks' of Wellington council Deloitte report written by AI",
-      "url": "https://www.rnz.co.nz/news/regions/1229348/mayor-says-large-chunks-of-wellington-council-deloitte-report-written-by-ai",
+      "title": "WebLLM: high-performance in-browser LLM inference engine",
+      "url": "https://github.com/mlc-ai/web-llm",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788335446,
-      "score": 7,
+      "ts": 1788357755,
+      "score": 23,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788357599,
+      "score": 127,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "A third of Perplexity's citations don't contain the number they're cited for",
+      "url": "https://hausresearch.com/reports/perplexity-citation-audit/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788356963,
+      "score": 37,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
+      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788356594,
+      "score": 83,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "LLMs: Intelligence vs. Cost",
+      "url": "https://openteams.com/intelligence-vs-cost/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788354230,
+      "score": 38,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
+      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788353949,
+      "score": 63,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Mistral now trains on user input by default, except on enterprise tier",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788352239,
+      "score": 156,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Check if a file was made with Claude",
+      "url": "https://claude.com/check-content",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788351800,
+      "score": 66,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Quasar 438B: Europe's Leading AI Model",
+      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788343361,
+      "score": 112,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,20 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788322556,
-      "score": 108,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The efficient frontier of LLM inference",
-      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788306485,
-      "score": 110,
+      "score": 237,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,46 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788300417,
-      "score": 130,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-      "url": "https://hnmatchmaker.com/",
-      "desc": "Hi!Every month the &quot;Who Wants to Be Hired?&quot; and &quot;Who&#x27;s Hiring?&quot; Threads come through I would think to myself, &quot;there should be a match maker for these two threads&quot;.S",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788296015,
-      "score": 82,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788293277,
-      "score": 384,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "url": "https://danluu.com/zitron/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788287715,
-      "score": 665,
+      "score": 170,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,86 +165,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788285233,
-      "score": 1197,
+      "score": 1349,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-      "url": "https://www.norirobotics.com/",
-      "desc": "Hey HN, I’m Antonio from Nori Robotics (https:&#x2F;&#x2F;norirobotics.com). We build a $1,688 bimanual mobile robot in San Francisco for robotics developers and researchers.I started working on Nori ",
+      "title": "You Know Who Hates AI? Insurance Claims Adjusters",
+      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788284110,
-      "score": 156,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
-      "url": "https://news.ycombinator.com/item?id=49524704",
-      "desc": "Quill | Fullstack SWE | Full-time | Remote, PT&#x2F;ET hours preferred | $150 - 210K USD + equity | https:&#x2F;&#x2F;quill.co&#x2F;I’m a co-founder of Quill, a fullstack SDK for adding customer-facin",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788282014,
-      "score": 1,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Who is hiring? (September 2026)",
-      "url": "https://news.ycombinator.com/item?id=49522897",
-      "desc": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are p",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788274877,
-      "score": 212,
+      "ts": 1788174079,
+      "score": 126,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Who wants to be hired? (September 2026)",
-      "url": "https://news.ycombinator.com/item?id=49522896",
-      "desc": "Share your information if you are looking for work. Please use this format:  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé&#x2F;CV:\n  Email:\n\nPlease only post if you are personal",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788274877,
-      "score": 84,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
-      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788256365,
-      "score": 611,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Building Autonomous Goal Loops That Deliver",
-      "url": "https://jx0.ca/building-autonomous-goal-loops-that-deliver/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788004172,
-      "score": 39,
-      "category": "tools",
       "tags": [
         "国际"
       ]
