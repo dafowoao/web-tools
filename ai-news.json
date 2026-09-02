@@ -1,15 +1,80 @@
 {
-  "updated": "2026-09-02 16:02 UTC",
-  "count": 14,
+  "updated": "2026-09-02 22:23 UTC",
+  "count": 16,
   "items": [
     {
-      "title": "Gemini 3.8 Flash",
-      "url": "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
+      "title": "Mamdani Bans AI in NYC Schools",
+      "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
+      "ts": 1788382624,
+      "score": 78,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788379702,
+      "score": 28,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788374561,
+      "score": 55,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI is stopping startups from completing puberty",
+      "url": "https://ashley.rolfmore.com/ai-is-stopping-startups-from-completing-puberty/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788372374,
+      "score": 16,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Paint.net 5.2 alpha now runs on Linux",
+      "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788369519,
+      "score": 165,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "desc": "https:&#x2F;&#x2F;deepmind.google&#x2F;models&#x2F;model-cards&#x2F;gemini-3-8-flash&#x2F;",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
       "ts": 1788361960,
-      "score": 145,
+      "score": 734,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788357755,
-      "score": 23,
-      "category": "tools",
+      "score": 77,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,47 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788357599,
-      "score": 127,
+      "score": 258,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A third of Perplexity's citations don't contain the number they're cited for",
-      "url": "https://hausresearch.com/reports/perplexity-citation-audit/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788356963,
-      "score": 37,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
-      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788356594,
-      "score": 83,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LLMs: Intelligence vs. Cost",
-      "url": "https://openteams.com/intelligence-vs-cost/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788354230,
-      "score": 38,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,34 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788353949,
-      "score": 63,
-      "category": "llm",
+      "score": 171,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Mistral now trains on user input by default, except on enterprise tier",
+      "title": "Can I opt out of my input or output data being used for training?",
       "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788352239,
-      "score": 156,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Check if a file was made with Claude",
-      "url": "https://claude.com/check-content",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788351800,
-      "score": 66,
-      "category": "tools",
+      "score": 346,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788343361,
-      "score": 112,
-      "category": "llm",
+      "score": 156,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,47 +152,60 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788322556,
-      "score": 237,
+      "score": 269,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-      "url": "https://masteranza.github.io/weedout/",
-      "desc": "I&#x27;m the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTub",
+      "title": "Show HN: OwnTime – a chess clock for your day's priorities",
+      "url": "https://owntime.app/",
+      "desc": "I made OwnTime to balance between competing priorities in my life. The idea is based on two main influences: the concept of &quot;roles&quot; from &quot;The 5 Choices&quot; (2015), and my repeated fai",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788300417,
-      "score": 170,
+      "ts": 1788298164,
+      "score": 11,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "desc": "What&#x27;s new in Claude Fable 5.1\n – https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-n...System Card: https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;0339e",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788285233,
-      "score": 1349,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "You Know Who Hates AI? Insurance Claims Adjusters",
-      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+      "title": "A docs page is a search query to find AI agents and route them to your company",
+      "url": "https://blog.val.town/aeo",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788174079,
-      "score": 126,
+      "ts": 1788296655,
+      "score": 5,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "We could save petabytes of cache storage with Zstandard and Pingora",
+      "url": "https://blog.cloudflare.com/cache-transcoding/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788270071,
+      "score": 48,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Discontinuation of third level domain registrations for the .name TLD [pdf]",
+      "url": "https://itp.cdn.icann.org/en/files/consensus-policies/rsep-2026013-name-request-15-04-2026-en.pdf",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788218694,
+      "score": 47,
+      "category": "tools",
       "tags": [
         "国际"
       ]
