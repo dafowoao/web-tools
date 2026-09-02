@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-01 22:24 UTC",
+  "updated": "2026-09-02 03:07 UTC",
   "count": 14,
   "items": [
+    {
+      "title": "Anthropic banned me for \"suspicious signals\"",
+      "url": "https://kix.codes/anthropic-banned-me-for-suspicious-signals/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788309529,
+      "score": 11,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788306485,
+      "score": 54,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
       "url": "https://masteranza.github.io/weedout/",
@@ -9,8 +35,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788300417,
-      "score": 6,
+      "score": 73,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI is making back-office work extinct",
+      "url": "https://www.whitecollardream.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788299011,
+      "score": 20,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788296015,
-      "score": 12,
+      "score": 47,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
-      "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788293951,
-      "score": 109,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788293277,
-      "score": 157,
+      "score": 262,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The EU's repair policies are changing the way tech is designed",
-      "url": "https://theconversation.com/the-eus-repair-policies-are-changing-the-way-tech-is-designed-288468",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788292772,
-      "score": 23,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788287715,
-      "score": 228,
-      "category": "tools",
+      "score": 471,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788285233,
-      "score": 757,
+      "score": 976,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788284110,
-      "score": 97,
-      "category": "tools",
+      "score": 118,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -120,26 +133,13 @@
       ]
     },
     {
-      "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-      "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788278022,
-      "score": 184,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
       "title": "Ask HN: Who is hiring? (September 2026)",
       "url": "https://news.ycombinator.com/item?id=49522897",
       "desc": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are p",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788274877,
-      "score": 168,
+      "score": 191,
       "category": "industry",
       "tags": [
         "国际"
@@ -152,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788274877,
-      "score": 55,
-      "category": "industry",
+      "score": 81,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -165,21 +165,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788256365,
-      "score": 521,
+      "score": 588,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "American Airlines mechanic Azriel “Al” Blackman has died",
-      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+      "title": "Building Autonomous Goal Loops That Deliver",
+      "url": "https://jx0.ca/building-autonomous-goal-loops-that-deliver/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788038717,
-      "score": 361,
-      "category": "industry",
+      "ts": 1788004172,
+      "score": 20,
+      "category": "tools",
       "tags": [
         "国际"
       ]
