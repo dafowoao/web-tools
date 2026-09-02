@@ -1,16 +1,42 @@
 {
-  "updated": "2026-09-02 03:07 UTC",
-  "count": 14,
+  "updated": "2026-09-02 08:26 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "Anthropic banned me for \"suspicious signals\"",
-      "url": "https://kix.codes/anthropic-banned-me-for-suspicious-signals/",
+      "title": "When Claude Code went rogue, years of Bengaluru heritage work disappeared",
+      "url": "https://www.deccanherald.com/india/karnataka/bengaluru/when-claude-code-went-rogue-years-of-bengaluru-heritage-work-disappeared-4131958",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788309529,
-      "score": 11,
-      "category": "tools",
+      "ts": 1788336063,
+      "score": 4,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Mayor says 'large chunks' of Wellington council Deloitte report written by AI",
+      "url": "https://www.rnz.co.nz/news/regions/1229348/mayor-says-large-chunks-of-wellington-council-deloitte-report-written-by-ai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788335446,
+      "score": 7,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "url": "https://arxiv.org/abs/2608.29530",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788322556,
+      "score": 108,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788306485,
-      "score": 54,
-      "category": "tools",
+      "score": 110,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,20 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788300417,
-      "score": 73,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI is making back-office work extinct",
-      "url": "https://www.whitecollardream.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788299011,
-      "score": 20,
+      "score": 130,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788296015,
-      "score": 47,
-      "category": "tools",
+      "score": 82,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788293277,
-      "score": 262,
+      "score": 384,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788287715,
-      "score": 471,
+      "score": 665,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788285233,
-      "score": 976,
+      "score": 1197,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788284110,
-      "score": 118,
-      "category": "industry",
+      "score": 156,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -127,7 +140,7 @@
       "sourceColor": "#ff6600",
       "ts": 1788282014,
       "score": 1,
-      "category": "industry",
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788274877,
-      "score": 191,
+      "score": 212,
       "category": "industry",
       "tags": [
         "国际"
@@ -152,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788274877,
-      "score": 81,
-      "category": "llm",
+      "score": 84,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -165,7 +178,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788256365,
-      "score": 588,
+      "score": 611,
       "category": "llm",
       "tags": [
         "国际"
@@ -178,7 +191,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788004172,
-      "score": 20,
+      "score": 39,
       "category": "tools",
       "tags": [
         "国际"
