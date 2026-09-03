@@ -1,16 +1,68 @@
 {
-  "updated": "2026-09-03 08:34 UTC",
-  "count": 17,
+  "updated": "2026-09-03 15:52 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "Kids go from curious to frustrated playing with AI-stuffed toys, UW study finds",
-      "url": "https://www.geekwire.com/2026/kids-go-from-curious-to-frustrated-playing-with-ai-stuffed-toys-uw-study-finds/",
+      "title": "ChatGPT, Claude, and Grok Are Down",
+      "url": "https://www.macrumors.com/2026/09/03/chatgpt-claude-and-grok-are-down/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788423651,
-      "score": 3,
+      "ts": 1788449410,
+      "score": 11,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Inside Google’s $200bn Wall Street finance machine for Anthropic",
+      "url": "https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788449187,
+      "score": 5,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
+      "url": "https://news.ycombinator.com/item?id=49551096",
+      "desc": "https:&#x2F;&#x2F;status.openai.com\nhttps:&#x2F;&#x2F;status.claude.com\nhttps:&#x2F;&#x2F;status.x.ai",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788448021,
+      "score": 47,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Open AI X post on Astra",
+      "url": "https://twitter.com/OpenAI/status/2095527557924082061",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788447820,
+      "score": 5,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "ChatGPT Is Throwing 404",
+      "url": "https://chatgpt.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788446807,
+      "score": 300,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788388564,
-      "score": 56,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
-      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788379702,
-      "score": 57,
-      "category": "industry",
+      "score": 80,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788377704,
-      "score": 553,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
-      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788374561,
-      "score": 127,
-      "category": "tools",
+      "score": 656,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788361960,
-      "score": 994,
+      "score": 1121,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "WebLLM: high-performance in-browser LLM inference engine",
-      "url": "https://github.com/mlc-ai/web-llm",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788357755,
-      "score": 114,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788357599,
-      "score": 398,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
-      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788356594,
-      "score": 167,
-      "category": "industry",
+      "score": 490,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788353949,
-      "score": 270,
-      "category": "industry",
+      "score": 329,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,85 +139,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788352239,
-      "score": 432,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Quasar 438B: Europe's Leading AI Model",
-      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788343361,
-      "score": 173,
+      "score": 480,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "LLMs and Self-Referentiality",
-      "url": "https://scottaaronson.blog/?p=10046",
+      "title": "The Browser's Main Thread Is Expensive",
+      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788308406,
-      "score": 29,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: OwnTime – a chess clock for your day's priorities",
-      "url": "https://owntime.app/",
-      "desc": "I made OwnTime to balance between competing priorities in my life. The idea is based on two main influences: the concept of &quot;roles&quot; from &quot;The 5 Choices&quot; (2015), and my repeated fai",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788298164,
-      "score": 69,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "desc": "What&#x27;s new in Claude Fable 5.1\n – https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-n...System Card: https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;0339e",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788285233,
-      "score": 1389,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "We could save petabytes of cache storage with Zstandard and Pingora",
-      "url": "https://blog.cloudflare.com/cache-transcoding/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788270071,
-      "score": 109,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
-      "url": "https://www.nature.com/articles/s41562-026-02550-0",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788091976,
-      "score": 138,
+      "ts": 1788271215,
+      "score": 277,
       "category": "industry",
       "tags": [
         "国际"
