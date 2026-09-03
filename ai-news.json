@@ -1,29 +1,16 @@
 {
-  "updated": "2026-09-03 03:10 UTC",
-  "count": 18,
+  "updated": "2026-09-03 08:34 UTC",
+  "count": 17,
   "items": [
     {
-      "title": "US gov sides with OpenAI on issue of training LLMs on copyrighted material",
-      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "title": "Kids go from curious to frustrated playing with AI-stuffed toys, UW study finds",
+      "url": "https://www.geekwire.com/2026/kids-go-from-curious-to-frustrated-playing-with-ai-stuffed-toys-uw-study-finds/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788396841,
-      "score": 20,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
-      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788390527,
-      "score": 95,
-      "category": "industry",
+      "ts": 1788423651,
+      "score": 3,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788388564,
-      "score": 32,
-      "category": "tools",
+      "score": 56,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788379702,
-      "score": 43,
-      "category": "tools",
+      "score": 57,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788377704,
-      "score": 421,
+      "score": 553,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788374561,
-      "score": 88,
+      "score": 127,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788361960,
-      "score": 856,
+      "score": 994,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788357755,
-      "score": 92,
-      "category": "tools",
+      "score": 114,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788357599,
-      "score": 325,
-      "category": "tools",
+      "score": 398,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788356594,
-      "score": 157,
+      "score": 167,
       "category": "industry",
       "tags": [
         "国际"
@@ -139,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788353949,
-      "score": 220,
-      "category": "tools",
+      "score": 270,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788352239,
-      "score": 382,
-      "category": "industry",
+      "score": 432,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -165,20 +152,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788343361,
-      "score": 163,
-      "category": "industry",
+      "score": 173,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "url": "https://arxiv.org/abs/2608.29530",
+      "title": "LLMs and Self-Referentiality",
+      "url": "https://scottaaronson.blog/?p=10046",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788322556,
-      "score": 277,
+      "ts": 1788308406,
+      "score": 29,
       "category": "industry",
       "tags": [
         "国际"
@@ -191,21 +178,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788298164,
-      "score": 25,
-      "category": "industry",
+      "score": 69,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
-      "url": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
-      "desc": "",
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "desc": "What&#x27;s new in Claude Fable 5.1\n – https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-n...System Card: https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;0339e",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788280873,
-      "score": 137,
-      "category": "tools",
+      "ts": 1788285233,
+      "score": 1389,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -217,8 +204,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788270071,
-      "score": 75,
-      "category": "industry",
+      "score": 109,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -230,7 +217,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788091976,
-      "score": 49,
+      "score": 138,
       "category": "industry",
       "tags": [
         "国际"
