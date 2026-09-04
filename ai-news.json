@@ -1,41 +1,80 @@
 {
-  "updated": "2026-09-04 15:50 UTC",
+  "updated": "2026-09-04 18:50 UTC",
   "count": 14,
   "items": [
     {
-      "title": "Pause OpenAI Now",
-      "url": "https://garymarcus.substack.com/p/pause-openai-now",
-      "desc": "",
+      "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+      "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;3zcMG",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788535447,
-      "score": 28,
+      "ts": 1788542962,
+      "score": 97,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "GMails custom domain \"send as\" discontinues January 2027",
-      "url": "https://support.google.com/mail/answer/22370?hl=en",
-      "desc": "",
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "url": "https://opentrailpaper.com",
+      "desc": "Hey all, i just launched my Eink Bike computer project and think it is cool.Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788534183,
-      "score": 50,
-      "category": "tools",
+      "ts": 1788542288,
+      "score": 84,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
+      "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+      "url": "https://twitter.com/ggerganov/status/2095897173376618881",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788541942,
+      "score": 33,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Stop Thinking of LLMs as Next-Token Predictors",
+      "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788541764,
+      "score": 3,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Corporate America is getting hooked on open-source AI",
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788536025,
+      "score": 174,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How Fairphone built the Fairphone Gen 6+",
       "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788525829,
-      "score": 100,
+      "score": 162,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788523155,
-      "score": 209,
-      "category": "industry",
+      "score": 320,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -57,38 +96,25 @@
     {
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
-      "desc": "",
+      "desc": "https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-...",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788522893,
-      "score": 654,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
-      "url": "https://carbonawarepricing.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788509997,
-      "score": 72,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788470434,
-      "score": 270,
+      "score": 1091,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "desc": "I love research and development, you may have heard of me because of PJON (Padded Jittering Operative Network). It is a network protocol I started developing in 2010, which was recently implemented in",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788512580,
+      "score": 23,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788460865,
-      "score": 2009,
+      "score": 2099,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788460333,
-      "score": 637,
-      "category": "tools",
+      "score": 665,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,21 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788445698,
-      "score": 341,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Reactor Atlas",
-      "url": "https://reactoratlas.com",
-      "desc": "Hi HN, I&#x27;m a nuclear engineer and tech entrepreneur. After working for 3 years in the National Atomic Energy Commision (CNEA) in HPC software for nuclear simulations, I co-founded ratherlabs.com,",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788438781,
-      "score": 52,
-      "category": "llm",
+      "score": 359,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788397882,
-      "score": 415,
-      "category": "tools",
+      "score": 452,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -165,21 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788289354,
-      "score": 409,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Xanadu was waiting for agents",
-      "url": "https://zed.dev/blog/agentic-xanadu",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788288642,
-      "score": 141,
-      "category": "industry",
+      "score": 443,
+      "category": "llm",
       "tags": [
         "国际"
       ]
