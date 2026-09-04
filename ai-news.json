@@ -1,16 +1,81 @@
 {
-  "updated": "2026-09-04 08:30 UTC",
-  "count": 13,
+  "updated": "2026-09-04 15:50 UTC",
+  "count": 14,
   "items": [
     {
-      "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
-      "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+      "title": "Pause OpenAI Now",
+      "url": "https://garymarcus.substack.com/p/pause-openai-now",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788493226,
-      "score": 70,
+      "ts": 1788535447,
+      "score": 28,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GMails custom domain \"send as\" discontinues January 2027",
+      "url": "https://support.google.com/mail/answer/22370?hl=en",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788534183,
+      "score": 50,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
+      "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788525829,
+      "score": 100,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788523155,
+      "score": 209,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788522893,
+      "score": 654,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
+      "url": "https://carbonawarepricing.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788509997,
+      "score": 72,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,20 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788470434,
-      "score": 202,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "url": "https://arcprize.org/blog/astra",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788464700,
-      "score": 205,
+      "score": 270,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788460865,
-      "score": 1730,
+      "score": 2009,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788460333,
-      "score": 540,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
-      "url": "https://news.ycombinator.com/item?id=49551096",
-      "desc": "https:&#x2F;&#x2F;status.openai.comhttps:&#x2F;&#x2F;status.claude.comhttps:&#x2F;&#x2F;status.x.aiChatGPT outage – Resolved - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49550614 (315 comment",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788448021,
-      "score": 368,
-      "category": "llm",
+      "score": 637,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788445698,
-      "score": 285,
+      "score": 341,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788438781,
-      "score": 22,
+      "score": 52,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788397882,
-      "score": 285,
-      "category": "llm",
+      "score": 415,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,7 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788289354,
-      "score": 301,
+      "score": 409,
       "category": "tools",
       "tags": [
         "国际"
@@ -139,34 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788288642,
-      "score": 118,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The browser's main thread is expensive",
-      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788271215,
-      "score": 402,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How to get a free .arpa domain",
-      "url": "https://hawksley.dev/blog/get-free-arpa-domain",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788214918,
       "score": 141,
-      "category": "tools",
+      "category": "industry",
       "tags": [
         "国际"
       ]
