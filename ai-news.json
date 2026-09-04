@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03 22:19 UTC",
-  "count": 11,
+  "updated": "2026-09-04 03:08 UTC",
+  "count": 12,
   "items": [
     {
       "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
@@ -9,7 +9,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788470434,
-      "score": 21,
+      "score": 118,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788464700,
-      "score": 118,
-      "category": "industry",
+      "score": 174,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788460865,
-      "score": 995,
+      "score": 1407,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788460333,
-      "score": 363,
+      "score": 471,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,8 +61,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788448021,
-      "score": 300,
+      "score": 340,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: I made a word building game supporting anagrams and one handed use",
+      "url": "https://news.ycombinator.com/item?id=49550479",
+      "desc": "Hi everyone,Wanted to share a game I built. It&#x27;s called Unscramble! and I believe it&#x27;s the simplest word building game.Rules: You get a few letters on screen. You need to make one word with ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788446241,
+      "score": 11,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788445698,
-      "score": 141,
-      "category": "tools",
+      "score": 209,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788397882,
-      "score": 131,
+      "score": 212,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788289354,
-      "score": 101,
-      "category": "industry",
+      "score": 214,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788288642,
-      "score": 49,
-      "category": "tools",
+      "score": 93,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788271215,
-      "score": 360,
-      "category": "llm",
+      "score": 379,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788214918,
-      "score": 96,
-      "category": "industry",
+      "score": 124,
+      "category": "tools",
       "tags": [
         "国际"
       ]
