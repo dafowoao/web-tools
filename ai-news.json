@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-04 03:08 UTC",
-  "count": 12,
+  "updated": "2026-09-04 08:30 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+      "url": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788493226,
+      "score": 70,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
       "url": "https://armature.tech/blog/which-tools-coding-agents-install",
@@ -9,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788470434,
-      "score": 118,
-      "category": "llm",
+      "score": 202,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788464700,
-      "score": 174,
-      "category": "tools",
+      "score": 205,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788460865,
-      "score": 1407,
+      "score": 1730,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788460333,
-      "score": 471,
-      "category": "tools",
+      "score": 540,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788448021,
-      "score": 340,
+      "score": 368,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I made a word building game supporting anagrams and one handed use",
-      "url": "https://news.ycombinator.com/item?id=49550479",
-      "desc": "Hi everyone,Wanted to share a game I built. It&#x27;s called Unscramble! and I believe it&#x27;s the simplest word building game.Rules: You get a few letters on screen. You need to make one word with ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788446241,
-      "score": 11,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788445698,
-      "score": 209,
+      "score": 285,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Reactor Atlas",
+      "url": "https://reactoratlas.com",
+      "desc": "Hi HN, I&#x27;m a nuclear engineer and tech entrepreneur. After working for 3 years in the National Atomic Energy Commision (CNEA) in HPC software for nuclear simulations, I co-founded ratherlabs.com,",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788438781,
+      "score": 22,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788397882,
-      "score": 212,
-      "category": "tools",
+      "score": 285,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788289354,
-      "score": 214,
+      "score": 301,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788288642,
-      "score": 93,
-      "category": "industry",
+      "score": 118,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788271215,
-      "score": 379,
+      "score": 402,
       "category": "industry",
       "tags": [
         "国际"
@@ -152,7 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788214918,
-      "score": 124,
+      "score": 141,
       "category": "tools",
       "tags": [
         "国际"
