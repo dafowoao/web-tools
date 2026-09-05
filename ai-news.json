@@ -1,20 +1,7 @@
 {
-  "updated": "2026-09-05 14:40 UTC",
-  "count": 12,
+  "updated": "2026-09-05 17:56 UTC",
+  "count": 10,
   "items": [
-    {
-      "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788604329,
-      "score": 11,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "AI handles incidents, engineers lose touch with their systems",
       "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
@@ -22,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788594770,
-      "score": 250,
-      "category": "llm",
+      "score": 298,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788565130,
-      "score": 184,
-      "category": "industry",
+      "score": 218,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788557959,
-      "score": 263,
-      "category": "llm",
+      "score": 279,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,20 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788551309,
-      "score": 299,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Government Rails Site Hit Hours After CVE Patch",
-      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788548799,
-      "score": 105,
+      "score": 314,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788547376,
-      "score": 668,
-      "category": "llm",
+      "score": 706,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788542288,
-      "score": 329,
-      "category": "tools",
+      "score": 355,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788522893,
-      "score": 1851,
-      "category": "industry",
+      "score": 1948,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788512580,
-      "score": 162,
-      "category": "llm",
+      "score": 171,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788460865,
-      "score": 2201,
+      "score": 2211,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788341051,
-      "score": 171,
-      "category": "industry",
+      "score": 198,
+      "category": "llm",
       "tags": [
         "国际"
       ]
