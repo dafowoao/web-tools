@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-04 22:08 UTC",
-  "count": 14,
+  "updated": "2026-09-05 03:10 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "Show HN: Moadim.io – A scheduler for agents",
+      "url": "https://moadim.io/",
+      "desc": "Why can&#x27;t we get an agent scheduler that supports all of the following:- git compatible- agent agnostic- 100% open source- os and system-agnostic- multi-runner support- support mcp&#x2F;ui&#x2F;h",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788565829,
+      "score": 17,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
+      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788565130,
+      "score": 46,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "GPT-6 Astra on OpenRouter",
       "url": "https://openrouter.ai/openai/gpt-6-astra",
@@ -9,21 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788557959,
-      "score": 4,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Fermat's Last Theorem: Anthropic has beaten me to it",
-      "url": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788555602,
-      "score": 25,
-      "category": "llm",
+      "score": 140,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788551309,
-      "score": 82,
-      "category": "industry",
+      "score": 181,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788548799,
-      "score": 52,
+      "score": 77,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788547376,
-      "score": 346,
+      "score": 522,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,60 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788542288,
-      "score": 191,
+      "score": 246,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
+      "title": "“Next-token predictor” is the wrong mental model for LLMs",
       "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788541764,
-      "score": 42,
+      "score": 93,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Corporate America is getting hooked on open-source AI",
-      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
-      "desc": "https:&#x2F;&#x2F;archive.is&#x2F;kmOqm",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788536025,
-      "score": 239,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How Fairphone built the Fairphone Gen 6+",
-      "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788525829,
-      "score": 183,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788523155,
-      "score": 355,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788522893,
-      "score": 1363,
-      "category": "tools",
+      "score": 1519,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788512580,
-      "score": 78,
+      "score": 96,
       "category": "industry",
       "tags": [
         "国际"
@@ -165,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788460865,
-      "score": 2138,
+      "score": 2159,
       "category": "llm",
       "tags": [
         "国际"
@@ -178,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788199801,
-      "score": 13,
-      "category": "tools",
+      "score": 34,
+      "category": "llm",
       "tags": [
         "国际"
       ]
