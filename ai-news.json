@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-05 17:56 UTC",
-  "count": 10,
+  "updated": "2026-09-05 21:56 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+      "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788639959,
+      "score": 33,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "LLMs as a Cognitive Virus",
+      "url": "https://arxiv.org/abs/2609.03344",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788638555,
+      "score": 77,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788615065,
+      "score": 94,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "AI handles incidents, engineers lose touch with their systems",
       "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
@@ -9,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788594770,
-      "score": 298,
-      "category": "tools",
+      "score": 354,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788565130,
-      "score": 218,
-      "category": "llm",
+      "score": 239,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788557959,
-      "score": 279,
-      "category": "industry",
+      "score": 295,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788551309,
-      "score": 314,
+      "score": 352,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788547376,
-      "score": 706,
-      "category": "industry",
+      "score": 733,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788542288,
-      "score": 355,
-      "category": "llm",
+      "score": 380,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,20 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788522893,
-      "score": 1948,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-      "desc": "I love research and development, you may have heard of me because of PJON (Padded Jittering Operative Network). It is a network protocol I started developing in 2010, which was recently implemented in",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788512580,
-      "score": 171,
+      "score": 2045,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788460865,
-      "score": 2211,
+      "score": 2216,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788341051,
-      "score": 198,
-      "category": "llm",
+      "score": 224,
+      "category": "industry",
       "tags": [
         "国际"
       ]
