@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-05 03:10 UTC",
-  "count": 12,
+  "updated": "2026-09-05 08:05 UTC",
+  "count": 14,
   "items": [
+    {
+      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
+      "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788579536,
+      "score": 28,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Moadim.io – A scheduler for agents",
       "url": "https://moadim.io/",
@@ -9,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788565829,
-      "score": 17,
+      "score": 24,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788565130,
-      "score": 46,
-      "category": "llm",
+      "score": 105,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788557959,
-      "score": 140,
-      "category": "tools",
+      "score": 203,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788551309,
-      "score": 181,
+      "score": 243,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788548799,
-      "score": 77,
+      "score": 92,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788547376,
-      "score": 522,
+      "score": 591,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788542288,
-      "score": 246,
-      "category": "industry",
+      "score": 278,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788541764,
-      "score": 93,
-      "category": "llm",
+      "score": 110,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788522893,
-      "score": 1519,
-      "category": "llm",
+      "score": 1668,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788512580,
-      "score": 96,
-      "category": "industry",
+      "score": 118,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,21 +152,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788460865,
-      "score": 2159,
+      "score": 2168,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The Wormhole Hall of Shame",
-      "url": "https://rznicolet.com/2026/07/05/wormhole-hall-of-shame/",
-      "desc": "In which I expound on a very petty complaint about fictional wormholes.",
+      "title": "Ask HN: Resources to get good at soldering?",
+      "url": "https://news.ycombinator.com/item?id=49533840",
+      "desc": "Hello. I&#x27;ve recently started soldering, specifically wanting to repair the joysticks on several Playstation 4 controllers I have, but I also want to get good at electronic repair in general.Right",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788199801,
-      "score": 34,
+      "ts": 1788341051,
+      "score": 113,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Praearcturus gigas: giant scorpion from Lower Devonian (Lochkovian) of Britain",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/pala.70064",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788271519,
+      "score": 15,
+      "category": "industry",
       "tags": [
         "国际"
       ]
