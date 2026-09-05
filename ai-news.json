@@ -1,28 +1,28 @@
 {
-  "updated": "2026-09-05 08:05 UTC",
-  "count": 14,
+  "updated": "2026-09-05 14:40 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-      "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
+      "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
+      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788579536,
-      "score": 28,
-      "category": "industry",
+      "ts": 1788604329,
+      "score": 11,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Moadim.io – A scheduler for agents",
-      "url": "https://moadim.io/",
-      "desc": "Why can&#x27;t we get an agent scheduler that supports all of the following:- git compatible- agent agnostic- 100% open source- os and system-agnostic- multi-runner support- support mcp&#x2F;ui&#x2F;h",
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788565829,
-      "score": 24,
+      "ts": 1788594770,
+      "score": 250,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788565130,
-      "score": 105,
+      "score": 184,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788557959,
-      "score": 203,
-      "category": "industry",
+      "score": 263,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788551309,
-      "score": 243,
+      "score": 299,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788548799,
-      "score": 92,
-      "category": "industry",
+      "score": 105,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788547376,
-      "score": 591,
-      "category": "industry",
+      "score": 668,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788542288,
-      "score": 278,
+      "score": 329,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "“Next-token predictor” is the wrong mental model for LLMs",
-      "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788541764,
-      "score": 110,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788522893,
-      "score": 1668,
-      "category": "tools",
+      "score": 1851,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788512580,
-      "score": 118,
+      "score": 162,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788460865,
-      "score": 2168,
+      "score": 2201,
       "category": "llm",
       "tags": [
         "国际"
@@ -165,20 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788341051,
-      "score": 113,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Praearcturus gigas: giant scorpion from Lower Devonian (Lochkovian) of Britain",
-      "url": "https://onlinelibrary.wiley.com/doi/10.1111/pala.70064",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788271519,
-      "score": 15,
+      "score": 171,
       "category": "industry",
       "tags": [
         "国际"
