@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-06 08:23 UTC",
-  "count": 13,
+  "updated": "2026-09-06 14:59 UTC",
+  "count": 7,
   "items": [
+    {
+      "title": "Don't Use a gmail.com Address",
+      "url": "https://crookedtimber.org/2026/09/03/dont-use-a-gmail-com-address/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788695424,
+      "score": 43,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "AI, Tools and Transformation",
       "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
@@ -9,21 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788660766,
-      "score": 40,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GPT-6 Astra on robot arms",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788659565,
-      "score": 168,
-      "category": "industry",
+      "score": 107,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,20 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788651587,
-      "score": 355,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-      "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788639959,
-      "score": 67,
+      "score": 508,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788638555,
-      "score": 261,
-      "category": "llm",
+      "score": 335,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,47 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788615065,
-      "score": 166,
+      "score": 193,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GPT-6 Astra on OpenRouter",
-      "url": "https://openrouter.ai/openai/gpt-6-astra",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788557959,
-      "score": 311,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Can AI design circuit boards yet?",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788551309,
-      "score": 407,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Open-Source eInk Bike Computer",
-      "url": "https://opentrailpaper.com",
-      "desc": "Hey all, i just launched my Eink Bike computer project and think it is cool.Another tidbit, in the crazy things that AI has done... It has helped create a ANT (common sensor wireless protocol used in ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788542288,
-      "score": 396,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,47 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788522893,
-      "score": 2176,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Watch the 'Eclipse of the Century' Next Year When Spain, Egypt and More Go Dark",
-      "url": "https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788354483,
-      "score": 18,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Resources to get good at soldering?",
-      "url": "https://news.ycombinator.com/item?id=49533840",
-      "desc": "Hello. I&#x27;ve recently started soldering, specifically wanting to repair the joysticks on several Playstation 4 controllers I have, but I also want to get good at electronic repair in general.Right",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788341051,
-      "score": 254,
+      "score": 2227,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Fly By – retro biplane flying game",
-      "url": "https://michaelteter.com/flyby.html",
-      "desc": "Feedback welcome.  Best on desktop.  Works on mobile, but needs more polish there.My concept, my guidance, and Gemini Flash doing the work.  Took about 4 hours and 50+ conversations with Gemini.Big Ku",
+      "title": "Fileregister: Tagging and reference layer for your files, in plain text",
+      "url": "https://github.com/rhsev/fileregister",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788247898,
-      "score": 82,
-      "category": "industry",
+      "ts": 1788275016,
+      "score": 9,
+      "category": "tools",
       "tags": [
         "国际"
       ]
