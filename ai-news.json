@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-06 03:10 UTC",
+  "updated": "2026-09-06 08:23 UTC",
   "count": 13,
   "items": [
+    {
+      "title": "AI, Tools and Transformation",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788660766,
+      "score": 40,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "GPT-6 Astra on robot arms",
       "url": "https://openai.robocurve.org/gpt-6-astra/",
@@ -9,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788659565,
-      "score": 37,
+      "score": 168,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,21 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788651587,
-      "score": 108,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
-      "url": "https://github.com/okf-memory/okf-agent-memory",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788646552,
-      "score": 42,
-      "category": "industry",
+      "score": 355,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788639959,
-      "score": 62,
+      "score": 67,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788638555,
-      "score": 194,
+      "score": 261,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788615065,
-      "score": 141,
+      "score": 166,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788557959,
-      "score": 304,
-      "category": "tools",
+      "score": 311,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788551309,
-      "score": 387,
+      "score": 407,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Formalizing Fermat's Last Theorem",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "desc": "https:&#x2F;&#x2F;xenaproject.wordpress.com&#x2F;2026&#x2F;09&#x2F;04&#x2F;flt-anthropic-h...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788547376,
-      "score": 748,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788542288,
-      "score": 389,
-      "category": "tools",
+      "score": 396,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,8 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788522893,
-      "score": 2129,
-      "category": "tools",
+      "score": 2176,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Watch the 'Eclipse of the Century' Next Year When Spain, Egypt and More Go Dark",
+      "url": "https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788354483,
+      "score": 18,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788341051,
-      "score": 246,
+      "score": 254,
       "category": "tools",
       "tags": [
         "国际"
@@ -165,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788247898,
-      "score": 54,
-      "category": "llm",
+      "score": 82,
+      "category": "industry",
       "tags": [
         "国际"
       ]
