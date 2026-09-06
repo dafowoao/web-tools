@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-05 21:56 UTC",
-  "count": 12,
+  "updated": "2026-09-06 03:10 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "GPT-6 Astra on robot arms",
+      "url": "https://openai.robocurve.org/gpt-6-astra/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788659565,
+      "score": 37,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Chrome again exempts Google from user site data settings",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788651587,
+      "score": 108,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OKF Agent Memory – Git-native persistent memory for AI coding agents",
+      "url": "https://github.com/okf-memory/okf-agent-memory",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788646552,
+      "score": 42,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
       "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
@@ -9,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788639959,
-      "score": 33,
+      "score": 62,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788638555,
-      "score": 77,
-      "category": "tools",
+      "score": 194,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,34 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788615065,
-      "score": 94,
+      "score": 141,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788594770,
-      "score": 354,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-      "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788565130,
-      "score": 239,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788557959,
-      "score": 295,
+      "score": 304,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788551309,
-      "score": 352,
-      "category": "llm",
+      "score": 387,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788547376,
-      "score": 733,
+      "score": 748,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788542288,
-      "score": 380,
+      "score": 389,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,21 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788522893,
-      "score": 2045,
+      "score": 2129,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GPT-6 Astra",
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "desc": "System Card: https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-6-astraRelated ongoing threads:OpenAI&#x27;s GPT-6 Astra on ARC-AGI-3 - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49555691",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788460865,
-      "score": 2216,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,8 +152,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788341051,
-      "score": 224,
-      "category": "industry",
+      "score": 246,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Fly By – retro biplane flying game",
+      "url": "https://michaelteter.com/flyby.html",
+      "desc": "Feedback welcome.  Best on desktop.  Works on mobile, but needs more polish there.My concept, my guidance, and Gemini Flash doing the work.  Took about 4 hours and 50+ conversations with Gemini.Big Ku",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788247898,
+      "score": 54,
+      "category": "llm",
       "tags": [
         "国际"
       ]
