@@ -1,16 +1,29 @@
 {
-  "updated": "2026-09-06 14:59 UTC",
-  "count": 7,
+  "updated": "2026-09-06 18:05 UTC",
+  "count": 6,
   "items": [
     {
-      "title": "Don't Use a gmail.com Address",
-      "url": "https://crookedtimber.org/2026/09/03/dont-use-a-gmail-com-address/",
+      "title": "We monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788695424,
+      "ts": 1788712675,
+      "score": 30,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788707324,
       "score": 43,
-      "category": "llm",
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788660766,
-      "score": 107,
-      "category": "tools",
+      "score": 133,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788651587,
-      "score": 508,
+      "score": 532,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,20 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788638555,
-      "score": 335,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788615065,
-      "score": 193,
+      "score": 353,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,20 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788522893,
-      "score": 2227,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Fileregister: Tagging and reference layer for your files, in plain text",
-      "url": "https://github.com/rhsev/fileregister",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788275016,
-      "score": 9,
+      "score": 2248,
       "category": "tools",
       "tags": [
         "国际"
