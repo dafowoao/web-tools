@@ -1,15 +1,28 @@
 {
-  "updated": "2026-09-06 18:05 UTC",
-  "count": 6,
+  "updated": "2026-09-06 21:58 UTC",
+  "count": 4,
   "items": [
     {
-      "title": "We monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
-      "desc": "",
+      "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
+      "url": "https://getvodforge.com/",
+      "desc": "I built VODForge because I work with a CTV company that needed to pull YouTube videos from our channel partners into our media workflow.Converter sites are always an option but the bitrate wasn&#x27;t",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788712675,
-      "score": 30,
+      "ts": 1788725250,
+      "score": 17,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: UK Rescue Rocket Sheds/Houses Information",
+      "url": "https://news.ycombinator.com/item?id=49589730",
+      "desc": "I can&#x27;t seem to find pictures or significant details (nothing on Wikipedia) about the coastal buildings purportedly used to contain shipwreck rescue rocket apparatus. Many of the buildings still ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788721614,
+      "score": 19,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,60 +35,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788707324,
-      "score": 43,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI, Tools and Transformation",
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788660766,
-      "score": 133,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Chrome again exempts Google from user site data settings",
-      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788651587,
-      "score": 532,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LLMs as a Cognitive Virus",
-      "url": "https://arxiv.org/abs/2609.03344",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788638555,
-      "score": 353,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Discovery of a new OpenAI agent message board",
-      "url": "https://collusion.wiki/",
-      "desc": "https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;openai-agents-hijacked-...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788522893,
-      "score": 2248,
+      "score": 87,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Reverse engineering the storage format for an undocumented database",
+      "url": "https://blog.glazer.ee/posts/converting-cronos/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788506220,
+      "score": 3,
+      "category": "industry",
       "tags": [
         "国际"
       ]
