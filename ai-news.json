@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-07 03:09 UTC",
-  "count": 4,
+  "updated": "2026-09-07 08:58 UTC",
+  "count": 8,
   "items": [
+    {
+      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
+      "url": "https://github.com/timgordontg/engrim",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788756576,
+      "score": 31,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+      "url": "https://github.com/trailofbits/coop",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788754708,
+      "score": 20,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "ripwire: ripgrep of AI context (CLI+MCP) giving coding agents a map of any repo",
+      "url": "https://github.com/redhat-et/ripwire",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788747100,
+      "score": 11,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Research acceleration: The view inside OpenAI",
       "url": "https://openai.com/index/research-acceleration-view-inside-openai",
@@ -9,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788707324,
-      "score": 126,
-      "category": "llm",
+      "score": 169,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,21 +61,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788695803,
-      "score": 564,
-      "category": "industry",
+      "score": 643,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "AI, Tools and Transformation",
-      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
-      "desc": "",
+      "title": "Ask HN: Fable hacked my piano, can I release the results?",
+      "url": "https://news.ycombinator.com/item?id=49577129",
+      "desc": "I have a self playing piano, using a system called PianoDisc Protigy. They have an online store which sells music for their system, from various modern artists along with classics such as Bach and Bee",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788660766,
-      "score": 147,
-      "category": "llm",
+      "ts": 1788620084,
+      "score": 148,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788506220,
-      "score": 28,
-      "category": "llm",
+      "score": 51,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "NIXI has killed the \"Dot In\" domain name (2025)",
+      "url": "https://www.naavi.org/wp/nixi-has-killed-the-dot-in-domain-name/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788463593,
+      "score": 7,
+      "category": "industry",
       "tags": [
         "国际"
       ]
