@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-07 17:20 UTC",
-  "count": 7,
+  "updated": "2026-09-07 22:31 UTC",
+  "count": 8,
   "items": [
     {
-      "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-      "url": "https://news.ycombinator.com/item?id=49600233",
-      "desc": "In case you&#x27;re wondering why the limits behave so very different from last week. Also: this makes limit resets kind woth significantly less.",
+      "title": "The smallest edge AI device for local LLMs",
+      "url": "https://tiiny.ai/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788799232,
-      "score": 15,
+      "ts": 1788815352,
+      "score": 16,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788786048,
-      "score": 379,
-      "category": "tools",
+      "score": 453,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788781597,
-      "score": 201,
-      "category": "llm",
+      "score": 266,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Initial effects of AI technology on employment look positive",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "desc": "https:&#x2F;&#x2F;archive.md&#x2F;5hi5i",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788777512,
+      "score": 60,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,47 +61,47 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788773201,
-      "score": 96,
-      "category": "industry",
+      "score": 125,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "url": "https://arxiv.org/abs/2607.24888",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788707324,
-      "score": 197,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Fable hacked my piano, can I release the results?",
-      "url": "https://news.ycombinator.com/item?id=49577129",
-      "desc": "I have a self playing piano, using a system called PianoDisc Protigy. They have an online store which sells music for their system, from various modern artists along with classics such as Bach and Bee",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788620084,
-      "score": 241,
+      "ts": 1788607518,
+      "score": 92,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: I made a word building game supporting anagrams and one handed use",
-      "url": "https://news.ycombinator.com/item?id=49550479",
-      "desc": "Hi everyone,Wanted to share a game I built. It&#x27;s called Unscramble! and I believe it&#x27;s the simplest word building game.Rules: You get a few letters on screen. You need to make one word with ",
+      "title": "Show HN: Interactive Tree of Life",
+      "url": "https://ptree.org/",
+      "desc": "Ptree consolidates of 11 taxonomic trees, both categorical like we used in school (plant, animalia) and phylogenetic (evolutionary descent), with instant crosswalk between them.Across those trees it o",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788446241,
+      "ts": 1788482406,
       "score": 25,
-      "category": "tools",
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "WeatherNext 3",
+      "url": "https://deepmind.google/science/weathernext/",
+      "desc": "Paper [pdf]: https:&#x2F;&#x2F;storage.googleapis.com&#x2F;deepmind-media&#x2F;papers&#x2F;weather...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788451568,
+      "score": 164,
+      "category": "llm",
       "tags": [
         "国际"
       ]
