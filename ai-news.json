@@ -1,42 +1,55 @@
 {
-  "updated": "2026-09-07 08:58 UTC",
-  "count": 8,
+  "updated": "2026-09-07 17:20 UTC",
+  "count": 7,
   "items": [
     {
-      "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-      "url": "https://github.com/timgordontg/engrim",
-      "desc": "",
+      "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+      "url": "https://news.ycombinator.com/item?id=49600233",
+      "desc": "In case you&#x27;re wondering why the limits behave so very different from last week. Also: this makes limit resets kind woth significantly less.",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788756576,
-      "score": 31,
-      "category": "industry",
+      "ts": 1788799232,
+      "score": 15,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-      "url": "https://github.com/trailofbits/coop",
+      "title": "De-Brainrot Vacations",
+      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788754708,
-      "score": 20,
-      "category": "industry",
+      "ts": 1788786048,
+      "score": 379,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "ripwire: ripgrep of AI context (CLI+MCP) giving coding agents a map of any repo",
-      "url": "https://github.com/redhat-et/ripwire",
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788747100,
-      "score": 11,
+      "ts": 1788781597,
+      "score": 201,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788773201,
+      "score": 96,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788707324,
-      "score": 169,
+      "score": 197,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788695803,
-      "score": 643,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,34 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788620084,
-      "score": 148,
+      "score": 241,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: I made a word building game supporting anagrams and one handed use",
+      "url": "https://news.ycombinator.com/item?id=49550479",
+      "desc": "Hi everyone,Wanted to share a game I built. It&#x27;s called Unscramble! and I believe it&#x27;s the simplest word building game.Rules: You get a few letters on screen. You need to make one word with ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788446241,
+      "score": 25,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Reverse engineering the storage format for an undocumented database",
-      "url": "https://blog.glazer.ee/posts/converting-cronos/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788506220,
-      "score": 51,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "NIXI has killed the \"Dot In\" domain name (2025)",
-      "url": "https://www.naavi.org/wp/nixi-has-killed-the-dot-in-domain-name/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788463593,
-      "score": 7,
-      "category": "industry",
       "tags": [
         "国际"
       ]
