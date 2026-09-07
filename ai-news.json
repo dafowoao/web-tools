@@ -1,33 +1,7 @@
 {
-  "updated": "2026-09-06 21:58 UTC",
+  "updated": "2026-09-07 03:09 UTC",
   "count": 4,
   "items": [
-    {
-      "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
-      "url": "https://getvodforge.com/",
-      "desc": "I built VODForge because I work with a CTV company that needed to pull YouTube videos from our channel partners into our media workflow.Converter sites are always an option but the bitrate wasn&#x27;t",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788725250,
-      "score": 17,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: UK Rescue Rocket Sheds/Houses Information",
-      "url": "https://news.ycombinator.com/item?id=49589730",
-      "desc": "I can&#x27;t seem to find pictures or significant details (nothing on Wikipedia) about the coastal buildings purportedly used to contain shipwreck rescue rocket apparatus. Many of the buildings still ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788721614,
-      "score": 19,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "Research acceleration: The view inside OpenAI",
       "url": "https://openai.com/index/research-acceleration-view-inside-openai",
@@ -35,8 +9,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788707324,
-      "score": 87,
-      "category": "tools",
+      "score": 126,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788695803,
+      "score": 564,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI, Tools and Transformation",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788660766,
+      "score": 147,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788506220,
-      "score": 3,
-      "category": "industry",
+      "score": 28,
+      "category": "llm",
       "tags": [
         "国际"
       ]
