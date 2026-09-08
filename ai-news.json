@@ -1,33 +1,7 @@
 {
-  "updated": "2026-09-07 22:31 UTC",
-  "count": 8,
+  "updated": "2026-09-08 03:17 UTC",
+  "count": 7,
   "items": [
-    {
-      "title": "The smallest edge AI device for local LLMs",
-      "url": "https://tiiny.ai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788815352,
-      "score": 16,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "De-Brainrot Vacations",
-      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788786048,
-      "score": 453,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "Smartphone makers don't bother to comply with EU repairability requirements",
       "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
@@ -35,7 +9,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788781597,
-      "score": 266,
+      "score": 275,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788777512,
-      "score": 60,
-      "category": "tools",
+      "score": 71,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788773201,
-      "score": 125,
-      "category": "llm",
+      "score": 135,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788607518,
-      "score": 92,
-      "category": "industry",
+      "score": 167,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Jigsaw Haiku",
+      "url": "https://jigsawhaiku.com/",
+      "desc": "Hi HN! Jigsaw Haiku was originally designed with my puzzles site The Daily Baffle (https:&#x2F;&#x2F;dailybaffle.com) in mind. But once I had built it, I realized it just didn&#x27;t quite fit with th",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788545684,
+      "score": 65,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788482406,
-      "score": 25,
-      "category": "llm",
+      "score": 67,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788451568,
-      "score": 164,
-      "category": "llm",
+      "score": 249,
+      "category": "tools",
       "tags": [
         "国际"
       ]
