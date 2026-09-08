@@ -1,28 +1,67 @@
 {
-  "updated": "2026-09-08 08:38 UTC",
+  "updated": "2026-09-08 16:04 UTC",
   "count": 11,
   "items": [
     {
-      "title": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
-      "url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
+      "title": "The two Christian saints who are the Buddha",
+      "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788849560,
-      "score": 15,
+      "ts": 1788878665,
+      "score": 52,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "I-have-ADHD: A skill to stop your coding agent from burying the answer",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788876806,
+      "score": 45,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Multi-Agents LLM Financial Trading Framework",
-      "url": "https://github.com/TauricResearch/TradingAgents",
+      "title": "LibreOffice breaks download records after declaring it has no AI features",
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788844823,
-      "score": 36,
+      "ts": 1788876357,
+      "score": 389,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI Giants Work Hand-in-Hand with The Pentagon, Contracts Reveal",
+      "url": "https://theintercept.com/2026/09/08/military-ai-weapons-contracts-openai-anthropic-google/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788876306,
+      "score": 14,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "We Must Return to the Office to Use AI in Person",
+      "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788874885,
+      "score": 295,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788843983,
-      "score": 372,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
-      "url": "https://rohanadwankar.github.io/posts/platforms.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788842186,
-      "score": 24,
-      "category": "llm",
+      "score": 689,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788840380,
-      "score": 35,
-      "category": "llm",
+      "score": 75,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788836296,
-      "score": 72,
-      "category": "tools",
+      "score": 155,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,60 +113,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788832643,
-      "score": 100,
-      "category": "llm",
+      "score": 393,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "url": "https://arxiv.org/abs/2607.24888",
+      "title": "End-to-end infrastructure for training and inferencing open weight models",
+      "url": "https://docs.appliedcompute.com",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788607518,
-      "score": 204,
+      "ts": 1788557149,
+      "score": 54,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Jigsaw Haiku",
-      "url": "https://jigsawhaiku.com/",
-      "desc": "Hi HN! Jigsaw Haiku was originally designed with my puzzles site The Daily Baffle (https:&#x2F;&#x2F;dailybaffle.com) in mind. But once I had built it, I realized it just didn&#x27;t quite fit with th",
+      "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
+      "url": "https://news.ycombinator.com/item?id=49555592",
+      "desc": "Infinite Google ReCAPCHA loop trying to access archive.is using current Firefox from Linux. Just started today. Firefox is in &quot;strict&quot; mode. Disabled Privacy Badger for that site, and it did",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788545684,
-      "score": 86,
+      "ts": 1788464326,
+      "score": 183,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Interactive Tree of Life",
-      "url": "https://ptree.org/",
-      "desc": "Ptree consolidates of 11 taxonomic trees, both categorical like we used in school (plant, animalia) and phylogenetic (evolutionary descent), with instant crosswalk between them.Across those trees it o",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788482406,
-      "score": 91,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "WeatherNext 3",
-      "url": "https://deepmind.google/science/weathernext/",
-      "desc": "Paper [pdf]: https:&#x2F;&#x2F;storage.googleapis.com&#x2F;deepmind-media&#x2F;papers&#x2F;weather...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788451568,
-      "score": 319,
-      "category": "industry",
       "tags": [
         "国际"
       ]
