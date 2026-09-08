@@ -1,7 +1,72 @@
 {
-  "updated": "2026-09-08 16:04 UTC",
-  "count": 11,
+  "updated": "2026-09-08 22:23 UTC",
+  "count": 8,
   "items": [
+    {
+      "title": "Muse: Meta's personal AI agent, features and capabilities",
+      "url": "https://ai.meta.com/muse/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788895500,
+      "score": 196,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788892671,
+      "score": 252,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Flights cancelled at UK airports due to ATC issue",
+      "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788891987,
+      "score": 112,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GrapheneOS on AI Usage",
+      "url": "https://grapheneos.social/@GrapheneOS/117236529351603001",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788890458,
+      "score": 7,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: LLM Attention Visualization",
+      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788886781,
+      "score": 96,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "The two Christian saints who are the Buddha",
       "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
@@ -9,60 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788878665,
-      "score": 52,
-      "category": "industry",
+      "score": 194,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "I-have-ADHD: A skill to stop your coding agent from burying the answer",
+      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
       "url": "https://github.com/ayghri/i-have-adhd",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788876806,
-      "score": 45,
+      "score": 253,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788876357,
-      "score": 389,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI Giants Work Hand-in-Hand with The Pentagon, Contracts Reveal",
-      "url": "https://theintercept.com/2026/09/08/military-ai-weapons-contracts-openai-anthropic-google/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788876306,
-      "score": 14,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "We Must Return to the Office to Use AI in Person",
-      "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788874885,
-      "score": 295,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,72 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788843983,
-      "score": 689,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788840380,
-      "score": 75,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How well do agents use test/verification techniques?",
-      "url": "https://danluu.com/agentic-testing/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788836296,
-      "score": 155,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "There's a new \"Google Jail\" for independent wikis",
-      "url": "https://weirdgloop.org/blog/google-jail",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788832643,
-      "score": 393,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "End-to-end infrastructure for training and inferencing open weight models",
-      "url": "https://docs.appliedcompute.com",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788557149,
-      "score": 54,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
-      "url": "https://news.ycombinator.com/item?id=49555592",
-      "desc": "Infinite Google ReCAPCHA loop trying to access archive.is using current Firefox from Linux. Just started today. Firefox is in &quot;strict&quot; mode. Disabled Privacy Badger for that site, and it did",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788464326,
-      "score": 183,
+      "score": 796,
       "category": "llm",
       "tags": [
         "国际"
