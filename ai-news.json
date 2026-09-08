@@ -1,42 +1,94 @@
 {
-  "updated": "2026-09-08 03:17 UTC",
-  "count": 7,
+  "updated": "2026-09-08 08:38 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "title": "UAE-based Falcon AI NSFW classifier among top global open-source models (2025)",
+      "url": "https://www.middleeastainews.com/p/uae-ai-model-tops-50-million-monthly",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788781597,
-      "score": 275,
+      "ts": 1788849560,
+      "score": 15,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Initial effects of AI technology on employment look positive",
-      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-      "desc": "https:&#x2F;&#x2F;archive.md&#x2F;5hi5i",
+      "title": "Multi-Agents LLM Financial Trading Framework",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788777512,
-      "score": 71,
+      "ts": 1788844823,
+      "score": 36,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Mistral raises €3B",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788843983,
+      "score": 372,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+      "url": "https://rohanadwankar.github.io/posts/platforms.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788842186,
+      "score": 24,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Speculative Decoding in vLLM on AMD GPUs",
-      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788773201,
-      "score": 135,
+      "ts": 1788840380,
+      "score": 35,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How well do agents use test/verification techniques?",
+      "url": "https://danluu.com/agentic-testing/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788836296,
+      "score": 72,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "url": "https://weirdgloop.org/blog/google-jail",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788832643,
+      "score": 100,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788607518,
-      "score": 167,
-      "category": "tools",
+      "score": 204,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788545684,
-      "score": 65,
-      "category": "tools",
+      "score": 86,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788482406,
-      "score": 67,
+      "score": 91,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788451568,
-      "score": 249,
-      "category": "tools",
+      "score": 319,
+      "category": "industry",
       "tags": [
         "国际"
       ]
