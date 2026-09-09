@@ -1,28 +1,54 @@
 {
-  "updated": "2026-09-09 03:20 UTC",
-  "count": 8,
+  "updated": "2026-09-09 08:40 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Iran says it captured US submarine drone in Strait of Hormuz",
-      "url": "https://www.reuters.com/world/middle-east/iran-says-it-captured-us-submarine-drone-strait-hormuz-2026-09-08/",
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788919925,
-      "score": 24,
+      "ts": 1788938566,
+      "score": 31,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "AI Responsibility – OpenAI and Anthropic",
-      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
+      "title": "“Tweet” and the bird logo apparently enter the public domain",
+      "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788917569,
-      "score": 37,
+      "ts": 1788933727,
+      "score": 61,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI Has a Discovery Problem",
+      "url": "https://mhacevedo.com/posts/the-discovery-problem",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788929966,
+      "score": 43,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "I resigned from Anthropic today",
+      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+      "desc": "https:&#x2F;&#x2F;xcancel.com&#x2F;hilbertspaess&#x2F;status&#x2F;2097476196791709843...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788914440,
+      "score": 540,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788901252,
-      "score": 195,
-      "category": "industry",
+      "score": 346,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788895500,
-      "score": 353,
-      "category": "industry",
+      "score": 492,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788892671,
+      "score": 337,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788886781,
-      "score": 136,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The two Christian saints who are the Buddha",
-      "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788878665,
-      "score": 223,
+      "score": 155,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788876806,
-      "score": 338,
-      "category": "llm",
+      "score": 425,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788729863,
-      "score": 35,
+      "score": 53,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
+      "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788420580,
+      "score": 112,
+      "category": "tools",
       "tags": [
         "国际"
       ]
