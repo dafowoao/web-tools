@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-09 19:13 UTC",
-  "count": 13,
+  "updated": "2026-09-09 22:17 UTC",
+  "count": 14,
   "items": [
     {
       "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
@@ -9,20 +9,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788976675,
-      "score": 10,
+      "score": 31,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Apple Introduces AirPods 5",
+      "title": "AirPods 5",
       "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788975564,
-      "score": 144,
+      "score": 316,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,34 +35,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788974668,
-      "score": 69,
-      "category": "tools",
+      "score": 135,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Growing proof that autonomous cars save lives",
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788974099,
+      "score": 123,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
       "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-      "url": "https://academy.dair.ai/papers/procedural-graphs-self-evolving-execution-structures-for-llm-agents-2609.09153",
+      "url": "https://arxiv.org/abs/2609.09153",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788974032,
-      "score": 14,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Rdltr – Inbox zero for your reading list",
-      "url": "https://rdltr.app/",
-      "desc": "Hi HN, for the past few months I’ve been working on a read later app called RDLTR (https:&#x2F;&#x2F;rdltr.app). The whole thing started because I had so many tabs open with stuff I wanted to read, ac",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788973581,
-      "score": 12,
-      "category": "tools",
+      "score": 37,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788969353,
-      "score": 84,
-      "category": "tools",
+      "score": 131,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,20 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788968743,
-      "score": 30,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Give your AI agent on-screen guides that show users where to click",
-      "url": "https://news.ycombinator.com/item?id=49627872",
-      "desc": "Hey HN. I&#x27;m Christian, one of the founders of Frigade (YC W23). I&#x27;ve noticed that a lot of in-app AI agents struggle to actually understand the products they exist in.For instance, let&#x27;",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788966545,
-      "score": 9,
+      "score": 38,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788965689,
-      "score": 33,
-      "category": "llm",
+      "score": 41,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,33 +113,46 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788964667,
-      "score": 218,
+      "score": 297,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Tailwind Labs is joining Shopify",
+      "title": "Shopify acquires Tailwind",
       "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788960431,
-      "score": 653,
-      "category": "llm",
+      "score": 802,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Claude, change the \"Add to Cart\" button to blue",
+      "title": "Claude, change the “Add to Cart” button to blue",
       "url": "https://opusfived.dev/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788946786,
-      "score": 785,
+      "score": 913,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788938566,
+      "score": 139,
       "category": "llm",
       "tags": [
         "国际"
@@ -165,8 +165,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788895500,
-      "score": 613,
-      "category": "industry",
+      "score": 633,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Microsoft says email spammers are adopting ASCII smuggling",
+      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788589466,
+      "score": 21,
+      "category": "llm",
       "tags": [
         "国际"
       ]
