@@ -1,54 +1,54 @@
 {
-  "updated": "2026-09-08 22:23 UTC",
+  "updated": "2026-09-09 03:20 UTC",
   "count": 8,
   "items": [
     {
-      "title": "Muse: Meta's personal AI agent, features and capabilities",
-      "url": "https://ai.meta.com/muse/",
+      "title": "Iran says it captured US submarine drone in Strait of Hormuz",
+      "url": "https://www.reuters.com/world/middle-east/iran-says-it-captured-us-submarine-drone-strait-hormuz-2026-09-08/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788895500,
-      "score": 196,
-      "category": "tools",
+      "ts": 1788919925,
+      "score": 24,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "title": "AI Responsibility – OpenAI and Anthropic",
+      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788892671,
-      "score": 252,
-      "category": "tools",
+      "ts": 1788917569,
+      "score": 37,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Flights cancelled at UK airports due to ATC issue",
-      "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788891987,
-      "score": 112,
+      "ts": 1788901252,
+      "score": 195,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "GrapheneOS on AI Usage",
-      "url": "https://grapheneos.social/@GrapheneOS/117236529351603001",
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788890458,
-      "score": 7,
+      "ts": 1788895500,
+      "score": 353,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788886781,
-      "score": 96,
-      "category": "llm",
+      "score": 136,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788878665,
-      "score": 194,
+      "score": 223,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,21 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788876806,
-      "score": 253,
-      "category": "tools",
+      "score": 338,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Mistral raises €3B",
-      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "title": "The Microeconomics of Artificial Intelligence (2025)",
+      "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788843983,
-      "score": 796,
-      "category": "llm",
+      "ts": 1788729863,
+      "score": 35,
+      "category": "industry",
       "tags": [
         "国际"
       ]
