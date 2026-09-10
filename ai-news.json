@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-10 08:40 UTC",
-  "count": 12,
+  "updated": "2026-09-10 15:54 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "Amazon pilots ad services in ChatGPT",
+      "url": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789049589,
+      "score": 72,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+      "url": "https://news.ycombinator.com/item?id=49643556",
+      "desc": "I&#x27;ve reset this more than once and the last time I made a careful note of when I did it and to my surprise I found it re-enabled when I checked just now. Make sure you check this thing to see if ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789047593,
+      "score": 312,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
+      "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789045634,
+      "score": 231,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "DeepSeek v4.1 Flash",
       "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
@@ -9,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789020665,
-      "score": 216,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI might have stolen another major proof",
-      "url": "https://twitter.com/ValerioCapraro/status/2097791836269977996",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789013988,
-      "score": 202,
-      "category": "tools",
+      "score": 714,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789005851,
-      "score": 66,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
-      "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789005591,
-      "score": 69,
-      "category": "llm",
+      "score": 105,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788975564,
-      "score": 446,
-      "category": "llm",
+      "score": 497,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788974668,
-      "score": 211,
-      "category": "tools",
+      "score": 232,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788974099,
-      "score": 333,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Understanding the recent DDoS attack against Read the Docs",
-      "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788969353,
-      "score": 187,
-      "category": "industry",
+      "score": 413,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788964667,
-      "score": 412,
+      "score": 491,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,8 +126,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788960431,
-      "score": 1015,
-      "category": "tools",
+      "score": 1106,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": ">10x More Efficient Pretraining",
+      "url": "https://magic.dev/blog/pretraining#",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788886793,
+      "score": 18,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Filament – Fast data movement engine in Go",
+      "url": "https://github.com/galaxy-io/filament",
+      "desc": "Hi, I&#x27;m Leon one of the cofounders of Galaxy. We just open sourced Filament, our data movement engine.Its written in Go and Apache 2.0 licensed. We currently support a handful of API connectors, ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788878897,
+      "score": 7,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,20 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788755249,
-      "score": 8,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Microsoft says email spammers are adopting ASCII smuggling",
-      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788589466,
-      "score": 60,
+      "score": 46,
       "category": "industry",
       "tags": [
         "国际"
