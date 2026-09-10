@@ -1,42 +1,68 @@
 {
-  "updated": "2026-09-10 15:54 UTC",
-  "count": 13,
+  "updated": "2026-09-10 18:58 UTC",
+  "count": 9,
   "items": [
     {
-      "title": "Amazon pilots ad services in ChatGPT",
-      "url": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
-      "desc": "",
+      "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
+      "url": "https://usefeyn.com/blog/multimatte/",
+      "desc": "Hey HN, I&#x27;m Shreyash from Feyn. We help companies build custom models from their data.Today we&#x27;re releasing MultiMatte, a background removal model you can aim with words. Name an object in y",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789049589,
-      "score": 72,
-      "category": "industry",
+      "ts": 1789055425,
+      "score": 13,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
-      "url": "https://news.ycombinator.com/item?id=49643556",
-      "desc": "I&#x27;ve reset this more than once and the last time I made a careful note of when I did it and to my surprise I found it re-enabled when I checked just now. Make sure you check this thing to see if ",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789047593,
-      "score": 312,
+      "ts": 1789054187,
+      "score": 176,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
-      "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
+      "title": "Show HN: Syq – copy files between machines fast (better than rsync)",
+      "url": "https://greaber.github.io/syq/",
+      "desc": "I got frustrated with the slowness of rsync and made an alternative that works faster by using multiple parallel connections, direct encrypted TCP when available, and other optimizations. I also added",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789052487,
+      "score": 25,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI 2027 (2025)",
+      "url": "https://ai-2027.com",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789045634,
-      "score": 231,
-      "category": "industry",
+      "ts": 1789050420,
+      "score": 24,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "desc": "https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240536885387540https:&#x2F;&#x2F;mathstodon.xyz&#x2F;@andreasthom&#x2F;117240537520615623https:&#x2F;&#x2F;x.com&#x2F;ValerioCapraro&#x2F;sta",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789022983,
+      "score": 276,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,86 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789020665,
-      "score": 714,
-      "category": "llm",
+      "score": 831,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Training a 3.8B LLM to 0.384 CORE for $998",
-      "url": "https://hugovergnes.github.io/little-lm-3-8b/",
-      "desc": "",
+      "title": "Show HN: DOOM in the kernel, or fibers in eBPF",
+      "url": "https://ayles.github.io/doom-in-kernel/",
+      "desc": "Some time ago my coworker who was working on first version of Perforator (https:&#x2F;&#x2F;github.com&#x2F;yandex&#x2F;perforator) kept talking about eBPF, so I got curious about its ISA and restrict",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789005851,
-      "score": 105,
+      "ts": 1788975099,
+      "score": 16,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788975564,
-      "score": 497,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788974668,
-      "score": 232,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Growing proof that autonomous cars save lives",
-      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788974099,
-      "score": 413,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788964667,
-      "score": 491,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Shopify acquires Tailwind",
-      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788960431,
-      "score": 1106,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788886793,
-      "score": 18,
-      "category": "llm",
+      "score": 90,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -152,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788878897,
-      "score": 7,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
-      "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788755249,
-      "score": 46,
+      "score": 21,
       "category": "industry",
       "tags": [
         "国际"
