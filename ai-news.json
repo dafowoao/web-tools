@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-10 18:58 UTC",
-  "count": 9,
+  "updated": "2026-09-10 22:16 UTC",
+  "count": 11,
   "items": [
+    {
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789069402,
+      "score": 42,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "On Next-Gen Transformer: Loops Are Not What You Need",
+      "url": "https://zartbot.github.io/blog/model_arch/inception/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789067268,
+      "score": 10,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789061022,
+      "score": 42,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
       "url": "https://usefeyn.com/blog/multimatte/",
@@ -9,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789055425,
-      "score": 13,
+      "score": 34,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,34 +61,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789054187,
-      "score": 176,
+      "score": 317,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Syq – copy files between machines fast (better than rsync)",
-      "url": "https://greaber.github.io/syq/",
-      "desc": "I got frustrated with the slowness of rsync and made an alternative that works faster by using multiple parallel connections, direct encrypted TCP when available, and other optimizations. I also added",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789052487,
-      "score": 25,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI 2027 (2025)",
-      "url": "https://ai-2027.com",
+      "title": "AI Is Breaking This Thing We Call Trust",
+      "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789050420,
-      "score": 24,
-      "category": "llm",
+      "ts": 1789050080,
+      "score": 46,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789022983,
-      "score": 276,
+      "score": 489,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789020665,
-      "score": 831,
-      "category": "industry",
+      "score": 928,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,33 +113,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788975099,
-      "score": 16,
+      "score": 32,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": ">10x More Efficient Pretraining",
+      "title": "Compute-efficient pretraining and scaling to trillion-parameter models",
       "url": "https://magic.dev/blog/pretraining#",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788886793,
-      "score": 90,
-      "category": "tools",
+      "score": 105,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Filament – Fast data movement engine in Go",
-      "url": "https://github.com/galaxy-io/filament",
-      "desc": "Hi, I&#x27;m Leon one of the cofounders of Galaxy. We just open sourced Filament, our data movement engine.Its written in Go and Apache 2.0 licensed. We currently support a handful of API connectors, ",
+      "title": "Show HN: Vertumnus – printable posters of farmers' market produce seasonality",
+      "url": "https://vertumnus.fyi",
+      "desc": "The origin of this project was me, as a casual farmers&#x27; market attendee, grossly misremembering the start date of early girl tomatoes. Ironically, I still haven&#x27;t achieved that goal, because",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1788878897,
-      "score": 21,
+      "ts": 1788829690,
+      "score": 12,
       "category": "industry",
       "tags": [
         "国际"
