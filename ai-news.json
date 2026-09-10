@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-09 22:17 UTC",
-  "count": 14,
+  "updated": "2026-09-10 03:19 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
+      "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789005591,
+      "score": 6,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
       "url": "https://github.com/OtoDock/oto-dock",
@@ -9,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788976675,
-      "score": 31,
-      "category": "tools",
+      "score": 42,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788975564,
-      "score": 316,
-      "category": "industry",
+      "score": 396,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788974668,
-      "score": 135,
-      "category": "industry",
+      "score": 186,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788974099,
-      "score": 123,
+      "score": 251,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788974032,
-      "score": 37,
+      "score": 50,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,34 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788969353,
-      "score": 131,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Better AI code comment detector",
-      "url": "https://entropicthoughts.com/better-ai-comment-classifier",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788968743,
-      "score": 38,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
-      "url": "https://github.com/Atomburstofficial/geiger",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788965689,
-      "score": 41,
-      "category": "industry",
+      "score": 165,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788964667,
-      "score": 297,
+      "score": 362,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788960431,
-      "score": 802,
+      "score": 919,
       "category": "tools",
       "tags": [
         "国际"
@@ -139,34 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788946786,
-      "score": 913,
+      "score": 1045,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Be Using Rootless Containers",
+      "url": "https://blog.miguelgrinberg.com/post/you-should-be-using-rootless-containers",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788881771,
+      "score": 6,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788938566,
-      "score": 139,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Muse – Meta’s personal AI agent",
-      "url": "https://ai.meta.com/muse/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788895500,
-      "score": 633,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -178,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788589466,
-      "score": 21,
-      "category": "llm",
+      "score": 49,
+      "category": "industry",
       "tags": [
         "国际"
       ]
