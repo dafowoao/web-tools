@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-11 19:02 UTC",
-  "count": 10,
+  "updated": "2026-09-11 22:16 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Declassified 9/11 related President's Daily Brief products",
-      "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/seventy-one-declassified-presidents-daily-brief-products/",
-      "desc": "",
+      "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
+      "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
+      "desc": "https:&#x2F;&#x2F;www.cia.gov&#x2F;stories&#x2F;story&#x2F;cia-releases-presidents-da...",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789151407,
-      "score": 15,
+      "score": 72,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,21 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789150220,
-      "score": 20,
+      "score": 72,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Top mathematicians are outraged by OpenAI's methods",
-      "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789150028,
-      "score": 73,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -44,25 +31,12 @@
     {
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
-      "desc": "https:&#x2F;&#x2F;terrytao.wordpress.com&#x2F;2026&#x2F;09&#x2F;11&#x2F;a-severe-misalignm...",
+      "desc": "https:&#x2F;&#x2F;terrytao.wordpress.com&#x2F;2026&#x2F;09&#x2F;11&#x2F;a-severe-misalignm...https:&#x2F;&#x2F;www.economist.com&#x2F;science-and-technology&#x2F;2026&#x2F;09&#x2F;11&#x2F;..., https:&",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789148712,
-      "score": 18,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Extension to filter LLM written articles",
-      "url": "https://hnslop.nilsherzig.com/",
-      "desc": "Firefox Extension&#x2F;Userscript and API to get Pangram scores for all articles on the hackernews frontpage. The extension allows you to hide articles with a high score.This is about detecting posts ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789146889,
-      "score": 3,
-      "category": "industry",
+      "score": 444,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -75,7 +49,7 @@
       "sourceColor": "#ff6600",
       "ts": 1789146017,
       "score": 1,
-      "category": "tools",
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789142930,
-      "score": 84,
+      "score": 161,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,8 +74,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789142585,
-      "score": 56,
+      "score": 71,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Hacker News with reduced priority for AI driven content",
+      "url": "https://sprinklz.io/public/pdwt4dve5uai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789141969,
+      "score": 101,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Hacker News, without AI",
+      "url": "https://hcker.news/?ai=exclude",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789138879,
+      "score": 162,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789123680,
-      "score": 406,
-      "category": "tools",
+      "score": 525,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,8 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789079625,
-      "score": 48,
-      "category": "tools",
+      "score": 67,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "A Design Space Exploration of Async/Await",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788962390,
+      "score": 57,
+      "category": "industry",
       "tags": [
         "国际"
       ]
