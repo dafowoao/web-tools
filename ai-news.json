@@ -1,54 +1,67 @@
 {
-  "updated": "2026-09-11 08:37 UTC",
+  "updated": "2026-09-11 15:56 UTC",
   "count": 9,
   "items": [
     {
-      "title": "Astra for Coding: Why Are We Doing This Again?",
-      "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+      "title": "Show HN: Hacker News, without AI",
+      "url": "https://hcker.news/?ai=exclude",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789107786,
-      "score": 281,
-      "category": "industry",
+      "ts": 1789138879,
+      "score": 49,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "GPT‑Live‑1 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
-      "desc": "",
+      "title": "Show HN: Clawfight.ai MCP-driven agentic game play",
+      "url": "https://clawfight.ai/agents.md",
+      "desc": "How should agents interact with other agents? What happens when they rap or fight against each other with the pressure of human spectators? Clawfight.ai is an experiment to explore this space.This is ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789105519,
-      "score": 3,
-      "category": "industry",
+      "ts": 1789134857,
+      "score": 5,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The Gemini app is now available for Windows",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789102340,
-      "score": 41,
-      "category": "industry",
+      "ts": 1789125470,
+      "score": 295,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "url": "https://system76.com/workstations/thelio-mira-ai",
+      "title": "Claude is no longer available for minors",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789081806,
-      "score": 95,
+      "ts": 1789123680,
+      "score": 292,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
+      "url": "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789079625,
+      "score": 10,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789069402,
-      "score": 247,
-      "category": "llm",
+      "score": 315,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789061022,
-      "score": 125,
-      "category": "tools",
+      "score": 159,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789054187,
-      "score": 407,
-      "category": "llm",
+      "score": 433,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789022983,
-      "score": 796,
+      "score": 846,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Vertumnus – printable posters of farmers' market produce seasonality",
-      "url": "https://vertumnus.fyi",
-      "desc": "The origin of this project was me, as a casual farmers&#x27; market attendee, grossly misremembering the start date of early girl tomatoes. Ironically, I still haven&#x27;t achieved that goal, because",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788829690,
-      "score": 40,
-      "category": "industry",
       "tags": [
         "国际"
       ]
