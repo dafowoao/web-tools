@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-10 22:16 UTC",
+  "updated": "2026-09-11 03:15 UTC",
   "count": 11,
   "items": [
+    {
+      "title": "Setting up OpenCode with Ollama and sbx on Mac",
+      "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789087526,
+      "score": 10,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "url": "https://system76.com/workstations/thelio-mira-ai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789081806,
+      "score": 51,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789075379,
+      "score": 146,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "OpenAI Agents API",
       "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
@@ -9,20 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789069402,
-      "score": 42,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "On Next-Gen Transformer: Loops Are Not What You Need",
-      "url": "https://zartbot.github.io/blog/model_arch/inception/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789067268,
-      "score": 10,
+      "score": 160,
       "category": "tools",
       "tags": [
         "国际"
@@ -31,25 +57,12 @@
     {
       "title": "Detecting and countering misuse of AI: September 2026",
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-      "desc": "",
+      "desc": "https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;e50be2e51e7695dc4b1366a37a245a...",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789061022,
-      "score": 42,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: MultiMatte, a Promptable Image Background Removal Model",
-      "url": "https://usefeyn.com/blog/multimatte/",
-      "desc": "Hey HN, I&#x27;m Shreyash from Feyn. We help companies build custom models from their data.Today we&#x27;re releasing MultiMatte, a background removal model you can aim with words. Name an object in y",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789055425,
-      "score": 34,
-      "category": "llm",
+      "score": 94,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,20 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789054187,
-      "score": 317,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI Is Breaking This Thing We Call Trust",
-      "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789050080,
-      "score": 46,
+      "score": 363,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,33 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789022983,
-      "score": 489,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "DeepSeek v4.1 Flash",
-      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-      "desc": "https:&#x2F;&#x2F;huggingface.co&#x2F;deepseek-ai&#x2F;DeepSeek-V4.1-Flash",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789020665,
-      "score": 928,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: DOOM in the kernel, or fibers in eBPF",
-      "url": "https://ayles.github.io/doom-in-kernel/",
-      "desc": "Some time ago my coworker who was working on first version of Perforator (https:&#x2F;&#x2F;github.com&#x2F;yandex&#x2F;perforator) kept talking about eBPF, so I got curious about its ISA and restrict",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788975099,
-      "score": 32,
+      "score": 721,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,7 +100,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788886793,
-      "score": 105,
+      "score": 111,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics",
+      "url": "https://asm-editor.specy.app/",
+      "desc": "Asm Editor is an open-source browser IDE for writing, running, and debugging assembly.It currently supports M68K, Z80, MIPS, RISC-V (32- and 64-bit), and x86-64. The debugger includes breakpoints, bac",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788865733,
+      "score": 14,
       "category": "industry",
       "tags": [
         "国际"
@@ -139,8 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788829690,
-      "score": 12,
+      "score": 31,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "YouTube had a bug – I used ChatGPT to investigate",
+      "url": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788714099,
+      "score": 17,
+      "category": "tools",
       "tags": [
         "国际"
       ]
