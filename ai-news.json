@@ -1,16 +1,42 @@
 {
-  "updated": "2026-09-11 03:15 UTC",
-  "count": 11,
+  "updated": "2026-09-11 08:37 UTC",
+  "count": 9,
   "items": [
     {
-      "title": "Setting up OpenCode with Ollama and sbx on Mac",
-      "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
+      "title": "Astra for Coding: Why Are We Doing This Again?",
+      "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789087526,
-      "score": 10,
-      "category": "llm",
+      "ts": 1789107786,
+      "score": 281,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GPT‑Live‑1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789105519,
+      "score": 3,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Gemini app is now available for Windows",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789102340,
+      "score": 41,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789081806,
-      "score": 51,
+      "score": 95,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
-      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789075379,
-      "score": 146,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789069402,
-      "score": 160,
-      "category": "tools",
+      "score": 247,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789061022,
-      "score": 94,
+      "score": 125,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789054187,
-      "score": 363,
-      "category": "tools",
+      "score": 407,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,34 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789022983,
-      "score": 721,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Compute-efficient pretraining and scaling to trillion-parameter models",
-      "url": "https://magic.dev/blog/pretraining#",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788886793,
-      "score": 111,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: A browser IDE for m68000, Z80 assembly (and more), with graphics",
-      "url": "https://asm-editor.specy.app/",
-      "desc": "Asm Editor is an open-source browser IDE for writing, running, and debugging assembly.It currently supports M68K, Z80, MIPS, RISC-V (32- and 64-bit), and x86-64. The debugger includes breakpoints, bac",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788865733,
-      "score": 14,
-      "category": "industry",
+      "score": 796,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788829690,
-      "score": 31,
+      "score": 40,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "YouTube had a bug – I used ChatGPT to investigate",
-      "url": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788714099,
-      "score": 17,
-      "category": "tools",
       "tags": [
         "国际"
       ]
