@@ -1,15 +1,41 @@
 {
-  "updated": "2026-09-12 18:08 UTC",
-  "count": 13,
+  "updated": "2026-09-12 21:57 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "How SaaS startup guys get first 100 customers first, make fkn $500k ARR fast?",
-      "url": "https://news.ycombinator.com/item?id=49674396",
-      "desc": "I am running a small AI company that has been building an offline security audit app, simply a fine-tuned small language model powering an Electron app that can audit GitHub and local code repos for s",
+      "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789232214,
-      "score": 8,
+      "ts": 1789244909,
+      "score": 10,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789244748,
+      "score": 30,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
+      "url": "https://modelrift.com/blog/cadquery-vs-openscad/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789243039,
+      "score": 17,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789225707,
-      "score": 172,
-      "category": "tools",
+      "score": 307,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789221418,
-      "score": 52,
-      "category": "industry",
+      "score": 69,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789212475,
-      "score": 5,
-      "category": "llm",
+      "score": 38,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789211618,
-      "score": 78,
-      "category": "tools",
+      "score": 98,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,34 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789199643,
-      "score": 189,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "url": "https://www.rubyhack.ai/",
-      "desc": "https:&#x2F;&#x2F;simonwillison.net&#x2F;2026&#x2F;Sep&#x2F;12&#x2F;openai-agents-rubygems...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789168662,
-      "score": 889,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Litelm: LiteLLM Without the Bloat",
-      "url": "https://github.com/kennethwolters/litelm",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789150220,
-      "score": 167,
-      "category": "industry",
+      "score": 207,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789148712,
-      "score": 1144,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
-      "url": "https://www.getzep.com/careers/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789146017,
-      "score": 1,
-      "category": "tools",
+      "score": 1172,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789135628,
-      "score": 46,
+      "score": 83,
       "category": "industry",
       "tags": [
         "国际"
@@ -152,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789054297,
-      "score": 35,
-      "category": "industry",
+      "score": 333,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -165,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788962390,
-      "score": 391,
+      "score": 412,
       "category": "llm",
       "tags": [
         "国际"
