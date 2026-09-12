@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-12 03:21 UTC",
-  "count": 11,
+  "updated": "2026-09-12 08:23 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "Bernie's AI bill proposes to sentence AI developers to 20 years in prison",
-      "url": "https://twitter.com/venturetwins/status/2098456905526211026",
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "url": "https://eiln.github.io/posts/ane.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789172676,
-      "score": 26,
+      "ts": 1789199643,
+      "score": 17,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789172170,
-      "score": 13,
+      "score": 35,
       "category": "industry",
       "tags": [
         "国际"
@@ -31,25 +31,12 @@
     {
       "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
       "url": "https://www.rubyhack.ai/",
-      "desc": "",
+      "desc": "https:&#x2F;&#x2F;simonwillison.net&#x2F;2026&#x2F;Sep&#x2F;12&#x2F;openai-agents-rubygems...",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789168662,
-      "score": 415,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI researchers debate how close we are to recursive self-improvement",
-      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789162529,
-      "score": 61,
-      "category": "tools",
+      "score": 652,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789151407,
-      "score": 121,
-      "category": "tools",
+      "score": 136,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789150220,
-      "score": 106,
-      "category": "industry",
+      "score": 130,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789148712,
-      "score": 712,
-      "category": "llm",
+      "score": 867,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -101,7 +88,7 @@
       "sourceColor": "#ff6600",
       "ts": 1789146017,
       "score": 1,
-      "category": "llm",
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789142585,
-      "score": 83,
+      "score": 86,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789123680,
-      "score": 590,
-      "category": "industry",
+      "score": 635,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788962390,
-      "score": 173,
-      "category": "industry",
+      "score": 266,
+      "category": "llm",
       "tags": [
         "国际"
       ]
