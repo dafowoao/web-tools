@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-13 03:26 UTC",
-  "count": 15,
+  "updated": "2026-09-13 09:05 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
+      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789286856,
+      "score": 13,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+      "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789282960,
+      "score": 10,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "JWST finds extreme star-forming galaxies masquerading as faint quasars",
+      "url": "https://phys.org/news/2026-09-jwst-extreme-star-galaxies-masquerading.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789270759,
+      "score": 6,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Why are AI agents lying, cheating and coordinating?",
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
@@ -9,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789262551,
-      "score": 19,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Align AI and Mathematics–To Something Else",
-      "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789260468,
-      "score": 25,
-      "category": "llm",
+      "score": 179,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789259444,
-      "score": 193,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Recurrent Looped Transformer",
-      "url": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789257922,
-      "score": 14,
-      "category": "llm",
+      "score": 440,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789256758,
-      "score": 17,
+      "score": 50,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789244748,
-      "score": 147,
-      "category": "tools",
+      "score": 237,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789225707,
-      "score": 413,
+      "score": 473,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,46 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789221418,
-      "score": 86,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How Trail of Bits helps verify the integrity of Signal chats",
-      "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789212475,
-      "score": 60,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The worst spam emails: iLands AI agent hustle",
-      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789211618,
-      "score": 110,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A misalignment of AI in mathematics",
-      "url": "https://mathandai.org/",
-      "desc": "https:&#x2F;&#x2F;terrytao.wordpress.com&#x2F;2026&#x2F;09&#x2F;11&#x2F;a-severe-misalignm...https:&#x2F;&#x2F;www.economist.com&#x2F;science-and-technology&#x2F;2026&#x2F;09&#x2F;11&#x2F;..., https:&",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789148712,
-      "score": 1181,
+      "score": 97,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789135628,
-      "score": 110,
+      "score": 127,
       "category": "tools",
       "tags": [
         "国际"
@@ -165,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789054297,
-      "score": 453,
+      "score": 521,
       "category": "llm",
       "tags": [
         "国际"
@@ -174,11 +148,11 @@
     {
       "title": "Getting 50 GB/S Back from the Apple Neural Engine",
       "url": "https://eiln.github.io/posts/ane-dma.html",
-      "desc": "",
+      "desc": "RTL performance erratum in the Apple M3 Neural Engine throttles DRAM weight streaming throughput down to 17–19 GB&#x2F;s from the nominal 45–60 GB&#x2F;s. Avoiding the problematic path in the kernel D",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788999370,
-      "score": 91,
+      "score": 138,
       "category": "tools",
       "tags": [
         "国际"
@@ -191,7 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788962390,
-      "score": 429,
+      "score": 437,
       "category": "llm",
       "tags": [
         "国际"
