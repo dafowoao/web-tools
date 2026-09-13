@@ -1,42 +1,42 @@
 {
-  "updated": "2026-09-13 15:42 UTC",
-  "count": 9,
+  "updated": "2026-09-13 18:33 UTC",
+  "count": 8,
   "items": [
     {
-      "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
-      "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789308940,
-      "score": 31,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Security through obscurity is dead, and AI delivered the fatal blow",
-      "url": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789308531,
-      "score": 6,
+      "ts": 1789318353,
+      "score": 103,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Analyst Index – analysts who make money telling you good stock calls",
-      "url": "https://www.analystidx.com/",
-      "desc": "Hi HN!What if analyst ratings could be relied on to help you find the next Sandisk, before it takes off?On Analyst Index, analysts publish price targets with a maturity date. Every call gets scored ag",
+      "title": "Docket – Per-commit evidence records for agent-written code",
+      "url": "https://github.com/Dillonsmart/docket",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789300235,
-      "score": 6,
-      "category": "llm",
+      "ts": 1789316227,
+      "score": 5,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789314278,
+      "score": 173,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789262551,
-      "score": 432,
+      "score": 503,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789259444,
-      "score": 656,
+      "score": 703,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789256611,
-      "score": 37,
-      "category": "industry",
+      "score": 53,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,34 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789225707,
-      "score": 530,
-      "category": "tools",
+      "score": 549,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-      "desc": "https:&#x2F;&#x2F;www.lg.com&#x2F;global&#x2F;newsroom&#x2F;news&#x2F;statements&#x2F;statement...",
+      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
+      "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789054297,
-      "score": 591,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
-      "url": "https://eiln.github.io/posts/ane-dma.html",
-      "desc": "RTL performance erratum in the Apple M3 Neural Engine throttles DRAM weight streaming throughput down to 17–19 GB&#x2F;s from the nominal 45–60 GB&#x2F;s. Avoiding the problematic path in the kernel D",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788999370,
-      "score": 196,
-      "category": "tools",
+      "ts": 1789083132,
+      "score": 15,
+      "category": "llm",
       "tags": [
         "国际"
       ]
