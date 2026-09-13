@@ -1,15 +1,67 @@
 {
-  "updated": "2026-09-12 21:57 UTC",
-  "count": 12,
+  "updated": "2026-09-13 03:26 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789244909,
-      "score": 10,
+      "ts": 1789262551,
+      "score": 19,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Align AI and Mathematics–To Something Else",
+      "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789260468,
+      "score": 25,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789259444,
+      "score": 193,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Recurrent Looped Transformer",
+      "url": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789257922,
+      "score": 14,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AgentsDock: An IDE designed for agentic AI research",
+      "url": "https://agentsdock.net/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789256758,
+      "score": 17,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789244748,
-      "score": 30,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
-      "url": "https://modelrift.com/blog/cadquery-vs-openscad/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789243039,
-      "score": 17,
-      "category": "industry",
+      "score": 147,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789225707,
-      "score": 307,
-      "category": "llm",
+      "score": 413,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789221418,
-      "score": 69,
-      "category": "llm",
+      "score": 86,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789212475,
-      "score": 38,
-      "category": "industry",
+      "score": 60,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789211618,
-      "score": 98,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "url": "https://eiln.github.io/posts/ane.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789199643,
-      "score": 207,
-      "category": "llm",
+      "score": 110,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789148712,
-      "score": 1172,
-      "category": "industry",
+      "score": 1181,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789135628,
-      "score": 83,
-      "category": "industry",
+      "score": 110,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,8 +165,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789054297,
-      "score": 333,
+      "score": 453,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+      "url": "https://eiln.github.io/posts/ane-dma.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1788999370,
+      "score": 91,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -152,7 +191,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788962390,
-      "score": 412,
+      "score": 429,
       "category": "llm",
       "tags": [
         "国际"
