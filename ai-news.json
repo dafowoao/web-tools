@@ -1,42 +1,42 @@
 {
-  "updated": "2026-09-13 09:05 UTC",
-  "count": 13,
+  "updated": "2026-09-13 15:42 UTC",
+  "count": 9,
   "items": [
     {
-      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "url": "https://www.bbc.co.uk/news/articles/cq635037g18o",
+      "title": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic",
+      "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789286856,
-      "score": 13,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-      "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789282960,
-      "score": 10,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "JWST finds extreme star-forming galaxies masquerading as faint quasars",
-      "url": "https://phys.org/news/2026-09-jwst-extreme-star-galaxies-masquerading.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789270759,
-      "score": 6,
+      "ts": 1789308940,
+      "score": 31,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Security through obscurity is dead, and AI delivered the fatal blow",
+      "url": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789308531,
+      "score": 6,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Analyst Index – analysts who make money telling you good stock calls",
+      "url": "https://www.analystidx.com/",
+      "desc": "Hi HN!What if analyst ratings could be relied on to help you find the next Sandisk, before it takes off?On Analyst Index, analysts publish price targets with a maturity date. Every call gets scored ag",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789300235,
+      "score": 6,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789262551,
-      "score": 179,
-      "category": "industry",
+      "score": 432,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,33 +61,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789259444,
-      "score": 440,
+      "score": 656,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "AgentsDock: An IDE designed for agentic AI research",
-      "url": "https://agentsdock.net/",
+      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+      "url": "https://github.com/FeralFirmware/TailTalk/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789256758,
-      "score": 50,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789244748,
-      "score": 237,
+      "ts": 1789256611,
+      "score": 37,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,33 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789225707,
-      "score": 473,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A Mathematical Framework for Transformer Circuits (2021)",
-      "url": "https://transformer-circuits.pub/2021/framework/index.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789221418,
-      "score": 97,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
-      "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
-      "desc": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260911105205&#x2F;https:&#x2F;&#x2F;www.wired...https:&#x2F;&#x2F;archive.ph&#x2F;1xTJ3",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789135628,
-      "score": 127,
+      "score": 530,
       "category": "tools",
       "tags": [
         "国际"
@@ -139,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789054297,
-      "score": 521,
-      "category": "llm",
+      "score": 591,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -152,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1788999370,
-      "score": 138,
+      "score": 196,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A Design Space Exploration of Async/Await",
-      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1788962390,
-      "score": 437,
-      "category": "llm",
       "tags": [
         "国际"
       ]
