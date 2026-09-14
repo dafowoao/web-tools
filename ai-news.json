@@ -1,15 +1,15 @@
 {
-  "updated": "2026-09-14 03:37 UTC",
-  "count": 10,
+  "updated": "2026-09-14 09:36 UTC",
+  "count": 8,
   "items": [
     {
-      "title": "Show HN: Is It Greg?",
-      "url": "https://github.com/antoineleclair/is-it-greg",
-      "desc": "My friend Greg often posts incredible things he just made, just for fun.Often, I don&#x27;t realize that it&#x27;s something HE made and then I see the URL, AND IT&#x27;S MY FRIEND, GREG!A few things ",
+      "title": "Who gets to define the rules for AI?",
+      "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789351121,
-      "score": 42,
+      "ts": 1789361391,
+      "score": 39,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,8 +22,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789348955,
-      "score": 18,
-      "category": "llm",
+      "score": 65,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The case against JPEG XL",
+      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789347757,
+      "score": 157,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,60 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789346663,
-      "score": 7,
+      "score": 33,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Open-Source AI and Open Models Reading List",
+      "title": "Open-source AI and open models reading list",
       "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789345371,
-      "score": 40,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-      "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789344429,
-      "score": 13,
+      "score": 109,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-      "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789318353,
-      "score": 282,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789314278,
-      "score": 369,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789098342,
-      "score": 65,
+      "score": 93,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,21 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789083132,
-      "score": 80,
-      "category": "llm",
+      "score": 90,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "I build a mechanical watch face: a real gear train for a watch with no gears",
-      "url": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
-      "desc": "",
+      "title": "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
+      "url": "https://eterdb.com/",
+      "desc": "Hey everyone, a few months ago, after recovering from a Clade-generated bug, I was thinking to myself “wouldn’t it be nice if prod DB writes were easy to roll back”. I’ve put something together: it’s ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789054536,
-      "score": 16,
-      "category": "tools",
+      "ts": 1789054896,
+      "score": 31,
+      "category": "llm",
       "tags": [
         "国际"
       ]
