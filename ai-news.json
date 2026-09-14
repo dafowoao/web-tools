@@ -1,42 +1,68 @@
 {
-  "updated": "2026-09-13 22:08 UTC",
-  "count": 11,
+  "updated": "2026-09-14 03:37 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "title": "Show HN: Is It Greg?",
+      "url": "https://github.com/antoineleclair/is-it-greg",
+      "desc": "My friend Greg often posts incredible things he just made, just for fun.Often, I don&#x27;t realize that it&#x27;s something HE made and then I see the URL, AND IT&#x27;S MY FRIEND, GREG!A few things ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789351121,
+      "score": 42,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Malicious Use of Artificial Intelligence",
+      "url": "https://arxiv.org/abs/1802.07228",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789333573,
-      "score": 97,
+      "ts": 1789348955,
+      "score": 18,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI Robots – When will they be in our homes",
+      "url": "https://spectrum.ieee.org/ai-robots",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789346663,
+      "score": 7,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "There Is No AI (It's Just People) with Jaron Lanier",
-      "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+      "title": "Open-Source AI and Open Models Reading List",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789328466,
-      "score": 43,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789325384,
+      "ts": 1789345371,
       "score": 40,
-      "category": "industry",
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+      "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789344429,
+      "score": 13,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789318353,
-      "score": 204,
-      "category": "llm",
+      "score": 282,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,60 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789314278,
-      "score": 279,
+      "score": 369,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789262551,
-      "score": 557,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "url": "https://github.com/FeralFirmware/TailTalk/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789256611,
-      "score": 60,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Nvidia is the central bank of AI",
-      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;kt50V",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789225707,
-      "score": 556,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Why a dispute costs $229 on a $129 pair of shoes",
-      "url": "https://allcentury.github.io/2026/09/02/what-a-dispute-actually-costs/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789141265,
-      "score": 4,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,20 +100,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789098342,
-      "score": 34,
-      "category": "tools",
+      "score": 65,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
+      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)",
       "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789083132,
-      "score": 62,
+      "score": 80,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "I build a mechanical watch face: a real gear train for a watch with no gears",
+      "url": "https://myday24.com/blog/how-a-mechanical-watch-face-is-built/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789054536,
+      "score": 16,
       "category": "tools",
       "tags": [
         "国际"
