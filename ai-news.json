@@ -1,107 +1,172 @@
 {
-  "updated": "2026-09-14 09:36 UTC",
-  "count": 8,
+  "updated": "2026-09-14 17:47 UTC",
+  "count": 13,
   "items": [
     {
-      "title": "Who gets to define the rules for AI?",
-      "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+      "title": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789361391,
-      "score": 39,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Malicious Use of Artificial Intelligence",
-      "url": "https://arxiv.org/abs/1802.07228",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789348955,
-      "score": 65,
+      "ts": 1789406166,
+      "score": 35,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The case against JPEG XL",
-      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+      "title": "Fitting Neural Textures and PBR Material Maps with ES (No Backprop)",
+      "url": "http://richg42.blogspot.com/2026/09/fitting-neural-texture-and-pbr-material.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789347757,
-      "score": 157,
+      "ts": 1789403673,
+      "score": 5,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Why don't machine learning research agents overfit?",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789403543,
+      "score": 24,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "When LLM judges agree, should we believe them?",
+      "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789403370,
+      "score": 14,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "AI Robots – When will they be in our homes",
-      "url": "https://spectrum.ieee.org/ai-robots",
+      "title": "Claude is a Contrarian",
+      "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789346663,
-      "score": 33,
+      "ts": 1789402464,
+      "score": 70,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "China's Regulators Take Aim at \"AI Boyfriends\"",
+      "url": "https://spectrum.ieee.org/china-ai-chatbot-regulation",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789399856,
+      "score": 44,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Open-source AI and open models reading list",
-      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "title": "Transitions.dev: UI transitions for AI agents",
+      "url": "https://transitions.dev/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789345371,
-      "score": 109,
+      "ts": 1789399138,
+      "score": 13,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+      "url": "https://spectrum.ieee.org/adversarial-fashion",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789394693,
+      "score": 47,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
-      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789098342,
-      "score": 93,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video] (2025)",
-      "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789083132,
-      "score": 90,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
-      "url": "https://eterdb.com/",
-      "desc": "Hey everyone, a few months ago, after recovering from a Clade-generated bug, I was thinking to myself “wouldn’t it be nice if prod DB writes were easy to roll back”. I’ve put something together: it’s ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789054896,
-      "score": 31,
+      "ts": 1789394349,
+      "score": 84,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Pelican-bicycle alternatives",
+      "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+      "desc": "In November and December 2025, inspired by Simon Willison’s pelican-riding-a-bicycle benchmark, I had some then-current LLMs create SVGs from thirty similar prompts, such as “Generate an SVG of an oct",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789392022,
+      "score": 59,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789389657,
+      "score": 164,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789387292,
+      "score": 204,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
+      "url": "https://github.com/callbacked/kinesis",
+      "desc": "a couple hours ago i had astra take on a 10 month old repo of mine https:&#x2F;&#x2F;github.com&#x2F;callbacked&#x2F;neural-band-poc&#x2F; that involved finding a way to use the meta neural band indep",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789387291,
+      "score": 102,
+      "category": "tools",
       "tags": [
         "国际"
       ]
