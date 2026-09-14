@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-14 17:47 UTC",
-  "count": 13,
+  "updated": "2026-09-14 22:57 UTC",
+  "count": 11,
   "items": [
+    {
+      "title": "LLMs are real, AI is fake",
+      "url": "https://pluralistic.net/2026/09/12/god-in-the-box/#llms-are-fake",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789425140,
+      "score": 9,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789415780,
+      "score": 74,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Oracle’s 6am layoff emails hit staff amid new wave of cuts",
+      "url": "https://www.techtimes.co.uk/oracle-new-layoffs-restructuring-costs-2-8-billion-1808676",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789412715,
+      "score": 136,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Pion, an agent designed to run any company autonomously",
       "url": "https://andonlabs.com/blog/why-we-built-pion",
@@ -9,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789406166,
-      "score": 35,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Fitting Neural Textures and PBR Material Maps with ES (No Backprop)",
-      "url": "http://richg42.blogspot.com/2026/09/fitting-neural-texture-and-pbr-material.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789403673,
-      "score": 5,
-      "category": "industry",
+      "score": 234,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,59 +61,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789403543,
-      "score": 24,
+      "score": 91,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "When LLM judges agree, should we believe them?",
-      "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-      "desc": "",
+      "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+      "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+      "desc": "Hey HN, Toby from Nari Labs here.We&#x27;ve been working on making OSS speech models super-fast. Last year, we built Dia, the first OSS text-to-speech model capable of doing natural dialogue. Since th",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789403370,
-      "score": 14,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude is a Contrarian",
-      "url": "https://medium.com/@rdsubhas/claude-is-a-contrarian-dbce4de5cada",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789402464,
-      "score": 70,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "China's Regulators Take Aim at \"AI Boyfriends\"",
-      "url": "https://spectrum.ieee.org/china-ai-chatbot-regulation",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789399856,
-      "score": 44,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Transitions.dev: UI transitions for AI agents",
-      "url": "https://transitions.dev/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789399138,
-      "score": 13,
+      "ts": 1789402078,
+      "score": 58,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789394693,
-      "score": 47,
+      "score": 89,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789394349,
-      "score": 84,
+      "score": 105,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,7 +113,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789392022,
-      "score": 59,
+      "score": 105,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public",
+      "url": "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789390864,
+      "score": 37,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,33 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789389657,
-      "score": 164,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789387292,
-      "score": 204,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
-      "url": "https://github.com/callbacked/kinesis",
-      "desc": "a couple hours ago i had astra take on a 10 month old repo of mine https:&#x2F;&#x2F;github.com&#x2F;callbacked&#x2F;neural-band-poc&#x2F; that involved finding a way to use the meta neural band indep",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789387291,
-      "score": 102,
+      "score": 335,
       "category": "tools",
       "tags": [
         "国际"
