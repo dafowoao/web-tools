@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-15 16:22 UTC",
-  "count": 13,
+  "updated": "2026-09-15 22:43 UTC",
+  "count": 9,
   "items": [
+    {
+      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
+      "url": "https://mnoukhov.github.io/posts/ngu/",
+      "desc": "https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2609.13443",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789499258,
+      "score": 6,
+      "category": "research",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789493898,
+      "score": 222,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789493832,
+      "score": 16,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Cartesian – AI 3D Modeling for Design",
       "url": "https://www.formas.ai/cartesian",
@@ -9,98 +48,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789486005,
-      "score": 24,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The bitter lesson of browser agents",
-      "url": "https://browser-use.com/posts/bitter-lesson-browser-agents",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789484618,
-      "score": 4,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "What we have learned at OpenShell applying formal methods to control AI agents",
-      "url": "https://nvidia.github.io/OpenShell-Research/dev-notes/posts/2026-09-10-learning-formal-methods-agent-policy-prover/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789483205,
-      "score": 5,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GRP-Obliteration: Unaligning LLMs with a Single Unlabeled Prompt",
-      "url": "https://arxiv.org/abs/2602.06258",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789482683,
-      "score": 3,
+      "score": 80,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Loss. a tiny satire about AI progress",
-      "url": "https://workatloss.com/",
-      "desc": "I wanted to parody where AI seems to be heading.   You start as a manual inference unit pressing a button for the next token, then systems take over; agents, sub-agents, approvals, swarms.   It’s Univ",
+      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+      "url": "https://github.com/pizza-bot-app/pizza-bot",
+      "desc": "Hi HN - long-time lurker (since 2012!), first time poster.Pizza Bot is a self-hosted desktop app for Mac, Windows, and Linux that runs AI agents in the background and exposes them through an email-lik",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789481804,
-      "score": 10,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers",
-      "url": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789481221,
-      "score": 111,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Panel – A research workspace where the agent can build its own panes",
-      "url": "https://github.com/greentfrapp/panel",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789480717,
-      "score": 24,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI is breaking our proxies for expertise",
-      "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789479715,
-      "score": 62,
+      "ts": 1789485626,
+      "score": 9,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,34 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789479100,
-      "score": 113,
+      "score": 255,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Ordewell – turn one goal into an ordered plan of coding-agent tasks",
-      "url": "https://github.com/ordewell/ordewell",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789479097,
-      "score": 25,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789473691,
-      "score": 105,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,20 +87,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789467766,
-      "score": 338,
+      "score": 397,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Pion, an agent designed to run any company autonomously",
-      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "title": "Let's make quality the norm again",
+      "url": "https://www.forbrukerradet.no/short-life/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789406166,
-      "score": 468,
+      "ts": 1789466416,
+      "score": 269,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "url": "https://www.effort.news/irregular",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789420501,
+      "score": 386,
       "category": "tools",
       "tags": [
         "国际"
