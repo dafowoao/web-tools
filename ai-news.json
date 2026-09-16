@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-16 03:34 UTC",
-  "count": 9,
+  "updated": "2026-09-16 09:06 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "Datamimic – don't let your coding agent invent its own test world",
+      "url": "https://github.com/rapiddweller/datamimic",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789534716,
+      "score": 35,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Stay discoverable in search while disallowing AI training",
       "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
@@ -9,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789525518,
-      "score": 27,
+      "score": 67,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789499258,
-      "score": 52,
+      "score": 90,
       "category": "research",
       "tags": [
         "国际"
@@ -35,8 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789493898,
-      "score": 334,
-      "category": "tools",
+      "score": 403,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789493832,
+      "score": 220,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789486005,
-      "score": 97,
-      "category": "tools",
+      "score": 107,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789485626,
-      "score": 35,
-      "category": "tools",
+      "score": 48,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789479100,
-      "score": 298,
+      "score": 325,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789467766,
-      "score": 451,
+      "score": 484,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,21 +126,47 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789466416,
-      "score": 335,
+      "score": 381,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Pull every comment out of a Google Sheet, in the browser",
+      "url": "https://bensunter.com/commentpulse.html",
+      "desc": "I spend a lot of time working in Google sheets. Often, I will collaborate with up to 50 other people in the same workbook. One specific org I worked at had a strong preference for using comment thread",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789415443,
+      "score": 6,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-      "url": "https://www.effort.news/irregular",
+      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+      "url": "https://arxiv.org/abs/2511.07885",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789420501,
-      "score": 508,
-      "category": "industry",
+      "ts": 1789377399,
+      "score": 33,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: I made a flight simulator, except you're just a passenger",
+      "url": "https://inflightsimulator.com",
+      "desc": "Buckle your seatbelt, secure your tray table, and open your window shade. Now you can simulate flying anywhere in the world as a commercial passenger, from takeoff to touchdown. Terrain, weather, and ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789376936,
+      "score": 173,
+      "category": "llm",
       "tags": [
         "国际"
       ]
