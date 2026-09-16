@@ -1,42 +1,68 @@
 {
-  "updated": "2026-09-16 09:06 UTC",
-  "count": 13,
+  "updated": "2026-09-16 16:14 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Datamimic – don't let your coding agent invent its own test world",
-      "url": "https://github.com/rapiddweller/datamimic",
+      "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+      "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789534716,
-      "score": 35,
+      "ts": 1789569036,
+      "score": 229,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789566675,
+      "score": 103,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+      "url": "https://stale.jock.pl/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789563712,
+      "score": 26,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Learning Programming in an Age of LLMs",
+      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789549954,
+      "score": 165,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Stay discoverable in search while disallowing AI training",
-      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789525518,
-      "score": 67,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
-      "url": "https://mnoukhov.github.io/posts/ngu/",
-      "desc": "https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2609.13443",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789499258,
-      "score": 90,
-      "category": "research",
+      "ts": 1789546137,
+      "score": 334,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789493898,
-      "score": 403,
+      "score": 465,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,34 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789493832,
-      "score": 220,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Cartesian – AI 3D Modeling for Design",
-      "url": "https://www.formas.ai/cartesian",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789486005,
-      "score": 107,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
-      "url": "https://github.com/pizza-bot-app/pizza-bot",
-      "desc": "Hi HN - long-time lurker (since 2012!), first time poster.Pizza Bot is a self-hosted desktop app for Mac, Windows, and Linux that runs AI agents in the background and exposes them through an email-lik",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789485626,
-      "score": 48,
-      "category": "llm",
+      "score": 365,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789479100,
-      "score": 325,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789467766,
-      "score": 484,
+      "score": 359,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789466416,
-      "score": 381,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Pull every comment out of a Google Sheet, in the browser",
-      "url": "https://bensunter.com/commentpulse.html",
-      "desc": "I spend a lot of time working in Google sheets. Often, I will collaborate with up to 50 other people in the same workbook. One specific org I worked at had a strong preference for using comment thread",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789415443,
-      "score": 6,
+      "score": 444,
       "category": "industry",
       "tags": [
         "国际"
@@ -152,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789377399,
-      "score": 33,
-      "category": "tools",
+      "score": 119,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -165,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789376936,
-      "score": 173,
-      "category": "llm",
+      "score": 318,
+      "category": "tools",
       "tags": [
         "国际"
       ]
