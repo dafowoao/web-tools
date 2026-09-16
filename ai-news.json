@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-15 22:43 UTC",
+  "updated": "2026-09-16 03:34 UTC",
   "count": 9,
   "items": [
+    {
+      "title": "Stay discoverable in search while disallowing AI training",
+      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789525518,
+      "score": 27,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Learning to solve hard problems in RL for LLMs by never giving up",
       "url": "https://mnoukhov.github.io/posts/ngu/",
@@ -9,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789499258,
-      "score": 6,
+      "score": 52,
       "category": "research",
       "tags": [
         "国际"
@@ -22,20 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789493898,
-      "score": 222,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789493832,
-      "score": 16,
+      "score": 334,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789486005,
-      "score": 80,
-      "category": "llm",
+      "score": 97,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789485626,
-      "score": 9,
-      "category": "llm",
+      "score": 35,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789479100,
-      "score": 255,
-      "category": "tools",
+      "score": 298,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789467766,
-      "score": 397,
-      "category": "llm",
+      "score": 451,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789466416,
-      "score": 269,
+      "score": 335,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789420501,
-      "score": 386,
-      "category": "tools",
+      "score": 508,
+      "category": "industry",
       "tags": [
         "国际"
       ]
