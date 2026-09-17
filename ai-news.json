@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-17 03:40 UTC",
+  "updated": "2026-09-17 09:14 UTC",
   "count": 10,
   "items": [
+    {
+      "title": "AI Safety Is Mostly a Sex Cult",
+      "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789634197,
+      "score": 20,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789614725,
+      "score": 55,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Part-human part-mouse brain developed in science breakthrough",
       "url": "https://www.bbc.com/news/articles/c60m3k28j81mo",
@@ -9,34 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789608790,
-      "score": 8,
+      "score": 40,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Pangram – AI detector for text and images",
-      "url": "https://www.pangram.com",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789607590,
-      "score": 11,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Migrating the GitHub Copilot Runtime to Rust, Using Copilot",
-      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789607547,
-      "score": 5,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +48,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789604913,
-      "score": 28,
+      "score": 90,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "US interest rates raised for first time in three years",
+      "url": "https://www.bbc.com/news/articles/cw4gmlyvj422o",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789601117,
+      "score": 55,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789599999,
-      "score": 91,
-      "category": "tools",
+      "score": 137,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789596613,
-      "score": 60,
-      "category": "tools",
+      "score": 122,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789592364,
-      "score": 153,
-      "category": "tools",
+      "score": 202,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789589358,
-      "score": 303,
-      "category": "llm",
+      "score": 423,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789584600,
-      "score": 435,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Training Text-to-Image Models 3.6× Faster",
-      "url": "https://www.linum.ai/field-notes/jit-ddt",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789577893,
-      "score": 43,
-      "category": "industry",
+      "score": 542,
+      "category": "tools",
       "tags": [
         "国际"
       ]
