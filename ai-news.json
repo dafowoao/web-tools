@@ -1,68 +1,94 @@
 {
-  "updated": "2026-09-17 09:14 UTC",
-  "count": 10,
+  "updated": "2026-09-17 16:20 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "AI Safety Is Mostly a Sex Cult",
-      "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+      "title": "AI model watermarking changes agent behavior",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/17/ai-model-watermarking-changes-agent-behavior/5296998",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789634197,
-      "score": 20,
+      "ts": 1789661134,
+      "score": 4,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Victory Appeals Court Rejects Expansive New Copyright Claim",
+      "url": "https://www.eff.org/deeplinks/2026/09/victory-appeals-court-rejects-expansive-new-copyright-claim",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789660752,
+      "score": 3,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "LLM Classification Is Feature Engineering",
+      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789659617,
+      "score": 19,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
-      "url": "https://github.com/browser-use/jev-ultrafast",
+      "title": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
+      "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789614725,
-      "score": 55,
+      "ts": 1789658783,
+      "score": 18,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Artificial intelligence now beats some of the best human forecasters",
+      "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789658010,
+      "score": 25,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Part-human part-mouse brain developed in science breakthrough",
-      "url": "https://www.bbc.com/news/articles/c60m3k28j81mo",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "url": "https://mysetup.ai/",
+      "desc": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out t",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789650104,
+      "score": 53,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI models secretly generate instructions to ignore constraints",
+      "url": "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789608790,
-      "score": 40,
+      "ts": 1789622021,
+      "score": 62,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-      "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789604913,
-      "score": 90,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "US interest rates raised for first time in three years",
-      "url": "https://www.bbc.com/news/articles/cw4gmlyvj422o",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789601117,
-      "score": 55,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789599999,
-      "score": 137,
-      "category": "llm",
+      "score": 180,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789596613,
-      "score": 122,
-      "category": "industry",
+      "score": 204,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789592364,
-      "score": 202,
-      "category": "llm",
+      "score": 232,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789589358,
-      "score": 423,
+      "score": 516,
       "category": "industry",
       "tags": [
         "国际"
@@ -126,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789584600,
-      "score": 542,
-      "category": "tools",
+      "score": 651,
+      "category": "industry",
       "tags": [
         "国际"
       ]
