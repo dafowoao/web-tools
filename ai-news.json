@@ -1,7 +1,85 @@
 {
-  "updated": "2026-09-16 22:39 UTC",
+  "updated": "2026-09-17 03:40 UTC",
   "count": 10,
   "items": [
+    {
+      "title": "Part-human part-mouse brain developed in science breakthrough",
+      "url": "https://www.bbc.com/news/articles/c60m3k28j81mo",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789608790,
+      "score": 8,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Pangram – AI detector for text and images",
+      "url": "https://www.pangram.com",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789607590,
+      "score": 11,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Migrating the GitHub Copilot Runtime to Rust, Using Copilot",
+      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789607547,
+      "score": 5,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+      "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789604913,
+      "score": 28,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789599999,
+      "score": 91,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "url": "https://harnesstax.github.io/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789596613,
+      "score": 60,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
       "url": "https://arxiv.org/abs/2609.16338",
@@ -9,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789592364,
-      "score": 76,
+      "score": 153,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789589358,
-      "score": 156,
-      "category": "tools",
+      "score": 303,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789584600,
-      "score": 288,
-      "category": "llm",
+      "score": 435,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,86 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789577893,
-      "score": 19,
+      "score": 43,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Cowork and chat are now one Claude",
-      "url": "https://claude.com/blog/cowork-is-now-claude",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789575985,
-      "score": 194,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
-      "url": "https://stale.jock.pl/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789563712,
-      "score": 67,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "url": "https://mistral.ai/news/mistral-x-mozilla/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789546137,
-      "score": 506,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Siberian Ice Maiden and the Scythian World",
-      "url": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789499349,
-      "score": 44,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Restarted – a 2026 remake of the classic 2015 startup generator",
-      "url": "https://restarted.io/",
-      "desc": "The original startup website generator by Tiff Zhang and Mike Bradley landed on Hacker News in April 2015 (https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=9427856) and has been one of my favorite ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789472085,
-      "score": 17,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: AttaLambda: a language where types and data are made of untyped lambdas",
-      "url": "https://attalambda.com",
-      "desc": "I made a programming language!I call it AttaLambda.The idea is this: a usable Lisp-shaped language where all the meaningful computation is done in untyped lambda calculus. Logic, arithmetic, data stru",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789402870,
-      "score": 30,
-      "category": "llm",
       "tags": [
         "国际"
       ]
