@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-18 03:25 UTC",
+  "updated": "2026-09-18 08:47 UTC",
   "count": 10,
   "items": [
+    {
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789699644,
+      "score": 339,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789681718,
+      "score": 148,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "How Uber Protects Against Retry Storms",
       "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
@@ -9,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789679672,
-      "score": 57,
+      "score": 93,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789679611,
-      "score": 275,
+      "score": 416,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789677373,
-      "score": 339,
+      "score": 445,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,34 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789664114,
-      "score": 121,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
-      "url": "https://news.ycombinator.com/item?id=49743049",
-      "desc": "Hey HN, we&#x27;re Nars &amp; Nishant, founders of Skillsync (https:&#x2F;&#x2F;skillsync.com)Skillsync lets you move your AI chats across every coding agent. Most of our work exists as conversations,",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789662135,
-      "score": 53,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LLM Classification Is Feature Engineering",
-      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789659617,
-      "score": 92,
-      "category": "industry",
+      "score": 142,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789650748,
-      "score": 203,
-      "category": "llm",
+      "score": 228,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789650104,
-      "score": 198,
-      "category": "llm",
+      "score": 212,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789486315,
-      "score": 99,
-      "category": "llm",
+      "score": 108,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789469184,
-      "score": 36,
-      "category": "industry",
+      "score": 63,
+      "category": "tools",
       "tags": [
         "国际"
       ]
