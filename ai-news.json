@@ -1,33 +1,7 @@
 {
-  "updated": "2026-09-17 22:41 UTC",
-  "count": 12,
+  "updated": "2026-09-18 03:25 UTC",
+  "count": 10,
   "items": [
-    {
-      "title": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789681718,
-      "score": 8,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Sex, AI, and the Apocalypse",
-      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789679752,
-      "score": 41,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "How Uber Protects Against Retry Storms",
       "url": "https://www.uber.com/us/en/blog/protecting-against-retry-storms/",
@@ -35,7 +9,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789679672,
-      "score": 9,
+      "score": 57,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789679611,
-      "score": 84,
+      "score": 275,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789677373,
-      "score": 182,
-      "category": "tools",
+      "score": 339,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789664114,
-      "score": 89,
-      "category": "llm",
+      "score": 121,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789662135,
-      "score": 36,
+      "score": 53,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789659617,
-      "score": 83,
-      "category": "llm",
+      "score": 92,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789650748,
-      "score": 166,
-      "category": "tools",
+      "score": 203,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789650104,
-      "score": 159,
-      "category": "tools",
+      "score": 198,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789486315,
-      "score": 70,
+      "score": 99,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789469184,
-      "score": 8,
+      "score": 36,
       "category": "industry",
       "tags": [
         "国际"
