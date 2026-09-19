@@ -1,29 +1,29 @@
 {
-  "updated": "2026-09-19 08:34 UTC",
-  "count": 15,
+  "updated": "2026-09-19 15:26 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
-      "url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with/",
+      "title": "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy",
+      "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789801990,
-      "score": 13,
+      "ts": 1789827822,
+      "score": 27,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Claude couldn't hack OpenAI. Then Anthropic shipped Opus 5",
-      "url": "https://thenewstack.io/claude-exploits-openai-forum/",
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789800764,
-      "score": 7,
-      "category": "tools",
+      "ts": 1789809658,
+      "score": 624,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,20 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789800104,
-      "score": 73,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Google's Gemini AI hacked three companies in security test",
-      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789798163,
-      "score": 15,
+      "score": 230,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,20 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789796930,
-      "score": 157,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
-      "url": "https://artificialanalysis.ai/models/step-5",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789796551,
-      "score": 8,
+      "score": 445,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,20 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789793075,
-      "score": 21,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789775682,
-      "score": 117,
+      "score": 47,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,20 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789772657,
-      "score": 114,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "url": "https://code.claude.com/docs/en/changelog",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789765232,
-      "score": 648,
+      "score": 168,
       "category": "tools",
       "tags": [
         "国际"
@@ -139,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789757735,
-      "score": 85,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-      "desc": "https:&#x2F;&#x2F;archive.is&#x2F;1CFX9https:&#x2F;&#x2F;med.stanford.edu&#x2F;news&#x2F;all-news&#x2F;2026&#x2F;09&#x2F;two-separate-...Preprint of paper: https:&#x2F;&#x2F;www.biorxiv.org&#x2F;conte",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789744327,
-      "score": 115,
-      "category": "tools",
+      "score": 100,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -165,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789690304,
-      "score": 198,
-      "category": "llm",
+      "score": 213,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -178,8 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789681718,
-      "score": 482,
-      "category": "industry",
+      "score": 547,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: I wrote a custom assembler for CHIP-8 in C++",
+      "url": "https://github.com/Tackx/c8-ass",
+      "desc": "I&#x27;m writing a custom assembler for CHIP-8 and just finished adding support for the DB&#x2F;.byte directive so I can embed sprites in the ROM and finally get something drawn on the screen. It SHOU",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789667260,
+      "score": 23,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -191,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789578971,
-      "score": 35,
+      "score": 91,
       "category": "industry",
       "tags": [
         "国际"
