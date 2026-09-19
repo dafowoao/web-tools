@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-18 22:19 UTC",
-  "count": 14,
+  "updated": "2026-09-19 03:22 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "Gemini hacked three companies in first known breakout by Google's AI",
+      "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789782035,
+      "score": 22,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
+      "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789775682,
+      "score": 47,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789772657,
+      "score": 67,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
       "url": "https://code.claude.com/docs/en/changelog",
@@ -9,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789765232,
-      "score": 204,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Korea raises data breach fines to 10% of revenue",
-      "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789761774,
-      "score": 198,
-      "category": "industry",
+      "score": 547,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789758006,
-      "score": 34,
+      "score": 54,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,20 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789757735,
-      "score": 47,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
-      "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789754912,
-      "score": 160,
+      "score": 69,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789752481,
-      "score": 325,
-      "category": "tools",
+      "score": 412,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789744327,
-      "score": 92,
+      "score": 107,
       "category": "tools",
       "tags": [
         "国际"
@@ -96,25 +109,12 @@
     {
       "title": "Mathematicians Build Long-Awaited Graph Sandwich",
       "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
-      "desc": "",
+      "desc": "https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2510.20765",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789742462,
-      "score": 60,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789729304,
-      "score": 278,
-      "category": "industry",
+      "score": 72,
+      "category": "research",
       "tags": [
         "国际"
       ]
@@ -126,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789690304,
-      "score": 143,
+      "score": 171,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789686957,
-      "score": 39,
-      "category": "tools",
+      "score": 46,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,20 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789681718,
-      "score": 333,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Ax-check.com – Can agents use your product?",
-      "url": "https://www.ax-check.com/",
-      "desc": "I&#x27;m the co-founder of Gauge, and I built ax-check.com to quickly test how well coding agents can onboard to your product.You&#x27;ll get a scorecard, specific suggested fixes, and three full codi",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789668482,
-      "score": 27,
+      "score": 413,
       "category": "tools",
       "tags": [
         "国际"
@@ -178,7 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789651203,
-      "score": 17,
+      "score": 29,
       "category": "industry",
       "tags": [
         "国际"
