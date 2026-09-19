@@ -1,16 +1,29 @@
 {
-  "updated": "2026-09-19 15:26 UTC",
+  "updated": "2026-09-19 18:26 UTC",
   "count": 11,
   "items": [
     {
-      "title": "Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy",
-      "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
+      "title": "People who know the most often sound the least certain",
+      "url": "https://vrash.substack.com/p/the-people-who-know-the-most-often",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789827822,
-      "score": 27,
-      "category": "industry",
+      "ts": 1789839763,
+      "score": 18,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Almost Never Use AI to Write Anything Substantive",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789835724,
+      "score": 47,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789809658,
-      "score": 624,
-      "category": "industry",
+      "score": 901,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789800104,
-      "score": 230,
-      "category": "tools",
+      "score": 282,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789796930,
-      "score": 445,
+      "score": 535,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789793075,
-      "score": 47,
+      "score": 50,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789772657,
-      "score": 168,
-      "category": "tools",
+      "score": 181,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789757735,
-      "score": 100,
-      "category": "industry",
+      "score": 101,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789690304,
-      "score": 213,
+      "score": 218,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789681718,
-      "score": 547,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I wrote a custom assembler for CHIP-8 in C++",
-      "url": "https://github.com/Tackx/c8-ass",
-      "desc": "I&#x27;m writing a custom assembler for CHIP-8 and just finished adding support for the DB&#x2F;.byte directive so I can embed sprites in the ROM and finally get something drawn on the screen. It SHOU",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789667260,
-      "score": 23,
-      "category": "llm",
+      "score": 575,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789578971,
-      "score": 91,
-      "category": "industry",
+      "score": 114,
+      "category": "tools",
       "tags": [
         "国际"
       ]
