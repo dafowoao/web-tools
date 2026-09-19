@@ -1,15 +1,93 @@
 {
-  "updated": "2026-09-19 03:22 UTC",
-  "count": 13,
+  "updated": "2026-09-19 08:34 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "Gemini hacked three companies in first known breakout by Google's AI",
-      "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+      "title": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+      "url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789782035,
-      "score": 22,
+      "ts": 1789801990,
+      "score": 13,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude couldn't hack OpenAI. Then Anthropic shipped Opus 5",
+      "url": "https://thenewstack.io/claude-exploits-openai-forum/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789800764,
+      "score": 7,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789800104,
+      "score": 73,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789798163,
+      "score": 15,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789796930,
+      "score": 157,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+      "url": "https://artificialanalysis.ai/models/step-5",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789796551,
+      "score": 8,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789793075,
+      "score": 21,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789775682,
-      "score": 47,
-      "category": "tools",
+      "score": 117,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789772657,
-      "score": 67,
-      "category": "llm",
+      "score": 114,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789765232,
-      "score": 547,
+      "score": 648,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Implications of Linguistic Illegibility for LLM Security",
-      "url": "https://arxiv.org/abs/2609.02852",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789758006,
-      "score": 54,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,21 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789757735,
-      "score": 69,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "US Military had close call after using AI for hallucinated intelligence report",
-      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789752481,
-      "score": 412,
-      "category": "llm",
+      "score": 85,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,21 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789744327,
-      "score": 107,
+      "score": 115,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Mathematicians Build Long-Awaited Graph Sandwich",
-      "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
-      "desc": "https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2510.20765",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789742462,
-      "score": 72,
-      "category": "research",
       "tags": [
         "国际"
       ]
@@ -126,20 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789690304,
-      "score": 171,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
-      "url": "https://scry.io/",
-      "desc": "Meet Scry, a 500 TB NVMe internet index in ClickHouse that you can run ~arbitrary readonly SQL and some of Datalog over, and I handle the problem of resource-contention with congestion-based micro-auc",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789686957,
-      "score": 46,
+      "score": 198,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,20 +178,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789681718,
-      "score": 413,
-      "category": "tools",
+      "score": 482,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video]",
-      "url": "https://www.youtube.com/watch?v=1cRFfYQYGxE",
+      "title": "You can run Git on object storage if you re-make packfiles",
+      "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789651203,
-      "score": 29,
+      "ts": 1789578971,
+      "score": 35,
       "category": "industry",
       "tags": [
         "国际"
