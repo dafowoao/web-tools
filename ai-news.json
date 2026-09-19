@@ -1,29 +1,42 @@
 {
-  "updated": "2026-09-19 18:26 UTC",
-  "count": 11,
+  "updated": "2026-09-19 22:08 UTC",
+  "count": 9,
   "items": [
     {
-      "title": "People who know the most often sound the least certain",
-      "url": "https://vrash.substack.com/p/the-people-who-know-the-most-often",
+      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789839763,
-      "score": 18,
-      "category": "tools",
+      "ts": 1789842090,
+      "score": 64,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Almost Never Use AI to Write Anything Substantive",
+      "title": "I think you should almost never use AI to write",
       "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789835724,
-      "score": 47,
-      "category": "tools",
+      "score": 161,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+      "url": "https://github.com/trycua/cua",
+      "desc": "Hello HN! We&#x27;re Dillon and Francesco from Cua.We were wondering how many computer use tasks actually need a full general purpose LLM (e.g. gpt-6-astra, claude-opus-5 etc.) to think through all th",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789833171,
+      "score": 43,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789809658,
-      "score": 901,
-      "category": "tools",
+      "score": 1237,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,33 +61,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789800104,
-      "score": 282,
+      "score": 343,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
       "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "desc": "",
+      "desc": "https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41593-026-02433-7",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789796930,
-      "score": 535,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789793075,
-      "score": 50,
+      "score": 589,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,33 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789772657,
-      "score": 181,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-      "url": "https://arxiv.org/abs/2510.03215",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789757735,
-      "score": 101,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "url": "https://cactuscompute.com/needle",
-      "desc": "Hey HN, Henry from Cactus here.We submitted Needle 2 here a few weeks ago, and the feedback in the discussion thread was incredibly valuable, thanks! Thanks to all that feedback, we’ve been able to mo",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789690304,
-      "score": 218,
+      "score": 195,
       "category": "industry",
       "tags": [
         "国际"
@@ -126,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789681718,
-      "score": 575,
+      "score": 607,
       "category": "tools",
       "tags": [
         "国际"
@@ -139,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789578971,
-      "score": 114,
-      "category": "tools",
+      "score": 133,
+      "category": "llm",
       "tags": [
         "国际"
       ]
