@@ -1,7 +1,72 @@
 {
-  "updated": "2026-09-20 15:31 UTC",
-  "count": 3,
+  "updated": "2026-09-20 18:30 UTC",
+  "count": 7,
   "items": [
+    {
+      "title": "Lego Brick Sorting Machine Uses AI to Save Millions from Landfill [video]",
+      "url": "https://www.youtube.com/watch?v=M0cWcAIeOyU",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789928299,
+      "score": 3,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
+      "url": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789926215,
+      "score": 10,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Radius – A Meetup.com Alternative",
+      "url": "https://radius.to/",
+      "desc": "Hello HN!I&#x27;m relaunching Radius [1] - far too long after the original Show HN [2] (I&#x27;ll blame the day job for that).Radius started out from my frustration with not knowing what was going on ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789923086,
+      "score": 37,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789917524,
+      "score": 165,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "url": "https://pirateface.co/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789917367,
+      "score": 232,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI",
       "url": "https://sigabrt.dev",
@@ -9,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789814879,
-      "score": 29,
+      "score": 52,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,20 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789809658,
-      "score": 1704,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789681718,
-      "score": 696,
+      "score": 1742,
       "category": "llm",
       "tags": [
         "国际"
