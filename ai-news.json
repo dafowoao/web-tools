@@ -1,67 +1,15 @@
 {
-  "updated": "2026-09-20 09:05 UTC",
-  "count": 8,
+  "updated": "2026-09-20 15:31 UTC",
+  "count": 3,
   "items": [
     {
-      "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-      "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-      "desc": "",
+      "title": "Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI",
+      "url": "https://sigabrt.dev",
+      "desc": "Hello HN. I built this mostly to monitor the things I host myself. I know it&#x27;s nothing too exciting.Anyway, the TL;DR is: Create an endpoint, and if your script&#x2F;cronjob fails to regularly pi",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789889917,
-      "score": 17,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
-      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789885002,
-      "score": 83,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-      "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789883179,
-      "score": 13,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-      "url": "https://github.com/trycua/cua",
-      "desc": "Hello HN! We&#x27;re Dillon and Francesco from Cua.We were wondering how many computer use tasks actually need a full general purpose LLM (e.g. gpt-6-astra, claude-opus-5 etc.) to think through all th",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789833171,
-      "score": 78,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Learning another language may be one of the best ways to keep your brain healthy",
-      "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789827822,
-      "score": 84,
+      "ts": 1789814879,
+      "score": 29,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,21 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789809658,
-      "score": 1575,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-      "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "desc": "https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41593-026-02433-7",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789796930,
-      "score": 626,
-      "category": "llm",
+      "score": 1704,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789681718,
-      "score": 670,
-      "category": "tools",
+      "score": 696,
+      "category": "llm",
       "tags": [
         "国际"
       ]
