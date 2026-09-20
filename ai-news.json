@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-19 22:08 UTC",
-  "count": 9,
+  "updated": "2026-09-20 03:39 UTC",
+  "count": 8,
   "items": [
+    {
+      "title": "AI in schools – The choice we keep making",
+      "url": "https://friendsschoolboulder.org/the-choice-we-keep-making/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789858539,
+      "score": 19,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
@@ -9,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789842090,
-      "score": 64,
-      "category": "llm",
+      "score": 139,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789835724,
-      "score": 161,
-      "category": "industry",
+      "score": 257,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789833171,
-      "score": 43,
+      "score": 68,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789809658,
-      "score": 1237,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789800104,
-      "score": 343,
-      "category": "llm",
+      "score": 1431,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,20 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789796930,
-      "score": 589,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-      "url": "https://spectrum.ieee.org/llms-for-chip-design",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789772657,
-      "score": 195,
+      "score": 613,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789681718,
-      "score": 607,
-      "category": "tools",
+      "score": 638,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789578971,
-      "score": 133,
-      "category": "llm",
+      "score": 140,
+      "category": "tools",
       "tags": [
         "国际"
       ]
