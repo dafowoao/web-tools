@@ -1,42 +1,42 @@
 {
-  "updated": "2026-09-20 03:39 UTC",
+  "updated": "2026-09-20 09:05 UTC",
   "count": 8,
   "items": [
     {
-      "title": "AI in schools – The choice we keep making",
-      "url": "https://friendsschoolboulder.org/the-choice-we-keep-making/",
+      "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+      "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789858539,
-      "score": 19,
-      "category": "industry",
+      "ts": 1789889917,
+      "score": 17,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789842090,
-      "score": 139,
+      "ts": 1789885002,
+      "score": 83,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "I think you should almost never use AI to write",
-      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "title": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+      "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789835724,
-      "score": 257,
-      "category": "llm",
+      "ts": 1789883179,
+      "score": 13,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789833171,
-      "score": 68,
+      "score": 78,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Learning another language may be one of the best ways to keep your brain healthy",
+      "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789827822,
+      "score": 84,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789809658,
-      "score": 1431,
+      "score": 1575,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789796930,
-      "score": 613,
-      "category": "industry",
+      "score": 626,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789681718,
-      "score": 638,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "You can run Git on object storage if you re-make packfiles",
-      "url": "https://www.tigrisdata.com/blog/objgit-packfiles/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789578971,
-      "score": 140,
+      "score": 670,
       "category": "tools",
       "tags": [
         "国际"
