@@ -1,29 +1,55 @@
 {
-  "updated": "2026-09-20 22:12 UTC",
-  "count": 8,
+  "updated": "2026-09-21 03:34 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "I stopped drinking the AI Kool-Aid",
-      "url": "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/",
-      "desc": "",
+      "title": "Show HN: Gdocs-me-up: a high-fidelity Google Docs exporter",
+      "url": "https://github.com/behdad/gdocs-me-up",
+      "desc": "Over the years I had written dozens of Google Docs documents, that I wanted to post to my website. Not only Google Docs&#x27;s publish feature is broken and incomplete, Google does not index Google Do",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789939046,
-      "score": 20,
+      "ts": 1789951602,
+      "score": 3,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
-      "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
+      "title": "Amiga Unix, Again",
+      "url": "https://amigaux.org/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789936363,
-      "score": 28,
-      "category": "industry",
+      "ts": 1789948630,
+      "score": 25,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+      "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789946344,
+      "score": 12,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AX – Google’s Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789943563,
+      "score": 275,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789923086,
-      "score": 71,
-      "category": "llm",
+      "score": 107,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789917524,
-      "score": 471,
-      "category": "llm",
+      "score": 651,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789917367,
-      "score": 371,
-      "category": "industry",
+      "score": 469,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,34 +100,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789916350,
-      "score": 9,
-      "category": "industry",
+      "score": 42,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI",
-      "url": "https://sigabrt.dev",
-      "desc": "Hello HN. I built this mostly to monitor the things I host myself. I know it&#x27;s nothing too exciting.Anyway, the TL;DR is: Create an endpoint, and if your script&#x2F;cronjob fails to regularly pi",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789814879,
-      "score": 66,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI-generated posters don’t have to be horrible",
-      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "title": "The LLMentalist Effect (2023)",
+      "url": "https://softwarecrisis.dev/letters/llmentalist/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789809658,
-      "score": 1762,
+      "ts": 1789906813,
+      "score": 164,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789885002,
+      "score": 282,
+      "category": "tools",
       "tags": [
         "国际"
       ]
