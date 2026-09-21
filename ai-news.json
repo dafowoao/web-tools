@@ -1,7 +1,111 @@
 {
-  "updated": "2026-09-21 09:38 UTC",
-  "count": 9,
+  "updated": "2026-09-21 17:54 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790010023,
+      "score": 40,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
+      "url": "https://github.com/naw103/foremerge",
+      "desc": "At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are whe",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790007726,
+      "score": 17,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Amazon blocks Meta's Muse AI shopping agent",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/21/amazon-shows-metas-muse-ai-shopping-agent-the-door/5297777",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790006930,
+      "score": 10,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "A restored PDP-11/83 serving this page on 211BSD Unix",
+      "url": "http://pdp1173.com/",
+      "desc": "The box is a restored Q-bus PDP-11&#x2F;83 named minerva: Mentec M11 CPU, two chassis tied with M9404&#x2F;M9405, RQDX3, 2xEmulex UC07, KDA50, RLV12, DEQNA, M3104. Storage is RA82 + dual RA92, MFM boo",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790005506,
+      "score": 43,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789999849,
+      "score": 124,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Python Workers are now generally available",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789997899,
+      "score": 75,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
+      "url": "https://news.ycombinator.com/item?id=49786609",
+      "desc": "I disabled Siri in the Settings app, and then further disabled Siri and its extensions in Settings &gt; Screen Time.Next, I disabled all Siri-related and Apple Intelligence-related services as per htt",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789994825,
+      "score": 120,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+      "url": "https://github.com/aru-labs/lossless-memory",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1789993697,
+      "score": 42,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
       "url": "https://github.com/volotat/mini-AGI/",
@@ -9,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789965757,
-      "score": 62,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
-      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789964924,
-      "score": 99,
-      "category": "tools",
+      "score": 225,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789948630,
-      "score": 97,
-      "category": "llm",
+      "score": 137,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,34 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789943563,
-      "score": 485,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Radius – A Meetup.com Alternative",
-      "url": "https://radius.to/",
-      "desc": "Hello HN!I&#x27;m relaunching Radius [1] - far too long after the original Show HN [2] (I&#x27;ll blame the day job for that).Radius started out from my frustration with not knowing what was going on ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789923086,
-      "score": 137,
+      "score": 605,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: A competition for small neural networks that play strategy games",
-      "url": "https://tinybrains.dev",
+      "title": "Whirlpool Washer Transmission Repair (2007)",
+      "url": "https://k0lee.com/2007/01/whirlpool-washer-transmission-repair/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1789916350,
-      "score": 70,
-      "category": "industry",
+      "ts": 1789939473,
+      "score": 19,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,33 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789906813,
-      "score": 187,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Spain orders blocks on Archive.today and its mirrors",
-      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789885002,
-      "score": 420,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789681718,
-      "score": 728,
+      "score": 217,
       "category": "industry",
       "tags": [
         "国际"
