@@ -1,16 +1,107 @@
 {
-  "updated": "2026-09-21 17:54 UTC",
-  "count": 13,
+  "updated": "2026-09-21 23:01 UTC",
+  "count": 14,
   "items": [
     {
-      "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+      "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
+      "url": "https://www.personalimportation.org/advocacy",
+      "desc": "https:&#x2F;&#x2F;www.federalregister.gov&#x2F;documents&#x2F;2026&#x2F;06&#x2F;24&#x2F;2026-12...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790024297,
+      "score": 82,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790010023,
-      "score": 40,
+      "ts": 1790019829,
+      "score": 125,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790018613,
+      "score": 98,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790018262,
+      "score": 62,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Frontier AI on Your Own Hardware",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790016781,
+      "score": 67,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790016119,
+      "score": 168,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Why does mathmain need an encrypted loader?",
+      "url": "https://safedep.io/mathmain-encrypted-loader/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790015624,
+      "score": 91,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
+      "url": "https://ieeexplore.ieee.org/document/689473",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790014496,
+      "score": 22,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790007726,
-      "score": 17,
+      "score": 31,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Amazon blocks Meta's Muse AI shopping agent",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/21/amazon-shows-metas-muse-ai-shopping-agent-the-door/5297777",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790006930,
-      "score": 10,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790005506,
-      "score": 43,
+      "score": 85,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789999849,
-      "score": 124,
-      "category": "industry",
+      "score": 205,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,20 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789997899,
-      "score": 75,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
-      "url": "https://news.ycombinator.com/item?id=49786609",
-      "desc": "I disabled Siri in the Settings app, and then further disabled Siri and its extensions in Settings &gt; Screen Time.Next, I disabled all Siri-related and Apple Intelligence-related services as per htt",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789994825,
-      "score": 120,
+      "score": 168,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789993697,
-      "score": 42,
-      "category": "tools",
+      "score": 55,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,59 +178,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789965757,
-      "score": 225,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Amiga Unix, Again",
-      "url": "https://amigaux.org/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789948630,
-      "score": 137,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AX – Google’s Open Agentic Orchestrator",
-      "url": "https://agentexecutor.io",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789943563,
-      "score": 605,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Whirlpool Washer Transmission Repair (2007)",
-      "url": "https://k0lee.com/2007/01/whirlpool-washer-transmission-repair/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789939473,
-      "score": 19,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The LLMentalist Effect (2023)",
-      "url": "https://softwarecrisis.dev/letters/llmentalist/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789906813,
-      "score": 217,
+      "score": 247,
       "category": "industry",
       "tags": [
         "国际"
