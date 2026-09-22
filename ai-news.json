@@ -1,16 +1,29 @@
 {
-  "updated": "2026-09-21 23:01 UTC",
-  "count": 14,
+  "updated": "2026-09-22 03:33 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
-      "url": "https://www.personalimportation.org/advocacy",
-      "desc": "https:&#x2F;&#x2F;www.federalregister.gov&#x2F;documents&#x2F;2026&#x2F;06&#x2F;24&#x2F;2026-12...",
+      "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
+      "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790024297,
-      "score": 82,
+      "ts": 1790040289,
+      "score": 74,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Status – Elevated errors for multiple models",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790039119,
+      "score": 73,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790019829,
-      "score": 125,
+      "score": 235,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790018613,
-      "score": 98,
+      "score": 161,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790018262,
-      "score": 62,
+      "score": 100,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790016781,
-      "score": 67,
+      "score": 114,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790016119,
-      "score": 168,
-      "category": "tools",
+      "score": 213,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,20 +100,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790015624,
-      "score": 91,
-      "category": "industry",
+      "score": 115,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
-      "url": "https://ieeexplore.ieee.org/document/689473",
+      "title": "The agents, they just want to talk",
+      "url": "https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790014496,
-      "score": 22,
+      "ts": 1790007746,
+      "score": 19,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,34 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790007726,
-      "score": 31,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A restored PDP-11/83 serving this page on 211BSD Unix",
-      "url": "http://pdp1173.com/",
-      "desc": "The box is a restored Q-bus PDP-11&#x2F;83 named minerva: Mentec M11 CPU, two chassis tied with M9404&#x2F;M9405, RQDX3, 2xEmulex UC07, KDA50, RLV12, DEQNA, M3104. Storage is RA82 + dual RA92, MFM boo",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790005506,
-      "score": 85,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
-      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789999849,
-      "score": 205,
-      "category": "llm",
+      "score": 39,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -152,21 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789997899,
-      "score": 168,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-      "url": "https://github.com/aru-labs/lossless-memory",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1789993697,
-      "score": 55,
-      "category": "industry",
+      "score": 194,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -178,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789965757,
-      "score": 247,
-      "category": "industry",
+      "score": 256,
+      "category": "llm",
       "tags": [
         "国际"
       ]
