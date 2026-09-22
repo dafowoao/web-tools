@@ -1,7 +1,98 @@
 {
-  "updated": "2026-09-22 16:22 UTC",
-  "count": 14,
+  "updated": "2026-09-22 22:44 UTC",
+  "count": 15,
   "items": [
+    {
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;0V37g",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790103818,
+      "score": 304,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Unreal Agent",
+      "url": "https://unreallabs.ai/blog/unreal-agent/",
+      "desc": "https:&#x2F;&#x2F;github.com&#x2F;unreallabsai&#x2F;unreal-agent",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790100953,
+      "score": 96,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790100034,
+      "score": 982,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Launch HN: Coverage Cat (YC S22) – Umbrella insurance via your personal agent",
+      "url": "https://www.coveragecat.com/",
+      "desc": "Hey HN! We’re Max and Gabriel the co-founders of Coverage Cat. We’ve been friends for over a decade, met in college then hung out mostly on the internet. We love building products that help people opt",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790097996,
+      "score": 35,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790095891,
+      "score": 201,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790094545,
+      "score": 1022,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+      "url": "https://ai-rete-rag.com/",
+      "desc": "Hi HN, I built ai·rete·rag because I kept seeing teams put an LLM in charge of decisions that need to be auditable (lending, fraud, clinical triage), then bolt on &quot;guardrails&quot; after the fact",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790093706,
+      "score": 33,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Writing Rust code that's fast by asking agents to make the code faster",
       "url": "https://minimaxir.com/2026/09/agentic-iteration/",
@@ -9,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790091504,
-      "score": 10,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Vacate a Drone Restriction That Criminalized Recording Immigration Agents",
-      "url": "https://www.eff.org/deeplinks/2026/09/dc-circuit-must-vacate-drone-flight-restriction-criminalized-recording-immigration",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790089623,
-      "score": 23,
-      "category": "tools",
+      "score": 90,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,33 +113,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790088179,
-      "score": 92,
-      "category": "llm",
+      "score": 239,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790087715,
-      "score": 49,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Drop – a rootless Linux sandbox with gVisor support",
+      "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
       "url": "https://droprun.sh/",
       "desc": "I created Drop because I always felt uneasy installing and running third-party programs using my main user account. A single compromised dependency means a full compromise of the system. What is even ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790085167,
-      "score": 77,
+      "score": 150,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,72 +139,46 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790085135,
-      "score": 242,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Texas police department ordered to close for failing to provide public benefit",
-      "url": "https://www.dallasnews.com/news/texas/article/texas-police-department-ordered-close-state-22434473.php",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790084617,
-      "score": 46,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI Has No Wisdom and Neither Will You",
-      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790079069,
-      "score": 321,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Verda (Finland) raises $189M in Series B",
-      "url": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790069791,
-      "score": 79,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I said no and Apple said yes",
-      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790064295,
-      "score": 619,
+      "score": 517,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Claude Status – Elevated errors for multiple models",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+      "url": "https://benchmarkheaven.com/jev-models",
+      "desc": "Hi HN! I built JevBench because Jev kicks ass, and the world deserves to know how the serious open source and fake lookalike projects really perform in comparison.Jev-class models return bounded choic",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790082063,
+      "score": 44,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Training a model to identify AI web content from structure alone",
+      "url": "https://arxiv.org/abs/2609.15369",
+      "desc": "Hey HN! We’re Vincent and Jochen from Sitefire (https:&#x2F;&#x2F;sitefire.ai). We have been working together for years, with backgrounds in RL&#x2F;optimization at Stanford and software engineering f",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790082049,
+      "score": 28,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+      "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790039119,
-      "score": 137,
+      "ts": 1790036640,
+      "score": 77,
       "category": "industry",
       "tags": [
         "国际"
@@ -152,34 +191,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790028994,
-      "score": 33,
+      "score": 126,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790019829,
-      "score": 557,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790018613,
-      "score": 295,
-      "category": "industry",
       "tags": [
         "国际"
       ]
