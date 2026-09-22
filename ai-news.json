@@ -1,16 +1,42 @@
 {
-  "updated": "2026-09-22 03:33 UTC",
+  "updated": "2026-09-22 09:03 UTC",
   "count": 12,
   "items": [
     {
-      "title": "Robin Williams' Daughter to Fans Creating AI Videos: 'Have Some Shame'",
-      "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+      "title": "Tell HN: Claude Code just accepted and signed a contract for me. Without asking",
+      "url": "https://news.ycombinator.com/item?id=49798257",
+      "desc": "I told it to push a project further. It has an outside dependency where the (unread by me) contract was in my Gmail. It downloaded the PDF contract. Found a saved signature PNG on my computer, placed ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790066953,
+      "score": 5,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Why AI resembles a charismatic religious leader",
+      "url": "https://theconversation.com/why-ai-resembles-a-charismatic-religious-leader-291831",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790040289,
-      "score": 74,
-      "category": "tools",
+      "ts": 1790055497,
+      "score": 13,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Jev introduces a new shape of LLM",
+      "url": "https://simonwillison.net/2026/Sep/21/jev/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790051911,
+      "score": 29,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790039119,
-      "score": 73,
+      "score": 104,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790019829,
-      "score": 235,
-      "category": "llm",
+      "score": 391,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790018613,
-      "score": 161,
+      "score": 236,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790018262,
-      "score": 100,
-      "category": "industry",
+      "score": 133,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790016781,
-      "score": 114,
-      "category": "llm",
+      "score": 157,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790016119,
-      "score": 213,
-      "category": "industry",
+      "score": 220,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,34 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790015624,
-      "score": 115,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The agents, they just want to talk",
-      "url": "https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790007746,
-      "score": 19,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Foremerge – Catch intent conflicts between parallel coding agents",
-      "url": "https://github.com/naw103/foremerge",
-      "desc": "At, GPTree, we run several coding agents across our team on one repo using parallel worktrees. Apart from wasted time reviewing and fixing conflicts at PR time, the failures that hurt the most are whe",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790007726,
-      "score": 39,
-      "category": "tools",
+      "score": 128,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789997899,
-      "score": 194,
-      "category": "tools",
+      "score": 225,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1789965757,
-      "score": 256,
+      "score": 263,
       "category": "llm",
       "tags": [
         "国际"
