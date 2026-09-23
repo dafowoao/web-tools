@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-22 22:44 UTC",
+  "updated": "2026-09-23 03:33 UTC",
   "count": 15,
   "items": [
+    {
+      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+      "url": "https://foxscript.org/",
+      "desc": "Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790110830,
+      "score": 213,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
       "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
@@ -9,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790103818,
-      "score": 304,
+      "score": 480,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790100953,
-      "score": 96,
+      "score": 144,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790100034,
-      "score": 982,
-      "category": "llm",
+      "score": 1267,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790097996,
-      "score": 35,
+      "score": 45,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790095891,
-      "score": 201,
-      "category": "llm",
+      "score": 246,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790094545,
-      "score": 1022,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
-      "url": "https://ai-rete-rag.com/",
-      "desc": "Hi HN, I built ai·rete·rag because I kept seeing teams put an LLM in charge of decisions that need to be auditable (lending, fraud, clinical triage), then bolt on &quot;guardrails&quot; after the fact",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790093706,
-      "score": 33,
-      "category": "llm",
+      "score": 1285,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790091504,
-      "score": 90,
-      "category": "industry",
+      "score": 96,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790088179,
-      "score": 239,
-      "category": "tools",
+      "score": 271,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790085167,
-      "score": 150,
-      "category": "tools",
+      "score": 157,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790085135,
-      "score": 517,
+      "score": 585,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790082063,
-      "score": 44,
+      "score": 76,
       "category": "llm",
       "tags": [
         "国际"
@@ -165,7 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790082049,
-      "score": 28,
+      "score": 48,
       "category": "tools",
       "tags": [
         "国际"
@@ -178,20 +178,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790036640,
-      "score": 77,
-      "category": "industry",
+      "score": 99,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Solitaire Alone Together",
-      "url": "https://solitairealonetogether.com/",
+      "title": "Delta: Highly available, strongly consistent storage using chain replication (2022)",
+      "url": "https://engineering.fb.com/2022/05/04/data-infrastructure/delta/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790028994,
-      "score": 126,
+      "ts": 1790033382,
+      "score": 3,
       "category": "llm",
       "tags": [
         "国际"
