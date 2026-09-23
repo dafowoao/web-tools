@@ -1,28 +1,132 @@
 {
-  "updated": "2026-09-23 16:12 UTC",
-  "count": 14,
+  "updated": "2026-09-23 22:42 UTC",
+  "count": 17,
   "items": [
     {
-      "title": "Woman Arrested, Dragged Away After Speaking About Flock at City Council Meeting",
-      "url": "https://www.404media.co/woman-arrested-after-city-council-denies-residents-right-to-speak-on-flock-cameras/",
+      "title": "OpenAI 'agent' hacked Australia's health service",
+      "url": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790178387,
-      "score": 35,
+      "ts": 1790200197,
+      "score": 9,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude's Load-Bearing Seams",
+      "url": "https://madradavid.com/claudes-load-bearing-seams/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790199064,
+      "score": 75,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI agents hacked Australian Medicare system",
+      "url": "https://www.reuters.com/world/asia-pacific/australia-pm-albanese-says-openai-breached-medicare-sydney-morning-herald-2026-09-23/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790197732,
+      "score": 8,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "VSCode's SSH Agent Is Bananas",
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790197308,
+      "score": 58,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Gemini 3.8 text-to-speech says hello",
+      "title": "OpenAI breaches Medicare, Albanese reveals",
+      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790197308,
+      "score": 98,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Once Claude can measure something, it can make it faster",
+      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790191420,
+      "score": 128,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
+      "url": "https://www.forensicdbg.com",
+      "desc": "Hello HN!I&#x27;ve spent years debugging Windows crashes with tools that were either friendly but limited (e.g. Visual Studio) or powerful but archaic (e.g. WinDbg). I developed patterns and methods f",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790190955,
+      "score": 16,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790186807,
+      "score": 381,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Making Tailscale Faster",
+      "url": "https://tailscale.com/blog/making-tailscale-faster",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790185747,
+      "score": 26,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Gemini 3.8 text-to-speech",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790177363,
-      "score": 5,
+      "score": 222,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,21 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790176462,
-      "score": 79,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Community condemn Bedminster AI mural as 'insult' to artists",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyq09jp49eo",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790172972,
-      "score": 13,
-      "category": "tools",
+      "score": 262,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790170680,
-      "score": 89,
+      "score": 165,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,7 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790168684,
-      "score": 173,
+      "score": 324,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790165733,
-      "score": 340,
-      "category": "llm",
+      "score": 434,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,34 +191,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790110830,
-      "score": 419,
+      "score": 464,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;0V37g",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790103818,
-      "score": 813,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Unreal Agent",
-      "url": "https://unreallabs.ai/blog/unreal-agent/",
-      "desc": "https:&#x2F;&#x2F;github.com&#x2F;unreallabsai&#x2F;unreal-agent",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790100953,
-      "score": 221,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,21 +204,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790100034,
-      "score": 1666,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790095891,
-      "score": 319,
-      "category": "llm",
+      "score": 1728,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -165,21 +217,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790094545,
-      "score": 1686,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790085135,
-      "score": 705,
-      "category": "industry",
+      "score": 1766,
+      "category": "llm",
       "tags": [
         "国际"
       ]
