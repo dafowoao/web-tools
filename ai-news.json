@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-23 03:33 UTC",
+  "updated": "2026-09-23 09:06 UTC",
   "count": 15,
   "items": [
+    {
+      "title": "How often do you think about the 1893 World's Fair?",
+      "url": "https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790141571,
+      "score": 9,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
       "url": "https://foxscript.org/",
@@ -9,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790110830,
-      "score": 213,
-      "category": "industry",
+      "score": 309,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790103818,
-      "score": 480,
+      "score": 634,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790100953,
-      "score": 144,
+      "score": 178,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790100034,
-      "score": 1267,
-      "category": "tools",
+      "score": 1515,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790097996,
-      "score": 45,
+      "score": 47,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790095891,
-      "score": 246,
+      "score": 288,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790094545,
-      "score": 1285,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Writing Rust code that's fast by asking agents to make the code faster",
-      "url": "https://minimaxir.com/2026/09/agentic-iteration/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790091504,
-      "score": 96,
-      "category": "tools",
+      "score": 1527,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790088179,
-      "score": 271,
-      "category": "industry",
+      "score": 292,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790085167,
-      "score": 157,
-      "category": "llm",
+      "score": 170,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790085135,
-      "score": 585,
+      "score": 655,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790082063,
-      "score": 76,
-      "category": "llm",
+      "score": 103,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -165,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790082049,
-      "score": 48,
-      "category": "tools",
+      "score": 59,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -178,8 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790036640,
-      "score": 99,
-      "category": "llm",
+      "score": 107,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -191,8 +191,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790033382,
-      "score": 3,
-      "category": "llm",
+      "score": 25,
+      "category": "tools",
       "tags": [
         "国际"
       ]
