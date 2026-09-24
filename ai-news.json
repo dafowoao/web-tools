@@ -1,16 +1,42 @@
 {
-  "updated": "2026-09-24 03:23 UTC",
-  "count": 15,
+  "updated": "2026-09-24 09:01 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "Australia says OpenAI agent hacked into government website",
-      "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
+      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790213040,
-      "score": 33,
+      "ts": 1790238183,
+      "score": 46,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+      "url": "https://transluce.org/agent-activity",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790227270,
+      "score": 103,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI agent hacked Australian government website, PM says",
+      "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790217888,
+      "score": 41,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790210491,
-      "score": 79,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI-CAD: An OSS Multi-Agent Harness for Mech. Eng. CAD",
-      "url": "https://github.com/ai-cad-labs/ai-cad",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790208884,
-      "score": 4,
-      "category": "industry",
+      "score": 287,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790203096,
-      "score": 201,
-      "category": "industry",
+      "score": 381,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790201779,
-      "score": 62,
-      "category": "industry",
+      "score": 102,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,34 +87,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790197308,
-      "score": 143,
-      "category": "llm",
+      "score": 223,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Once Claude can measure something, it can make it faster",
-      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+      "title": "OpenAI breaches Medicare, Albanese reveals",
+      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790191420,
-      "score": 183,
-      "category": "tools",
+      "ts": 1790197308,
+      "score": 207,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes",
-      "url": "https://www.forensicdbg.com",
-      "desc": "Hello HN!I&#x27;ve spent years debugging Windows crashes with tools that were either friendly but limited (e.g. Visual Studio) or powerful but archaic (e.g. WinDbg). I developed patterns and methods f",
+      "title": "Cloud Agents Are Inevitable AI Prisons",
+      "url": "https://normanponte.io/19df691f",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790190955,
-      "score": 30,
-      "category": "llm",
+      "ts": 1790187401,
+      "score": 58,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790186807,
-      "score": 542,
+      "score": 641,
       "category": "industry",
       "tags": [
         "国际"
@@ -126,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790185747,
-      "score": 92,
+      "score": 160,
       "category": "tools",
       "tags": [
         "国际"
@@ -139,60 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790177363,
-      "score": 266,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I don't want the details",
-      "url": "https://michaelheap.com/i-dont-want-the-details/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790168684,
-      "score": 370,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790165733,
-      "score": 456,
+      "score": 301,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790100034,
-      "score": 1737,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Opus 5.5",
-      "url": "https://www.anthropic.com/claude-opus-5-5",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790094545,
-      "score": 1771,
-      "category": "industry",
       "tags": [
         "国际"
       ]
