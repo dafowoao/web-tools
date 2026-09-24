@@ -1,67 +1,80 @@
 {
-  "updated": "2026-09-23 22:42 UTC",
-  "count": 17,
+  "updated": "2026-09-24 03:23 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "OpenAI 'agent' hacked Australia's health service",
-      "url": "https://www.ft.com/content/56133ef4-377b-4e35-a939-f199ceb64507",
+      "title": "Australia says OpenAI agent hacked into government website",
+      "url": "https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790200197,
-      "score": 9,
+      "ts": 1790213040,
+      "score": 33,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Claude's Load-Bearing Seams",
-      "url": "https://madradavid.com/claudes-load-bearing-seams/",
+      "title": "Feds Target AI Critics as \"Foreign Agents\"",
+      "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790199064,
-      "score": 75,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI agents hacked Australian Medicare system",
-      "url": "https://www.reuters.com/world/asia-pacific/australia-pm-albanese-says-openai-breached-medicare-sydney-morning-herald-2026-09-23/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790197732,
-      "score": 8,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "VSCode's SSH Agent Is Bananas",
-      "url": "https://fly.io/blog/vscode-ssh-wtf/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790197308,
-      "score": 58,
+      "ts": 1790210491,
+      "score": 79,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "OpenAI breaches Medicare, Albanese reveals",
-      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+      "title": "AI-CAD: An OSS Multi-Agent Harness for Mech. Eng. CAD",
+      "url": "https://github.com/ai-cad-labs/ai-cad",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790208884,
+      "score": 4,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790203096,
+      "score": 201,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "url": "https://artificialanalysis.ai/models/mercury-2-5",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790201779,
+      "score": 62,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790197308,
-      "score": 98,
+      "score": 143,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790191420,
-      "score": 128,
-      "category": "llm",
+      "score": 183,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790190955,
-      "score": 16,
-      "category": "tools",
+      "score": 30,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790186807,
-      "score": 381,
-      "category": "tools",
+      "score": 542,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790185747,
-      "score": 26,
+      "score": 92,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,34 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790177363,
-      "score": 222,
+      "score": 266,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GPT-6 Astra has gained the ability to drive a car",
-      "url": "https://drivingbench.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790176462,
-      "score": 262,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Stripe's Knowledge AI Platform",
-      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790170680,
-      "score": 165,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -165,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790168684,
-      "score": 324,
-      "category": "tools",
+      "score": 370,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -178,21 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790165733,
-      "score": 434,
+      "score": 456,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-      "url": "https://foxscript.org/",
-      "desc": "Visual FoxPro stopped at version 9 in 2007. A surprising amount of it is still running, in 32 bits, because rewriting a 20-year-old business app is how you lose the business. A customer wanted to keep",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790110830,
-      "score": 464,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -204,8 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790100034,
-      "score": 1728,
-      "category": "tools",
+      "score": 1737,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -217,8 +191,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790094545,
-      "score": 1766,
-      "category": "llm",
+      "score": 1771,
+      "category": "industry",
       "tags": [
         "国际"
       ]
