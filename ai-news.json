@@ -1,106 +1,119 @@
 {
-  "updated": "2026-09-24 16:35 UTC",
-  "count": 14,
+  "updated": "2026-09-24 23:02 UTC",
+  "count": 13,
   "items": [
     {
-      "title": "Federal judge orders Texas to air condition all prisons by the end of 2029",
-      "url": "https://www.texastribune.org/2026/09/22/texas-prison-air-conditioning-lawsuit-ruling/",
-      "desc": "",
+      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+      "url": "https://koi.rest",
+      "desc": "Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.This last part, along with everything else this past year, has caused me a",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790266534,
-      "score": 6,
-      "category": "llm",
+      "ts": 1790285583,
+      "score": 67,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Oracle invokes force majeure on New Mexico AI data center",
-      "url": "https://qz.com/oracle-force-majeure-new-mexico-ai-data-center-092426",
+      "title": "Opus 5.5 is good at explainer videos",
+      "url": "https://launchvideo.io",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790265520,
+      "ts": 1790281727,
+      "score": 99,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790277267,
+      "score": 46,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Critic – Review code with the agent that wrote it",
+      "url": "https://www.critic.run/",
+      "desc": "Hey HN, I&#x27;m Shreyash from Feyn. We help companies build custom models from their data. Today we&#x27;re releasing Critic, a change review platform that lets you engage directly with the AI that w",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790271328,
       "score": 5,
-      "category": "industry",
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "I Have a Confession: I Built This Site with AI – Please Forgive Me",
-      "url": "https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai",
+      "title": "A Million Agents Is a Distributed System Problem",
+      "url": "https://www.instacloud.com/blogs/a-million-agents-is-a-distributed-systems-problem",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790265263,
-      "score": 10,
+      "ts": 1790270783,
+      "score": 27,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "desc": "Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard (https:&#x2F;&#x2F;whiteboard.dev.fast&#x2F;), an open-source desktop app where humans and agents can architect software together in",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790270496,
+      "score": 159,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790262578,
+      "score": 64,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
-      "url": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
-      "desc": "",
+      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "desc": "https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;09&#x2F;24&#x2F;technology&#x2F;google-suncatc... (https:&#x2F;&#x2F;archive.ph&#x2F;BGFnP)",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790262940,
-      "score": 97,
-      "category": "industry",
+      "ts": 1790258009,
+      "score": 82,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Humans Are Reading Your ChatGPT Chats, Lawsuit Claims",
-      "url": "https://openclassactions.com/lawsuits/privacy/openai-chatgpt-human-review-project-lily-class-action-lawsuit.php",
+      "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
+      "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790260584,
-      "score": 14,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Best LLM for every budget, updated daily",
-      "url": "https://bestmodelforyourbudget.terrydjony.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790258997,
-      "score": 123,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790250878,
-      "score": 91,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790238183,
-      "score": 536,
+      "ts": 1790252621,
+      "score": 108,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,73 +126,47 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790227270,
-      "score": 199,
-      "category": "llm",
+      "score": 233,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Linux support is coming to Snapdragon X2 Series",
-      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "desc": "",
+      "title": "Show HN: AgentRun: DSL to turn agents into workflows",
+      "url": "https://github.com/Parcha-ai/agentrun",
+      "desc": "Hi HN,I just open sourced the DSL that our harness in grep.ai uses to turn repeatable parts of agent work into workflows. You can combine tool calls, code, Jev-powered system one decisions for things ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790203096,
-      "score": 562,
-      "category": "industry",
+      "ts": 1790192578,
+      "score": 38,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "VSCode's SSH Agent Is Bananas (2025)",
-      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790197308,
-      "score": 290,
-      "category": "industry",
+      "ts": 1790177613,
+      "score": 192,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "title": "Security auditing in the age of (good enough) AI",
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790186807,
-      "score": 743,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Making Tailscale Faster",
-      "url": "https://tailscale.com/blog/making-tailscale-faster",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790185747,
-      "score": 220,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Coulomb's law remains tricky to test at home",
-      "url": "https://chillphysicsenjoyer.substack.com/p/coulombs-law-remains-tricky-to-test",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790082004,
-      "score": 12,
-      "category": "industry",
+      "ts": 1790027581,
+      "score": 46,
+      "category": "tools",
       "tags": [
         "国际"
       ]
