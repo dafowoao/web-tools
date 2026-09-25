@@ -1,7 +1,72 @@
 {
-  "updated": "2026-09-25 09:24 UTC",
-  "count": 12,
+  "updated": "2026-09-25 16:40 UTC",
+  "count": 11,
   "items": [
+    {
+      "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
+      "url": "https://github.com/Avinash-jetwani/jevmem",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790352244,
+      "score": 24,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790350165,
+      "score": 54,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790350055,
+      "score": 76,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790345228,
+      "score": 32,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Agentic CUDA Kernel Optimizer",
+      "url": "https://github.com/bertaye/agentic-cuda-optimizer",
+      "desc": "Hello; I was working on optimizing some CUDA kernels and I thought may be it is a good oppurtunity learn langgraph as well. I created a simple C++ CUDA Test Harness and handed that to AI agents. They ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790332378,
+      "score": 29,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "What About Rails?",
       "url": "https://jardo.dev/what-about-rails",
@@ -9,20 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790304616,
-      "score": 32,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
-      "url": "https://koi.rest",
-      "desc": "Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed.This last part, along with everything else this past year, has caused me a",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790285583,
-      "score": 182,
+      "score": 197,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790281727,
-      "score": 251,
-      "category": "industry",
+      "score": 353,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790277267,
-      "score": 131,
-      "category": "industry",
+      "score": 155,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790270496,
-      "score": 305,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790262578,
-      "score": 112,
-      "category": "industry",
+      "score": 368,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,47 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790258009,
-      "score": 182,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-      "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790252621,
-      "score": 158,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
-      "url": "https://cms-sfx-demo.apeleg.com/",
-      "desc": "Air-gapped file encryption packed into a single, self-decrypting HTML page. Repo: https:&#x2F;&#x2F;github.com&#x2F;ApelegHQ&#x2F;ts-cms-ep-sfxI was inspired by self-extracting archives. I wanted to s",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790234537,
-      "score": 68,
+      "score": 208,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: AgentRun: DSL to turn agents into workflows",
-      "url": "https://github.com/Parcha-ai/agentrun",
-      "desc": "Hi HN,I just open sourced the DSL that our harness in grep.ai uses to turn repeatable parts of agent work into workflows. You can combine tool calls, code, Jev-powered system one decisions for things ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790192578,
-      "score": 42,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,20 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790177613,
-      "score": 333,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Security auditing in the age of (good enough) AI",
-      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790027581,
-      "score": 89,
+      "score": 396,
       "category": "industry",
       "tags": [
         "国际"
