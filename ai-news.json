@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-25 03:40 UTC",
+  "updated": "2026-09-25 09:24 UTC",
   "count": 12,
   "items": [
+    {
+      "title": "What About Rails?",
+      "url": "https://jardo.dev/what-about-rails",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790304616,
+      "score": 32,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Koi.rest – watch some fish and regain your balance",
       "url": "https://koi.rest",
@@ -9,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790285583,
-      "score": 144,
-      "category": "tools",
+      "score": 182,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790281727,
-      "score": 159,
-      "category": "llm",
+      "score": 251,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790277267,
-      "score": 93,
-      "category": "llm",
+      "score": 131,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790270496,
-      "score": 226,
+      "score": 305,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790262578,
-      "score": 90,
-      "category": "llm",
+      "score": 112,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790258009,
-      "score": 137,
-      "category": "llm",
+      "score": 182,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790252621,
-      "score": 127,
+      "score": 158,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790234537,
-      "score": 43,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "url": "https://transluce.org/agent-activity",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790227270,
-      "score": 251,
+      "score": 68,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790192578,
-      "score": 40,
+      "score": 42,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790177613,
-      "score": 270,
+      "score": 333,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790027581,
-      "score": 76,
+      "score": 89,
       "category": "industry",
       "tags": [
         "国际"
