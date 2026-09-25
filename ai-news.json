@@ -1,16 +1,81 @@
 {
-  "updated": "2026-09-25 16:40 UTC",
-  "count": 11,
+  "updated": "2026-09-25 23:06 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
-      "url": "https://github.com/Avinash-jetwani/jevmem",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790352244,
-      "score": 24,
+      "ts": 1790370567,
+      "score": 68,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+      "url": "https://news.ycombinator.com/item?id=49848955",
+      "desc": "Do you currently work with or know anyone who is still using:* dBase&#x2F;Clipper&#x2F;CLARION&#x2F;Paradox&#x2F;other DOS RAD environments on period hardware to run business processes?* CNC mills&#x2",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790365075,
+      "score": 49,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+      "desc": "The following explanation is taken from https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49622607:Alan Kay performs an improvisational avant garde layered audio feedback loop about Claude Shannon, ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790361425,
+      "score": 106,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790361230,
+      "score": 269,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+      "url": "https://mouse.dev/blog/muse-special/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790360286,
+      "score": 92,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: I discovered roads in the US across > 1000 themes",
+      "url": "https://road-about-a-theme.pinedesk.biz/",
+      "desc": "This interactive dataviz I created lets you explore about ~1k different themes I computed by cross referencing popular Wikidata articles against OSM roads.",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790352308,
+      "score": 7,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,85 +87,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790350165,
-      "score": 54,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790350055,
-      "score": 76,
+      "score": 344,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+      "title": "An airport cooled by natural ventilation",
+      "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790345228,
-      "score": 32,
-      "category": "tools",
+      "ts": 1790331410,
+      "score": 11,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Agentic CUDA Kernel Optimizer",
-      "url": "https://github.com/bertaye/agentic-cuda-optimizer",
-      "desc": "Hello; I was working on optimizing some CUDA kernels and I thought may be it is a good oppurtunity learn langgraph as well. I created a simple C++ CUDA Test Harness and handed that to AI agents. They ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790332378,
-      "score": 29,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "What About Rails?",
-      "url": "https://jardo.dev/what-about-rails",
+      "title": "I wrote a ray tracer in Brainfuck",
+      "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790304616,
-      "score": 197,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Opus 5.5 is good at explainer videos",
-      "url": "https://launchvideo.io",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790281727,
-      "score": 353,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790277267,
-      "score": 155,
+      "ts": 1790330921,
+      "score": 14,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,34 +126,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790270496,
-      "score": 368,
-      "category": "llm",
+      "score": 395,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-      "desc": "https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;09&#x2F;24&#x2F;technology&#x2F;google-suncatc... (https:&#x2F;&#x2F;archive.ph&#x2F;BGFnP)",
+      "title": "Ask HN: Hypothesis: Cellular providers are deprioritizing voice calls?",
+      "url": "https://news.ycombinator.com/item?id=49833212",
+      "desc": "I switched from Verizon to T-Mobile, specifically because there were too many silent missed calls. Silent meaning my device never showed I had a missed call.This was a pattern across more than a year,",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790258009,
-      "score": 208,
+      "ts": 1790267960,
+      "score": 8,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Rails World 2026 Opening Keynote [video]",
-      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-      "desc": "",
+      "title": "Show HN: Jevgpt – reinventing the wheel with another wheel",
+      "url": "https://news.ycombinator.com/item?id=49823332",
+      "desc": "Felt extra autistic today and made jev an autoregressive chatbot by classifier small token vocabularies.https:&#x2F;&#x2F;github.com&#x2F;giga-james&#x2F;jevgpthad some trouble getting it to explore e",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790177613,
-      "score": 396,
-      "category": "industry",
+      "ts": 1790201692,
+      "score": 8,
+      "category": "llm",
       "tags": [
         "国际"
       ]
