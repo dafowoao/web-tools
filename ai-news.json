@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24 23:02 UTC",
-  "count": 13,
+  "updated": "2026-09-25 03:40 UTC",
+  "count": 12,
   "items": [
     {
       "title": "Show HN: Koi.rest – watch some fish and regain your balance",
@@ -9,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790285583,
-      "score": 67,
-      "category": "industry",
+      "score": 144,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790281727,
-      "score": 99,
-      "category": "industry",
+      "score": 159,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,34 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790277267,
-      "score": 46,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Critic – Review code with the agent that wrote it",
-      "url": "https://www.critic.run/",
-      "desc": "Hey HN, I&#x27;m Shreyash from Feyn. We help companies build custom models from their data. Today we&#x27;re releasing Critic, a change review platform that lets you engage directly with the AI that w",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790271328,
-      "score": 5,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A Million Agents Is a Distributed System Problem",
-      "url": "https://www.instacloud.com/blogs/a-million-agents-is-a-distributed-systems-problem",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790270783,
-      "score": 27,
-      "category": "tools",
+      "score": 93,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790270496,
-      "score": 159,
-      "category": "tools",
+      "score": 226,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790262578,
-      "score": 64,
+      "score": 90,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790258009,
-      "score": 82,
+      "score": 137,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,7 +87,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790252621,
-      "score": 108,
+      "score": 127,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+      "url": "https://cms-sfx-demo.apeleg.com/",
+      "desc": "Air-gapped file encryption packed into a single, self-decrypting HTML page. Repo: https:&#x2F;&#x2F;github.com&#x2F;ApelegHQ&#x2F;ts-cms-ep-sfxI was inspired by self-extracting archives. I wanted to s",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790234537,
+      "score": 43,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790227270,
-      "score": 233,
+      "score": 251,
       "category": "tools",
       "tags": [
         "国际"
@@ -139,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790192578,
-      "score": 38,
-      "category": "tools",
+      "score": 40,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790177613,
-      "score": 192,
-      "category": "tools",
+      "score": 270,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -165,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790027581,
-      "score": 46,
-      "category": "tools",
+      "score": 76,
+      "category": "industry",
       "tags": [
         "国际"
       ]
