@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-25 23:06 UTC",
-  "count": 12,
+  "updated": "2026-09-26 03:47 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+      "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790384342,
+      "score": 71,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "FTC chair suggests AI developers should be liable for conduct of agents",
+      "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790376581,
+      "score": 30,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+      "url": "https://www.gptbeyond.com/try?home=1",
+      "desc": "Hi everyone, I am KD - Back in my college days, I dabbled with coding, learned the basics, HTML, CSS etc. but somehow I ended up in Finance which consumed the next 20 years. Then, during covid I picke",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790370568,
+      "score": 9,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "url": "https://swarmtraces.org/",
@@ -9,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790370567,
-      "score": 68,
+      "score": 278,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790365075,
-      "score": 49,
+      "score": 98,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790361425,
-      "score": 106,
-      "category": "industry",
+      "score": 132,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790361230,
-      "score": 269,
+      "score": 364,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790360286,
-      "score": 92,
+      "score": 119,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I discovered roads in the US across > 1000 themes",
-      "url": "https://road-about-a-theme.pinedesk.biz/",
-      "desc": "This interactive dataviz I created lets you explore about ~1k different themes I computed by cross referencing popular Wikidata articles against OSM roads.",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790352308,
-      "score": 7,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,7 +113,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790350165,
-      "score": 344,
+      "score": 409,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;XJG5V",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790345228,
+      "score": 92,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790331410,
-      "score": 11,
-      "category": "llm",
+      "score": 54,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,47 +152,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790330921,
-      "score": 14,
+      "score": 44,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "url": "https://github.com/devdotfast/whiteboard",
-      "desc": "Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard (https:&#x2F;&#x2F;whiteboard.dev.fast&#x2F;), an open-source desktop app where humans and agents can architect software together in",
+      "title": "Fourier Analysis: Drawing Llamas with Circles",
+      "url": "https://adekau.github.io/posts/2020/llamas.html",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790270496,
-      "score": 395,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Hypothesis: Cellular providers are deprioritizing voice calls?",
-      "url": "https://news.ycombinator.com/item?id=49833212",
-      "desc": "I switched from Verizon to T-Mobile, specifically because there were too many silent missed calls. Silent meaning my device never showed I had a missed call.This was a pattern across more than a year,",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790267960,
-      "score": 8,
+      "ts": 1790251415,
+      "score": 9,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Jevgpt – reinventing the wheel with another wheel",
-      "url": "https://news.ycombinator.com/item?id=49823332",
-      "desc": "Felt extra autistic today and made jev an autoregressive chatbot by classifier small token vocabularies.https:&#x2F;&#x2F;github.com&#x2F;giga-james&#x2F;jevgpthad some trouble getting it to explore e",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790201692,
-      "score": 8,
-      "category": "llm",
       "tags": [
         "国际"
       ]
