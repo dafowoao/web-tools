@@ -1,7 +1,20 @@
 {
-  "updated": "2026-09-26 03:47 UTC",
-  "count": 13,
+  "updated": "2026-09-26 09:10 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790396458,
+      "score": 59,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
       "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
@@ -9,34 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790384342,
-      "score": 71,
+      "score": 172,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "FTC chair suggests AI developers should be liable for conduct of agents",
-      "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790376581,
-      "score": 30,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
-      "url": "https://www.gptbeyond.com/try?home=1",
-      "desc": "Hi everyone, I am KD - Back in my college days, I dabbled with coding, learned the basics, HTML, CSS etc. but somehow I ended up in Finance which consumed the next 20 years. Then, during covid I picke",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790370568,
-      "score": 9,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790370567,
-      "score": 278,
-      "category": "industry",
+      "score": 471,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,20 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790365075,
-      "score": 98,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
-      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
-      "desc": "The following explanation is taken from https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49622607:Alan Kay performs an improvisational avant garde layered audio feedback loop about Claude Shannon, ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790361425,
-      "score": 132,
+      "score": 118,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790361230,
-      "score": 364,
+      "score": 446,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-      "url": "https://mouse.dev/blog/muse-special/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790360286,
-      "score": 119,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790350165,
-      "score": 409,
-      "category": "tools",
+      "score": 443,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790345228,
-      "score": 92,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "An airport cooled by natural ventilation",
-      "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790331410,
-      "score": 54,
-      "category": "tools",
+      "score": 122,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,8 +100,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790330921,
-      "score": 44,
+      "score": 69,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790283110,
+      "score": 70,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "From Thin Air to Bootable Images: The Tine Build System",
+      "url": "https://amutable.com/blog/tine-build-system",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790256311,
+      "score": 13,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -165,7 +139,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790251415,
-      "score": 9,
+      "score": 37,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "A new world airport and its baggage",
+      "url": "https://computer.rip/2026-09-20-denver-baggage.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790202646,
+      "score": 22,
       "category": "tools",
       "tags": [
         "国际"
