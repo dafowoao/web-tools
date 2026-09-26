@@ -1,42 +1,94 @@
 {
-  "updated": "2026-09-26 15:53 UTC",
-  "count": 13,
+  "updated": "2026-09-26 19:02 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-      "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-      "desc": "",
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
+      "desc": "I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don&#x27;t let me decide how the diagram looks), or (B) soft",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790427936,
-      "score": 54,
+      "ts": 1790442640,
+      "score": 8,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "One Month Without AI",
-      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790417301,
-      "score": 147,
+      "ts": 1790438194,
+      "score": 38,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
+      "url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790437698,
+      "score": 60,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790437227,
+      "score": 58,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: A Claude Code skill to analyze your chess games",
+      "url": "https://github.com/brumar/chess-postmortem-skills",
+      "desc": "Hello HN,It started as an experiment: can Claude play chess properly if it uses vision instead of PGN notation? Somehow it can.The next experiment was to see whether Claude + Stockfish could explain a",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790436893,
+      "score": 58,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI bots meddled with multiple US Government agency sites",
+      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790431434,
+      "score": 51,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790415718,
+      "score": 80,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Copilot+ PC brand is dead",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790416538,
-      "score": 70,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790396458,
-      "score": 112,
-      "category": "llm",
+      "score": 124,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790370567,
-      "score": 598,
-      "category": "llm",
+      "score": 645,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790365075,
-      "score": 187,
-      "category": "tools",
+      "score": 226,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,34 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790361230,
-      "score": 528,
+      "score": 562,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "url": "https://www.movingimagearchive.com/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790350165,
-      "score": 470,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I wrote a ray tracer in Brainfuck",
-      "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790330921,
-      "score": 83,
-      "category": "tools",
+      "ts": 1790266302,
+      "score": 14,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,21 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790256311,
-      "score": 28,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Fourier Analysis: Drawing Llamas with Circles",
-      "url": "https://adekau.github.io/posts/2020/llamas.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790251415,
-      "score": 61,
-      "category": "industry",
+      "score": 34,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,7 +178,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790210051,
-      "score": 22,
+      "score": 33,
       "category": "tools",
       "tags": [
         "国际"
@@ -165,7 +191,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790202646,
-      "score": 52,
+      "score": 62,
       "category": "tools",
       "tags": [
         "国际"
