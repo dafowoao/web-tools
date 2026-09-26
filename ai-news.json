@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-26 09:10 UTC",
-  "count": 12,
+  "updated": "2026-09-26 15:53 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+      "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790427936,
+      "score": 54,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "One Month Without AI",
+      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790417301,
+      "score": 147,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Copilot+ PC brand is dead",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790416538,
+      "score": 70,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "A single function Jev-like wrapper for LLMs, including vision models",
       "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
@@ -9,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790396458,
-      "score": 59,
+      "score": 112,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
-      "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790384342,
-      "score": 172,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790370567,
-      "score": 471,
-      "category": "tools",
+      "score": 598,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790365075,
-      "score": 118,
+      "score": 187,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790361230,
-      "score": 446,
+      "score": 528,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790350165,
-      "score": 443,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;XJG5V",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790345228,
-      "score": 122,
-      "category": "llm",
+      "score": 470,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790330921,
-      "score": 69,
+      "score": 83,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790283110,
-      "score": 70,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790256311,
-      "score": 13,
+      "score": 28,
       "category": "industry",
       "tags": [
         "国际"
@@ -139,7 +139,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790251415,
-      "score": 37,
+      "score": 61,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Calculating atmospheric drag on satellites for a Cubesat [pdf]",
+      "url": "https://www.osti.gov/servlets/purl/1124870",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790210051,
+      "score": 22,
       "category": "tools",
       "tags": [
         "国际"
@@ -152,7 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790202646,
-      "score": 22,
+      "score": 52,
       "category": "tools",
       "tags": [
         "国际"
