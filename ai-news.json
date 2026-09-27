@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-26 22:23 UTC",
-  "count": 14,
+  "updated": "2026-09-27 03:56 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
-      "url": "https://news.ycombinator.com/item?id=49861047",
-      "desc": "My OpenAI CODEX account went rogue and from a simple request took the autonomous decision to launch 826 parallel agents &#x2F; threads without any authorization on my side and without reporting any re",
+      "title": "OpenAI agents tried to bruteforce a UN website's API fields",
+      "url": "https://swarmcha.se/posts/openai-unctad",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790460932,
-      "score": 23,
-      "category": "industry",
+      "ts": 1790471287,
+      "score": 5,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790442640,
-      "score": 114,
-      "category": "tools",
+      "score": 213,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,46 +35,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790438194,
-      "score": 85,
-      "category": "industry",
+      "score": 122,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
-      "url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
-      "desc": "",
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "desc": "We found an approach to get Jev-like properties from standard LLMs like GLM-5.3-Flash.The core idea is to craft the input prompt so that the first output token answers the question. This makes it poss",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790437698,
-      "score": 103,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Automattic has a new board after failed attempt to put CEO on leave",
-      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790437227,
-      "score": 108,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI bots meddled with multiple US Government agency sites",
-      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790431434,
-      "score": 91,
+      "ts": 1790437744,
+      "score": 49,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,20 +61,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790415718,
-      "score": 124,
+      "score": 175,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "A single function Jev-like wrapper for LLMs, including vision models",
-      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "title": "Generate fonts where every LLM token is the same width",
+      "url": "https://ampdot.mesh.host/token-space-fonts.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790396458,
-      "score": 132,
+      "ts": 1790382603,
+      "score": 38,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790370568,
-      "score": 21,
+      "score": 27,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790370567,
-      "score": 696,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,7 +100,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790365075,
-      "score": 239,
+      "score": 247,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Evolving programming languages in the AI era",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790303679,
+      "score": 49,
       "category": "industry",
       "tags": [
         "国际"
@@ -152,20 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790283110,
-      "score": 102,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Probing picosecond depairing currents in type-II superconductors",
-      "url": "https://www.nature.com/articles/s41567-026-03469-z",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790281318,
-      "score": 4,
+      "score": 157,
       "category": "industry",
       "tags": [
         "国际"
@@ -178,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790266302,
-      "score": 75,
+      "score": 132,
       "category": "tools",
       "tags": [
         "国际"
