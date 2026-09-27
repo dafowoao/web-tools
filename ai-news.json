@@ -1,15 +1,28 @@
 {
-  "updated": "2026-09-27 03:56 UTC",
-  "count": 11,
+  "updated": "2026-09-27 09:52 UTC",
+  "count": 13,
   "items": [
     {
-      "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-      "url": "https://swarmcha.se/posts/openai-unctad",
+      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+      "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790471287,
-      "score": 5,
+      "ts": 1790498644,
+      "score": 68,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790489973,
+      "score": 157,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790442640,
-      "score": 213,
-      "category": "industry",
+      "score": 303,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790438194,
-      "score": 122,
-      "category": "llm",
+      "score": 146,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790437744,
-      "score": 49,
+      "score": 93,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,8 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790415718,
-      "score": 175,
-      "category": "llm",
+      "score": 225,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "An agent used DNS to reach an external chatbot",
+      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790396051,
+      "score": 97,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790382603,
-      "score": 38,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
-      "url": "https://www.gptbeyond.com/try?home=1",
-      "desc": "Hi everyone, I am KD - Back in my college days, I dabbled with coding, learned the basics, HTML, CSS etc. but somehow I ended up in Finance which consumed the next 20 years. Then, during covid I picke",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790370568,
-      "score": 27,
-      "category": "industry",
+      "score": 62,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790365075,
-      "score": 247,
-      "category": "tools",
+      "score": 253,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "LP Voting and Investor Consent for AIFs",
+      "url": "https://taghash.io/blog/lp-voting-and-investor-consent-for-aifs-a-practical-workflow",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790357018,
+      "score": 3,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790303679,
-      "score": 49,
-      "category": "industry",
+      "score": 93,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790283110,
-      "score": 157,
-      "category": "industry",
+      "score": 206,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790266302,
-      "score": 132,
-      "category": "tools",
+      "score": 173,
+      "category": "industry",
       "tags": [
         "国际"
       ]
