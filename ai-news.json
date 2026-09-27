@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-27 09:52 UTC",
+  "updated": "2026-09-27 16:29 UTC",
   "count": 13,
   "items": [
+    {
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "url": "https://tinyaiarena.com/",
+      "desc": "Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 g",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790524288,
+      "score": 13,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Normalization of Inexplicable Failures",
+      "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790522800,
+      "score": 30,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790504785,
+      "score": 83,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
       "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
@@ -9,21 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790498644,
-      "score": 68,
-      "category": "industry",
+      "score": 368,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
       "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790489973,
-      "score": 157,
-      "category": "llm",
+      "score": 543,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790442640,
-      "score": 303,
-      "category": "llm",
+      "score": 362,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790438194,
-      "score": 146,
-      "category": "tools",
+      "score": 170,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790437744,
-      "score": 93,
+      "score": 122,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790415718,
-      "score": 225,
-      "category": "tools",
+      "score": 298,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790396051,
-      "score": 97,
-      "category": "industry",
+      "score": 141,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,46 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790382603,
-      "score": 62,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
-      "url": "https://news.ycombinator.com/item?id=49848955",
-      "desc": "Do you currently work with or know anyone who is still using:* dBase&#x2F;Clipper&#x2F;CLARION&#x2F;Paradox&#x2F;other DOS RAD environments on period hardware to run business processes?* CNC mills&#x2",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790365075,
-      "score": 253,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LP Voting and Investor Consent for AIFs",
-      "url": "https://taghash.io/blog/lp-voting-and-investor-consent-for-aifs-a-practical-workflow",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790357018,
-      "score": 3,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Evolving programming languages in the AI era",
-      "url": "https://dashbit.co/blog/evolving-ai-era",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790303679,
-      "score": 93,
+      "score": 81,
       "category": "tools",
       "tags": [
         "国际"
@@ -152,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790283110,
-      "score": 206,
+      "score": 268,
       "category": "llm",
       "tags": [
         "国际"
@@ -165,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790266302,
-      "score": 173,
-      "category": "industry",
+      "score": 197,
+      "category": "tools",
       "tags": [
         "国际"
       ]
