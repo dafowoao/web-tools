@@ -1,7 +1,59 @@
 {
-  "updated": "2026-09-27 22:50 UTC",
-  "count": 6,
+  "updated": "2026-09-28 03:56 UTC",
+  "count": 9,
   "items": [
+    {
+      "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+      "url": "https://arxiv.org/abs/2110.01834",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790565833,
+      "score": 4,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Microsoft drops Copilot+ branding from its new laptops",
+      "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790563587,
+      "score": 17,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Nissan's third generation e-POWER powertrain",
+      "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790562683,
+      "score": 12,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14",
+      "url": "https://efraingaray.com/en/blog/tabpfn-vs-xgboost/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790562460,
+      "score": 4,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Imp is a full port of DSPy to the BEAM",
       "url": "https://github.com/deepfates/imp",
@@ -9,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790537303,
-      "score": 30,
-      "category": "llm",
+      "score": 57,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790524288,
-      "score": 90,
+      "score": 104,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790522800,
-      "score": 228,
+      "score": 253,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790519710,
-      "score": 44,
-      "category": "tools",
+      "score": 71,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790452644,
-      "score": 59,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-      "url": "https://github.com/reladraw/reladraw",
-      "desc": "I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don&#x27;t let me decide how the diagram looks), or (B) soft",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790442640,
-      "score": 387,
+      "score": 75,
       "category": "llm",
       "tags": [
         "国际"
