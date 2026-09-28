@@ -1,29 +1,29 @@
 {
-  "updated": "2026-09-28 03:56 UTC",
-  "count": 9,
+  "updated": "2026-09-28 10:40 UTC",
+  "count": 7,
   "items": [
     {
-      "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
-      "url": "https://arxiv.org/abs/2110.01834",
+      "title": "Prompting Claude Opus 5.5",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790565833,
-      "score": 4,
-      "category": "tools",
+      "ts": 1790580809,
+      "score": 100,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Microsoft drops Copilot+ branding from its new laptops",
-      "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
+      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "url": "https://arxiv.org/abs/2110.01834",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790563587,
-      "score": 17,
-      "category": "tools",
+      "ts": 1790565833,
+      "score": 106,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,21 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790562683,
-      "score": 12,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14",
-      "url": "https://efraingaray.com/en/blog/tabpfn-vs-xgboost/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790562460,
-      "score": 4,
-      "category": "llm",
+      "score": 67,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,34 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790537303,
-      "score": 57,
-      "category": "tools",
+      "score": 77,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: TinyAIArena watch AI agents battle it out",
-      "url": "https://tinyaiarena.com/",
-      "desc": "Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 g",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790524288,
-      "score": 104,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Normalization of Inexplicable Failures",
-      "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+      "url": "https://earnanhonestdollar.com/bench",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790522800,
-      "score": 253,
-      "category": "llm",
+      "ts": 1790529857,
+      "score": 53,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790519710,
-      "score": 71,
-      "category": "industry",
+      "score": 89,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790452644,
-      "score": 75,
+      "score": 78,
       "category": "llm",
       "tags": [
         "国际"
