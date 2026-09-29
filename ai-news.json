@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-29 17:43 UTC",
+  "updated": "2026-09-29 23:27 UTC",
   "count": 10,
   "items": [
+    {
+      "title": "McDonald's Is Using AI to Dynamically Price Its Burgers",
+      "url": "https://www.rnz.co.nz/news/world/1656965/inside-mcdonald-s-push-to-have-ai-price-your-big-mac",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790722350,
+      "score": 8,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
+      "url": "https://github.com/lostmsu/TurboGPT",
+      "desc": "Inspired by minGPT for home experiments.Requires CUDA 13.4; build script is Windows only.",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790709602,
+      "score": 41,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "ChatGPT Pro 500",
       "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
@@ -9,34 +35,47 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790702787,
-      "score": 42,
+      "score": 184,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: A working 3D model of an Enigma machine",
+      "url": "https://enigma.design",
+      "desc": "I watched the excellent Veritasium video [1] on the Enigma machine, and watched the full animation by Jared Owen [2], but was still a bit confused on how the inner mechanics of an Enigma machine work.",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790702156,
+      "score": 9,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "GPT 6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "title": "Dots: Always-on agents",
+      "url": "https://openai.com/index/introducing-dots/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790701605,
-      "score": 226,
-      "category": "industry",
+      "ts": 1790701677,
+      "score": 437,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790699448,
-      "score": 135,
-      "category": "llm",
+      "ts": 1790701605,
+      "score": 735,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,20 +87,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790693496,
-      "score": 40,
-      "category": "tools",
+      "score": 72,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Without the Hot Air",
+      "title": "Ask HN: What are you reading?",
+      "url": "https://news.ycombinator.com/item?id=49893157",
+      "desc": "I&#x27;m plowing through the Dungeon Crawler Carl series, which is not particularly challenging as sci-fi&#x2F;LitRPG goes, but entertaining enough.  I&#x27;m also wrapping up Doctorow&#x27;s _Enshitt",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790689483,
+      "score": 112,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Sustainable energy without the hot air (2008)",
       "url": "https://www.withouthotair.com/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790685498,
-      "score": 98,
+      "score": 133,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,60 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790672621,
-      "score": 377,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "url": "https://github.com/firelex/jeff",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790627016,
-      "score": 556,
+      "score": 403,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "url": "https://stateofutopia.com/experiments/microllmlab/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790621933,
-      "score": 272,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790610396,
-      "score": 216,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
-      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790417786,
-      "score": 162,
-      "category": "industry",
       "tags": [
         "国际"
       ]
