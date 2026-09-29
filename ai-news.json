@@ -1,28 +1,28 @@
 {
-  "updated": "2026-09-29 00:12 UTC",
-  "count": 16,
+  "updated": "2026-09-29 10:25 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-      "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
+      "title": "AI companies leak data to advertisers [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790638859,
-      "score": 18,
-      "category": "industry",
+      "ts": 1790672621,
+      "score": 30,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
-      "url": "https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/",
+      "title": "Uncensored and Offensive Security AI Models Benchmark",
+      "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790629690,
-      "score": 150,
+      "ts": 1790662564,
+      "score": 31,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790627016,
-      "score": 205,
-      "category": "tools",
+      "score": 498,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790625215,
-      "score": 227,
-      "category": "industry",
+      "score": 506,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,34 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790621933,
-      "score": 110,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I made a visual workspace for AI Automations",
-      "url": "https://www.biom.dev/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790617994,
-      "score": 27,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
-      "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
-      "desc": "Hey HN! We&#x27;re Dudu and Topaz from Vespper (https:&#x2F;&#x2F;vespper.com). Vespper is an MCP that lets AI agents efficiently edit Word documents, powered by our fine-tuned model. It&#x27;s curren",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790616876,
-      "score": 30,
-      "category": "industry",
+      "score": 246,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790610396,
-      "score": 87,
-      "category": "llm",
+      "score": 177,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790609293,
-      "score": 108,
-      "category": "llm",
+      "score": 153,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,60 +100,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790608573,
-      "score": 119,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "What would a serious AI product look like?",
-      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790593332,
-      "score": 126,
+      "score": 179,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-      "url": "https://git.mills.io/prologic/parley",
+      "title": "Simulating Airband AM Radios",
+      "url": "https://bitbashing.io/am-radio.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790591454,
-      "score": 297,
+      "ts": 1790474495,
+      "score": 42,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
-      "url": "https://github.com/seamusc/papermono-shopping-list",
-      "desc": "Fridge magnet shopping list on an M5Stack PaperMono (ESP32-S3, e-ink\ntouchscreen), synced with a phone web app over Wi-Fi. Works offline,\n~2,400 lines of C++.This is a great wee device! BLE, Wi-Fi and",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790590481,
-      "score": 127,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "3D necroprinting: Leveraging biotic material as the nozzle for 3D printing",
-      "url": "https://www.science.org/doi/10.1126/sciadv.adw9953",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790546316,
-      "score": 14,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -191,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790466541,
-      "score": 45,
-      "category": "tools",
+      "score": 120,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -204,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790417786,
-      "score": 62,
-      "category": "industry",
+      "score": 136,
+      "category": "llm",
       "tags": [
         "国际"
       ]
