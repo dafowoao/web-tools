@@ -1,7 +1,72 @@
 {
-  "updated": "2026-09-28 19:18 UTC",
-  "count": 12,
+  "updated": "2026-09-29 00:12 UTC",
+  "count": 16,
   "items": [
+    {
+      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
+      "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790638859,
+      "score": 18,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Flock Wants the Most Detailed Map of Its Surveillance Cameras Taken Offline",
+      "url": "https://theintercept.com/2026/09/24/how-many-flock-devices-in-united-states-300000/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790629690,
+      "score": 150,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "url": "https://github.com/firelex/jeff",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790627016,
+      "score": 205,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "It's Time to Investigate the AI Labs",
+      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790625215,
+      "score": 227,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790621933,
+      "score": 110,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "I made a visual workspace for AI Automations",
       "url": "https://www.biom.dev/",
@@ -9,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790617994,
-      "score": 11,
-      "category": "llm",
+      "score": 27,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,46 +87,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790616876,
-      "score": 15,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790616814,
-      "score": 64,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How Pew Research Center is – and is not – using AI in our work",
-      "url": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790615286,
-      "score": 16,
+      "score": 30,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The problem is not AI code, but not knowing about system architecture or intent",
-      "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790611902,
-      "score": 294,
+      "ts": 1790610396,
+      "score": 87,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790609293,
-      "score": 47,
-      "category": "tools",
+      "score": 108,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,21 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790608573,
-      "score": 80,
-      "category": "llm",
+      "score": 119,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "What Would a Serious AI Product Look Like?",
+      "title": "What would a serious AI product look like?",
       "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790593332,
-      "score": 82,
-      "category": "industry",
+      "score": 126,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790591454,
-      "score": 248,
-      "category": "tools",
+      "score": 297,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,33 +165,46 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790590481,
-      "score": 99,
+      "score": 127,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "3D necroprinting: Leveraging biotic material as the nozzle for 3D printing",
+      "url": "https://www.science.org/doi/10.1126/sciadv.adw9953",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790546316,
+      "score": 14,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-      "url": "https://arxiv.org/abs/2110.01834",
+      "title": "What reversing, modernising old games tells us about the economic impact of AI",
+      "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790565833,
-      "score": 166,
-      "category": "industry",
+      "ts": 1790466541,
+      "score": 45,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Nissan's third generation e-POWER powertrain",
-      "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790562683,
-      "score": 146,
+      "ts": 1790417786,
+      "score": 62,
       "category": "industry",
       "tags": [
         "国际"
