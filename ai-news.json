@@ -1,15 +1,28 @@
 {
-  "updated": "2026-09-29 23:27 UTC",
+  "updated": "2026-09-30 04:13 UTC",
   "count": 10,
   "items": [
     {
-      "title": "McDonald's Is Using AI to Dynamically Price Its Burgers",
-      "url": "https://www.rnz.co.nz/news/world/1656965/inside-mcdonald-s-push-to-have-ai-price-your-big-mac",
+      "title": "PSSA: A non-transformer language model written from scratch in Rust",
+      "url": "https://github.com/Sparticle62ops/pssa",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790722350,
-      "score": 8,
+      "ts": 1790738394,
+      "score": 20,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ballmer Peak",
+      "url": "https://en.wikipedia.org/wiki/Ballmer_Peak",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790735758,
+      "score": 7,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,20 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790709602,
-      "score": 41,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "ChatGPT Pro 500",
-      "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790702787,
-      "score": 184,
+      "score": 45,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790702156,
-      "score": 9,
+      "score": 47,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790701677,
-      "score": 437,
-      "category": "llm",
+      "score": 488,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790701605,
-      "score": 735,
-      "category": "industry",
+      "score": 836,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790693496,
-      "score": 72,
+      "score": 101,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790689483,
-      "score": 112,
-      "category": "industry",
+      "score": 182,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790685498,
-      "score": 133,
+      "score": 140,
       "category": "industry",
       "tags": [
         "国际"
@@ -126,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790672621,
-      "score": 403,
-      "category": "tools",
+      "score": 412,
+      "category": "llm",
       "tags": [
         "国际"
       ]
