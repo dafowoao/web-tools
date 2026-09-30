@@ -1,41 +1,41 @@
 {
-  "updated": "2026-09-30 04:13 UTC",
+  "updated": "2026-09-30 14:39 UTC",
   "count": 10,
   "items": [
     {
-      "title": "PSSA: A non-transformer language model written from scratch in Rust",
-      "url": "https://github.com/Sparticle62ops/pssa",
+      "title": "Upgrade your desktop: Ubuntu 26.04.1 LTS is now available",
+      "url": "https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790738394,
-      "score": 20,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ballmer Peak",
-      "url": "https://en.wikipedia.org/wiki/Ballmer_Peak",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790735758,
-      "score": 7,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
-      "url": "https://github.com/lostmsu/TurboGPT",
-      "desc": "Inspired by minGPT for home experiments.Requires CUDA 13.4; build script is Windows only.",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790709602,
+      "ts": 1790775397,
       "score": 45,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Pi.dev: You Said No MCP",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790762123,
+      "score": 319,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Floppy Emu Hardware Failure Analysis Results",
+      "url": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790723426,
+      "score": 25,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790702156,
-      "score": 47,
-      "category": "tools",
+      "score": 78,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790701677,
-      "score": 488,
-      "category": "industry",
+      "score": 692,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790701605,
-      "score": 836,
-      "category": "tools",
+      "score": 1004,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790693496,
-      "score": 101,
+      "score": 146,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,34 +100,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790689483,
-      "score": 182,
+      "score": 360,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Sustainable energy without the hot air (2008)",
-      "url": "https://www.withouthotair.com/",
-      "desc": "",
+      "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
+      "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
+      "desc": "We built a desktop companion robot that is powered by Arduino UNO Q. Project is open source: source code, 3D printable files and assembly instructions are available at Arduino Project Hub.Robot is equ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790685498,
-      "score": 140,
-      "category": "industry",
+      "ts": 1790676356,
+      "score": 69,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "desc": "",
+      "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
+      "url": "https://github.com/ciromattia/kcc",
+      "desc": "Kindle Comic Converter optimizes black &amp; white (or color) comics and manga for E-ink ereaders like Kindle, Kobo, ReMarkable, and more. Pages display in fullscreen without margins, with proper fixe",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790672621,
-      "score": 412,
-      "category": "llm",
+      "ts": 1790609982,
+      "score": 45,
+      "category": "tools",
       "tags": [
         "国际"
       ]
