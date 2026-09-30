@@ -1,42 +1,107 @@
 {
-  "updated": "2026-09-30 14:39 UTC",
-  "count": 10,
+  "updated": "2026-09-30 20:34 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "Upgrade your desktop: Ubuntu 26.04.1 LTS is now available",
-      "url": "https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts",
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790775397,
-      "score": 45,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Pi.dev: You Said No MCP",
-      "url": "https://earendil.com/posts/you-said-no-mcp/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790762123,
-      "score": 319,
+      "ts": 1790798677,
+      "score": 286,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Floppy Emu Hardware Failure Analysis Results",
-      "url": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
+      "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790723426,
-      "score": 25,
+      "ts": 1790795090,
+      "score": 42,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "desc": "Hey HN, Anders and Tom here. We&#x27;re building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790789860,
+      "score": 85,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Says",
+      "url": "https://ohhfishal.net/Posts/claude",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790789526,
+      "score": 32,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790787620,
+      "score": 1,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
+      "url": "https://strata.do/",
+      "desc": "Hello HN, I&#x27;m Ajo and I built Strata.I spent 4 years at Netflix solving self service for non-technical business users. I think I cracked it with my unique approach to semantic layer design.  The ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790780397,
+      "score": 14,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "You said no MCP",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790762123,
+      "score": 540,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Ledge.sh – Runnable Markdown Notes",
+      "url": "https://ledge.sh",
+      "desc": "Hi HN,Ledge is a Markdown notebook that runs shell commands, code, SQL, etc from inside your own notes.I built Ledge because I spend much of my day copy&#x2F;pasting commands from my notes into the te",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790725294,
+      "score": 64,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,59 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790702156,
-      "score": 78,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Dots: Always-on agents",
-      "url": "https://openai.com/index/introducing-dots/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790701677,
-      "score": 692,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790701605,
-      "score": 1004,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: NSL – WSL for Linux",
-      "url": "https://frostyard.github.io/nsl/",
-      "desc": "One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distros with that same WSL UX.  NSL is my ans",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790693496,
-      "score": 146,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: What are you reading?",
-      "url": "https://news.ycombinator.com/item?id=49893157",
-      "desc": "I&#x27;m plowing through the Dungeon Crawler Carl series, which is not particularly challenging as sci-fi&#x2F;LitRPG goes, but entertaining enough.  I&#x27;m also wrapping up Doctorow&#x27;s _Enshitt",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790689483,
-      "score": 360,
+      "score": 89,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,21 +126,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790676356,
-      "score": 69,
+      "score": 115,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
-      "url": "https://github.com/ciromattia/kcc",
-      "desc": "Kindle Comic Converter optimizes black &amp; white (or color) comics and manga for E-ink ereaders like Kindle, Kobo, ReMarkable, and more. Pages display in fullscreen without margins, with proper fixe",
+      "title": "Energy Timelines Photovoltaic",
+      "url": "https://www.eia.gov/kids/history-of-energy/timelines/photovoltaic.php",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790609982,
-      "score": 45,
-      "category": "tools",
+      "ts": 1790654386,
+      "score": 8,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Corral – Kill every command your agent starts",
+      "url": "https://github.com/Cardinal44/corral",
+      "desc": "This summer I got to intern on the backend of an AI agent and I noticed that it would run commands like tail -f or some random background jobs and exit without terminating any of these. I got curious ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790642105,
+      "score": 19,
+      "category": "llm",
       "tags": [
         "国际"
       ]
