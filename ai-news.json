@@ -1,29 +1,42 @@
 {
-  "updated": "2026-09-30 20:34 UTC",
-  "count": 12,
+  "updated": "2026-10-01 04:25 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "Gemini 4 Argon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "desc": "",
+      "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
+      "url": "https://github.com/TantrixAuto/yantra",
+      "desc": "Yantra is a C++ parser generator: lexer, parser, and AST walker all generated from one tool.\nIt builds the whole AST first, then walks it.Most LALR parser generators (Yacc, Bison, Lemon) run your sema",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790798677,
-      "score": 286,
+      "ts": 1790821848,
+      "score": 7,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "desc": "See also: Gemini 4 Argon (High): Intelligence, Performance and Price Analysis - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49914236",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790798677,
+      "score": 1122,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
       "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790795090,
-      "score": 42,
-      "category": "llm",
+      "score": 141,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790789860,
-      "score": 85,
+      "score": 135,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Says",
-      "url": "https://ohhfishal.net/Posts/claude",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790789526,
-      "score": 32,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -68,14 +68,14 @@
       ]
     },
     {
-      "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-      "url": "https://strata.do/",
-      "desc": "Hello HN, I&#x27;m Ajo and I built Strata.I spent 4 years at Netflix solving self service for non-technical business users. I think I cracked it with my unique approach to semantic layer design.  The ",
+      "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+      "url": "https://lathoa.ai/en",
+      "desc": "I made this for kids around 10 to 14. A robot called Errol solves a math problem step by step and one of the steps is wrong. The kid has to find it and say what&#x27;s wrong with it. Sometimes nothing",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790780397,
-      "score": 14,
-      "category": "industry",
+      "ts": 1790779137,
+      "score": 41,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +87,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790762123,
-      "score": 540,
+      "score": 619,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Doing a Machine Learning PhD While Working in Japan",
+      "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790753625,
+      "score": 58,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Responsible Release of AI-Generated Mathematics",
+      "url": "https://agmai.org/general-sep29/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790735772,
+      "score": 83,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,60 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790725294,
-      "score": 64,
+      "score": 82,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: A working 3D model of an Enigma machine",
-      "url": "https://enigma.design",
-      "desc": "I watched the excellent Veritasium video [1] on the Enigma machine, and watched the full animation by Jared Owen [2], but was still a bit confused on how the inner mechanics of an Enigma machine work.",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790702156,
-      "score": 89,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
-      "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
-      "desc": "We built a desktop companion robot that is powered by Arduino UNO Q. Project is open source: source code, 3D printable files and assembly instructions are available at Arduino Project Hub.Robot is equ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790676356,
-      "score": 115,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Energy Timelines Photovoltaic",
-      "url": "https://www.eia.gov/kids/history-of-energy/timelines/photovoltaic.php",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790654386,
-      "score": 8,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Corral – Kill every command your agent starts",
-      "url": "https://github.com/Cardinal44/corral",
-      "desc": "This summer I got to intern on the backend of an AI agent and I noticed that it would run commands like tail -f or some random background jobs and exit without terminating any of these. I got curious ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790642105,
-      "score": 19,
-      "category": "llm",
       "tags": [
         "国际"
       ]
