@@ -1,16 +1,81 @@
 {
-  "updated": "2026-10-01 15:07 UTC",
-  "count": 10,
+  "updated": "2026-10-01 20:49 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-      "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+      "title": "Manyfold's Agents.md Is Based",
+      "url": "https://github.com/manyfold3d/manyfold/blob/main/AGENTS.md",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790859662,
-      "score": 34,
+      "ts": 1790886221,
+      "score": 18,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790871537,
+      "score": 331,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Identity Management for Agentic AI [pdf] (2025)",
+      "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790867470,
+      "score": 60,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "url": "https://news.ycombinator.com/item?id=49922569",
+      "desc": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are p",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790866927,
+      "score": 112,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: Who wants to be hired? (October 2026)",
+      "url": "https://news.ycombinator.com/item?id=49922568",
+      "desc": "Share your information if you are looking for work. Please use this format:  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé&#x2F;CV:\n  Email:\n\nPlease only post if you are personal",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790866927,
+      "score": 69,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How to set up SPF, DKIM, and DMARC for your sending domain",
+      "url": "https://mailfully.com/blog/spf-dkim-dmarc-setup",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790865201,
+      "score": 48,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790859655,
-      "score": 77,
-      "category": "industry",
+      "score": 191,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790850096,
-      "score": 101,
-      "category": "llm",
+      "score": 152,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,33 +113,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790798677,
-      "score": 1537,
-      "category": "industry",
+      "score": 1630,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Surprisingly complex waves reveal the brain's inner workings",
-      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "desc": "",
+      "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
+      "url": "https://news.ycombinator.com/item?id=49911500",
+      "desc": "A few months ago we started building a model router for coding agents because we thought we could outperform any single model with an ensemble approach. Recently we’ve achieved that milestone and I wa",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790795090,
-      "score": 226,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "desc": "Hey HN, Anders and Tom here. We&#x27;re building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790789860,
-      "score": 178,
+      "ts": 1790787504,
+      "score": 47,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,47 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790757801,
-      "score": 183,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Doing a Machine Learning PhD While Working in Japan",
-      "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790753625,
-      "score": 126,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Responsible Release of AI-Generated Mathematics",
-      "url": "https://agmai.org/general-sep29/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790735772,
-      "score": 108,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Ledge.sh – Runnable Markdown Notes",
-      "url": "https://ledge.sh",
-      "desc": "Hi HN,Ledge is a Markdown notebook that runs shell commands, code, SQL, etc from inside your own notes.I built Ledge because I spend much of my day copy&#x2F;pasting commands from my notes into the te",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790725294,
-      "score": 182,
-      "category": "llm",
+      "score": 235,
+      "category": "tools",
       "tags": [
         "国际"
       ]
