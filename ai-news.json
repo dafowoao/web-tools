@@ -1,16 +1,42 @@
 {
-  "updated": "2026-10-01 04:25 UTC",
+  "updated": "2026-10-01 15:07 UTC",
   "count": 10,
   "items": [
     {
-      "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
-      "url": "https://github.com/TantrixAuto/yantra",
-      "desc": "Yantra is a C++ parser generator: lexer, parser, and AST walker all generated from one tool.\nIt builds the whole AST first, then walks it.Most LALR parser generators (Yacc, Bison, Lemon) run your sema",
+      "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+      "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790821848,
-      "score": 7,
+      "ts": 1790859662,
+      "score": 34,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790859655,
+      "score": 77,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790850096,
+      "score": 101,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790798677,
-      "score": 1122,
-      "category": "llm",
+      "score": 1537,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790795090,
-      "score": 141,
-      "category": "industry",
+      "score": 226,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,46 +74,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790789860,
-      "score": 135,
-      "category": "industry",
+      "score": 178,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-      "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+      "url": "https://github.com/maanHimself/OpenDLSS-NR",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790787620,
-      "score": 1,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
-      "url": "https://lathoa.ai/en",
-      "desc": "I made this for kids around 10 to 14. A robot called Errol solves a math problem step by step and one of the steps is wrong. The kid has to find it and say what&#x27;s wrong with it. Sometimes nothing",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790779137,
-      "score": 41,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "You said no MCP",
-      "url": "https://earendil.com/posts/you-said-no-mcp/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790762123,
-      "score": 619,
+      "ts": 1790757801,
+      "score": 183,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790753625,
-      "score": 58,
-      "category": "llm",
+      "score": 126,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790735772,
-      "score": 83,
-      "category": "tools",
+      "score": 108,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790725294,
-      "score": 82,
-      "category": "tools",
+      "score": 182,
+      "category": "llm",
       "tags": [
         "国际"
       ]
