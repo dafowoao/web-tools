@@ -1,119 +1,145 @@
 {
-  "updated": "2026-10-02 14:28 UTC",
-  "count": 9,
+  "updated": "2026-10-02 20:22 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Aweb – Communication for AI Agents",
-      "url": "https://aweb.ai",
-      "desc": "",
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "desc": "Hi there :-) New on HN, first time posting.Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language.This LDraw is literally an &quot;as",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790892151,
-      "score": 38,
+      "ts": 1790971215,
+      "score": 13,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Vote on which of Hacker News' challenges for AI have been met",
-      "url": "https://stoppels.ch/goalposts/",
+      "title": "Crypto Capture of Foreign Aid",
+      "url": "https://www.nber.org/papers/w35655",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790875963,
-      "score": 175,
+      "ts": 1790964869,
+      "score": 76,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790871537,
-      "score": 559,
-      "category": "industry",
+      "ts": 1790964076,
+      "score": 37,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Ask HN: Who is hiring? (October 2026)",
-      "url": "https://news.ycombinator.com/item?id=49922569",
-      "desc": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is not an option.Please only post if you personally are p",
+      "title": "STS-51-F Abort-to-Orbit (1985)",
+      "url": "https://en.wikipedia.org/wiki/STS-51-F",
+      "desc": "Today I learned that one Space Shuttle flight (in 1985) successfully used the Abort-to-Orbit recovery plan (changing its flight path in real time in response to an engine failure during ascent). The o",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790866927,
-      "score": 231,
+      "ts": 1790960207,
+      "score": 15,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Ask HN: Who wants to be hired? (October 2026)",
-      "url": "https://news.ycombinator.com/item?id=49922568",
-      "desc": "Share your information if you are looking for work. Please use this format:  Location:\n  Remote:\n  Willing to relocate:\n  Technologies:\n  Résumé&#x2F;CV:\n  Email:\n\nPlease only post if you are personal",
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "desc": "https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-11036-yhttps:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2511.07312",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790866927,
-      "score": 118,
+      "ts": 1790950284,
+      "score": 85,
+      "category": "research",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Venice’s failed war against Constantinople led to the first bond market",
+      "url": "https://bigthink.com/books/a-fabulous-debt/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790947067,
+      "score": 27,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
+      "url": "https://againstallodds.games/",
+      "desc": "We&#x27;re a tiny indie studio, all with a background in the demoscene and for about 3 years now we&#x27;re developing a space planet terraforming game called SEEDS - Echoes Beneath the Sands.Our prot",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790937631,
+      "score": 9,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790909487,
+      "score": 82,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "url": "https://stillwet.art/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790850096,
-      "score": 186,
-      "category": "industry",
+      "ts": 1790900876,
+      "score": 145,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Gemini 4 Argon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "desc": "See also: Gemini 4 Argon (High): Intelligence, Performance and Price Analysis - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49914236",
+      "title": "Sites in ChatGPT",
+      "url": "https://chatgpt.com/features/sites/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790798677,
-      "score": 1667,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
-      "url": "https://news.ycombinator.com/item?id=49911500",
-      "desc": "A few months ago we started building a model router for coding agents because we thought we could outperform any single model with an ensemble approach. Recently we’ve achieved that milestone and I wa",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790787504,
-      "score": 109,
+      "ts": 1790893341,
+      "score": 132,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-      "url": "https://github.com/maanHimself/OpenDLSS-NR",
+      "title": "ExplainDB: A Database System Built for Understandability",
+      "url": "https://github.com/explaindb/explaindb",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790757801,
-      "score": 264,
+      "ts": 1790876847,
+      "score": 9,
       "category": "tools",
       "tags": [
         "国际"
