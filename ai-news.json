@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02 04:18 UTC",
-  "count": 10,
+  "updated": "2026-10-02 14:28 UTC",
+  "count": 9,
   "items": [
     {
       "title": "Aweb – Communication for AI Agents",
@@ -9,21 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790892151,
-      "score": 28,
+      "score": 38,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Rhun, an open-source code editor written in assembly",
-      "url": "https://rhun.app/",
-      "desc": "I found that I&#x27;m not using even 1&#x2F;3 of vim&#x2F;vscode features anymore.That&#x27;s wht I&#x27;m building rhun - a small code editor for Linux, Windows and Apple silicon Macs. It obviously h",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790886738,
-      "score": 40,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790875963,
-      "score": 110,
-      "category": "industry",
+      "score": 175,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790871537,
-      "score": 461,
-      "category": "llm",
+      "score": 559,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790866927,
-      "score": 167,
+      "score": 231,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790866927,
-      "score": 100,
-      "category": "industry",
+      "score": 118,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790850096,
-      "score": 174,
-      "category": "tools",
+      "score": 186,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790798677,
-      "score": 1646,
-      "category": "llm",
+      "score": 1667,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790787504,
-      "score": 95,
+      "score": 109,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790757801,
-      "score": 250,
-      "category": "llm",
+      "score": 264,
+      "category": "tools",
       "tags": [
         "国际"
       ]
