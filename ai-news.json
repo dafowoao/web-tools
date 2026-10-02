@@ -1,42 +1,55 @@
 {
-  "updated": "2026-10-01 20:49 UTC",
-  "count": 11,
+  "updated": "2026-10-02 04:18 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "Manyfold's Agents.md Is Based",
-      "url": "https://github.com/manyfold3d/manyfold/blob/main/AGENTS.md",
+      "title": "Aweb – Communication for AI Agents",
+      "url": "https://aweb.ai",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790886221,
-      "score": 18,
-      "category": "llm",
+      "ts": 1790892151,
+      "score": 28,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+      "title": "Show HN: Rhun, an open-source code editor written in assembly",
+      "url": "https://rhun.app/",
+      "desc": "I found that I&#x27;m not using even 1&#x2F;3 of vim&#x2F;vscode features anymore.That&#x27;s wht I&#x27;m building rhun - a small code editor for Linux, Windows and Apple silicon Macs. It obviously h",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790886738,
+      "score": 40,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Vote on which of Hacker News' challenges for AI have been met",
+      "url": "https://stoppels.ch/goalposts/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790875963,
+      "score": 110,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
       "url": "https://blog.cloudflare.com/clef-decision-models/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790871537,
-      "score": 331,
+      "score": 461,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Identity Management for Agentic AI [pdf] (2025)",
-      "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790867470,
-      "score": 60,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790866927,
-      "score": 112,
+      "score": 167,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,34 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790866927,
-      "score": 69,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How to set up SPF, DKIM, and DMARC for your sending domain",
-      "url": "https://mailfully.com/blog/spf-dkim-dmarc-setup",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790865201,
-      "score": 48,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790859655,
-      "score": 191,
-      "category": "tools",
+      "score": 100,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790850096,
-      "score": 152,
+      "score": 174,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790798677,
-      "score": 1630,
+      "score": 1646,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790787504,
-      "score": 47,
+      "score": 95,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790757801,
-      "score": 235,
-      "category": "tools",
+      "score": 250,
+      "category": "llm",
       "tags": [
         "国际"
       ]
