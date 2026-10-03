@@ -1,16 +1,68 @@
 {
-  "updated": "2026-10-03 19:00 UTC",
-  "count": 11,
+  "updated": "2026-10-03 22:41 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "Pop!_OS bans AI-generated code from much of its codebase",
-      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791050223,
-      "score": 13,
+      "ts": 1791065893,
+      "score": 8,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Local pretrained classifiers, GPU not needed",
+      "url": "https://github.com/nicobrenner/jeffy",
+      "desc": "I was curious about what classifiers could do. It turns out, a lot, sometimes even play Doom.Jeffy is currently a collection of simple classifiers that can do spam detection, intent routing, topic cla",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791058749,
+      "score": 7,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791052170,
+      "score": 114,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;TyDPf",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791049469,
+      "score": 27,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Agents don't need memory, they need documentation",
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791047017,
+      "score": 14,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -29,13 +81,13 @@
       ]
     },
     {
-      "title": "Show HN: Offrun – manage every coding agent from one workspace",
-      "url": "https://offrun.dev/",
-      "desc": "Run Claude Code, Codex, AGY, and Grok Build side by side. See who is working, who needs you, and what every account has left.",
+      "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+      "url": "https://thoreaubasic.com/",
+      "desc": "Thoreau BASIC started as a joke. I wanted a BASIC where I could type something ridiculous like:  DIM A%(12000000000)\n\n…and have it actually work. Then I kept adding things. The result is Thoreau BASIC",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791016817,
-      "score": 69,
+      "ts": 1791012534,
+      "score": 10,
       "category": "llm",
       "tags": [
         "国际"
@@ -44,51 +96,12 @@
     {
       "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
       "url": "https://pipod.dev/",
-      "desc": "pi pod runs sessions of the pi coding agent (https:&#x2F;&#x2F;github.com&#x2F;earendil-works&#x2F;pi) in isolated sandboxes (&quot;pods&quot;) on a server you run, so an agent can work on a repo with",
+      "desc": "pi pod runs sessions of the pi coding agent in isolated sandboxes (&quot;pods&quot;) on a server you run, in composable environments.----Since moving my company towards AI-native work, I have been rea",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790968238,
-      "score": 11,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "url": "https://dwarfstar.sh/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790964076,
-      "score": 321,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "desc": "https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-11036-yhttps:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2511.07312",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790950284,
-      "score": 269,
-      "category": "research",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Venice’s failed war against Constantinople led to the first bond market",
-      "url": "https://bigthink.com/books/a-fabulous-debt/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790947067,
-      "score": 161,
-      "category": "llm",
+      "score": 64,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,46 +113,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790937631,
-      "score": 26,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790909487,
-      "score": 306,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-      "url": "https://stillwet.art/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790900876,
-      "score": 359,
+      "score": 64,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Sites in ChatGPT",
-      "url": "https://chatgpt.com/features/sites/",
-      "desc": "",
+      "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
+      "url": "https://github.com/graphene-data/graphene",
+      "desc": "My friend and I have worked at a number of BI companies and thought: Can’t a coding agent do most of this now?Almost. They just need a context&#x2F;semantic layer to ensure query correctness and some ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790893341,
-      "score": 336,
+      "ts": 1790890192,
+      "score": 24,
       "category": "industry",
       "tags": [
         "国际"
