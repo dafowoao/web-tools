@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-03 13:04 UTC",
-  "count": 10,
+  "updated": "2026-10-03 19:00 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Show HN: Germany's new sovereign AI model Kolibri",
-      "url": "https://tej.as/blog/aleph-alpha-kolibri",
+      "title": "Pop!_OS bans AI-generated code from much of its codebase",
+      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791024231,
-      "score": 20,
-      "category": "llm",
+      "ts": 1791050223,
+      "score": 13,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Gemini ending free use of Flash and Pro models",
-      "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
+      "title": "RetailReady (YC W24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791018799,
-      "score": 38,
-      "category": "llm",
+      "ts": 1791046812,
+      "score": 1,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,21 +35,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791016817,
-      "score": 16,
-      "category": "tools",
+      "score": 69,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Made an open-source Lego AI generator",
-      "url": "https://github.com/anteloc/ldraw-nova",
-      "desc": "Hi there :-) New on HN, first time posting.Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language.This LDraw is literally an &quot;as",
+      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+      "url": "https://pipod.dev/",
+      "desc": "pi pod runs sessions of the pi coding agent (https:&#x2F;&#x2F;github.com&#x2F;earendil-works&#x2F;pi) in isolated sandboxes (&quot;pods&quot;) on a server you run, so an agent can work on a repo with",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790971215,
-      "score": 121,
-      "category": "llm",
+      "ts": 1790968238,
+      "score": 11,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790964076,
-      "score": 276,
-      "category": "llm",
+      "score": 321,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790950284,
-      "score": 237,
+      "score": 269,
       "category": "research",
       "tags": [
         "国际"
@@ -87,8 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790947067,
-      "score": 137,
+      "score": 161,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
+      "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
+      "desc": "(Edit: original URL was https:&#x2F;&#x2F;againstallodds.games&#x2F;, but we&#x27;ve switched it to https:&#x2F;&#x2F;againstallodds.games&#x2F;blog&#x2F;2026&#x2F;10&#x2F;03&#x2F;our-risc-v-emul... i",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790937631,
+      "score": 26,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790909487,
-      "score": 261,
+      "score": 306,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790900876,
-      "score": 303,
-      "category": "tools",
+      "score": 359,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790893341,
-      "score": 300,
+      "score": 336,
       "category": "industry",
       "tags": [
         "国际"
