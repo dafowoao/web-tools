@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-02 20:22 UTC",
-  "count": 11,
+  "updated": "2026-10-03 04:00 UTC",
+  "count": 8,
   "items": [
+    {
+      "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+      "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790989741,
+      "score": 24,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Made an open-source Lego AI generator",
       "url": "https://github.com/anteloc/ldraw-nova",
@@ -9,20 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790971215,
-      "score": 13,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Crypto Capture of Foreign Aid",
-      "url": "https://www.nber.org/papers/w35655",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790964869,
-      "score": 76,
+      "score": 81,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,20 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790964076,
-      "score": 37,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "STS-51-F Abort-to-Orbit (1985)",
-      "url": "https://en.wikipedia.org/wiki/STS-51-F",
-      "desc": "Today I learned that one Space Shuttle flight (in 1985) successfully used the Abort-to-Orbit recovery plan (changing its flight path in real time in response to an engine failure during ascent). The o",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790960207,
-      "score": 15,
+      "score": 182,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790950284,
-      "score": 85,
+      "score": 194,
       "category": "research",
       "tags": [
         "国际"
@@ -74,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790947067,
-      "score": 27,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
-      "url": "https://againstallodds.games/",
-      "desc": "We&#x27;re a tiny indie studio, all with a background in the demoscene and for about 3 years now we&#x27;re developing a space planet terraforming game called SEEDS - Echoes Beneath the Sands.Our prot",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790937631,
-      "score": 9,
-      "category": "tools",
+      "score": 89,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790909487,
-      "score": 82,
-      "category": "llm",
+      "score": 196,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790900876,
-      "score": 145,
-      "category": "tools",
+      "score": 224,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790893341,
-      "score": 132,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "ExplainDB: A Database System Built for Understandability",
-      "url": "https://github.com/explaindb/explaindb",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790876847,
-      "score": 9,
+      "score": 231,
       "category": "tools",
       "tags": [
         "国际"
