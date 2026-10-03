@@ -1,15 +1,41 @@
 {
-  "updated": "2026-10-03 04:00 UTC",
-  "count": 8,
+  "updated": "2026-10-03 13:04 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-      "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+      "title": "Show HN: Germany's new sovereign AI model Kolibri",
+      "url": "https://tej.as/blog/aleph-alpha-kolibri",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790989741,
-      "score": 24,
+      "ts": 1791024231,
+      "score": 20,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Gemini ending free use of Flash and Pro models",
+      "url": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791018799,
+      "score": 38,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Offrun – manage every coding agent from one workspace",
+      "url": "https://offrun.dev/",
+      "desc": "Run Claude Code, Codex, AGY, and Grok Build side by side. See who is working, who needs you, and what every account has left.",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791016817,
+      "score": 16,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790971215,
-      "score": 81,
-      "category": "tools",
+      "score": 121,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790964076,
-      "score": 182,
+      "score": 276,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790950284,
-      "score": 194,
+      "score": 237,
       "category": "research",
       "tags": [
         "国际"
@@ -61,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790947067,
-      "score": 89,
-      "category": "industry",
+      "score": 137,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790909487,
-      "score": 196,
+      "score": 261,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790900876,
-      "score": 224,
-      "category": "industry",
+      "score": 303,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790893341,
-      "score": 231,
-      "category": "tools",
+      "score": 300,
+      "category": "industry",
       "tags": [
         "国际"
       ]
