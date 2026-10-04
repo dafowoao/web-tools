@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-03 22:41 UTC",
+  "updated": "2026-10-04 04:33 UTC",
   "count": 10,
   "items": [
     {
-      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "title": "AI can clone your indie game, but not its soul",
+      "url": "https://twitter.com/robertvaradan/status/2106061989122334778",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791065893,
+      "ts": 1791083935,
       "score": 8,
       "category": "tools",
       "tags": [
@@ -16,14 +16,27 @@
       ]
     },
     {
-      "title": "Show HN: Local pretrained classifiers, GPU not needed",
-      "url": "https://github.com/nicobrenner/jeffy",
-      "desc": "I was curious about what classifiers could do. It turns out, a lot, sometimes even play Doom.Jeffy is currently a collection of simple classifiers that can do spam detection, intent routing, topic cla",
+      "title": "Inside Anthropic's Quest to Instill Morality into Its A.I. Models",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791058749,
-      "score": 7,
-      "category": "llm",
+      "ts": 1791081262,
+      "score": 47,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791065893,
+      "score": 248,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,20 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791052170,
-      "score": 114,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;TyDPf",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791049469,
-      "score": 27,
+      "score": 189,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791047017,
-      "score": 14,
-      "category": "llm",
+      "score": 91,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -75,7 +75,7 @@
       "sourceColor": "#ff6600",
       "ts": 1791046812,
       "score": 1,
-      "category": "tools",
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791012534,
-      "score": 10,
-      "category": "llm",
+      "score": 40,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Three AI agents, two countries, and one uneven world wide web",
+      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790973545,
+      "score": 14,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790968238,
-      "score": 64,
+      "score": 83,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790937631,
-      "score": 64,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Graphene – Data analysis toolkit for your coding agent",
-      "url": "https://github.com/graphene-data/graphene",
-      "desc": "My friend and I have worked at a number of BI companies and thought: Can’t a coding agent do most of this now?Almost. They just need a context&#x2F;semantic layer to ensure query correctness and some ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790890192,
-      "score": 24,
-      "category": "industry",
+      "score": 71,
+      "category": "tools",
       "tags": [
         "国际"
       ]
