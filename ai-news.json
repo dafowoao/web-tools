@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-04 13:43 UTC",
-  "count": 10,
+  "updated": "2026-10-04 19:13 UTC",
+  "count": 7,
   "items": [
+    {
+      "title": "Building a RAG Pipeline for Semantic Code Search",
+      "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791136308,
+      "score": 19,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: AI search for every photo and every frame of video on macOS",
       "url": "https://github.com/allenv0/SCM",
@@ -9,33 +22,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791105892,
-      "score": 21,
-      "category": "industry",
+      "score": 93,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "In Ukraine, distributed renewables foil Russia's assaults",
-      "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791103198,
-      "score": 137,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "What's the Future for Pure Math Research in the Age of AI?",
+      "title": "What's the future for pure math research in the age of AI?",
       "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791100425,
-      "score": 7,
+      "score": 46,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791081262,
-      "score": 112,
-      "category": "llm",
+      "score": 147,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791049469,
-      "score": 206,
-      "category": "industry",
+      "score": 330,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791047017,
-      "score": 236,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "RetailReady (YC W24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791046812,
-      "score": 1,
-      "category": "tools",
+      "score": 312,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,34 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791035194,
-      "score": 302,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Three AI agents, two countries, and one uneven world wide web",
-      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790973545,
-      "score": 36,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-      "url": "https://pipod.dev/",
-      "desc": "pi pod runs sessions of the pi coding agent in isolated sandboxes (&quot;pods&quot;) on a server you run, in composable environments.----Since moving my company towards AI-native work, I have been rea",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790968238,
-      "score": 106,
-      "category": "industry",
+      "score": 425,
+      "category": "tools",
       "tags": [
         "国际"
       ]
