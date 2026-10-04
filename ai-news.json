@@ -1,54 +1,67 @@
 {
-  "updated": "2026-10-04 04:33 UTC",
+  "updated": "2026-10-04 13:43 UTC",
   "count": 10,
   "items": [
     {
-      "title": "AI can clone your indie game, but not its soul",
-      "url": "https://twitter.com/robertvaradan/status/2106061989122334778",
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791083935,
-      "score": 8,
+      "ts": 1791105892,
+      "score": 21,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "In Ukraine, distributed renewables foil Russia's assaults",
+      "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791103198,
+      "score": 137,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Inside Anthropic's Quest to Instill Morality into Its A.I. Models",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "title": "What's the Future for Pure Math Research in the Age of AI?",
+      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
       "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791100425,
+      "score": 7,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Religious scholars met with Anthropic",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "desc": "https:&#x2F;&#x2F;archive.is&#x2F;y8FW0",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791081262,
-      "score": 47,
-      "category": "tools",
+      "score": 112,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "desc": "",
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;TyDPf",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791065893,
-      "score": 248,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791052170,
-      "score": 189,
+      "ts": 1791049469,
+      "score": 206,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791047017,
-      "score": 91,
-      "category": "tools",
+      "score": 236,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -75,19 +88,19 @@
       "sourceColor": "#ff6600",
       "ts": 1791046812,
       "score": 1,
-      "category": "industry",
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
-      "url": "https://thoreaubasic.com/",
-      "desc": "Thoreau BASIC started as a joke. I wanted a BASIC where I could type something ridiculous like:  DIM A%(12000000000)\n\n…and have it actually work. Then I kept adding things. The result is Thoreau BASIC",
+      "title": "I quit OpenAI because its culture is broken",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;5GQx8https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;oct&#x2F;03&#x2F;openai-sa...",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791012534,
-      "score": 40,
+      "ts": 1791035194,
+      "score": 302,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790973545,
-      "score": 14,
-      "category": "tools",
+      "score": 36,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1790968238,
-      "score": 83,
+      "score": 106,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
-      "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
-      "desc": "(Edit: original URL was https:&#x2F;&#x2F;againstallodds.games&#x2F;, but we&#x27;ve switched it to https:&#x2F;&#x2F;againstallodds.games&#x2F;blog&#x2F;2026&#x2F;10&#x2F;03&#x2F;our-risc-v-emul... i",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790937631,
-      "score": 71,
-      "category": "tools",
       "tags": [
         "国际"
       ]
