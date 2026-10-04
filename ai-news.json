@@ -1,16 +1,29 @@
 {
-  "updated": "2026-10-04 19:13 UTC",
-  "count": 7,
+  "updated": "2026-10-04 22:46 UTC",
+  "count": 6,
   "items": [
     {
-      "title": "Building a RAG Pipeline for Semantic Code Search",
-      "url": "https://blog.jetbrains.com/ai/2026/09/building-a-rag-pipeline-for-semantic-code-search-a-developer-diary-and-field-notes/",
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "desc": "Paper: \nhttps:&#x2F;&#x2F;www.usenix.org&#x2F;system&#x2F;files&#x2F;atc21-ousterhout.pdfRelated: https:&#x2F;&#x2F;lwn.net&#x2F;Articles&#x2F;1003059&#x2F;, https:&#x2F;&#x2F;www.theregister.com&#x2F",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791142945,
+      "score": 38,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "All I wanted was a custom domain email",
+      "url": "https://jacobg.co/emails-at-jacobg-co/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791136308,
-      "score": 19,
-      "category": "llm",
+      "ts": 1791136041,
+      "score": 36,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,46 +35,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791105892,
-      "score": 93,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "What's the future for pure math research in the age of AI?",
-      "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791100425,
-      "score": 46,
+      "score": 132,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Religious scholars met with Anthropic",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "desc": "https:&#x2F;&#x2F;archive.is&#x2F;y8FW0",
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791081262,
-      "score": 147,
+      "ts": 1791103318,
+      "score": 37,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;TyDPf",
+      "title": "Declaring a bird extinct: The median wait is 36 years after the last sighting",
+      "url": "https://birdshistory.com/how-long-to-declare-a-bird-extinct/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791049469,
-      "score": 330,
+      "ts": 1791069405,
+      "score": 13,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,20 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791047017,
-      "score": 312,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I quit OpenAI because its culture is broken",
-      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;5GQx8https:&#x2F;&#x2F;www.theguardian.com&#x2F;technology&#x2F;2026&#x2F;oct&#x2F;03&#x2F;openai-sa...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791035194,
-      "score": 425,
+      "score": 335,
       "category": "tools",
       "tags": [
         "国际"
