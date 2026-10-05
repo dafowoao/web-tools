@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-05 04:19 UTC",
-  "count": 5,
+  "updated": "2026-10-05 16:50 UTC",
+  "count": 8,
   "items": [
+    {
+      "title": "Florida woman arrested for allegedly making threats in an AI chat",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791213096,
+      "score": 36,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Minigraf – An embedded, bi-temporal graph database in Rust",
+      "url": "https://github.com/project-minigraf/minigraf",
+      "desc": "A successor project to my previous attempt at building a temporal graph database (https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=23455516). This one builds on its predecessor&#x27;s concept, but ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791199098,
+      "score": 20,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
       "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
@@ -9,60 +35,73 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791165248,
-      "score": 118,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
-      "desc": "Paper: \nhttps:&#x2F;&#x2F;www.usenix.org&#x2F;system&#x2F;files&#x2F;atc21-ousterhout.pdfRelated: https:&#x2F;&#x2F;lwn.net&#x2F;Articles&#x2F;1003059&#x2F;, https:&#x2F;&#x2F;www.theregister.com&#x2F",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791142945,
-      "score": 63,
+      "score": 269,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: AI search for every photo and every frame of video on macOS",
-      "url": "https://github.com/allenv0/SCM",
-      "desc": "",
+      "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
+      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "desc": "https:&#x2F;&#x2F;archive.org&#x2F;details&#x2F;tippett-archive&#x2F;",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791105892,
-      "score": 145,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How to scale intent, quality, and artistry with AI [video]",
-      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791103318,
-      "score": 65,
+      "ts": 1791147688,
+      "score": 208,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
-      "url": "https://alexalejandre.com/interviews/peter-bex/",
+      "title": "Decision models like Jev don't beat LLM-as-a-judge or traditional classifiers",
+      "url": "https://developers.redhat.com/articles/2026/10/02/benchmarking-ai-decision-models-against-traditional-guardrails",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1790979424,
-      "score": 24,
-      "category": "industry",
+      "ts": 1790948861,
+      "score": 144,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
+      "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790926815,
+      "score": 59,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Martian chaos terrain",
+      "url": "https://en.wikipedia.org/wiki/Martian_chaos_terrain",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790903488,
+      "score": 45,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "ExplainDB: A Database System Built for Understandability",
+      "url": "https://github.com/explaindb/explaindb",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1790876847,
+      "score": 56,
+      "category": "tools",
       "tags": [
         "国际"
       ]
