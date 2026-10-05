@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-04 22:46 UTC",
-  "count": 6,
+  "updated": "2026-10-05 04:19 UTC",
+  "count": 5,
   "items": [
+    {
+      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791165248,
+      "score": 118,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Homa: The end of TCP for AI clusters [video]",
       "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
@@ -9,20 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791142945,
-      "score": 38,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "All I wanted was a custom domain email",
-      "url": "https://jacobg.co/emails-at-jacobg-co/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791136041,
-      "score": 36,
+      "score": 63,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791105892,
-      "score": 132,
+      "score": 145,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,34 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791103318,
-      "score": 37,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Declaring a bird extinct: The median wait is 36 years after the last sighting",
-      "url": "https://birdshistory.com/how-long-to-declare-a-bird-extinct/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791069405,
-      "score": 13,
+      "score": 65,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Agents don't need memory, they need documentation",
-      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
+      "url": "https://alexalejandre.com/interviews/peter-bex/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791047017,
-      "score": 335,
-      "category": "tools",
+      "ts": 1790979424,
+      "score": 24,
+      "category": "industry",
       "tags": [
         "国际"
       ]
