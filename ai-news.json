@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-06 01:08 UTC",
+  "updated": "2026-10-06 11:02 UTC",
   "count": 9,
   "items": [
     {
-      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-      "url": "https://edworkingpapers.com/ai26-1551",
+      "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+      "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791244845,
-      "score": 20,
-      "category": "industry",
+      "ts": 1791271790,
+      "score": 50,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791240405,
-      "score": 187,
-      "category": "llm",
+      "score": 455,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791234907,
-      "score": 88,
-      "category": "tools",
+      "score": 206,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791234021,
-      "score": 195,
-      "category": "llm",
+      "score": 366,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791209355,
-      "score": 94,
-      "category": "industry",
+      "score": 127,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,47 +74,47 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791178660,
-      "score": 524,
-      "category": "llm",
+      "score": 743,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear",
-      "url": "https://github.com/rsutcliffe/nightwatch",
-      "desc": "Here in the north of England clear nights are at a premium, and it&#x27;s never guaranteed that you&#x27;ll be able to see anything but cloud. That&#x27;s why I developed Nightwatch, so that I could b",
+      "title": "Fundamentals of circadian entrainment by light (2021)",
+      "url": "https://journals.sagepub.com/doi/full/10.1177/14771535211014792",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791106261,
-      "score": 72,
+      "ts": 1791141549,
+      "score": 5,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "An Algorithmic Failure Beneath the Secret Ballot",
+      "title": "Using A.I. and machine learning to decode communication of sperm whales",
+      "url": "https://blue-continuum.com/the-man-who-listens-to-whales",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791108913,
+      "score": 30,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "An algorithmic failure beneath the secret ballot",
       "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791044587,
-      "score": 13,
+      "score": 86,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Martian chaos terrain",
-      "url": "https://en.wikipedia.org/wiki/Martian_chaos_terrain",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1790903488,
-      "score": 98,
-      "category": "tools",
       "tags": [
         "国际"
       ]
