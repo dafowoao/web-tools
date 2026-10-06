@@ -1,28 +1,80 @@
 {
-  "updated": "2026-10-06 17:59 UTC",
-  "count": 8,
+  "updated": "2026-10-06 23:35 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+      "title": "Sharing AI Progress in Mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "desc": "https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791325041,
+      "score": 188,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791306112,
-      "score": 35,
+      "ts": 1791323983,
+      "score": 15,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "AI is now capable of developing its own inference hardware",
+      "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+      "url": "https://news.ycombinator.com/item?id=49982498",
+      "desc": "I am a developer of https:&#x2F;&#x2F;www.photopea.com, a popular photo editor that runs in a web browser.Many people are asking AI models to take the Javascript code from my website, remove all ads f",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791312841,
+      "score": 23,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791309634,
+      "score": 64,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
       "url": "https://github.com/FeSens/openTPU",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791303805,
-      "score": 106,
+      "score": 208,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791302629,
+      "score": 186,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791295087,
-      "score": 17,
+      "score": 65,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,21 +100,47 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791292549,
-      "score": 1018,
-      "category": "tools",
+      "score": 1534,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "JetBrains reported a net financial loss first time in its tracked history",
-      "url": "https://www.helgilibrary.com/companies/jetbrains",
+      "title": "Erdosproblems.com Succumbs to the AI Onslaught",
+      "url": "https://www.erdosproblems.com/forum/thread/blog:9",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791287155,
-      "score": 501,
-      "category": "tools",
+      "ts": 1791291238,
+      "score": 85,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "LLMs may have helped my RSI",
+      "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791255664,
+      "score": 16,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: Are there AI models for generating sounds based on a text and reference?",
+      "url": "https://news.ycombinator.com/item?id=49972125",
+      "desc": "I&#x27;ve been having a hard time finding a solution. Is there really no commercialized model that I can feed in a reference sound and text instruction and get another sound out?Right now having a mul",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791242684,
+      "score": 9,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,33 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791234907,
-      "score": 253,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791234021,
-      "score": 447,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Anthropic reported diary entry to police, woman faces felony charge",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791178660,
-      "score": 782,
+      "score": 271,
       "category": "llm",
       "tags": [
         "国际"
