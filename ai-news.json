@@ -1,15 +1,54 @@
 {
-  "updated": "2026-10-06 23:35 UTC",
-  "count": 12,
+  "updated": "2026-10-07 04:34 UTC",
+  "count": 13,
   "items": [
     {
-      "title": "Sharing AI Progress in Mathematics",
+      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+      "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791336469,
+      "score": 12,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+      "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791330633,
+      "score": 56,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement",
+      "url": "https://arxiv.org/abs/2609.38721",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791327095,
+      "score": 14,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "desc": "https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math",
+      "desc": "https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;mathhttps:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math&#x2F;tree&#x2F;main&#x2F;preprints",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791325041,
-      "score": 188,
+      "score": 600,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791323983,
-      "score": 15,
-      "category": "llm",
+      "score": 110,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791312841,
-      "score": 23,
+      "score": 63,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,7 +87,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791309634,
-      "score": 64,
+      "score": 140,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791306112,
+      "score": 107,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791303805,
-      "score": 208,
-      "category": "industry",
+      "score": 255,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791302629,
-      "score": 186,
-      "category": "industry",
+      "score": 257,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791295087,
-      "score": 65,
-      "category": "tools",
+      "score": 77,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,20 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791292549,
-      "score": 1534,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Erdosproblems.com Succumbs to the AI Onslaught",
-      "url": "https://www.erdosproblems.com/forum/thread/blog:9",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791291238,
-      "score": 85,
+      "score": 1646,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,34 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791255664,
-      "score": 16,
+      "score": 64,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Are there AI models for generating sounds based on a text and reference?",
-      "url": "https://news.ycombinator.com/item?id=49972125",
-      "desc": "I&#x27;ve been having a hard time finding a solution. Is there really no commercialized model that I can feed in a reference sound and text instruction and get another sound out?Right now having a mul",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791242684,
-      "score": 9,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "url": "https://qlabs.sh/research/dust",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791234907,
-      "score": 271,
-      "category": "llm",
       "tags": [
         "国际"
       ]
