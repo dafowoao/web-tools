@@ -1,16 +1,107 @@
 {
-  "updated": "2026-10-07 15:06 UTC",
-  "count": 15,
+  "updated": "2026-10-07 21:01 UTC",
+  "count": 14,
   "items": [
     {
-      "title": "Device detection and occupancy monitoring for Airbnb hosts",
-      "url": "https://www.minut.com/features/occupancy-monitoring",
+      "title": "Despite what Watson said, Rosalind Franklin understood structure of DNA first",
+      "url": "https://link.springer.com/article/10.1007/s10739-026-09866-7",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791382752,
-      "score": 8,
+      "ts": 1791402976,
+      "score": 9,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains",
+      "url": "https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791399705,
+      "score": 18,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791398980,
+      "score": 149,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791396092,
+      "score": 454,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791396058,
+      "score": 330,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Docker Agent",
+      "url": "https://github.com/docker/docker-agent",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791395318,
+      "score": 98,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+      "url": "https://agent.reviews/",
+      "desc": "Hi HN!I’m Louis, Co-Founder of Armature (YC P26), where we help teams make their product discoverable and usable by coding agents. We already measured 50k+ agent sessions and realized that over and ov",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791392351,
+      "score": 18,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "SynthID Detector",
+      "url": "https://synthid.com/",
+      "desc": "https:&#x2F;&#x2F;blog.google&#x2F;innovation-and-ai&#x2F;models-and-research&#x2F;go...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791382604,
+      "score": 69,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791382255,
-      "score": 14,
-      "category": "llm",
+      "score": 94,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791374676,
-      "score": 45,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
-      "url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791368659,
-      "score": 82,
-      "category": "llm",
+      "score": 80,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,33 +139,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791366703,
-      "score": 174,
+      "score": 271,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Forever Junior: The Skills AI Can't Develop for You",
-      "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
-      "desc": "",
+      "title": "VECOS – A windows-like operating system for the Vectrex for the UVMC2 [video]",
+      "url": "https://www.youtube.com/watch?v=9ranfp_vz30",
+      "desc": "https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Vectrexhttps:&#x2F;&#x2F;www.safas.com&#x2F;?SAFAS-UVmc2-uno-spettrofotometro-UV-V...",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791360006,
-      "score": 48,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-      "url": "https://github.com/nano-muse/nanoMuse",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791343844,
-      "score": 48,
+      "ts": 1791325384,
+      "score": 31,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,99 +165,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791325041,
-      "score": 1094,
+      "score": 1197,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "url": "https://penguin-mail.com/",
-      "desc": "",
+      "title": "Show HN: Durable Actors – OSS Durable Objects with configurable compute",
+      "url": "https://github.com/TerseAI/durable-actors",
+      "desc": "Hi HN, we&#x27;re Thomas and Olivier from Terse (https:&#x2F;&#x2F;www.useterse.ai&#x2F;) We&#x27;ve built Durable Actors, an open-source alternative to Cloudflare&#x27;s Durable Objects.A Durable Obj",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791323983,
-      "score": 223,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
-      "url": "https://news.ycombinator.com/item?id=49982498",
-      "desc": "I am a developer of https:&#x2F;&#x2F;www.photopea.com, a popular photo editor that runs in a web browser.Many people are asking AI models to take the Javascript code from my website, remove all ads f",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791312841,
-      "score": 420,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791309634,
-      "score": 251,
+      "ts": 1791302299,
+      "score": 29,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "url": "https://github.com/FeSens/openTPU",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791303805,
-      "score": 327,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791302629,
-      "score": 387,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "desc": "https:&#x2F;&#x2F;docs.mistral.ai&#x2F;models&#x2F;mistral-large-4-0",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791292549,
-      "score": 1941,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
-      "url": "https://astrohelm.app/",
-      "desc": "Hello HN!As an amateur astronomer living in New York City, finding objects in the night sky has always been a huge challenge. I thought about using the smartphone&#x27;s gyroscope and magnetometer, bu",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791122469,
-      "score": 58,
-      "category": "tools",
       "tags": [
         "国际"
       ]
