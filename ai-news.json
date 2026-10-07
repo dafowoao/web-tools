@@ -1,42 +1,94 @@
 {
-  "updated": "2026-10-07 04:34 UTC",
-  "count": 13,
+  "updated": "2026-10-07 15:06 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
-      "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
+      "title": "Device detection and occupancy monitoring for Airbnb hosts",
+      "url": "https://www.minut.com/features/occupancy-monitoring",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791336469,
-      "score": 12,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-      "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791330633,
-      "score": 56,
+      "ts": 1791382752,
+      "score": 8,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement",
-      "url": "https://arxiv.org/abs/2609.38721",
+      "title": "AI-assisted proof of optimal packing for 11 squares",
+      "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791327095,
+      "ts": 1791382255,
       "score": 14,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+      "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791374676,
+      "score": 45,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
+      "url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791368659,
+      "score": 82,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791366703,
+      "score": 174,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Forever Junior: The Skills AI Can't Develop for You",
+      "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791360006,
+      "score": 48,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+      "url": "https://github.com/nano-muse/nanoMuse",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791343844,
+      "score": 48,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791325041,
-      "score": 600,
+      "score": 1094,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791323983,
-      "score": 110,
-      "category": "industry",
+      "score": 223,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791312841,
-      "score": 63,
-      "category": "tools",
+      "score": 420,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,20 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791309634,
-      "score": 140,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791306112,
-      "score": 107,
+      "score": 251,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791303805,
-      "score": 255,
-      "category": "llm",
+      "score": 327,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,21 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791302629,
-      "score": 257,
+      "score": 387,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
-      "url": "https://peterszentkiralyi.eu/darkplug/",
-      "desc": "I am a film photographer and do some darkroom printing and always wanted one of the proper, advanced f-stop timers, but never really wanted to spend a couple hundred dollars on one. Eventually I figur",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791295087,
-      "score": 77,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,21 +178,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791292549,
-      "score": 1646,
-      "category": "llm",
+      "score": 1941,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "LLMs may have helped my RSI",
-      "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
-      "desc": "",
+      "title": "Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
+      "url": "https://astrohelm.app/",
+      "desc": "Hello HN!As an amateur astronomer living in New York City, finding objects in the night sky has always been a huge challenge. I thought about using the smartphone&#x27;s gyroscope and magnetometer, bu",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791255664,
-      "score": 64,
-      "category": "industry",
+      "ts": 1791122469,
+      "score": 58,
+      "category": "tools",
       "tags": [
         "国际"
       ]
