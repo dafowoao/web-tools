@@ -1,16 +1,55 @@
 {
-  "updated": "2026-10-08 04:45 UTC",
-  "count": 10,
+  "updated": "2026-10-08 15:14 UTC",
+  "count": 9,
   "items": [
     {
-      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "title": "Visually impaired people fear smart glasses backlash",
+      "url": "https://www.bbc.com/news/articles/cmx2qlz7ney2o",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791398980,
-      "score": 317,
-      "category": "industry",
+      "ts": 1791470254,
+      "score": 5,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Why the AI future will be awesome",
+      "url": "https://nullpaste.org/raw/t-0Um6AUv_CJ",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791468994,
+      "score": 8,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI Withdraws 3 Math Papers",
+      "url": "https://github.com/openai/math/blob/main/history.md",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791446917,
+      "score": 284,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+      "url": "https://github.com/pingdotgg/ts-rust",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791420360,
+      "score": 95,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791396092,
-      "score": 759,
-      "category": "industry",
+      "score": 973,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791396058,
-      "score": 549,
-      "category": "llm",
+      "score": 705,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,47 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791395318,
-      "score": 203,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "SynthID Detector",
-      "url": "https://synthid.com/",
-      "desc": "https:&#x2F;&#x2F;blog.google&#x2F;innovation-and-ai&#x2F;models-and-research&#x2F;go...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791382604,
-      "score": 105,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI-assisted proof of optimal packing for 11 squares",
-      "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791382255,
-      "score": 113,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
-      "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791374676,
-      "score": 88,
-      "category": "llm",
+      "score": 277,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,33 +100,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791325041,
-      "score": 1255,
+      "score": 1302,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "desc": "https:&#x2F;&#x2F;docs.mistral.ai&#x2F;models&#x2F;mistral-large-4-0",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791292549,
-      "score": 2001,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A new write and space optimized storage engine for MySQL is here",
-      "url": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
+      "title": "Time Travel in Braid (2015)",
+      "url": "https://qntm.org/braid",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791200415,
-      "score": 48,
+      "ts": 1791150163,
+      "score": 44,
       "category": "llm",
       "tags": [
         "国际"
