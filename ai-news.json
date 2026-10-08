@@ -1,120 +1,133 @@
 {
-  "updated": "2026-10-08 15:14 UTC",
-  "count": 9,
+  "updated": "2026-10-08 21:03 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "Visually impaired people fear smart glasses backlash",
-      "url": "https://www.bbc.com/news/articles/cmx2qlz7ney2o",
+      "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
+      "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791470254,
-      "score": 5,
+      "ts": 1791487071,
+      "score": 42,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Why the AI future will be awesome",
-      "url": "https://nullpaste.org/raw/t-0Um6AUv_CJ",
-      "desc": "",
+      "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
+      "url": "https://pocketty.app/",
+      "desc": "Hello~! pocketty is an SSH terminal for iPhone and iPad, made for herdr. herdr keeps your agent panes alive on your computer and knows the state of each one: working, needs you, or done.I made this in",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791468994,
-      "score": 8,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI Withdraws 3 Math Papers",
-      "url": "https://github.com/openai/math/blob/main/history.md",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791446917,
-      "score": 284,
+      "ts": 1791483112,
+      "score": 9,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
-      "url": "https://github.com/pingdotgg/ts-rust",
+      "title": "The Deeply Impersonal Personalized Recruiter Mail",
+      "url": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791420360,
-      "score": 95,
+      "ts": 1791479757,
+      "score": 28,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Claude Haiku 5.5",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "title": "OpenAI annualised revenues $20B less than previously signalled",
+      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791396092,
-      "score": 973,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GPT‑6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791396058,
-      "score": 705,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Docker Agent",
-      "url": "https://github.com/docker/docker-agent",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791395318,
-      "score": 277,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "desc": "https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;mathhttps:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math&#x2F;tree&#x2F;main&#x2F;preprints",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791325041,
-      "score": 1302,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Time Travel in Braid (2015)",
-      "url": "https://qntm.org/braid",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791150163,
-      "score": 44,
+      "ts": 1791477958,
+      "score": 301,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Jevman – AI decision models play Pac-Man",
+      "url": "https://opper.ai/jevman-benchmark/",
+      "desc": "Openai just launched their decisions endpoint, cloudflare launched clef the other week, and many more jev alternatives are out there.We wanted to put the popular ones to the test and thought Pac-Man i",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791477253,
+      "score": 9,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
+      "url": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791475413,
+      "score": 196,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: I Put an AI Agent on a Nokia 110",
+      "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
+      "desc": "I was using this mobile to reduce my screentime. Recently got the idea to put ai agent in it. Started with installing android, but failed as it has only 48MB RAM. Then reverse-engineered for few days ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791469131,
+      "score": 22,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791443254,
+      "score": 87,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: TerrainSR – fast, realistic heightmap upscaling model",
+      "url": "https://huggingface.co/joe-gibbs/terrainsr",
+      "desc": "This is a model that I made for a historical game. I wanted to have a 1:1 scale model of Europe, but my problem was that 100m data was too low-res while 10m LIDAR data was patchy, took hundreds of GBs",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791336257,
+      "score": 12,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+      "url": "https://news.ycombinator.com/item?id=49985548",
+      "desc": "DHH&#x27;s &quot;AI shed&quot; idea got me thinking about getting a small $5–10&#x2F;month VPS.I&#x27;m a Linux guy and have on many points of my life have a personal server. So I like the idea of hav",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791328616,
+      "score": 45,
+      "category": "industry",
       "tags": [
         "国际"
       ]
