@@ -1,33 +1,7 @@
 {
-  "updated": "2026-10-07 21:01 UTC",
-  "count": 14,
+  "updated": "2026-10-08 04:45 UTC",
+  "count": 10,
   "items": [
-    {
-      "title": "Despite what Watson said, Rosalind Franklin understood structure of DNA first",
-      "url": "https://link.springer.com/article/10.1007/s10739-026-09866-7",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791402976,
-      "score": 9,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains",
-      "url": "https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791399705,
-      "score": 18,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
       "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
@@ -35,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791398980,
-      "score": 149,
-      "category": "llm",
+      "score": 317,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791396092,
-      "score": 454,
+      "score": 759,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791396058,
-      "score": 330,
+      "score": 549,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791395318,
-      "score": 98,
+      "score": 203,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-      "url": "https://agent.reviews/",
-      "desc": "Hi HN!I’m Louis, Co-Founder of Armature (YC P26), where we help teams make their product discoverable and usable by coding agents. We already measured 50k+ agent sessions and realized that over and ov",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791392351,
-      "score": 18,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791382604,
-      "score": 69,
-      "category": "llm",
+      "score": 105,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791382255,
-      "score": 94,
-      "category": "tools",
+      "score": 113,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,33 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791374676,
-      "score": 80,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791366703,
-      "score": 271,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "VECOS – A windows-like operating system for the Vectrex for the UVMC2 [video]",
-      "url": "https://www.youtube.com/watch?v=9ranfp_vz30",
-      "desc": "https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Vectrexhttps:&#x2F;&#x2F;www.safas.com&#x2F;?SAFAS-UVmc2-uno-spettrofotometro-UV-V...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791325384,
-      "score": 31,
+      "score": 88,
       "category": "llm",
       "tags": [
         "国际"
@@ -165,20 +100,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791325041,
-      "score": 1197,
+      "score": 1255,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Durable Actors – OSS Durable Objects with configurable compute",
-      "url": "https://github.com/TerseAI/durable-actors",
-      "desc": "Hi HN, we&#x27;re Thomas and Olivier from Terse (https:&#x2F;&#x2F;www.useterse.ai&#x2F;) We&#x27;ve built Durable Actors, an open-source alternative to Cloudflare&#x27;s Durable Objects.A Durable Obj",
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "desc": "https:&#x2F;&#x2F;docs.mistral.ai&#x2F;models&#x2F;mistral-large-4-0",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791302299,
-      "score": 29,
+      "ts": 1791292549,
+      "score": 2001,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "A new write and space optimized storage engine for MySQL is here",
+      "url": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791200415,
+      "score": 48,
       "category": "llm",
       "tags": [
         "国际"
