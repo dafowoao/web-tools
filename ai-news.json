@@ -1,42 +1,81 @@
 {
-  "updated": "2026-10-09 14:59 UTC",
-  "count": 9,
+  "updated": "2026-10-09 20:34 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
-      "url": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457",
+      "title": "open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI",
+      "url": "https://codeberg.org/ethical-foss/open-slopware",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791555248,
-      "score": 38,
+      "ts": 1791575416,
+      "score": 4,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "url": "https://carrierexplode.com/",
+      "desc": "Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands.carrier-explode also contains decoders and explanations for all the common b",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791569455,
+      "score": 104,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-      "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791548484,
-      "score": 86,
-      "category": "llm",
+      "ts": 1791565351,
+      "score": 140,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "title": "Why Are Coding Agents So Dumb?",
+      "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791555691,
+      "score": 20,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791545780,
+      "score": 57,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
       "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791543828,
-      "score": 209,
-      "category": "industry",
+      "score": 336,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -44,12 +83,12 @@
     {
       "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
       "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "desc": "",
+      "desc": "Later: https:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;10&#x2F;09&#x2F;openai-fired-researchers-ai-...",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791540026,
-      "score": 133,
-      "category": "tools",
+      "score": 268,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,47 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791502183,
-      "score": 159,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI-ready biological data: $1.8B global commitment",
-      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791492385,
-      "score": 139,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791443254,
-      "score": 239,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI withdraws three mathematical results",
-      "url": "https://twitter.com/danintheory/status/2108065033070789090",
-      "desc": "https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math&#x2F;blob&#x2F;main&#x2F;history.md",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791443140,
-      "score": 357,
-      "category": "tools",
+      "score": 192,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,8 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791328616,
-      "score": 310,
-      "category": "llm",
+      "score": 375,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Training Text-to-Image Models Without a VAE",
+      "url": "https://www.linum.ai/field-notes/pyramid-jit",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791318292,
+      "score": 36,
+      "category": "industry",
       "tags": [
         "国际"
       ]
