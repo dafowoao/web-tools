@@ -1,15 +1,28 @@
 {
-  "updated": "2026-10-08 21:03 UTC",
-  "count": 10,
+  "updated": "2026-10-09 04:48 UTC",
+  "count": 8,
   "items": [
     {
-      "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
-      "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
+      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+      "url": "https://github.com/edrisranjbar/lifeos",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791487071,
-      "score": 42,
+      "ts": 1791504139,
+      "score": 28,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791492385,
+      "score": 96,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,33 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791483112,
-      "score": 9,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Deeply Impersonal Personalized Recruiter Mail",
-      "url": "https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791479757,
-      "score": 28,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI annualised revenues $20B less than previously signalled",
-      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791477958,
-      "score": 301,
+      "score": 27,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,34 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791477253,
-      "score": 9,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "4-hour battery storage is cheaper to install than gas turbines all across globe",
-      "url": "https://www.solarpowerworldonline.com/2026/10/4-hour-battery-storage-is-cheaper-to-install-than-gas-turbines-all-across-globe/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791475413,
-      "score": 196,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I Put an AI Agent on a Nokia 110",
-      "url": "https://github.com/anupray95/AI-Agent-on-a-NOKIA",
-      "desc": "I was using this mobile to reduce my screentime. Recently got the idea to put ai agent in it. Started with installing android, but failed as it has only 48MB RAM. Then reverse-engineered for few days ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791469131,
-      "score": 22,
-      "category": "llm",
+      "score": 47,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +61,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791443254,
-      "score": 87,
+      "score": 120,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI withdraws three mathematical results",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "desc": "https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math&#x2F;blob&#x2F;main&#x2F;history.md",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791443140,
+      "score": 262,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791336257,
-      "score": 12,
-      "category": "llm",
+      "score": 31,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791328616,
-      "score": 45,
-      "category": "industry",
+      "score": 152,
+      "category": "llm",
       "tags": [
         "国际"
       ]
