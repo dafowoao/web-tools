@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-10 04:33 UTC",
+  "updated": "2026-10-10 14:15 UTC",
   "count": 11,
   "items": [
     {
-      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
-      "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791603731,
-      "score": 9,
+      "ts": 1791629529,
+      "score": 82,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Has the Autonomous Trucking Revolution Arrived?",
-      "url": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
+      "title": "Food processing influences metabolism and brain activity",
+      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791590232,
-      "score": 17,
-      "category": "tools",
+      "ts": 1791609750,
+      "score": 70,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,21 +35,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791587185,
-      "score": 36,
-      "category": "llm",
+      "score": 57,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
       "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791583235,
-      "score": 111,
-      "category": "tools",
+      "score": 185,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791569455,
-      "score": 245,
-      "category": "tools",
+      "score": 361,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791567732,
-      "score": 60,
-      "category": "industry",
+      "score": 148,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791565351,
-      "score": 308,
+      "score": 401,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791557773,
-      "score": 40,
+      "score": 128,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791545780,
-      "score": 126,
+      "score": 165,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791543828,
-      "score": 390,
-      "category": "industry",
+      "score": 401,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791450642,
-      "score": 49,
-      "category": "industry",
+      "score": 101,
+      "category": "llm",
       "tags": [
         "国际"
       ]
