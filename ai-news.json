@@ -1,15 +1,54 @@
 {
-  "updated": "2026-10-09 20:34 UTC",
-  "count": 10,
+  "updated": "2026-10-10 04:33 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "open-slopware – Alternatives to FOSS projects choosing to use LLMs/AI",
-      "url": "https://codeberg.org/ethical-foss/open-slopware",
+      "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+      "url": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791575416,
-      "score": 4,
+      "ts": 1791603731,
+      "score": 9,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Has the Autonomous Trucking Revolution Arrived?",
+      "url": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791590232,
+      "score": 17,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Rewriting Prime Agent in Rust",
+      "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791587185,
+      "score": 36,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
+      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791583235,
+      "score": 111,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,7 +61,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791569455,
-      "score": 104,
+      "score": 245,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791567732,
+      "score": 60,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,21 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791565351,
-      "score": 140,
-      "category": "tools",
+      "score": 308,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Why Are Coding Agents So Dumb?",
-      "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791555691,
-      "score": 20,
-      "category": "industry",
+      "ts": 1791557773,
+      "score": 40,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791545780,
-      "score": 57,
-      "category": "industry",
+      "score": 126,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,59 +126,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791543828,
-      "score": 336,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "desc": "Later: https:&#x2F;&#x2F;www.cnbc.com&#x2F;2026&#x2F;10&#x2F;09&#x2F;openai-fired-researchers-ai-...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791540026,
-      "score": 268,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI, the Partition Principle, and Mathematics",
-      "url": "https://karagila.org/2026/openai-pp/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791502183,
-      "score": 192,
+      "score": 390,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
-      "url": "https://news.ycombinator.com/item?id=49985548",
-      "desc": "DHH&#x27;s &quot;AI shed&quot; idea got me thinking about getting a small $5–10&#x2F;month VPS.I&#x27;m a Linux guy and have on many points of my life have a personal server. So I like the idea of hav",
+      "title": "Show HN: Proton Drive for Linux",
+      "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+      "desc": "Hello everyone, I wanted to share this small project that I have.\nIt&#x27;s born out of a necessity that I had, because Proton doesn&#x27;t ship a Linux version of the drive yet (it&#x27;s apparently ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791328616,
-      "score": 375,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Training Text-to-Image Models Without a VAE",
-      "url": "https://www.linum.ai/field-notes/pyramid-jit",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791318292,
-      "score": 36,
+      "ts": 1791450642,
+      "score": 49,
       "category": "industry",
       "tags": [
         "国际"
