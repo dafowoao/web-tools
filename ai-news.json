@@ -1,16 +1,55 @@
 {
-  "updated": "2026-10-10 23:16 UTC",
-  "count": 10,
+  "updated": "2026-10-11 04:17 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+      "title": "Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
+      "url": "https://github.com/vscarpenter/gsd-task-manager",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791667182,
-      "score": 23,
+      "ts": 1791690176,
+      "score": 3,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Satya Nadella says we should assume all AI models are 'compromised'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791690113,
+      "score": 12,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791684158,
+      "score": 61,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Veda: The First Agentic Hobby Operating System",
+      "url": "https://github.com/vahmoh25/Veda",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791678153,
+      "score": 36,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791658115,
-      "score": 95,
-      "category": "llm",
+      "score": 141,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791629529,
-      "score": 228,
-      "category": "llm",
+      "score": 266,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791609750,
-      "score": 91,
-      "category": "llm",
+      "score": 124,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791584080,
-      "score": 62,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "url": "https://carrierexplode.com/",
-      "desc": "Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands.carrier-explode also contains decoders and explanations for all the common b",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791569455,
-      "score": 408,
-      "category": "llm",
+      "score": 85,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791559593,
-      "score": 16,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Can you use autoregressive diffusion to generate market data?",
-      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791557773,
-      "score": 177,
+      "score": 93,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791528769,
-      "score": 146,
+      "score": 173,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791304641,
-      "score": 311,
-      "category": "tools",
+      "score": 377,
+      "category": "llm",
       "tags": [
         "国际"
       ]
