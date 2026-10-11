@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-11 19:55 UTC",
+  "updated": "2026-10-11 23:28 UTC",
   "count": 5,
   "items": [
     {
-      "title": "Documents add to evidence in climate deception case against ExxonMobil",
-      "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791728919,
-      "score": 359,
-      "category": "industry",
+      "ts": 1791750052,
+      "score": 154,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -23,7 +23,7 @@
       "sourceColor": "#ff6600",
       "ts": 1791720068,
       "score": 1,
-      "category": "tools",
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,21 +35,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791719249,
-      "score": 327,
+      "score": 360,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Five months treating bugs like patients and coding agents like a medical team",
-      "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791559593,
-      "score": 206,
-      "category": "tools",
+      "ts": 1791684158,
+      "score": 134,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791544849,
-      "score": 43,
-      "category": "tools",
+      "score": 54,
+      "category": "llm",
       "tags": [
         "国际"
       ]
