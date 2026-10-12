@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-11 23:28 UTC",
-  "count": 5,
+  "updated": "2026-10-12 04:34 UTC",
+  "count": 4,
   "items": [
+    {
+      "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
+      "url": "https://github.com/swimmingbrain/brainotes",
+      "desc": "In August, I posted here about TeXbrain, a LaTeX editor that runs completely in the browser, with no need for an account or server. (I didn&#x27;t excpect it to get that much feedback, bug reports and",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791760949,
+      "score": 21,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "The gap in shared understanding of LLM capability is widening",
       "url": "https://twitter.com/karpathy/status/2109361546505966046",
@@ -9,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791750052,
-      "score": 154,
+      "score": 329,
       "category": "tools",
       "tags": [
         "国际"
@@ -29,40 +42,14 @@
       ]
     },
     {
-      "title": "I paid people to try and follow my README",
-      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791719249,
-      "score": 360,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
       "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
       "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791684158,
-      "score": 134,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R",
-      "url": "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791544849,
-      "score": 54,
-      "category": "llm",
+      "score": 186,
+      "category": "industry",
       "tags": [
         "国际"
       ]
