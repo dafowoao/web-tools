@@ -1,7 +1,124 @@
 {
-  "updated": "2026-10-13 11:26 UTC",
-  "count": 12,
+  "updated": "2026-10-13 18:55 UTC",
+  "count": 15,
   "items": [
+    {
+      "title": "Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain",
+      "url": "https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791916665,
+      "score": 5,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Deslop – Oxlint rules for AI-generated TypeScript",
+      "url": "https://github.com/maharshi365/deslop",
+      "desc": "Catches unsafe types, duplicate code, and low-value tests.",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791913977,
+      "score": 3,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791910547,
+      "score": 74,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791907396,
+      "score": 545,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791906596,
+      "score": 160,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+      "url": "https://news.ycombinator.com/item?id=50073471",
+      "desc": "Hey Hacker News! I&#x27;m Eric, the founder of Consus. We route all AI requests to ITAR restricted and controlled unclassified information (CUI) compliant infrastructure.\nConsus itself satisfies ITAR ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791906060,
+      "score": 26,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791905150,
+      "score": 135,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+      "desc": "https:&#x2F;&#x2F;www.apple.com&#x2F;safari&#x2F;switch&#x2F;",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791901568,
+      "score": 53,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How to engineer an AI harness for game development",
+      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791900863,
+      "score": 55,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Use your OpenAI subscription to create audiobooks",
       "url": "https://pdftomp3.com/connect-ai/",
@@ -9,60 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791886114,
-      "score": 21,
+      "score": 140,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "AI models may soon self-replicate without access to data centers",
-      "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
-      "desc": "",
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "desc": "https:&#x2F;&#x2F;www.theverge.com&#x2F;ai-artificial-intelligence&#x2F;1009802&#x2F;... https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;10&#x2F;13&#x2F;just-5-years-in-interactiv... https:&#x2F;&#x2F",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791886098,
-      "score": 15,
+      "ts": 1791876514,
+      "score": 199,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "India's Battery Storage Capacity Set to Surge Nearly 50 Fold by 2032",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Battery-Storage-Capacity-Set-to-Surge-Nearly-50-Fold-by-2032.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791886040,
-      "score": 6,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
-      "url": "https://www.argmin.net/p/faster-fourier-transforms",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791859603,
-      "score": 158,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI models can provably hide arbitrary capabilities",
-      "url": "https://arxiv.org/abs/2610.13928",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791857228,
-      "score": 219,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791842743,
-      "score": 161,
+      "score": 210,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,7 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791841218,
-      "score": 438,
+      "score": 601,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,34 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791840935,
-      "score": 240,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-      "url": "https://news.ycombinator.com/item?id=50059096",
-      "desc": "Hey HN, I’m Vishnu from Agent37 (https:&#x2F;&#x2F;agent37.com). We build sandboxes for running AI agents at under 10% of the cost of most sandbox providers. Our customers spend an average of $0.37&#x",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791823594,
-      "score": 135,
+      "score": 298,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-      "url": "https://taylor.town/kk-ai-2026",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791818205,
-      "score": 193,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,21 +191,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791807402,
-      "score": 731,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-      "url": "https://github.com/SaarthurR/atticus-mac",
-      "desc": "Hi HN! I&#x27;m Saarth. I&#x27;m in 9th grade, and I built Atticus.Atticus is a fast and cheap Mac assistant that can do tasks for you. You hold down Control-Option-Space, speak or type your task, be ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791764112,
-      "score": 105,
-      "category": "industry",
+      "score": 867,
+      "category": "tools",
       "tags": [
         "国际"
       ]
