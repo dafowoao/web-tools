@@ -1,7 +1,59 @@
 {
-  "updated": "2026-10-13 18:55 UTC",
-  "count": 15,
+  "updated": "2026-10-13 23:36 UTC",
+  "count": 16,
   "items": [
+    {
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "url": "https://pulseos.finance",
+      "desc": "Hi HN, I&#x27;m Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledg",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791933203,
+      "score": 4,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+      "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791925272,
+      "score": 1,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "desc": "https:&#x2F;&#x2F;x.com&#x2F;OpenAINewsroom&#x2F;status&#x2F;2110095403198849132",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791923035,
+      "score": 332,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+      "url": "https://parsimony.lasu.dev/",
+      "desc": "Existing benchmarks measure solve rate and token output&#x2F;cost, but don&#x27;t punish excess code, which makes a codebase harder to work with in the long term. I wanted to measure this since it mat",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791921031,
+      "score": 30,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Zero to Calc in Six Days: Inside XBOW's Chrome Full Chain",
       "url": "https://xbow.com/labs/research/zero-to-calc-in-six-days-inside-xbow-chrome-full-chain",
@@ -9,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791916665,
-      "score": 5,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Deslop – Oxlint rules for AI-generated TypeScript",
-      "url": "https://github.com/maharshi365/deslop",
-      "desc": "Catches unsafe types, duplicate code, and low-value tests.",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791913977,
-      "score": 3,
-      "category": "industry",
+      "score": 25,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -31,12 +70,12 @@
     {
       "title": "Gemini 4 Argon for Robotics",
       "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
-      "desc": "",
+      "desc": "Main thread: Gemini 4 Argon - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50073879",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791910547,
-      "score": 74,
-      "category": "tools",
+      "score": 174,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -44,12 +83,12 @@
     {
       "title": "Gemini 4 Argon",
       "url": "https://deepmind.google/models/gemini/",
-      "desc": "",
+      "desc": "See also: Gemini 4 Argon for Robotics - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50074869",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791907396,
-      "score": 545,
-      "category": "llm",
+      "score": 894,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791906596,
-      "score": 160,
-      "category": "llm",
+      "score": 470,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791906060,
-      "score": 26,
-      "category": "llm",
+      "score": 32,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791905150,
-      "score": 135,
-      "category": "industry",
+      "score": 224,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791901568,
-      "score": 53,
+      "score": 163,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,8 +152,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791900863,
-      "score": 55,
+      "score": 114,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+      "url": "https://github.com/LargeModGames/spotatui",
+      "desc": "About 11 months ago i revived the amazing but unfortunately unmaintained spotify-tui. Since then I have been working on it almost non stop, finding a lot of problems on the way.One of the main issues ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791891120,
+      "score": 39,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,8 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791886114,
-      "score": 140,
-      "category": "tools",
+      "score": 159,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,20 +191,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791876514,
-      "score": 199,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-      "url": "https://github.com/prabanta-dev/janas",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791842743,
-      "score": 210,
+      "score": 269,
       "category": "tools",
       "tags": [
         "国际"
@@ -165,34 +204,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791841218,
-      "score": 601,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791840935,
-      "score": 298,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-      "desc": "https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;french-supe..., https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;crq5nzxv9q4yo, https:&#x2F;&#x2F;www.lemonde.fr&#x2",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791807402,
-      "score": 867,
-      "category": "tools",
+      "score": 639,
+      "category": "industry",
       "tags": [
         "国际"
       ]
