@@ -1,16 +1,94 @@
 {
-  "updated": "2026-10-14 16:38 UTC",
-  "count": 10,
+  "updated": "2026-10-14 22:59 UTC",
+  "count": 9,
   "items": [
     {
-      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791992385,
-      "score": 43,
+      "ts": 1792009854,
+      "score": 193,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792002772,
+      "score": 234,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+      "url": "https://petal.live/",
+      "desc": "Hi HN!I’m Jason Thomas, one of the founders of CoScreen.As some of you may know, Datadog sunset the CoScreen service on July 31st.Four of us from the original CoScreen team have spent the last couple ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792002194,
+      "score": 94,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Neckbeard – A DevOps/platform/SRE plugin for your agent",
+      "url": "https://github.com/bealesh/neckbeard",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791999934,
+      "score": 57,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791999923,
+      "score": 795,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+      "url": "https://clova.email/",
+      "desc": "Infinite inboxes, including prefixes where you don&#x27;t have to create inboxes before you use them -- they self create when you add a suffix.Three types of inboxes:\n- One sender. Locks to the first ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791997259,
+      "score": 59,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Has AI tells",
+      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791996762,
+      "score": 61,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791990041,
-      "score": 6,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-      "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791988735,
-      "score": 100,
+      "score": 40,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,86 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791973706,
-      "score": 95,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
-      "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791973584,
-      "score": 24,
+      "score": 138,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-      "url": "https://museumofages.org/w/vinci",
-      "desc": "Hello HN,I am the founder of a small nonprofit which built Museum of Ages. We opened its first wing last week, a digital Leonardo da Vinci museum. It is a virtual tour with 17 stops, his works and the",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791972024,
-      "score": 64,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
-      "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791925272,
-      "score": 1,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Gemini 4 Argon",
-      "url": "https://deepmind.google/models/gemini/",
-      "desc": "See also: Gemini 4 Argon for Robotics - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50074869",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791907396,
-      "score": 1404,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791906596,
-      "score": 842,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI is a tool and using it well takes skill",
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791841218,
-      "score": 748,
-      "category": "tools",
       "tags": [
         "国际"
       ]
