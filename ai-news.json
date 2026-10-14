@@ -1,16 +1,81 @@
 {
-  "updated": "2026-10-14 09:18 UTC",
-  "count": 12,
+  "updated": "2026-10-14 16:38 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "Show HN: I built a tool to track what AI leaders say and how their views change",
-      "url": "https://blumify.io/people",
+      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791940153,
-      "score": 98,
-      "category": "industry",
+      "ts": 1791992385,
+      "score": 43,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
+      "url": "https://github.com/graphicle-ai/graphicle",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791990041,
+      "score": 6,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+      "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791988735,
+      "score": 100,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791973706,
+      "score": 95,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+      "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791973584,
+      "score": 24,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+      "url": "https://museumofages.org/w/vinci",
+      "desc": "Hello HN,I am the founder of a small nonprofit which built Museum of Ages. We opened its first wing last week, a digital Leonardo da Vinci museum. It is a virtual tour with 17 stops, his works and the",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791972024,
+      "score": 64,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -23,46 +88,7 @@
       "sourceColor": "#ff6600",
       "ts": 1791925272,
       "score": 1,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "desc": "https:&#x2F;&#x2F;x.com&#x2F;OpenAINewsroom&#x2F;status&#x2F;2110095403198849132",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791923035,
-      "score": 574,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
-      "url": "https://parsimony.lasu.dev/",
-      "desc": "Existing benchmarks measure solve rate and token output&#x2F;cost, but don&#x27;t punish excess code, which makes a codebase harder to work with in the long term. I wanted to measure this since it mat",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791921031,
-      "score": 68,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Gemini 4 Argon for Robotics",
-      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
-      "desc": "Main thread: Gemini 4 Argon - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50073879",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791910547,
-      "score": 216,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791907396,
-      "score": 1284,
+      "score": 1404,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,60 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791906596,
-      "score": 760,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791905150,
-      "score": 324,
+      "score": 842,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
-      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-      "desc": "https:&#x2F;&#x2F;www.apple.com&#x2F;safari&#x2F;switch&#x2F;",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791901568,
-      "score": 273,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How to engineer an AI harness for game development",
-      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791900863,
-      "score": 149,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-      "url": "https://github.com/LargeModGames/spotatui",
-      "desc": "About 11 months ago i revived the amazing but unfortunately unmaintained spotify-tui. Since then I have been working on it almost non stop, finding a lot of problems on the way.One of the main issues ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791891120,
-      "score": 72,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791841218,
-      "score": 680,
-      "category": "industry",
+      "score": 748,
+      "category": "tools",
       "tags": [
         "国际"
       ]
