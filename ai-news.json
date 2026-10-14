@@ -1,28 +1,15 @@
 {
-  "updated": "2026-10-14 03:44 UTC",
-  "count": 14,
+  "updated": "2026-10-14 09:18 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "I built a tool to track what AI leaders say and how their views change on video",
+      "title": "Show HN: I built a tool to track what AI leaders say and how their views change",
       "url": "https://blumify.io/people",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791940153,
-      "score": 25,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "url": "https://pulseos.finance",
-      "desc": "Hi HN, I&#x27;m Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledg",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791933203,
-      "score": 79,
+      "score": 98,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791923035,
-      "score": 454,
-      "category": "industry",
+      "score": 574,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791921031,
-      "score": 61,
-      "category": "tools",
+      "score": 68,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791910547,
-      "score": 205,
+      "score": 216,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791907396,
-      "score": 1094,
-      "category": "llm",
+      "score": 1284,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791906596,
-      "score": 599,
-      "category": "llm",
+      "score": 760,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791905150,
-      "score": 277,
-      "category": "industry",
+      "score": 324,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791901568,
-      "score": 212,
-      "category": "tools",
+      "score": 273,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791900863,
-      "score": 138,
-      "category": "industry",
+      "score": 149,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -152,21 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791891120,
-      "score": 61,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "url": "https://blog.character.ai/an-update-on-character-ai/",
-      "desc": "https:&#x2F;&#x2F;www.theverge.com&#x2F;ai-artificial-intelligence&#x2F;1009802&#x2F;... https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;10&#x2F;13&#x2F;just-5-years-in-interactiv... https:&#x2F;&#x2F",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791876514,
-      "score": 306,
-      "category": "tools",
+      "score": 72,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -178,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791841218,
-      "score": 655,
-      "category": "llm",
+      "score": 680,
+      "category": "industry",
       "tags": [
         "国际"
       ]
