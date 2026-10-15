@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-15 03:25 UTC",
-  "count": 10,
+  "updated": "2026-10-15 08:54 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "AI was great until it was not",
+      "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792052318,
+      "score": 7,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792048839,
+      "score": 5,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
       "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
@@ -9,21 +35,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792022377,
-      "score": 96,
+      "score": 202,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Ask a technical question, get an animated explainer you can interrupt",
-      "url": "https://openlume.com/examples/3f65f6ce-87bf-4c81-a34b-3a1ec82f0ed1",
-      "desc": "",
+      "title": "Show HN: Ito – Build Terminal UIs in Lua",
+      "url": "https://uji.sh/ito/",
+      "desc": "My friend and I are huge Neovim nerds. We like to rice our terminals and our editors. We just wanted a harness that we can do the same with, rice it till our hearts&#x27; desire. So, we started lookin",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792017641,
-      "score": 5,
-      "category": "tools",
+      "ts": 1792016633,
+      "score": 16,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,20 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792009854,
-      "score": 279,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792002772,
-      "score": 322,
+      "score": 367,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792002194,
-      "score": 125,
-      "category": "tools",
+      "score": 162,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791999923,
-      "score": 848,
+      "score": 891,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791997259,
-      "score": 93,
-      "category": "industry",
+      "score": 100,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791996762,
-      "score": 91,
+      "score": 121,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+      "desc": "Author here. Does anyone know what to do with the rest of the drivers? I found at least 13 in-tree drivers with the same bug class. The nasty part is they work fine on x86 and silently corrupt data on",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791894608,
+      "score": 48,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,21 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791870841,
-      "score": 42,
-      "category": "llm",
+      "score": 72,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "How I manage persistent Claude Code loops: Spool",
-      "url": "https://github.com/enes-alatas/spool",
-      "desc": "",
+      "title": "Show HN: Indigene – Native plants for where you stand",
+      "url": "https://indigene.app/",
+      "desc": "Back when I lived in Central Florida, it took me years to learn what native plants could benefit wildlife and the local ecosystem as I slowly replaced parts of my yard to make it more resilient to dro",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791755414,
+      "ts": 1791847520,
       "score": 13,
-      "category": "llm",
+      "category": "tools",
       "tags": [
         "国际"
       ]
