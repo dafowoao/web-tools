@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-14 22:59 UTC",
-  "count": 9,
+  "updated": "2026-10-15 03:25 UTC",
+  "count": 10,
   "items": [
+    {
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792022377,
+      "score": 96,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Ask a technical question, get an animated explainer you can interrupt",
+      "url": "https://openlume.com/examples/3f65f6ce-87bf-4c81-a34b-3a1ec82f0ed1",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792017641,
+      "score": 5,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Anthropic's Scion is heavily inspired by Mononoke",
       "url": "https://sunshowers.io/posts/anthropic-mononoke/",
@@ -9,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792009854,
-      "score": 193,
+      "score": 279,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792002772,
-      "score": 234,
-      "category": "tools",
+      "score": 322,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792002194,
-      "score": 94,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Neckbeard – A DevOps/platform/SRE plugin for your agent",
-      "url": "https://github.com/bealesh/neckbeard",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791999934,
-      "score": 57,
-      "category": "industry",
+      "score": 125,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791999923,
-      "score": 795,
-      "category": "industry",
+      "score": 848,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791997259,
-      "score": 59,
+      "score": 93,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,33 +100,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791996762,
-      "score": 61,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
-      "url": "https://github.com/graphicle-ai/graphicle",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791990041,
-      "score": 40,
+      "score": 91,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "TV4 postpones show after AI agent erases edited material",
-      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "title": "Ask HN: CAD for wood working with LLM support?",
+      "url": "https://news.ycombinator.com/item?id=50067325",
+      "desc": "I’m a hobbyist woodworker. I manually design simple things in Shapr3d with a lot of patience when I build things. I wonder in the time of LLMs if there is an effective way to accelerate the 3D model d",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791870841,
+      "score": 42,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How I manage persistent Claude Code loops: Spool",
+      "url": "https://github.com/enes-alatas/spool",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791973706,
-      "score": 138,
+      "ts": 1791755414,
+      "score": 13,
       "category": "llm",
       "tags": [
         "国际"
