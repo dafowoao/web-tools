@@ -1,28 +1,54 @@
 {
-  "updated": "2026-10-15 08:54 UTC",
-  "count": 12,
+  "updated": "2026-10-15 16:23 UTC",
+  "count": 9,
   "items": [
     {
-      "title": "AI was great until it was not",
-      "url": "https://thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not",
+      "title": "Market selloff, rising rates test AI data centre deal boom",
+      "url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792052318,
-      "score": 7,
+      "ts": 1792081060,
+      "score": 4,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "ChatGPT Ads Target Your Phone Number, Email",
+      "url": "https://www.404media.co/chatgpt-ads-target-your-phone-number-email/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792079621,
+      "score": 9,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-      "url": "https://github.com/awslabs/aidlc-workflows",
+      "title": "Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era",
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792048839,
-      "score": 5,
+      "ts": 1792076328,
+      "score": 87,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Using AI to reverse engineer hardware",
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792074915,
+      "score": 42,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792022377,
-      "score": 202,
-      "category": "llm",
+      "score": 268,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,72 +74,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792016633,
-      "score": 16,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Anthropic's Scion is heavily inspired by Mononoke",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792009854,
-      "score": 367,
+      "score": 61,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-      "url": "https://petal.live/",
-      "desc": "Hi HN!I’m Jason Thomas, one of the founders of CoScreen.As some of you may know, Datadog sunset the CoScreen service on July 31st.Four of us from the original CoScreen team have spent the last couple ",
+      "title": "Show HN: A 3D Configurator for Macropads",
+      "url": "https://npad.ngrok.dev",
+      "desc": "My company (disclaimer: ngrok) distributed macropads for a hackathon, so I built a custom 3D configurator for them. Should work with any Aurora macropod from momokai.",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792002194,
-      "score": 162,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791999923,
-      "score": 891,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
-      "url": "https://clova.email/",
-      "desc": "Infinite inboxes, including prefixes where you don&#x27;t have to create inboxes before you use them -- they self create when you add a suffix.Three types of inboxes:\n- One sender. Locks to the first ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791997259,
-      "score": 100,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Has AI tells",
-      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791996762,
-      "score": 121,
+      "ts": 1791902283,
+      "score": 4,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791894608,
-      "score": 48,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: CAD for wood working with LLM support?",
-      "url": "https://news.ycombinator.com/item?id=50067325",
-      "desc": "I’m a hobbyist woodworker. I manually design simple things in Shapr3d with a lot of patience when I build things. I wonder in the time of LLMs if there is an effective way to accelerate the 3D model d",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791870841,
-      "score": 72,
-      "category": "tools",
+      "score": 259,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791847520,
-      "score": 13,
-      "category": "tools",
+      "score": 93,
+      "category": "industry",
       "tags": [
         "国际"
       ]
