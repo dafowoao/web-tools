@@ -1,42 +1,68 @@
 {
-  "updated": "2026-10-16 08:46 UTC",
-  "count": 7,
+  "updated": "2026-10-16 16:09 UTC",
+  "count": 9,
   "items": [
     {
-      "title": "Self-Evolving Agent Harness",
-      "url": "https://arxiv.org/abs/2610.18813",
+      "title": "America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program",
+      "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792126650,
-      "score": 7,
+      "ts": 1792166185,
+      "score": 5,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: rStation – A shared research lab for your AI agents",
+      "url": "https://rstation.ai/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792161343,
+      "score": 9,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
-      "url": "https://github.com/johnrash/bebox",
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "url": "https://starskirmish.com/bench/v0-2/",
+      "desc": "I&#x27;ve refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792160324,
+      "score": 50,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How to make System 1 LLMs show System 2 competencies?",
+      "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792106573,
-      "score": 58,
+      "ts": 1792160194,
+      "score": 9,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "E Ink Kaleido 4",
-      "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
-      "desc": "https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20261015180401&#x2F;https:&#x2F;&#x2F;www.eink....",
+      "title": "Show HN: Anima, interactive biology models from plain English (open source)",
+      "url": "https://anima.arcumet.com",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792089496,
-      "score": 168,
-      "category": "industry",
+      "ts": 1792158113,
+      "score": 4,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,47 +74,47 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792086459,
-      "score": 794,
+      "score": 887,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Neural networks are clean",
-      "url": "https://already-clean.goodfire.com/",
-      "desc": "https:&#x2F;&#x2F;twitter.com&#x2F;nickcammarata&#x2F;status&#x2F;2110757819427574056",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792080241,
-      "score": 670,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Using AI to reverse engineer hardware",
-      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "title": "AI-assisted PCB design for KiCad 10",
+      "url": "https://github.com/mixelpixx/Konnect",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792074915,
-      "score": 184,
+      "ts": 1791975097,
+      "score": 87,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The 8-mile hole in a Hawaii national park that no one can explain",
-      "url": "https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php",
+      "title": "MS Paint Adds Freeform Rotation (2026)",
+      "url": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1791954489,
-      "score": 70,
-      "category": "industry",
+      "ts": 1791953740,
+      "score": 30,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1791908763,
+      "score": 19,
+      "category": "tools",
       "tags": [
         "国际"
       ]
