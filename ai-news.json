@@ -1,28 +1,106 @@
 {
-  "updated": "2026-10-16 16:09 UTC",
-  "count": 9,
+  "updated": "2026-10-16 22:34 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program",
-      "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792166185,
-      "score": 5,
+      "ts": 1792177487,
+      "score": 161,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792177277,
+      "score": 62,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "desc": "https:&#x2F;&#x2F;words.filippo.io&#x2F;seeds-solved&#x2F;",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792176959,
+      "score": 516,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: rStation – A shared research lab for your AI agents",
-      "url": "https://rstation.ai/",
+      "title": "Show HN: Stoke Money – Personal finance app built around a cash flow forecast",
+      "url": "https://stoke.money",
+      "desc": "Hi HN,I&#x27;ve been through many finance tracking apps, starting with Personal Capital, then Monarch, and most recently Copilot. None of them have worked perfectly for my needs.All of these apps tend",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792176887,
+      "score": 20,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792161343,
-      "score": 9,
+      "ts": 1792175555,
+      "score": 136,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Anthropic assigned highest junk credit rating in June",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "desc": "https:&#x2F;&#x2F;finance.yahoo.com&#x2F;technology&#x2F;ai&#x2F;articles&#x2F;anthropic-s...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792174302,
+      "score": 172,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792173618,
+      "score": 75,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792170518,
+      "score": 339,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792160324,
-      "score": 50,
-      "category": "industry",
+      "score": 174,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,60 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792160194,
-      "score": 9,
+      "score": 47,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Anima, interactive biology models from plain English (open source)",
-      "url": "https://anima.arcumet.com",
-      "desc": "",
+      "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
+      "url": "https://wonderhop.io/en/",
+      "desc": "Hello HN!Wonderhop is a small browser game with no account needed to play, everyday there are 4 rounds of 7 quesitons like &quot;Name a food that a lot of people hate&quot;\nThe goal depends on the mod",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792158113,
-      "score": 4,
+      "ts": 1791933004,
+      "score": 46,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Muse Spark Open",
-      "url": "https://research.meta.ai/blog/muse-spark-open",
-      "desc": "https:&#x2F;&#x2F;dev.meta.ai&#x2F;resources&#x2F;blog&#x2F;build-with-muse-spark-ope...https:&#x2F;&#x2F;huggingface.co&#x2F;meta-models&#x2F;Muse-Spark-Open-816B-A42Bhttps:&#x2F;&#x2F;9to5mac.com&#x",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792086459,
-      "score": 887,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI-assisted PCB design for KiCad 10",
-      "url": "https://github.com/mixelpixx/Konnect",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791975097,
-      "score": 87,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "MS Paint Adds Freeform Rotation (2026)",
-      "url": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791953740,
-      "score": 30,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791908763,
-      "score": 19,
-      "category": "tools",
+      "score": 92,
+      "category": "industry",
       "tags": [
         "国际"
       ]
