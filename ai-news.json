@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-16 03:21 UTC",
-  "count": 8,
+  "updated": "2026-10-16 08:46 UTC",
+  "count": 7,
   "items": [
     {
-      "title": "Turn your regular JavaScript code into a neural net",
-      "url": "https://chenglou.me/handwired/",
+      "title": "Self-Evolving Agent Harness",
+      "url": "https://arxiv.org/abs/2610.18813",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792112658,
+      "ts": 1792126650,
       "score": 7,
       "category": "llm",
       "tags": [
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792106573,
-      "score": 33,
-      "category": "llm",
+      "score": 58,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792089496,
-      "score": 142,
-      "category": "llm",
+      "score": 168,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792086459,
-      "score": 660,
+      "score": 794,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792080241,
-      "score": 540,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792076328,
-      "score": 232,
-      "category": "llm",
+      "score": 670,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792074915,
-      "score": 130,
-      "category": "industry",
+      "score": 184,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791954489,
-      "score": 59,
+      "score": 70,
       "category": "industry",
       "tags": [
         "国际"
