@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-15 22:54 UTC",
-  "count": 10,
+  "updated": "2026-10-16 03:21 UTC",
+  "count": 8,
   "items": [
+    {
+      "title": "Turn your regular JavaScript code into a neural net",
+      "url": "https://chenglou.me/handwired/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792112658,
+      "score": 7,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+      "url": "https://github.com/johnrash/bebox",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792106573,
+      "score": 33,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "E Ink Kaleido 4",
       "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
@@ -9,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792089496,
-      "score": 103,
-      "category": "industry",
+      "score": 142,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,34 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792086459,
-      "score": 539,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "More on Anthropic's Scion ripping off Mononoke",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
-      "desc": "Redesigning source control at Anthropic - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50073633 (996 comments)Anthropic&#x27;s Scion is heavily inspired by Mononoke - https:&#x2F;&#x2F;news.yco",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792083919,
-      "score": 214,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Frontier Pre-Training at Microsoft AI",
-      "url": "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792080733,
-      "score": 30,
-      "category": "llm",
+      "score": 660,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792080241,
-      "score": 437,
+      "score": 540,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792076328,
-      "score": 213,
-      "category": "tools",
+      "score": 232,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792074915,
-      "score": 75,
+      "score": 130,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: My Terminal Themes Web App",
-      "url": "https://news.ycombinator.com/item?id=50098454",
-      "desc": "Well, after 15 years of saying &quot;Someday I&#x27;ll turn this into a web app,&quot; I finally did it!I&#x27;ve been maintaining a popular repo of terminal themes at https:&#x2F;&#x2F;github.com&#x2",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792031622,
-      "score": 27,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791954489,
-      "score": 19,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
-      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
-      "desc": "Author here. Does anyone know what to do with the rest of the drivers? I found at least 13 in-tree drivers with the same bug class. The nasty part is they work fine on x86 and silently corrupt data on",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791894608,
-      "score": 336,
-      "category": "tools",
+      "score": 59,
+      "category": "industry",
       "tags": [
         "国际"
       ]
