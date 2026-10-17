@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-17 03:12 UTC",
-  "count": 11,
+  "updated": "2026-10-17 08:16 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "Why Math Dumped OpenAI",
+      "url": "https://raymyers.org/post/math-dumped-openai/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792217984,
+      "score": 6,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792211813,
+      "score": 47,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
+      "url": "https://fakeipedia.org",
+      "desc": "Hi HN!Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links.I came up with this idea a few months",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792194724,
+      "score": 25,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Nine-Inch Snails",
       "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
@@ -9,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792189265,
-      "score": 35,
+      "score": 58,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792177487,
-      "score": 256,
+      "score": 329,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792177277,
-      "score": 172,
+      "score": 272,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792176959,
-      "score": 725,
+      "score": 847,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792175555,
-      "score": 220,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Anthropic assigned highest junk credit rating in June",
-      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-      "desc": "https:&#x2F;&#x2F;finance.yahoo.com&#x2F;technology&#x2F;ai&#x2F;articles&#x2F;anthropic-s...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792174302,
-      "score": 223,
-      "category": "llm",
+      "score": 278,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792173618,
-      "score": 107,
+      "score": 135,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792170518,
-      "score": 420,
-      "category": "industry",
+      "score": 488,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792160324,
-      "score": 194,
-      "category": "llm",
+      "score": 216,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791933004,
-      "score": 71,
-      "category": "tools",
+      "score": 91,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791908763,
-      "score": 107,
-      "category": "industry",
+      "score": 123,
+      "category": "tools",
       "tags": [
         "国际"
       ]
