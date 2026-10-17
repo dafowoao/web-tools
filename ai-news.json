@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-17 18:11 UTC",
-  "count": 10,
+  "updated": "2026-10-17 21:58 UTC",
+  "count": 9,
   "items": [
     {
-      "title": "OpenAI discloses four more rogue incidents",
-      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+      "title": "The math that OpenAI keeps for itself",
+      "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792254672,
-      "score": 61,
-      "category": "industry",
+      "ts": 1792264972,
+      "score": 5,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Amazon uses AI to monitor union risk in UK warehouses",
-      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+      "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792253063,
-      "score": 93,
-      "category": "tools",
+      "ts": 1792262707,
+      "score": 34,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792252509,
-      "score": 9,
-      "category": "tools",
+      "score": 129,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792225285,
-      "score": 470,
+      "score": 609,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,7 +61,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792211813,
-      "score": 204,
+      "score": 226,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Things to Do API",
+      "url": "https://thingstodoapi.com/",
+      "desc": "I built an api&#x2F;mcp for local events: pop-ups, one-off events, concerts, etc. currently covering the SF bay area.I&#x27;ve been building a bunch of consumer apps lately around personalization and ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792195114,
+      "score": 26,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792177277,
-      "score": 425,
+      "score": 462,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "desc": "https:&#x2F;&#x2F;words.filippo.io&#x2F;seeds-solved&#x2F;",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792176959,
-      "score": 989,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792175555,
-      "score": 352,
+      "score": 365,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Designing more efficient quantum circuits with Claude",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792173618,
-      "score": 165,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791992971,
-      "score": 105,
-      "category": "llm",
+      "score": 121,
+      "category": "industry",
       "tags": [
         "国际"
       ]
