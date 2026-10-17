@@ -1,20 +1,7 @@
 {
-  "updated": "2026-10-17 08:16 UTC",
-  "count": 13,
+  "updated": "2026-10-17 15:02 UTC",
+  "count": 11,
   "items": [
-    {
-      "title": "Why Math Dumped OpenAI",
-      "url": "https://raymyers.org/post/math-dumped-openai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792217984,
-      "score": 6,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/",
@@ -22,21 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792211813,
-      "score": 47,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Fakeipedia – Wikipedia for worlds that don't exist",
-      "url": "https://fakeipedia.org",
-      "desc": "Hi HN!Fakeipedia is an automatic world-building platform which takes an imagined world and makes a whole wiki that you can endlessly explore by clicking red links.I came up with this idea a few months",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792194724,
-      "score": 25,
-      "category": "tools",
+      "score": 166,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792189265,
-      "score": 58,
+      "score": 97,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792177487,
-      "score": 329,
+      "score": 415,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792177277,
-      "score": 272,
+      "score": 379,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792176959,
-      "score": 847,
-      "category": "industry",
+      "score": 949,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792175555,
-      "score": 278,
-      "category": "tools",
+      "score": 328,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792173618,
-      "score": 135,
+      "score": 158,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792170518,
-      "score": 488,
-      "category": "tools",
+      "score": 554,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792160324,
-      "score": 216,
-      "category": "industry",
+      "score": 232,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791933004,
-      "score": 91,
-      "category": "llm",
+      "score": 102,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -165,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791908763,
-      "score": 123,
+      "score": 133,
       "category": "tools",
       "tags": [
         "国际"
