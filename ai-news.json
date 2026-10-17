@@ -1,7 +1,59 @@
 {
-  "updated": "2026-10-17 15:02 UTC",
-  "count": 11,
+  "updated": "2026-10-17 18:11 UTC",
+  "count": 10,
   "items": [
+    {
+      "title": "OpenAI discloses four more rogue incidents",
+      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792254672,
+      "score": 61,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Amazon uses AI to monitor union risk in UK warehouses",
+      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792253063,
+      "score": 93,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792252509,
+      "score": 9,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "desc": "https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;news&#x2F;news261017&#x2F;https:&#x2F;&#x2F;openrouter.ai&#x2F;deepseek&#x2F;deepseek-v4.1-flash-1017",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792225285,
+      "score": 470,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/",
@@ -9,34 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792211813,
-      "score": 166,
+      "score": 204,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Nine-Inch Snails",
-      "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792189265,
-      "score": 97,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How the Claude Code team does code review",
-      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792177487,
-      "score": 415,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -44,11 +70,11 @@
     {
       "title": "You could have invented transformers from memory",
       "url": "https://alexwang.ai/posts/associative-memory/",
-      "desc": "",
+      "desc": "https:&#x2F;&#x2F;twitter.com&#x2F;heyyalexwang&#x2F;status&#x2F;2111158818730397932",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792177277,
-      "score": 379,
+      "score": 425,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792176959,
-      "score": 949,
-      "category": "llm",
+      "score": 989,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792175555,
-      "score": 328,
+      "score": 352,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,60 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792173618,
-      "score": 158,
+      "score": 165,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "desc": "",
+      "title": "Tell HN: Remember to migrate away from .name domain",
+      "url": "https://news.ycombinator.com/item?id=50089577",
+      "desc": "If you have a third.level.name domain, it&#x27;ll get permanently expunged next year. Have you successfully taken steps to migrate away? Did you move to a standard .com domain, or are you taking your ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792170518,
-      "score": 554,
+      "ts": 1791992971,
+      "score": 105,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "url": "https://starskirmish.com/bench/v0-2/",
-      "desc": "I&#x27;ve refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792160324,
-      "score": 232,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
-      "url": "https://wonderhop.io/en/",
-      "desc": "Hello HN!Wonderhop is a small browser game with no account needed to play, everyday there are 4 rounds of 7 quesitons like &quot;Name a food that a lot of people hate&quot;\nThe goal depends on the mod",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791933004,
-      "score": 102,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791908763,
-      "score": 133,
-      "category": "tools",
       "tags": [
         "国际"
       ]
