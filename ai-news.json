@@ -1,28 +1,15 @@
 {
-  "updated": "2026-10-18 03:15 UTC",
-  "count": 8,
+  "updated": "2026-10-18 08:35 UTC",
+  "count": 5,
   "items": [
     {
-      "title": "The math that OpenAI keeps for itself",
-      "url": "https://newsletter.danielpaleka.com/p/the-math-that-openai-keeps-for-itself",
-      "desc": "",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "desc": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it&#x27;ll throw up a questionnaire that checks if you understand how the code you&#x27;re pushing wor",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792264972,
-      "score": 19,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Microsoft and CMU team up to train early career software engineers",
-      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792262707,
-      "score": 61,
+      "ts": 1792298029,
+      "score": 102,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792252509,
-      "score": 280,
+      "score": 409,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792225285,
-      "score": 734,
+      "score": 844,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,20 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792211813,
-      "score": 259,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Things to Do API",
-      "url": "https://thingstodoapi.com/",
-      "desc": "I built an api&#x2F;mcp for local events: pop-ups, one-off events, concerts, etc. currently covering the SF bay area.I&#x27;ve been building a bunch of consumer apps lately around personalization and ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792195114,
-      "score": 38,
+      "score": 286,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792177277,
-      "score": 512,
+      "score": 554,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Tell HN: Remember to migrate away from .name domain",
-      "url": "https://news.ycombinator.com/item?id=50089577",
-      "desc": "If you have a third.level.name domain, it&#x27;ll get permanently expunged next year. Have you successfully taken steps to migrate away? Did you move to a standard .com domain, or are you taking your ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1791992971,
-      "score": 137,
-      "category": "industry",
       "tags": [
         "国际"
       ]
