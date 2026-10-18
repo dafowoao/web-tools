@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17 21:58 UTC",
-  "count": 9,
+  "updated": "2026-10-18 03:15 UTC",
+  "count": 8,
   "items": [
     {
       "title": "The math that OpenAI keeps for itself",
@@ -9,20 +9,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792264972,
-      "score": 5,
+      "score": 19,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+      "title": "Microsoft and CMU team up to train early career software engineers",
       "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792262707,
-      "score": 34,
+      "score": 61,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792252509,
-      "score": 129,
-      "category": "industry",
+      "score": 280,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792225285,
-      "score": 609,
-      "category": "tools",
+      "score": 734,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792211813,
-      "score": 226,
-      "category": "industry",
+      "score": 259,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792195114,
-      "score": 26,
-      "category": "llm",
+      "score": 38,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,20 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792177277,
-      "score": 462,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792175555,
-      "score": 365,
+      "score": 512,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1791992971,
-      "score": 121,
+      "score": 137,
       "category": "industry",
       "tags": [
         "国际"
