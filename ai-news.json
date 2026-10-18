@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-18 15:26 UTC",
-  "count": 12,
+  "updated": "2026-10-18 18:27 UTC",
+  "count": 10,
   "items": [
+    {
+      "title": "Namecheap just seized and disabled all my domains",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792342616,
+      "score": 53,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Websites are closing their doors to AI agents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
@@ -9,21 +22,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792335490,
-      "score": 23,
-      "category": "industry",
+      "score": 121,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "title": "Hyper Optimizing Kimi K3 in vLLM",
+      "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792333827,
-      "score": 45,
-      "category": "tools",
+      "ts": 1792328930,
+      "score": 10,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792328814,
-      "score": 34,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: CallSitter – bot that answers my calls and wastes scammers' time",
-      "url": "https://github.com/szerintedmi/callsitter",
-      "desc": "Anyone else get a lot of dumb scam calls?These days I mostly get them on my mobile. I used to just ignore them, but then I got fed up and built a bot that answers my calls and wastes their time.It run",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792326293,
-      "score": 5,
-      "category": "industry",
+      "score": 101,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792326178,
-      "score": 3,
-      "category": "llm",
+      "score": 63,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792322137,
-      "score": 16,
+      "score": 46,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792298029,
-      "score": 200,
-      "category": "llm",
+      "score": 218,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792252509,
-      "score": 513,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "desc": "https:&#x2F;&#x2F;api-docs.deepseek.com&#x2F;news&#x2F;news261017&#x2F;https:&#x2F;&#x2F;openrouter.ai&#x2F;deepseek&#x2F;deepseek-v4.1-flash-1017",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792225285,
-      "score": 914,
+      "score": 549,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792177277,
-      "score": 603,
+      "score": 614,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792065998,
-      "score": 17,
+      "score": 27,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Lorenz and Little: How Much Does Your Tail Cost?",
-      "url": "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792031977,
-      "score": 19,
-      "category": "llm",
       "tags": [
         "国际"
       ]
