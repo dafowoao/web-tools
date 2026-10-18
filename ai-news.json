@@ -1,7 +1,85 @@
 {
-  "updated": "2026-10-18 08:35 UTC",
-  "count": 5,
+  "updated": "2026-10-18 15:26 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792335490,
+      "score": 23,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792333827,
+      "score": 45,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+      "url": "https://legendofhyrule.com/",
+      "desc": "I made this ahead of the Ocarina of Time remake which comes out in 17 days. I remember the feeling of playing it as a kid but I hadn’t kept up with the story so I built a timeline to catch up before t",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792328814,
+      "score": 34,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: CallSitter – bot that answers my calls and wastes scammers' time",
+      "url": "https://github.com/szerintedmi/callsitter",
+      "desc": "Anyone else get a lot of dumb scam calls?These days I mostly get them on my mobile. I used to just ignore them, but then I got fed up and built a bot that answers my calls and wastes their time.It run",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792326293,
+      "score": 5,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+      "url": "https://www.vals.ai/blogs/impossible-refund",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792326178,
+      "score": 3,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Brain Sandwich",
+      "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792322137,
+      "score": 16,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
       "url": "https://sphinx-six-theta.vercel.app/",
@@ -9,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792298029,
-      "score": 102,
-      "category": "industry",
+      "score": 200,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792252509,
-      "score": 409,
-      "category": "llm",
+      "score": 513,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792225285,
-      "score": 844,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792211813,
-      "score": 286,
+      "score": 914,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,7 +126,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792177277,
-      "score": 554,
+      "score": 603,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
+      "url": "https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792065998,
+      "score": 17,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Lorenz and Little: How Much Does Your Tail Cost?",
+      "url": "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792031977,
+      "score": 19,
       "category": "llm",
       "tags": [
         "国际"
