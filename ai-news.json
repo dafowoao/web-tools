@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-18 18:27 UTC",
-  "count": 10,
+  "updated": "2026-10-18 22:14 UTC",
+  "count": 6,
   "items": [
+    {
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "desc": "https:&#x2F;&#x2F;x.com&#x2F;Jiaru_Zou&#x2F;status&#x2F;2110400256647340476https:&#x2F;&#x2F;github.com&#x2F;togethercomputer&#x2F;HybridAgenthttps:&#x2F;&#x2F;huggingface.co&#x2F;collections&#x2F;tog",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792356494,
+      "score": 75,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Namecheap just seized and disabled all my domains",
       "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
@@ -9,34 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792342616,
-      "score": 53,
+      "score": 316,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Websites are closing their doors to AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792335490,
-      "score": 121,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Hyper Optimizing Kimi K3 in vLLM",
-      "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792328930,
-      "score": 10,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,20 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792328814,
-      "score": 101,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
-      "url": "https://www.vals.ai/blogs/impossible-refund",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792326178,
-      "score": 63,
+      "score": 149,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792322137,
-      "score": 46,
-      "category": "tools",
+      "score": 66,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,47 +61,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792298029,
-      "score": 218,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Pele – Mermaid diagrams as themeable SVG",
-      "url": "https://pele.run/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792252509,
-      "score": 549,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "You could have invented transformers from memory",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "desc": "https:&#x2F;&#x2F;twitter.com&#x2F;heyyalexwang&#x2F;status&#x2F;2111158818730397932",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792177277,
-      "score": 614,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
-      "url": "https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792065998,
-      "score": 27,
+      "score": 236,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "I built a programming language that LLMs can't use",
+      "url": "https://blog.picheta.me/post/killswitch-lang/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792276007,
+      "score": 27,
+      "category": "llm",
       "tags": [
         "国际"
       ]
