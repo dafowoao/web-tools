@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-18 22:14 UTC",
-  "count": 6,
+  "updated": "2026-10-19 03:28 UTC",
+  "count": 7,
   "items": [
+    {
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "desc": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.I wanted to run it for free",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792359370,
+      "score": 53,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792357752,
+      "score": 65,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
       "url": "https://arxiv.org/abs/2610.18861",
@@ -9,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792356494,
-      "score": 75,
+      "score": 257,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792342616,
-      "score": 316,
+      "score": 469,
       "category": "tools",
       "tags": [
         "国际"
@@ -35,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792328814,
-      "score": 149,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Brain Sandwich",
-      "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792322137,
-      "score": 66,
-      "category": "industry",
+      "score": 171,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792298029,
-      "score": 236,
-      "category": "industry",
+      "score": 242,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792276007,
-      "score": 27,
-      "category": "llm",
+      "score": 104,
+      "category": "tools",
       "tags": [
         "国际"
       ]
