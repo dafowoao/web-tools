@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-19 03:28 UTC",
-  "count": 7,
+  "updated": "2026-10-19 09:37 UTC",
+  "count": 9,
   "items": [
+    {
+      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792389331,
+      "score": 23,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Verisign .com Domain Name Registry Consumer Class Action",
+      "url": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792384818,
+      "score": 96,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: WhatsApp MCP running free on Cloudflare",
       "url": "https://github.com/finereli/whatsapp-mcp",
@@ -9,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792359370,
-      "score": 53,
-      "category": "tools",
+      "score": 108,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792357752,
-      "score": 65,
+      "score": 163,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792356494,
-      "score": 257,
+      "score": 388,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792342616,
-      "score": 469,
-      "category": "tools",
+      "score": 572,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792328814,
-      "score": 171,
+      "score": 181,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-      "url": "https://sphinx-six-theta.vercel.app/",
-      "desc": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it&#x27;ll throw up a questionnaire that checks if you understand how the code you&#x27;re pushing wor",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792298029,
-      "score": 242,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +100,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792276007,
-      "score": 104,
-      "category": "tools",
+      "score": 186,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How to Train Your Robot",
+      "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792077201,
+      "score": 23,
+      "category": "industry",
       "tags": [
         "国际"
       ]
