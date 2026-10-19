@@ -1,20 +1,7 @@
 {
-  "updated": "2026-10-19 18:23 UTC",
-  "count": 17,
+  "updated": "2026-10-19 23:20 UTC",
+  "count": 15,
   "items": [
-    {
-      "title": "Show HN: Open-source early-reading reader with phonics help",
-      "url": "https://github.com/finereli/yarareads",
-      "desc": "My kid is 6 y&#x2F;o and she is learning to read. She&#x27;s moved through the basic phonics with Teach Your Monster to Read but was struggling with how repetitive it was. I wanted to give her some st",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792432734,
-      "score": 4,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
     {
       "title": "Mercury 3: Diffusion at scale",
       "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
@@ -22,47 +9,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792430831,
-      "score": 90,
+      "score": 207,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Ukraine carries out first ever aerial drone evacuation of a wounded soldier",
-      "url": "https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792430798,
-      "score": 33,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures",
+      "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
       "url": "https://news.ycombinator.com/item?id=50154029",
       "desc": "Hi HN, we’re Robert and Din from Laminar (https:&#x2F;&#x2F;laminar.sh). We’ve been building open-source observability for AI agents since 2024. Recently, we released flow-1, a model trained with RL t",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792425618,
-      "score": 24,
+      "score": 44,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
-      "url": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
+      "title": "Ukraine claims first drone evacuation of wounded soldier",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792425146,
-      "score": 131,
-      "category": "tools",
+      "ts": 1792423894,
+      "score": 41,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,33 +48,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792423704,
-      "score": 211,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792419797,
-      "score": 59,
+      "score": 303,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
-      "url": "https://github.com/kividbio/kividb",
-      "desc": "Hi all,So I have been working on this project KiviDB from February 2026. It started as a project for me to understand rust, having a product with no GC pauses, memory blow up after snapshots and getti",
+      "title": "Agentic Monitoring",
+      "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792418032,
-      "score": 55,
+      "ts": 1792421524,
+      "score": 17,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Cairn: Open windows into AI-driven cyber operations",
+      "url": "https://norforge.com/blog/inside_cairn",
+      "desc": "https:&#x2F;&#x2F;www.reuters.com&#x2F;legal&#x2F;government&#x2F;how-one-hacker-used...https:&#x2F;&#x2F;www.theverge.com&#x2F;ai-artificial-intelligence&#x2F;1013643&#x2F;...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792416912,
+      "score": 26,
       "category": "industry",
       "tags": [
         "国际"
@@ -109,25 +83,12 @@
     {
       "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
       "url": "https://3anddoneapp.com/try",
-      "desc": "I&#x27;m a software engineer from the east coast (who has lived in Boston, NY, the\nbay area, UK, France), and I built a task system called 3 &amp; Done.  It&#x27;s the\nplace you trust to store everyth",
+      "desc": "I&#x27;m a software engineer from the east coast (who has lived in Boston, NY, the bay area, UK, France), and I built a task system called 3 &amp; Done.  It&#x27;s the place you trust to store everyth",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792415227,
-      "score": 22,
+      "score": 43,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-      "url": "https://100toolkit.com/blog/deslop-model/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792414847,
-      "score": 134,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,7 +100,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792411563,
-      "score": 22,
+      "score": 126,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+      "url": "https://news.ycombinator.com/item?id=50151036",
+      "desc": "I saw this LinkedIn post from a Meta engineer and it resonated with me:https:&#x2F;&#x2F;www.linkedin.com&#x2F;posts&#x2F;ali-hamie_im-an-engineer-at-m...&gt; I&#x27;m an engineer at Meta and I never ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792409074,
+      "score": 209,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792407219,
-      "score": 187,
-      "category": "llm",
+      "score": 237,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -165,47 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792403972,
-      "score": 409,
-      "category": "llm",
+      "score": 523,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-      "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+      "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
+      "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792389331,
-      "score": 135,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792357752,
-      "score": 283,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861",
-      "desc": "https:&#x2F;&#x2F;x.com&#x2F;Jiaru_Zou&#x2F;status&#x2F;2110400256647340476https:&#x2F;&#x2F;github.com&#x2F;togethercomputer&#x2F;HybridAgenthttps:&#x2F;&#x2F;huggingface.co&#x2F;collections&#x2F;tog",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792356494,
-      "score": 497,
-      "category": "tools",
+      "ts": 1792374999,
+      "score": 92,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -217,7 +165,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792279445,
-      "score": 39,
+      "score": 131,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The fire retardant in the seafood chain",
+      "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792265874,
+      "score": 93,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Coconuts in Medieval Britain (2015)",
+      "url": "https://www.themarysue.com/monty-python-holy-grail-coconuts/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792139334,
+      "score": 26,
       "category": "tools",
       "tags": [
         "国际"
