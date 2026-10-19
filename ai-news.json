@@ -1,7 +1,176 @@
 {
-  "updated": "2026-10-19 09:37 UTC",
-  "count": 9,
+  "updated": "2026-10-19 18:23 UTC",
+  "count": 17,
   "items": [
+    {
+      "title": "Show HN: Open-source early-reading reader with phonics help",
+      "url": "https://github.com/finereli/yarareads",
+      "desc": "My kid is 6 y&#x2F;o and she is learning to read. She&#x27;s moved through the basic phonics with Teach Your Monster to Read but was struggling with how repetitive it was. I wanted to give her some st",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792432734,
+      "score": 4,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Mercury 3: Diffusion at scale",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792430831,
+      "score": 90,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ukraine carries out first ever aerial drone evacuation of a wounded soldier",
+      "url": "https://www.dailymail.com/news/article-16220441/Ukraine-carries-aerial-drone-evacuation-wounded-soldier-frontline.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792430798,
+      "score": 33,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures",
+      "url": "https://news.ycombinator.com/item?id=50154029",
+      "desc": "Hi HN, we’re Robert and Din from Laminar (https:&#x2F;&#x2F;laminar.sh). We’ve been building open-source observability for AI agents since 2024. Recently, we released flow-1, a model trained with RL t",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792425618,
+      "score": 24,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
+      "url": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792425146,
+      "score": 131,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792423704,
+      "score": 211,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792419797,
+      "score": 59,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+      "url": "https://github.com/kividbio/kividb",
+      "desc": "Hi all,So I have been working on this project KiviDB from February 2026. It started as a project for me to understand rust, having a product with no GC pauses, memory blow up after snapshots and getti",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792418032,
+      "score": 55,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
+      "url": "https://3anddoneapp.com/try",
+      "desc": "I&#x27;m a software engineer from the east coast (who has lived in Boston, NY, the\nbay area, UK, France), and I built a task system called 3 &amp; Done.  It&#x27;s the\nplace you trust to store everyth",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792415227,
+      "score": 22,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+      "url": "https://100toolkit.com/blog/deslop-model/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792414847,
+      "score": 134,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The obscure trust looming over Anthropic's IPO",
+      "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792411563,
+      "score": 22,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792407219,
+      "score": 187,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Timestral: Mistral's time-series foundation models",
+      "url": "https://mistral.ai/news/timestral/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792403972,
+      "score": 409,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
       "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
@@ -9,34 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792389331,
-      "score": 23,
+      "score": 135,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Verisign .com Domain Name Registry Consumer Class Action",
-      "url": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792384818,
-      "score": 96,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-      "url": "https://github.com/finereli/whatsapp-mcp",
-      "desc": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.I wanted to run it for free",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792359370,
-      "score": 108,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +191,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792357752,
-      "score": 163,
-      "category": "industry",
+      "score": 283,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,60 +204,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792356494,
-      "score": 388,
+      "score": 497,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Namecheap just seized and disabled all my domains",
-      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-      "desc": "",
+      "title": "RuneScape Bench: MMOs for Agents [video]",
+      "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+      "desc": "Related: https:&#x2F;&#x2F;github.com&#x2F;LostCityRS&#x2F;Server",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792342616,
-      "score": 572,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-      "url": "https://legendofhyrule.com/",
-      "desc": "I made this ahead of the Ocarina of Time remake which comes out in 17 days. I remember the feeling of playing it as a kid but I hadn’t kept up with the story so I built a timeline to catch up before t",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792328814,
-      "score": 181,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I built a programming language that LLMs can't use",
-      "url": "https://blog.picheta.me/post/killswitch-lang/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792276007,
-      "score": 186,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How to Train Your Robot",
-      "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792077201,
-      "score": 23,
-      "category": "industry",
+      "ts": 1792279445,
+      "score": 39,
+      "category": "tools",
       "tags": [
         "国际"
       ]
