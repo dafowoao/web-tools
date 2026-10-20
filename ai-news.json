@@ -1,16 +1,55 @@
 {
-  "updated": "2026-10-19 23:20 UTC",
-  "count": 15,
+  "updated": "2026-10-20 03:37 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Mercury 3: Diffusion at scale",
-      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+      "url": "https://github.com/golang/go/issues/82345",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792430831,
-      "score": 207,
-      "category": "tools",
+      "ts": 1792465507,
+      "score": 5,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Lights-on software factory boilerplate for Claude Code",
+      "url": "https://github.com/gojko/lights-on-software-factory",
+      "desc": "A starting point for running a lights-on software factory with Claude Code. Based on the setup developed for Votito, where the orchestrator reduced token cost compared to bare-bones Claude workflow ex",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792459320,
+      "score": 5,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
+      "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792457632,
+      "score": 218,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792452138,
+      "score": 78,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792425618,
-      "score": 44,
-      "category": "tools",
+      "score": 49,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792423894,
-      "score": 41,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
-      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792423704,
-      "score": 303,
-      "category": "industry",
+      "score": 154,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,46 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792421524,
-      "score": 17,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Cairn: Open windows into AI-driven cyber operations",
-      "url": "https://norforge.com/blog/inside_cairn",
-      "desc": "https:&#x2F;&#x2F;www.reuters.com&#x2F;legal&#x2F;government&#x2F;how-one-hacker-used...https:&#x2F;&#x2F;www.theverge.com&#x2F;ai-artificial-intelligence&#x2F;1013643&#x2F;...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792416912,
-      "score": 26,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
-      "url": "https://3anddoneapp.com/try",
-      "desc": "I&#x27;m a software engineer from the east coast (who has lived in Boston, NY, the bay area, UK, France), and I built a task system called 3 &amp; Done.  It&#x27;s the place you trust to store everyth",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792415227,
-      "score": 43,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The obscure trust looming over Anthropic's IPO",
-      "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792411563,
-      "score": 126,
+      "score": 59,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792409074,
-      "score": 209,
-      "category": "llm",
+      "score": 303,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,34 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792407219,
-      "score": 237,
+      "score": 249,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Timestral: Mistral's time-series foundation models",
-      "url": "https://mistral.ai/news/timestral/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792403972,
-      "score": 523,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
-      "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792374999,
-      "score": 92,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -165,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792279445,
-      "score": 131,
+      "score": 167,
       "category": "tools",
       "tags": [
         "国际"
@@ -178,21 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792265874,
-      "score": 93,
+      "score": 122,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Coconuts in Medieval Britain (2015)",
-      "url": "https://www.themarysue.com/monty-python-holy-grail-coconuts/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792139334,
-      "score": 26,
-      "category": "tools",
       "tags": [
         "国际"
       ]
