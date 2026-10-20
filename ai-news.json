@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-20 03:37 UTC",
-  "count": 11,
+  "updated": "2026-10-20 09:10 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+      "url": "https://deathplanswitch.com/",
+      "desc": "Hi HN,I&#x27;m Peter Bishop and I&#x27;ve been working in graphics and web tech for over 25yrs.I&#x27;ve recently launched Death Plan Switch to solve a major problem in my succession plan. What if I g",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792471063,
+      "score": 63,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Go will reject certificate chains containing eight distrusted SPKIs",
       "url": "https://github.com/golang/go/issues/82345",
@@ -9,33 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792465507,
-      "score": 5,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Lights-on software factory boilerplate for Claude Code",
-      "url": "https://github.com/gojko/lights-on-software-factory",
-      "desc": "A starting point for running a lights-on software factory with Claude Code. Based on the setup developed for Votito, where the orchestrator reduced token cost compared to bare-bones Claude workflow ex",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792459320,
-      "score": 5,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
-      "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792457632,
-      "score": 218,
+      "score": 89,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792452138,
-      "score": 78,
-      "category": "llm",
+      "score": 411,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792425618,
-      "score": 49,
-      "category": "llm",
+      "score": 58,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,7 +61,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792423894,
-      "score": 154,
+      "score": 279,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792423704,
+      "score": 338,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792421524,
-      "score": 59,
+      "score": 99,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Maxwell: A new kind of model that sits between code and hardware",
+      "url": "https://heymaxwell.ai/",
+      "desc": "Hi HN, I&#x27;m Gal from doubleAI. We&#x27;ve built Maxwell, a new kind of frontier model we call a Code Execution Model.It sits between your code and the hardware. No humans in the loop! Maxwell make",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792417676,
+      "score": 63,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,21 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792409074,
-      "score": 303,
-      "category": "tools",
+      "score": 434,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
-      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+      "title": "Timestral: Mistral's time-series foundation models",
+      "url": "https://mistral.ai/news/timestral/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792407219,
-      "score": 249,
-      "category": "tools",
+      "ts": 1792403972,
+      "score": 585,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792279445,
-      "score": 167,
+      "score": 195,
       "category": "tools",
       "tags": [
         "国际"
@@ -139,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792265874,
-      "score": 122,
-      "category": "industry",
+      "score": 141,
+      "category": "tools",
       "tags": [
         "国际"
       ]
