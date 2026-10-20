@@ -1,15 +1,28 @@
 {
-  "updated": "2026-10-20 16:25 UTC",
+  "updated": "2026-10-20 22:56 UTC",
   "count": 9,
   "items": [
     {
-      "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
-      "url": "https://jevcards.com",
-      "desc": "I built a quiz game around TypeSafe&#x27;s new Jev model, which has vision capabilities. Jev looks at a picture and a question and picks an answer (or taps a place) in about a quarter of a second.I&#x",
+      "title": "Anthropic logged net loss of over $80B in first half of 2026",
+      "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792509116,
-      "score": 21,
+      "ts": 1792526986,
+      "score": 71,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792518509,
+      "score": 78,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792509054,
-      "score": 12,
+      "score": 50,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,21 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792508969,
-      "score": 14,
-      "category": "industry",
+      "score": 36,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
-      "url": "https://github.com/KatrielMoses/voidaccess",
-      "desc": "Hi HN! Im Katriel, and im a Security Researcher&#x2F;Enthusiast and in the wave of AI, i wanted to build that next gen of security tooling that surpasses the current tools, and even the paid industrie",
+      "title": "Facebook Pages require paid subscription to post more than two links per month",
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792507773,
-      "score": 92,
-      "category": "industry",
+      "ts": 1792508768,
+      "score": 397,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792501582,
-      "score": 158,
-      "category": "tools",
+      "score": 306,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,46 +87,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792500185,
-      "score": 111,
-      "category": "industry",
+      "score": 160,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "desc": "",
+      "title": "Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces",
+      "url": "https://rouler.io/",
+      "desc": "Hi HN,Rouler is &quot;rules for your routes&quot;. It allows you to steer network traffic across multiple network interfaces on Windows. For example:- Run Tailscale, Mullvad and OpenVPN official clien",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792452138,
-      "score": 664,
-      "category": "llm",
+      "ts": 1792468303,
+      "score": 18,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Ukraine claims first drone evacuation of wounded soldier",
-      "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-      "desc": "",
+      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+      "desc": "Quick update here since a lot of folks asked about what slopcodebench is &#x2F; where it fits inSlop code bench is unique among benchmarks in that it makes a model work against a progressively disclos",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792423894,
-      "score": 393,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "One Manhattan power room took down FAA air traffic control in 1991",
-      "url": "https://matthorn.io/posts/2026-10-18-33-thomas-street/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792421553,
-      "score": 19,
+      "ts": 1792091374,
+      "score": 121,
       "category": "tools",
       "tags": [
         "国际"
