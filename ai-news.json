@@ -1,29 +1,81 @@
 {
-  "updated": "2026-10-20 09:10 UTC",
-  "count": 12,
+  "updated": "2026-10-20 16:25 UTC",
+  "count": 9,
   "items": [
     {
-      "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
-      "url": "https://deathplanswitch.com/",
-      "desc": "Hi HN,I&#x27;m Peter Bishop and I&#x27;ve been working in graphics and web tech for over 25yrs.I&#x27;ve recently launched Death Plan Switch to solve a major problem in my succession plan. What if I g",
+      "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+      "url": "https://jevcards.com",
+      "desc": "I built a quiz game around TypeSafe&#x27;s new Jev model, which has vision capabilities. Jev looks at a picture and a question and picks an answer (or taps a place) in about a quarter of a second.I&#x",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792471063,
-      "score": 63,
+      "ts": 1792509116,
+      "score": 21,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-      "url": "https://github.com/golang/go/issues/82345",
+      "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+      "url": "https://github.com/AbdullahAlhariri/penmentor",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792465507,
-      "score": 89,
-      "category": "llm",
+      "ts": 1792509054,
+      "score": 12,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "url": "https://news.ycombinator.com/item?id=50167583",
+      "desc": "Hey HN, this is Andy from Respan (https:&#x2F;&#x2F;www.respan.ai). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers,",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792508969,
+      "score": 14,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
+      "url": "https://github.com/KatrielMoses/voidaccess",
+      "desc": "Hi HN! Im Katriel, and im a Security Researcher&#x2F;Enthusiast and in the wave of AI, i wanted to build that next gen of security tooling that surpasses the current tools, and even the paid industrie",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792507773,
+      "score": 92,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792501582,
+      "score": 158,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "NixOS is making me less afraid",
+      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792500185,
+      "score": 111,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792452138,
-      "score": 411,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
-      "url": "https://news.ycombinator.com/item?id=50154029",
-      "desc": "Hi HN, we’re Robert and Din from Laminar (https:&#x2F;&#x2F;laminar.sh). We’ve been building open-source observability for AI agents since 2024. Recently, we released flow-1, a model trained with RL t",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792425618,
-      "score": 58,
-      "category": "tools",
+      "score": 664,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,98 +100,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792423894,
-      "score": 279,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
-      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792423704,
-      "score": 338,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Agentic Monitoring",
-      "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792421524,
-      "score": 99,
+      "score": 393,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Maxwell: A new kind of model that sits between code and hardware",
-      "url": "https://heymaxwell.ai/",
-      "desc": "Hi HN, I&#x27;m Gal from doubleAI. We&#x27;ve built Maxwell, a new kind of frontier model we call a Code Execution Model.It sits between your code and the hardware. No humans in the loop! Maxwell make",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792417676,
-      "score": 63,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-      "url": "https://news.ycombinator.com/item?id=50151036",
-      "desc": "I saw this LinkedIn post from a Meta engineer and it resonated with me:https:&#x2F;&#x2F;www.linkedin.com&#x2F;posts&#x2F;ali-hamie_im-an-engineer-at-m...&gt; I&#x27;m an engineer at Meta and I never ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792409074,
-      "score": 434,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Timestral: Mistral's time-series foundation models",
-      "url": "https://mistral.ai/news/timestral/",
+      "title": "One Manhattan power room took down FAA air traffic control in 1991",
+      "url": "https://matthorn.io/posts/2026-10-18-33-thomas-street/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792403972,
-      "score": 585,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "RuneScape Bench: MMOs for Agents [video]",
-      "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
-      "desc": "Related: https:&#x2F;&#x2F;github.com&#x2F;LostCityRS&#x2F;Server",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792279445,
-      "score": 195,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The fire retardant in the seafood chain",
-      "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792265874,
-      "score": 141,
+      "ts": 1792421553,
+      "score": 19,
       "category": "tools",
       "tags": [
         "国际"
