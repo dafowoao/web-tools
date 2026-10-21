@@ -1,42 +1,29 @@
 {
-  "updated": "2026-10-20 22:56 UTC",
-  "count": 9,
+  "updated": "2026-10-21 03:30 UTC",
+  "count": 6,
   "items": [
     {
-      "title": "Anthropic logged net loss of over $80B in first half of 2026",
-      "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+      "title": "Good type against all odds",
+      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792526986,
-      "score": 71,
+      "ts": 1792547107,
+      "score": 32,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Claude designed protein binders against scorpion neurotoxins",
-      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+      "url": "https://research.poh.org/bot-benchmarking-2026/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792518509,
-      "score": 78,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
-      "url": "https://github.com/AbdullahAlhariri/penmentor",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792509054,
-      "score": 50,
-      "category": "industry",
+      "ts": 1792516231,
+      "score": 33,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792508969,
-      "score": 36,
+      "score": 46,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,47 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792508768,
-      "score": 397,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Publish fake stats, get cited in LLMs",
-      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792501582,
-      "score": 306,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "NixOS is making me less afraid",
-      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792500185,
-      "score": 160,
+      "score": 424,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Rouler – Steer Windows traffic per app or IP across multiple interfaces",
-      "url": "https://rouler.io/",
-      "desc": "Hi HN,Rouler is &quot;rules for your routes&quot;. It allows you to steer network traffic across multiple network interfaces on Windows. For example:- Run Tailscale, Mullvad and OpenVPN official clien",
+      "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
+      "url": "https://dovepass.com",
+      "desc": "Dovepass answers one question for drone operators: given two points, can a drone legally fly between the two points?I build route planning for delivery drivers and wanted to check what it would look l",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792468303,
-      "score": 18,
-      "category": "tools",
+      "ts": 1792437716,
+      "score": 17,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792091374,
-      "score": 121,
+      "score": 194,
       "category": "tools",
       "tags": [
         "国际"
