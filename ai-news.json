@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-21 03:30 UTC",
-  "count": 6,
+  "updated": "2026-10-21 09:08 UTC",
+  "count": 4,
   "items": [
+    {
+      "title": "Using Claude to reduce the attack surface of code",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792553803,
+      "score": 40,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Good type against all odds",
       "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
@@ -9,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792547107,
-      "score": 32,
-      "category": "industry",
+      "score": 113,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,47 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792516231,
-      "score": 33,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-      "url": "https://news.ycombinator.com/item?id=50167583",
-      "desc": "Hey HN, this is Andy from Respan (https:&#x2F;&#x2F;www.respan.ai). We are building an open-source Rust AI gateway. It is a decoupled gateway, so everything is a plugin, including different providers,",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792508969,
-      "score": 46,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Facebook Pages require paid subscription to post more than two links per month",
-      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792508768,
-      "score": 424,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
-      "url": "https://dovepass.com",
-      "desc": "Dovepass answers one question for drone operators: given two points, can a drone legally fly between the two points?I build route planning for delivery drivers and wanted to check what it would look l",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792437716,
-      "score": 17,
-      "category": "llm",
+      "score": 45,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792091374,
-      "score": 194,
-      "category": "tools",
+      "score": 251,
+      "category": "llm",
       "tags": [
         "国际"
       ]
