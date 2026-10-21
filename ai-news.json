@@ -1,29 +1,81 @@
 {
-  "updated": "2026-10-21 16:41 UTC",
+  "updated": "2026-10-21 23:01 UTC",
   "count": 11,
   "items": [
     {
-      "title": "Ask HN: How can you retrain in a field requiring expensive equipment?",
-      "url": "https://news.ycombinator.com/item?id=50183597",
-      "desc": "Suppose you come up with an invention involving a highly specialized, equipment-intensive field you’re unfamiliar with, such as plasma processing or high-temperature metallurgy. You’ve already consult",
+      "title": "Railway Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792599926,
-      "score": 6,
+      "ts": 1792619883,
+      "score": 136,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Google staff resign in backlash over its AI contracts with military",
+      "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792610061,
+      "score": 97,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Cloudflare deploys protections against php2shell vulnerability",
-      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+      "title": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792591874,
-      "score": 43,
+      "ts": 1792610041,
+      "score": 270,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "desc": "https:&#x2F;&#x2F;nmdoj.gov&#x2F;press-release&#x2F;the-new-mexico-department-of...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792604713,
+      "score": 279,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Omnara – Open-Source Alternative to Claude Managed Agents",
+      "url": "https://github.com/omnara-ai/omnara",
+      "desc": "Hey y&#x27;all, Kartik from Omnara (https:&#x2F;&#x2F;omnara.com) here. We&#x27;re building an open-source API for running durable agents. You create an agent with an API call, and Omnara runs the age",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792601093,
+      "score": 6,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The bridge to agent-scale Git infrastructure",
+      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792598968,
+      "score": 51,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792591423,
-      "score": 119,
-      "category": "llm",
+      "score": 219,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792591226,
-      "score": 115,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "desc": "https:&#x2F;&#x2F;www.php2shell.com&#x2F;",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792590199,
-      "score": 355,
+      "score": 394,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792589820,
-      "score": 47,
+      "score": 123,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792587191,
-      "score": 22,
+      "score": 205,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LayerFS: The filesystem for AI coding agents",
-      "url": "https://layerfs.ai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792586086,
-      "score": 58,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,34 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792564932,
-      "score": 12,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Using Claude to reduce the attack surface of code",
-      "url": "https://www.anthropic.com/research/attack-surface-reduction",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792553803,
-      "score": 111,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Good type against all odds",
-      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792547107,
-      "score": 182,
-      "category": "industry",
+      "score": 42,
+      "category": "llm",
       "tags": [
         "国际"
       ]
