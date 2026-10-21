@@ -1,7 +1,124 @@
 {
-  "updated": "2026-10-21 09:08 UTC",
-  "count": 4,
+  "updated": "2026-10-21 16:41 UTC",
+  "count": 11,
   "items": [
+    {
+      "title": "Ask HN: How can you retrain in a field requiring expensive equipment?",
+      "url": "https://news.ycombinator.com/item?id=50183597",
+      "desc": "Suppose you come up with an invention involving a highly specialized, equipment-intensive field you’re unfamiliar with, such as plasma processing or high-temperature metallurgy. You’ve already consult",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792599926,
+      "score": 6,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Cloudflare deploys protections against php2shell vulnerability",
+      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792591874,
+      "score": 43,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "desc": "https:&#x2F;&#x2F;patchtheplanet.org&#x2F;",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792591423,
+      "score": 119,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792591226,
+      "score": 115,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "desc": "https:&#x2F;&#x2F;www.php2shell.com&#x2F;",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792590199,
+      "score": 355,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792589820,
+      "score": 47,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792587191,
+      "score": 22,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "LayerFS: The filesystem for AI coding agents",
+      "url": "https://layerfs.ai/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792586086,
+      "score": 58,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+      "url": "https://alterauth.com/",
+      "desc": "Hi HN! We’re Srikar and Kevan, founders of Alter – https:&#x2F;&#x2F;alterauth.com&#x2F;. We’re building access control for agents that can take actions on behalf of multiple users.If you’ve built an ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792564932,
+      "score": 12,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Using Claude to reduce the attack surface of code",
       "url": "https://www.anthropic.com/research/attack-surface-reduction",
@@ -9,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792553803,
-      "score": 40,
+      "score": 111,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,34 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792547107,
-      "score": 113,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-      "url": "https://research.poh.org/bot-benchmarking-2026/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792516231,
-      "score": 45,
+      "score": 182,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-      "desc": "Quick update here since a lot of folks asked about what slopcodebench is &#x2F; where it fits inSlop code bench is unique among benchmarks in that it makes a model work against a progressively disclos",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792091374,
-      "score": 251,
-      "category": "llm",
       "tags": [
         "国际"
       ]
