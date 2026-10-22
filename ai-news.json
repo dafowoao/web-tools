@@ -1,28 +1,15 @@
 {
-  "updated": "2026-10-21 23:01 UTC",
-  "count": 11,
+  "updated": "2026-10-22 03:29 UTC",
+  "count": 14,
   "items": [
     {
-      "title": "Railway Security Disclosure",
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "title": "LLM Agents Play Pokemon Showdown",
+      "url": "https://olivergrabner.com/research/pokemon/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792619883,
-      "score": 136,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Google staff resign in backlash over its AI contracts with military",
-      "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792610061,
-      "score": 97,
+      "ts": 1792635228,
+      "score": 13,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792610041,
-      "score": 270,
+      "score": 327,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,34 +35,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792604713,
-      "score": 279,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Omnara – Open-Source Alternative to Claude Managed Agents",
-      "url": "https://github.com/omnara-ai/omnara",
-      "desc": "Hey y&#x27;all, Kartik from Omnara (https:&#x2F;&#x2F;omnara.com) here. We&#x27;re building an open-source API for running durable agents. You create an agent with an API call, and Omnara runs the age",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792601093,
-      "score": 6,
+      "score": 418,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The bridge to agent-scale Git infrastructure",
-      "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+      "url": "https://github.com/omnara-ai/omnara",
+      "desc": "Hey all, Kartik from Omnara (https:&#x2F;&#x2F;omnara.com) here. We&#x27;re building an open-source API for running durable agents. You create an agent with an API call, and Omnara runs the agent loop",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792601093,
+      "score": 31,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Cloudflare deploys protections against php2shell vulnerability",
+      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792598968,
-      "score": 51,
-      "category": "industry",
+      "ts": 1792591874,
+      "score": 101,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792591423,
-      "score": 219,
+      "score": 238,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792591226,
-      "score": 394,
+      "score": 455,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792589820,
-      "score": 123,
-      "category": "llm",
+      "score": 137,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792587191,
-      "score": 205,
-      "category": "llm",
+      "score": 253,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,8 +126,60 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792564932,
-      "score": 42,
+      "score": 54,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792556871,
+      "score": 17,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: AI-built browser games, collected in one place",
+      "url": "https://playgroundarcade.com/",
+      "desc": "Hello, HN friends.I spent many happy IT lessons messing around on Newgrounds when I was a kid. And, to further age me - Rotten and Maddox!From that, I built my first site at about 12&#x2F;13 with a fr",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792511156,
+      "score": 7,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Chain of Thought for Humans",
+      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792425982,
+      "score": 44,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Can you tell an AI's real 30-day memory from a fabricated one?",
+      "url": "https://kairos-experiment.com/distinguish.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792419957,
+      "score": 5,
+      "category": "industry",
       "tags": [
         "国际"
       ]
