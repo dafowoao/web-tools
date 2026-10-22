@@ -1,16 +1,68 @@
 {
-  "updated": "2026-10-22 03:29 UTC",
-  "count": 14,
+  "updated": "2026-10-22 09:11 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "LLM Agents Play Pokemon Showdown",
-      "url": "https://olivergrabner.com/research/pokemon/",
+      "title": "Show HN: The fastest browser for AI agents to run browser automation",
+      "url": "https://ego-lite.apposters.com",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792635228,
-      "score": 13,
+      "ts": 1792656562,
+      "score": 6,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI CLI",
+      "url": "https://github.com/openai/openai-cli",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792646591,
+      "score": 109,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792635521,
+      "score": 170,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Now Works with Google Docs, Sheets, and Slides",
+      "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792635478,
+      "score": 41,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Airbnb bans making guests do dishes and take out the trash",
+      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792625912,
+      "score": 172,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792610041,
-      "score": 327,
-      "category": "industry",
+      "score": 360,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792604713,
-      "score": 418,
-      "category": "llm",
+      "score": 540,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792601093,
-      "score": 31,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Cloudflare deploys protections against php2shell vulnerability",
-      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792591874,
-      "score": 101,
+      "score": 75,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792591423,
-      "score": 238,
-      "category": "tools",
+      "score": 256,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792591226,
-      "score": 455,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792589820,
-      "score": 137,
-      "category": "tools",
+      "score": 508,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792587191,
-      "score": 253,
-      "category": "industry",
+      "score": 287,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792564932,
-      "score": 54,
-      "category": "llm",
+      "score": 62,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,21 +165,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792556871,
-      "score": 17,
-      "category": "tools",
+      "score": 84,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: AI-built browser games, collected in one place",
-      "url": "https://playgroundarcade.com/",
-      "desc": "Hello, HN friends.I spent many happy IT lessons messing around on Newgrounds when I was a kid. And, to further age me - Rotten and Maddox!From that, I built my first site at about 12&#x2F;13 with a fr",
+      "title": "Clockwork Mechanics, Maintenance, and Metaphors in the Late Middle Ages",
+      "url": "https://www.jhiblog.org/2026/10/19/clockwork-metaphors/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792511156,
-      "score": 7,
-      "category": "industry",
+      "ts": 1792466747,
+      "score": 17,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -165,21 +191,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792425982,
-      "score": 44,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Can you tell an AI's real 30-day memory from a fabricated one?",
-      "url": "https://kairos-experiment.com/distinguish.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792419957,
-      "score": 5,
-      "category": "industry",
+      "score": 91,
+      "category": "tools",
       "tags": [
         "国际"
       ]
