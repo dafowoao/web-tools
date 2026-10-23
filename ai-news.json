@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-23 03:34 UTC",
-  "count": 12,
+  "updated": "2026-10-23 09:07 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "AI compute is the new oil–and needs a new market",
-      "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+      "title": "We have traits at home",
+      "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792712716,
-      "score": 30,
+      "ts": 1792711457,
+      "score": 14,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792709683,
-      "score": 181,
-      "category": "industry",
+      "score": 342,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,47 +35,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792705112,
-      "score": 62,
+      "score": 100,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: UI micro interactions prompts for AI",
-      "url": "https://www.typeui.sh/micro-interactions",
-      "desc": "",
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "url": "https://news.ycombinator.com/item?id=50200997",
+      "desc": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker?Couldn&#x27;t OpenAI or Anthropic make a lot more money b",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792693977,
-      "score": 74,
+      "ts": 1792703035,
+      "score": 133,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI and the Enclosure of the Scientific Commons",
-      "url": "https://arxiv.org/abs/2610.27251",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792693696,
-      "score": 120,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-      "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792692174,
-      "score": 80,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792691046,
-      "score": 323,
-      "category": "llm",
+      "score": 389,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +74,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792685280,
-      "score": 274,
-      "category": "llm",
+      "score": 406,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+      "url": "https://github.com/dsmurrell/onkey",
+      "desc": "Hi allI was pretty terrible at singing, now I’d say I’m bad but not terrible. This is because I’ve been using a singing app (won’t name it here) that scores me on my pitch and timing throughout the so",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792677884,
+      "score": 47,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The alien space of science: Coherent but cognitively unavailable directions",
+      "url": "https://arxiv.org/abs/2603.01092",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792675501,
+      "score": 47,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792656112,
-      "score": 747,
-      "category": "industry",
+      "score": 776,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792635521,
-      "score": 512,
-      "category": "tools",
+      "score": 541,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,20 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792587865,
-      "score": 93,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Turn regular JavaScript into a neural net",
-      "url": "https://chenglou.me/handwired/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792531943,
-      "score": 38,
+      "score": 109,
       "category": "industry",
       "tags": [
         "国际"
