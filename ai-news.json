@@ -1,16 +1,29 @@
 {
-  "updated": "2026-10-22 22:58 UTC",
-  "count": 17,
+  "updated": "2026-10-23 03:34 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
-      "url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
-      "desc": "Hey HN, we recently open sourced our Consumer Agent Testing Tool to help teams iterate against proprietary assistants like Muse and Instinct. We built this to reduce our own frustrations with building",
+      "title": "AI compute is the new oil–and needs a new market",
+      "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792707520,
-      "score": 3,
-      "category": "tools",
+      "ts": 1792712716,
+      "score": 30,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792709683,
+      "score": 181,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,21 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792705112,
-      "score": 17,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
-      "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792702283,
-      "score": 26,
-      "category": "llm",
+      "score": 62,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792693977,
-      "score": 67,
+      "score": 74,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Award-winning AI literature",
-      "url": "https://jamesyu.org/award-winning-ai-literature/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792693706,
-      "score": 56,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792693696,
-      "score": 92,
+      "score": 120,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792692174,
-      "score": 72,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
-      "url": "https://github.com/rbartoli/agent-usage-guard",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792692158,
-      "score": 20,
-      "category": "llm",
+      "score": 80,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792691046,
-      "score": 249,
+      "score": 323,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Mini brain organoids ‘reading’ Braille key step towards biohybrid computing",
-      "url": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792685805,
-      "score": 33,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792685280,
-      "score": 165,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Replacing CAPTCHAs with adaptive proof-of-work in WordPress",
-      "url": "https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms/",
-      "desc": "When I founded my business a whistle-blowing-service for enterprises, I’ve seeked for a working solution to block spam bots on that home page. The solution was intended to comply with EU data privacy ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792674194,
-      "score": 5,
-      "category": "industry",
+      "score": 274,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -165,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792656112,
-      "score": 672,
-      "category": "llm",
+      "score": 747,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -178,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792635521,
-      "score": 488,
+      "score": 512,
       "category": "tools",
       "tags": [
         "国际"
@@ -191,21 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792587865,
-      "score": 65,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: An icon for every city in North America",
-      "url": "https://evans.bike/naicons",
-      "desc": "To my knowledge there is no icon pack for cities in NA below a certain size.  So I created one!  An icon for every city in NA with &gt;100k population.  544 in total.  Generated with Nano Banana Pro. ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792544619,
-      "score": 4,
-      "category": "llm",
+      "score": 93,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -217,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792531943,
-      "score": 29,
-      "category": "llm",
+      "score": 38,
+      "category": "industry",
       "tags": [
         "国际"
       ]
