@@ -1,16 +1,29 @@
 {
-  "updated": "2026-10-23 09:07 UTC",
+  "updated": "2026-10-23 16:32 UTC",
   "count": 11,
   "items": [
     {
-      "title": "We have traits at home",
-      "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
+      "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+      "url": "https://www.thisandthat.chat/enron/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792711457,
-      "score": 14,
-      "category": "industry",
+      "ts": 1792756973,
+      "score": 33,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+      "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792743689,
+      "score": 331,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792709683,
-      "score": 342,
+      "score": 406,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792705112,
-      "score": 100,
-      "category": "industry",
+      "score": 121,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792703035,
-      "score": 133,
-      "category": "industry",
+      "score": 381,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792691046,
-      "score": 389,
-      "category": "industry",
+      "score": 471,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792685280,
-      "score": 406,
-      "category": "tools",
+      "score": 581,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792677884,
-      "score": 47,
+      "score": 144,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792675501,
-      "score": 47,
+      "score": 160,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Jailbreaking the Switch 2",
-      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792656112,
-      "score": 776,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,20 +126,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792635521,
-      "score": 541,
-      "category": "llm",
+      "score": 588,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
-      "url": "https://uberblok.storagebits.workers.dev/",
-      "desc": "I&#x27;ve worked for a long time in the storage field during my career and ZFS is the piece of engineering I admire most in that space. I wanted a way to pay homage to it and to explore and better und",
+      "title": "Hand-bent after 3D printing, Oberdoerfer and Krebs' Bend chair",
+      "url": "https://www.designboom.com/design/hand-bent-3d-printing-oberdoerfer-krebs-digital-fabrication-bend-chair-ukurant-3daysofdesign/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792587865,
-      "score": 109,
+      "ts": 1792509604,
+      "score": 19,
       "category": "industry",
       "tags": [
         "国际"
