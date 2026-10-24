@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-24 08:40 UTC",
-  "count": 12,
+  "updated": "2026-10-24 15:27 UTC",
+  "count": 11,
   "items": [
+    {
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792840734,
+      "score": 67,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+      "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792839095,
+      "score": 21,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
       "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
@@ -9,33 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792820997,
-      "score": 74,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792806790,
-      "score": 97,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
-      "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792787832,
-      "score": 46,
+      "score": 373,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792784798,
-      "score": 77,
+      "score": 113,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792782594,
-      "score": 375,
-      "category": "industry",
+      "score": 431,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792776516,
-      "score": 123,
-      "category": "llm",
+      "score": 155,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,46 +87,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792774748,
-      "score": 892,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Impossible Machines: declaratively program the physical world",
-      "url": "https://www.impossiblemachines.xyz",
-      "desc": "Hey all —Sharing a thought experiment I put together. The premise: what might declarative programming feel like for the physical world?We’re already familiar with this paradigm in software land (eg SQ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792713268,
-      "score": 75,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792635521,
-      "score": 621,
+      "score": 1004,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "A Cocktail Party in the Street: An Interview with Alan Stillman (2010)",
-      "url": "https://www.ediblegeography.com/a-cocktail-party-in-the-street-an-interview-with-alan-stillman/",
+      "title": "The Chalk and the Airplane",
+      "url": "https://unintendedconsequenc.es/chalk-and-the-airplane/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792608591,
-      "score": 3,
+      "ts": 1792644118,
+      "score": 21,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "I built a neural network using DOOM games",
+      "url": "https://github.com/mottopanikeiku/doomformer",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792615203,
+      "score": 4,
       "category": "industry",
       "tags": [
         "国际"
@@ -139,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792524159,
-      "score": 71,
-      "category": "llm",
+      "score": 175,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -152,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792510888,
-      "score": 40,
+      "score": 65,
       "category": "tools",
       "tags": [
         "国际"
