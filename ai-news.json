@@ -1,28 +1,41 @@
 {
-  "updated": "2026-10-23 22:55 UTC",
-  "count": 8,
+  "updated": "2026-10-24 03:29 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "A whirlwind tour of systemd-nspawn containers",
-      "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792787832,
-      "score": 15,
-      "category": "industry",
+      "ts": 1792806790,
+      "score": 31,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "OpenAI: Securing our frontier model training environment",
+      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
+      "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792787832,
+      "score": 36,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Securing our frontier model training environment",
       "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792785056,
-      "score": 51,
+      "score": 86,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792784798,
-      "score": 3,
-      "category": "tools",
+      "score": 48,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,7 +61,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792784055,
-      "score": 169,
+      "score": 311,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Air Purifiers as White Noise Machines",
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792776516,
+      "score": 81,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792774748,
-      "score": 620,
-      "category": "llm",
+      "score": 769,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792738492,
-      "score": 43,
-      "category": "tools",
+      "score": 63,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792713268,
-      "score": 49,
-      "category": "industry",
+      "score": 70,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,7 +126,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792635521,
-      "score": 608,
+      "score": 615,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
+      "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792510888,
+      "score": 20,
       "category": "tools",
       "tags": [
         "国际"
