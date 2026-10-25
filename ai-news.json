@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25 03:25 UTC",
+  "updated": "2026-10-25 08:58 UTC",
   "count": 11,
   "items": [
     {
@@ -9,8 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792892029,
-      "score": 12,
-      "category": "industry",
+      "score": 143,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,34 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792883514,
-      "score": 211,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Making My Blog Readable by AI Agents",
-      "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792876893,
-      "score": 8,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "No signs of AI payoff outside the tech sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792871239,
-      "score": 503,
-      "category": "industry",
+      "score": 346,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792865097,
-      "score": 166,
-      "category": "tools",
+      "score": 196,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792857437,
-      "score": 96,
-      "category": "industry",
+      "score": 105,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792856117,
-      "score": 38,
+      "score": 44,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792774748,
-      "score": 1060,
-      "category": "llm",
+      "score": 1066,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,7 +87,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792675204,
-      "score": 4,
+      "score": 27,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Rewriting a Commercial Engine in Jai",
+      "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792673443,
+      "score": 9,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,8 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792621032,
-      "score": 18,
-      "category": "llm",
+      "score": 29,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
+      "url": "https://pragtical.dev/blog/pragtical-v3140-release",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792562944,
+      "score": 13,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792524159,
-      "score": 246,
+      "score": 267,
       "category": "industry",
       "tags": [
         "国际"
