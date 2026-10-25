@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-25 18:44 UTC",
-  "count": 9,
+  "updated": "2026-10-25 22:18 UTC",
+  "count": 8,
   "items": [
+    {
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792962691,
+      "score": 19,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+      "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792955436,
+      "score": 37,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
+      "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792953743,
+      "score": 5,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
       "url": "https://lynchlab.net/llm-skin-cancer",
@@ -9,20 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792948538,
-      "score": 122,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A Mathematician Reads the AI Future",
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792945881,
-      "score": 32,
+      "score": 331,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,34 +61,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792945706,
-      "score": 65,
-      "category": "llm",
+      "score": 164,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "title": "JetBrains Thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792921877,
-      "score": 109,
+      "ts": 1792945632,
+      "score": 132,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: ReVault – new secure archive format",
-      "url": "https://news.ycombinator.com/item?id=50227527",
-      "desc": "reVault is a new, secure-by-default archive format called a lockbox, designed to be simple to use.I&#x27;ve been working on reVault for about 2 years. It was originally written in Dart, but with the i",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792893681,
-      "score": 6,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,47 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792892029,
-      "score": 319,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792883514,
-      "score": 482,
+      "score": 343,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
-      "url": "https://broccoli2shell.com/",
-      "desc": "https:&#x2F;&#x2F;www.aikido.dev&#x2F;blog&#x2F;python-packages-vulnerable-node2...",
+      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "url": "https://huggingface.co/destined/hurston-1",
+      "desc": "Hey HN, I’m open sourcing my Hurston-1 narrowband TTS model (Apache-2.0). It is very good with American English and does especially well with Southern American and Regional African English accents. De",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792829199,
-      "score": 388,
+      "ts": 1792891813,
+      "score": 32,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Flapping Airplanes",
-      "url": "https://flappingairplanes.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792638396,
-      "score": 14,
-      "category": "industry",
       "tags": [
         "国际"
       ]
