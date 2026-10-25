@@ -1,15 +1,41 @@
 {
-  "updated": "2026-10-25 15:37 UTC",
+  "updated": "2026-10-25 18:44 UTC",
   "count": 9,
   "items": [
     {
-      "title": "Imagine an AI future where being banned means you are now economically useless",
-      "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792932440,
-      "score": 26,
+      "ts": 1792948538,
+      "score": 122,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "A Mathematician Reads the AI Future",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792945881,
+      "score": 32,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792945706,
+      "score": 65,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,8 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792921877,
-      "score": 78,
+      "score": 109,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: ReVault – new secure archive format",
+      "url": "https://news.ycombinator.com/item?id=50227527",
+      "desc": "reVault is a new, secure-by-default archive format called a lockbox, designed to be simple to use.I&#x27;ve been working on reVault for about 2 years. It was originally written in Dart, but with the i",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792893681,
+      "score": 6,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792892029,
-      "score": 268,
-      "category": "tools",
+      "score": 319,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,73 +87,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792883514,
-      "score": 432,
+      "score": 482,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Neural chip decodes interactions between brain regions",
-      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
+      "url": "https://broccoli2shell.com/",
+      "desc": "https:&#x2F;&#x2F;www.aikido.dev&#x2F;blog&#x2F;python-packages-vulnerable-node2...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792829199,
+      "score": 388,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Flapping Airplanes",
+      "url": "https://flappingairplanes.com/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792857437,
-      "score": 126,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "desc": "https:&#x2F;&#x2F;www.kimi.com&#x2F;code&#x2F;docs&#x2F;en&#x2F;kimi-code&#x2F;models.htmlhttps:&#x2F;&#x2F;artificialanalysis.ai&#x2F;models&#x2F;kimi-k3-1-prohttps:&#x2F;&#x2F;www.modelcompare.ai&#x",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792774748,
-      "score": 1069,
+      "ts": 1792638396,
+      "score": 14,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "In Rainbows",
-      "url": "https://hitogata.neocities.org/Rainbows",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792675204,
-      "score": 30,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Rewriting a Commercial Engine in Jai",
-      "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792673443,
-      "score": 57,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
-      "url": "https://pragtical.dev/blog/pragtical-v3140-release",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792562944,
-      "score": 26,
-      "category": "tools",
       "tags": [
         "国际"
       ]
