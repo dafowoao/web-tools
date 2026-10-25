@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-25 08:58 UTC",
-  "count": 11,
+  "updated": "2026-10-25 15:37 UTC",
+  "count": 9,
   "items": [
+    {
+      "title": "Imagine an AI future where being banned means you are now economically useless",
+      "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792932440,
+      "score": 26,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792921877,
+      "score": 78,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
@@ -9,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792892029,
-      "score": 143,
-      "category": "llm",
+      "score": 268,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792883514,
-      "score": 346,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Why is AI generated language so hard to understand?",
-      "url": "https://arxiv.org/abs/2610.29162",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792865097,
-      "score": 196,
-      "category": "llm",
+      "score": 432,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792857437,
-      "score": 105,
+      "score": 126,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792856117,
-      "score": 44,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792774748,
-      "score": 1066,
+      "score": 1069,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792675204,
-      "score": 27,
+      "score": 30,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792673443,
-      "score": 9,
+      "score": 57,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
-      "url": "https://xingjianbai.com/reactive-optimizers/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792621032,
-      "score": 29,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792562944,
-      "score": 13,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A practical guide to AI image generation, from diffusion to agents",
-      "url": "https://danielball.com/notes/ai_image_generation.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792524159,
-      "score": 267,
-      "category": "industry",
+      "score": 26,
+      "category": "tools",
       "tags": [
         "国际"
       ]
