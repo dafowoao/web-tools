@@ -1,16 +1,55 @@
 {
-  "updated": "2026-10-24 22:15 UTC",
-  "count": 8,
+  "updated": "2026-10-25 03:25 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "No Signs of AI Payoff Outside the Tech Sector",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792892029,
+      "score": 12,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792883514,
+      "score": 211,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Making My Blog Readable by AI Agents",
+      "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792876893,
+      "score": 8,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "No signs of AI payoff outside the tech sector",
       "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792871239,
-      "score": 353,
-      "category": "tools",
+      "score": 503,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792865097,
-      "score": 125,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Progressive disclosure in agents to make them 2.3x faster",
-      "url": "https://www.skyvern.com/blog/deleting-rag-from-our-web-agent-made-it-2-3x-faster/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792859458,
-      "score": 9,
-      "category": "llm",
+      "score": 166,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792857437,
-      "score": 74,
-      "category": "tools",
+      "score": 96,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792856117,
-      "score": 23,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Dessa: Conversation Model trained only on speech",
-      "url": "https://block.xyz/dessa",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792782594,
-      "score": 496,
-      "category": "llm",
+      "score": 38,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,7 +100,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792774748,
-      "score": 1056,
+      "score": 1060,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "In Rainbows",
+      "url": "https://hitogata.neocities.org/Rainbows",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792675204,
+      "score": 4,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
+      "url": "https://xingjianbai.com/reactive-optimizers/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792621032,
+      "score": 18,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792524159,
-      "score": 235,
-      "category": "tools",
+      "score": 246,
+      "category": "industry",
       "tags": [
         "国际"
       ]
