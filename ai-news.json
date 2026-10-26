@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-25 22:18 UTC",
-  "count": 8,
+  "updated": "2026-10-26 03:27 UTC",
+  "count": 9,
   "items": [
+    {
+      "title": "Show HN: RainbowSay – Learn, teach, research languages live with shows you love",
+      "url": "https://rainbowsay.ai/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792976893,
+      "score": 4,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
       "url": "https://minimaxir.com/2026/10/cheap-llms/",
@@ -9,21 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792962691,
-      "score": 19,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
-      "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792955436,
-      "score": 37,
-      "category": "tools",
+      "score": 192,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792953743,
-      "score": 5,
+      "score": 29,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,8 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792948538,
-      "score": 331,
+      "score": 474,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "A mathematician reads the AI future",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792945881,
+      "score": 54,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,34 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792945706,
-      "score": 164,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "JetBrains Thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792945632,
-      "score": 132,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792892029,
-      "score": 343,
-      "category": "tools",
+      "score": 206,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +87,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792891813,
-      "score": 32,
+      "score": 54,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+      "url": "https://adrs.systems",
+      "desc": "Why is this worth your time? Essentially, this solves two problems of AI-assisted programming:(a) the first problem is how to do oversight and what do oversight of and this is solved through the ORRCF",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792889027,
+      "score": 9,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Making the Buddha Head from Merv Whole Again",
+      "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792781160,
+      "score": 26,
+      "category": "llm",
       "tags": [
         "国际"
       ]
