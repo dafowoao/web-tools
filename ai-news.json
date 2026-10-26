@@ -1,15 +1,41 @@
 {
-  "updated": "2026-10-26 03:27 UTC",
-  "count": 9,
+  "updated": "2026-10-26 09:45 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "Show HN: RainbowSay – Learn, teach, research languages live with shows you love",
-      "url": "https://rainbowsay.ai/",
+      "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+      "url": "https://proc-cli.com/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792976893,
-      "score": 4,
+      "ts": 1792988075,
+      "score": 11,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792987900,
+      "score": 65,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+      "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792984325,
+      "score": 58,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792962691,
-      "score": 192,
-      "category": "industry",
+      "score": 309,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792953743,
-      "score": 29,
-      "category": "llm",
+      "score": 51,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,34 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792948538,
-      "score": 474,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A mathematician reads the AI future",
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792945881,
-      "score": 54,
+      "score": 553,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792945706,
-      "score": 206,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792891813,
-      "score": 54,
-      "category": "tools",
+      "score": 60,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +100,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792889027,
-      "score": 9,
-      "category": "industry",
+      "score": 43,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Birdwatching rewires the brain and slows cognitive decline",
+      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1792793095,
+      "score": 13,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792781160,
-      "score": 26,
-      "category": "llm",
+      "score": 46,
+      "category": "industry",
       "tags": [
         "国际"
       ]
