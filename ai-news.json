@@ -1,107 +1,94 @@
 {
-  "updated": "2026-10-26 09:45 UTC",
-  "count": 10,
+  "updated": "2026-10-26 18:18 UTC",
+  "count": 9,
   "items": [
     {
-      "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
-      "url": "https://proc-cli.com/",
+      "title": "GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792988075,
-      "score": 11,
+      "ts": 1793037677,
+      "score": 26,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+      "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+      "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792987900,
-      "score": 65,
+      "ts": 1793035936,
+      "score": 47,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Git Forge for Agent-Human Collaboration",
+      "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793035391,
+      "score": 34,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793032544,
+      "score": 72,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
-      "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792984325,
-      "score": 58,
+      "ts": 1793019890,
+      "score": 1111,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Fixing Tool-Call Accuracy in vLLM",
+      "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793019588,
+      "score": 120,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "title": "Brown student maps the hidden global labor powering AI",
+      "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792962691,
-      "score": 309,
+      "ts": 1793019507,
+      "score": 140,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-      "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792953743,
-      "score": 51,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "url": "https://lynchlab.net/llm-skin-cancer",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792948538,
-      "score": 553,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-      "url": "https://huggingface.co/destined/hurston-1",
-      "desc": "Hey HN, I’m open sourcing my Hurston-1 narrowband TTS model (Apache-2.0). It is very good with American English and does especially well with Southern American and Regional African English accents. De",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792891813,
-      "score": 60,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
-      "url": "https://adrs.systems",
-      "desc": "Why is this worth your time? Essentially, this solves two problems of AI-assisted programming:(a) the first problem is how to do oversight and what do oversight of and this is solved through the ORRCF",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792889027,
-      "score": 43,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,20 +100,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792793095,
-      "score": 13,
+      "score": 396,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Making the Buddha Head from Merv Whole Again",
-      "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+      "title": "Blaise Pascal invented fixed route public transport (2024)",
+      "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792781160,
-      "score": 46,
+      "ts": 1792698770,
+      "score": 205,
       "category": "industry",
       "tags": [
         "国际"
