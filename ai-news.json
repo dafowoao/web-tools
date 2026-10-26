@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-26 18:18 UTC",
-  "count": 9,
+  "updated": "2026-10-26 23:35 UTC",
+  "count": 10,
   "items": [
+    {
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793054508,
+      "score": 26,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Magic state cultivation on a superconducting quantum processor",
+      "url": "https://arxiv.org/abs/2512.13908",
+      "desc": "Abstract: &quot;Fault-tolerant quantum computing requires a universal gate set, but the necessary non-Clifford gates represent a significant resource cost for most quantum error correction architectur",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793043479,
+      "score": 8,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "GPT-6.1 Terra",
       "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
@@ -9,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793037677,
-      "score": 26,
+      "score": 462,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793035936,
-      "score": 47,
+      "score": 206,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Git Forge for Agent-Human Collaboration",
-      "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793035391,
-      "score": 34,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +61,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793032544,
-      "score": 72,
-      "category": "industry",
+      "score": 245,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "url": "https://github.com/FrigadeHQ/hob",
+      "desc": "Hey HN, I&#x27;m Christian and this is a new OSS project I&#x27;ve been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793031149,
+      "score": 85,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793019890,
-      "score": 1111,
+      "score": 1428,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793019588,
-      "score": 120,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Brown student maps the hidden global labor powering AI",
-      "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793019507,
-      "score": 140,
+      "score": 143,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792793095,
-      "score": 396,
+      "score": 491,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792698770,
-      "score": 205,
+      "score": 255,
       "category": "industry",
       "tags": [
         "国际"
