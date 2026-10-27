@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26 23:35 UTC",
-  "count": 10,
+  "updated": "2026-10-27 03:54 UTC",
+  "count": 8,
   "items": [
     {
       "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
@@ -9,21 +9,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793054508,
-      "score": 26,
+      "score": 95,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Magic state cultivation on a superconducting quantum processor",
-      "url": "https://arxiv.org/abs/2512.13908",
-      "desc": "Abstract: &quot;Fault-tolerant quantum computing requires a universal gate set, but the necessary non-Clifford gates represent a significant resource cost for most quantum error correction architectur",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793043479,
-      "score": 8,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -31,11 +18,11 @@
     {
       "title": "GPT-6.1 Terra",
       "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "desc": "",
+      "desc": "https:&#x2F;&#x2F;developers.openai.com&#x2F;api&#x2F;docs&#x2F;models&#x2F;gpt-6.1-terra",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793037677,
-      "score": 462,
+      "score": 540,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793035936,
-      "score": 206,
-      "category": "tools",
+      "score": 235,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793032544,
-      "score": 245,
-      "category": "llm",
+      "score": 275,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793031149,
-      "score": 85,
+      "score": 126,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793019890,
-      "score": 1428,
-      "category": "llm",
+      "score": 1518,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,20 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793019588,
-      "score": 143,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Birdwatching rewires the brain and slows cognitive decline",
-      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792793095,
-      "score": 491,
+      "score": 152,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792698770,
-      "score": 255,
+      "score": 272,
       "category": "industry",
       "tags": [
         "国际"
