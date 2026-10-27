@@ -1,29 +1,81 @@
 {
-  "updated": "2026-10-27 17:31 UTC",
-  "count": 14,
+  "updated": "2026-10-27 23:31 UTC",
+  "count": 13,
   "items": [
     {
-      "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
-      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "title": "One year of Dioxus fullstack in production: the good, the painful",
+      "url": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793119215,
-      "score": 68,
+      "ts": 1793135955,
+      "score": 17,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
-      "url": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793119088,
-      "score": 91,
-      "category": "llm",
+      "ts": 1793134242,
+      "score": 76,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Hex Raises $100M",
+      "url": "https://hex.tech/blog/hex-new-era/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793133398,
+      "score": 27,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793130921,
+      "score": 151,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793130906,
+      "score": 134,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793119215,
+      "score": 326,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793118330,
-      "score": 14,
-      "category": "tools",
+      "score": 206,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793118312,
-      "score": 13,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "We let our cloud agents query prod (with OIDC, not secrets)",
-      "url": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793118312,
-      "score": 9,
+      "score": 54,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793114906,
-      "score": 112,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "JetBrains IDEs are now powered by libghostty",
-      "url": "https://blog.jetbrains.com/platform/2026/10/jetbrains-terminal-now-uses-ghostty/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793114533,
-      "score": 27,
-      "category": "llm",
+      "score": 420,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793113940,
-      "score": 12,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Is my data used for model training?",
-      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793109375,
-      "score": 172,
-      "category": "industry",
+      "score": 26,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793107402,
-      "score": 94,
+      "score": 142,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793099295,
-      "score": 293,
-      "category": "tools",
+      "score": 428,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,34 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793082337,
-      "score": 362,
+      "score": 425,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Kauldron: Modular, scalable library to train ML models",
-      "url": "https://github.com/google-research/kauldron",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792958013,
-      "score": 20,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Encarta 95 Web",
-      "url": "https://benwinding.github.io/encarta_95_web/#/article/Art",
-      "desc": "Encarta is super nostalgic, and I was surprised it wasn&#x27;t available to use online. So I embarked on the difficult task of making it so.The way this works is the most convoluted, nonsense and brit",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1792826317,
-      "score": 87,
-      "category": "llm",
       "tags": [
         "国际"
       ]
