@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-27 23:31 UTC",
-  "count": 13,
+  "updated": "2026-10-28 04:15 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "One year of Dioxus fullstack in production: the good, the painful",
-      "url": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793135955,
-      "score": 17,
-      "category": "llm",
+      "ts": 1793139817,
+      "score": 31,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,21 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793134242,
-      "score": 76,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Hex Raises $100M",
-      "url": "https://hex.tech/blog/hex-new-era/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793133398,
-      "score": 27,
-      "category": "industry",
+      "score": 166,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793130921,
-      "score": 151,
+      "score": 227,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793130906,
-      "score": 134,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793119215,
-      "score": 326,
-      "category": "industry",
+      "score": 230,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793118330,
-      "score": 206,
+      "score": 287,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793118312,
-      "score": 54,
+      "score": 56,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793114906,
-      "score": 420,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Specification First Agentic Development Plugin and Prove",
-      "url": "https://spec-first.dev/",
-      "desc": "Implemented agent smith since start 2026 with over 1000 specifications which lead to about 500k lines of code. The procedure with that spec-first works well. How do you do it?",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793113940,
-      "score": 26,
-      "category": "llm",
+      "score": 492,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793107402,
-      "score": 142,
-      "category": "llm",
+      "score": 164,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -152,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793099295,
-      "score": 428,
+      "score": 466,
       "category": "industry",
       "tags": [
         "国际"
@@ -165,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793082337,
-      "score": 425,
-      "category": "tools",
+      "score": 445,
+      "category": "llm",
       "tags": [
         "国际"
       ]
