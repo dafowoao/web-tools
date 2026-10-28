@@ -1,16 +1,55 @@
 {
-  "updated": "2026-10-28 04:15 UTC",
-  "count": 10,
+  "updated": "2026-10-28 14:52 UTC",
+  "count": 7,
   "items": [
     {
-      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "title": "The Agent SDK",
+      "url": "https://cursor.com/blog/agent-sdk",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793139817,
-      "score": 31,
-      "category": "industry",
+      "ts": 1793196140,
+      "score": 22,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793194890,
+      "score": 99,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Valve Responds to Developers Fearing AI Slop and Clones",
+      "url": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793194044,
+      "score": 27,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Two high-speed trains collide near Toledo, Spain",
+      "url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793190941,
+      "score": 109,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793134242,
-      "score": 166,
-      "category": "llm",
+      "score": 277,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793130921,
-      "score": 227,
+      "score": 330,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,85 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793130906,
-      "score": 230,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793118330,
-      "score": 287,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
-      "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793118312,
-      "score": 56,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793114906,
-      "score": 492,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Here be monsters: What do you still need to know when agents do the work?",
-      "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793107402,
-      "score": 164,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793099295,
-      "score": 466,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Mythical Man-Month in the Age of AI",
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793082337,
-      "score": 445,
+      "score": 438,
       "category": "llm",
       "tags": [
         "国际"
