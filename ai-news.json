@@ -1,7 +1,59 @@
 {
-  "updated": "2026-10-28 14:52 UTC",
-  "count": 7,
+  "updated": "2026-10-28 20:47 UTC",
+  "count": 10,
   "items": [
+    {
+      "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+      "url": "https://slidebyside.com/",
+      "desc": "Why is it useful?\n- Present slides without sharing the screen and have every one be on the same page.\n- Present together with other cohosts and all control the current page.\n- Other features such as p",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793207229,
+      "score": 36,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793206883,
+      "score": 595,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Meta censored the No Kings Instagram account during a nationwide campaign",
+      "url": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793203313,
+      "score": 52,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793202390,
+      "score": 139,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "The Agent SDK",
       "url": "https://cursor.com/blog/agent-sdk",
@@ -9,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793196140,
-      "score": 22,
-      "category": "llm",
+      "score": 74,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,34 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793194890,
-      "score": 99,
-      "category": "llm",
+      "score": 355,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Valve Responds to Developers Fearing AI Slop and Clones",
-      "url": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
+      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793194044,
-      "score": 27,
+      "ts": 1793190265,
+      "score": 16,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Two high-speed trains collide near Toledo, Spain",
-      "url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793190941,
-      "score": 109,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793134242,
-      "score": 277,
-      "category": "tools",
+      "score": 313,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,20 +113,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793130921,
-      "score": 330,
-      "category": "industry",
+      "score": 365,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "url": "https://www.brangus.io/survival-llm",
+      "title": "Oseberg Tapestry Fragments",
+      "url": "https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793130906,
-      "score": 438,
+      "ts": 1792984489,
+      "score": 5,
       "category": "llm",
       "tags": [
         "国际"
