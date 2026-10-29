@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-28 20:47 UTC",
+  "updated": "2026-10-29 04:36 UTC",
   "count": 10,
   "items": [
+    {
+      "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793244822,
+      "score": 95,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI execs may be too out of touch to build for the general public",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793226466,
+      "score": 40,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: SlideBySide – Present slides without sharing your screen",
       "url": "https://slidebyside.com/",
@@ -9,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793207229,
-      "score": 36,
-      "category": "industry",
+      "score": 65,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,20 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793206883,
-      "score": 595,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Meta censored the No Kings Instagram account during a nationwide campaign",
-      "url": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793203313,
-      "score": 52,
+      "score": 849,
       "category": "tools",
       "tags": [
         "国际"
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793202390,
-      "score": 139,
-      "category": "llm",
+      "score": 217,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793196140,
-      "score": 74,
-      "category": "industry",
+      "score": 109,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793194890,
-      "score": 355,
+      "score": 445,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,34 +100,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793190265,
-      "score": 16,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Early progress on accelerating drug development with Claude",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793134242,
-      "score": 313,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "url": "https://tailscale.com/ssh-investigation-update",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793130921,
-      "score": 365,
+      "score": 42,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Nixpkgs for the Front End Impaired",
+      "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793026805,
+      "score": 26,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1792984489,
-      "score": 5,
-      "category": "llm",
+      "score": 21,
+      "category": "tools",
       "tags": [
         "国际"
       ]
