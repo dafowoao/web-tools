@@ -1,42 +1,94 @@
 {
-  "updated": "2026-10-29 04:36 UTC",
+  "updated": "2026-10-29 14:57 UTC",
   "count": 10,
   "items": [
     {
-      "title": "Claude Code burns ~15–20% of your tokens on a 3-word status line",
+      "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793283201,
+      "score": 209,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793277716,
+      "score": 193,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793270689,
+      "score": 181,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793270561,
+      "score": 86,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "I Used AI to Fake a Scientific Paper. Here's What Happened",
+      "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793268484,
+      "score": 33,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+      "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793256448,
+      "score": 177,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Code regularly sends each background agent’s transcript to its model",
       "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793244822,
-      "score": 95,
+      "score": 505,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI execs may be too out of touch to build for the general public",
-      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793226466,
-      "score": 40,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: SlideBySide – Present slides without sharing your screen",
-      "url": "https://slidebyside.com/",
-      "desc": "Why is it useful?\n- Present slides without sharing the screen and have every one be on the same page.\n- Present together with other cohosts and all control the current page.\n- Other features such as p",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793207229,
-      "score": 65,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,85 +100,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793206883,
-      "score": 849,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-      "url": "https://surgehq.ai/blog/dayjob-tax",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793202390,
-      "score": 217,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Agent SDK",
-      "url": "https://cursor.com/blog/agent-sdk",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793196140,
-      "score": 109,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793194890,
-      "score": 445,
+      "score": 979,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "title": "Southern Africa's first known stenciled rock art found hiding in plain sight",
+      "url": "https://phys.org/news/2026-10-southern-africa-stenciled-art-plain.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793190265,
-      "score": 42,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Nixpkgs for the Front End Impaired",
-      "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793026805,
-      "score": 26,
+      "ts": 1793060338,
+      "score": 25,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Oseberg Tapestry Fragments",
-      "url": "https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments",
+      "title": "OpenAI's agents talked to each other through the CPU Cache",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1792984489,
-      "score": 21,
+      "ts": 1793049858,
+      "score": 294,
       "category": "tools",
       "tags": [
         "国际"
