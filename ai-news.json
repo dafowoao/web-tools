@@ -1,133 +1,133 @@
 {
-  "updated": "2026-10-29 14:57 UTC",
+  "updated": "2026-10-29 20:53 UTC",
   "count": 10,
   "items": [
     {
-      "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+      "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793283201,
-      "score": 209,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793277716,
-      "score": 193,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
-      "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793270689,
-      "score": 181,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
-      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793270561,
-      "score": 86,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I Used AI to Fake a Scientific Paper. Here's What Happened",
-      "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793268484,
-      "score": 33,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-      "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793256448,
-      "score": 177,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Code regularly sends each background agent’s transcript to its model",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793244822,
-      "score": 505,
+      "ts": 1793301948,
+      "score": 17,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Gemini 4 Carbon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "desc": "",
+      "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
+      "url": "https://github.com/lonthq/overtone-captions",
+      "desc": "Hi HN, I&#x27;m Ruud, co-founder of Lont. We turn company emails into personalized videos.Video captions cost us manual work twice: fixing misheard words, then fixing layout, like lines ending on “the",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793206883,
-      "score": 979,
+      "ts": 1793296097,
+      "score": 11,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Southern Africa's first known stenciled rock art found hiding in plain sight",
-      "url": "https://phys.org/news/2026-10-southern-africa-stenciled-art-plain.html",
-      "desc": "",
+      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+      "url": "https://news.ycombinator.com/item?id=50291116",
+      "desc": "Hi HN, we&#x27;re Ahnaf and Seungmin from Simantic (https:&#x2F;&#x2F;simantic.com). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware.",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793060338,
-      "score": 25,
+      "ts": 1793289392,
+      "score": 35,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "OpenAI's agents talked to each other through the CPU Cache",
-      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "title": "Zombie stats: Where the numbers AI quotes come from",
+      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793049858,
-      "score": 294,
+      "ts": 1793286377,
+      "score": 117,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793285875,
+      "score": 249,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793283201,
+      "score": 955,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793270561,
+      "score": 233,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "What we know so far about Spain train crash",
+      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793264108,
+      "score": 109,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: A proof-of-concept formalization of the IRS federal tax forms",
+      "url": "https://github.com/emmilco/us-tax-model",
+      "desc": "The linked repo is 100% vibe coded, but it was built on a handful of principles:- Most tax software derives trust from the party who maintains it (e.g. Intuit, the IRS, etc.)- Vibe coded software lack",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793212253,
+      "score": 26,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The tragedy of losing your Wikipedia page",
+      "url": "https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793034958,
+      "score": 44,
+      "category": "llm",
       "tags": [
         "国际"
       ]
