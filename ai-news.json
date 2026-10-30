@@ -1,29 +1,68 @@
 {
-  "updated": "2026-10-30 04:36 UTC",
+  "updated": "2026-10-30 14:51 UTC",
   "count": 12,
   "items": [
     {
-      "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
-      "url": "https://github.com/Millillion/lasm",
-      "desc": "Lasm has been my dream for a good part of 2026.\nI firmly believe that formal verification is the next evolution of software engineering and programming languages. This next wave will largely be enable",
+      "title": "Neal Stephenson on AI and What Comes Next [video]",
+      "url": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793325941,
-      "score": 16,
+      "ts": 1793369914,
+      "score": 6,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Pico CSS is no longer maintained",
-      "url": "https://github.com/picocss/pico/discussions/754",
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793325524,
-      "score": 69,
+      "ts": 1793369300,
+      "score": 6,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "American views of higher ed decline, once again",
+      "url": "https://bryanalexander.org/horizon-scanning/american-views-of-higher-ed-decline-once-again/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793362805,
+      "score": 29,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+      "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793362080,
+      "score": 266,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "desc": "https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;claude-code-extension-security-notic...https:&#x2F;&#x2F;cyberplace.social&#x2F;@GossiTheDog&#x2F;117528831681803563https:&#x2F;&#x2F;doublepulsar.com&#x2F;",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793344152,
+      "score": 92,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793316346,
-      "score": 59,
+      "score": 118,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793312798,
-      "score": 74,
-      "category": "tools",
+      "score": 137,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793310028,
-      "score": 219,
+      "score": 344,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
-      "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793301948,
-      "score": 44,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793289392,
-      "score": 57,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Zombie stats: Where the numbers AI quotes come from",
-      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793286377,
-      "score": 154,
-      "category": "industry",
+      "score": 75,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793285875,
-      "score": 385,
-      "category": "tools",
+      "score": 539,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793283201,
-      "score": 1272,
-      "category": "industry",
+      "score": 1613,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,20 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793264108,
-      "score": 170,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Partitioning my digital life into security domains (2011)",
-      "url": "https://blog.invisiblethings.org/2011/03/13/partitioning-my-digital-life-into.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793128860,
-      "score": 38,
+      "score": 233,
       "category": "tools",
       "tags": [
         "国际"
