@@ -1,54 +1,67 @@
 {
-  "updated": "2026-10-30 14:51 UTC",
-  "count": 12,
+  "updated": "2026-10-30 20:26 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "Neal Stephenson on AI and What Comes Next [video]",
-      "url": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793369914,
-      "score": 6,
+      "ts": 1793381245,
+      "score": 163,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793369300,
-      "score": 6,
+      "ts": 1793375538,
+      "score": 378,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "American views of higher ed decline, once again",
-      "url": "https://bryanalexander.org/horizon-scanning/american-views-of-higher-ed-decline-once-again/",
+      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+      "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793362805,
-      "score": 29,
+      "ts": 1793374745,
+      "score": 150,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
+      "url": "https://catcopter.com",
+      "desc": "Hi everyone!I had the idea for catcopter on my mind for a long time (got the domain ~13 years ago). It&#x27;s a web multiplayer game where you can fly a dangerous cat and engage in competition with ot",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793374180,
+      "score": 64,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-      "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
-      "desc": "",
+      "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+      "url": "https://sketch.wakeshift.ai/",
+      "desc": "tl;dr: Agents can play Pictionary. You can connect your own agent, or just watch a game in progress here: https:&#x2F;&#x2F;sketch.wakeshift.ai&#x2F;games&#x2F;q5ucruHi folks! I initially built this a",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793362080,
-      "score": 266,
+      "ts": 1793373791,
+      "score": 10,
       "category": "tools",
       "tags": [
         "国际"
@@ -57,38 +70,25 @@
     {
       "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
       "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "desc": "https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;claude-code-extension-security-notic...https:&#x2F;&#x2F;cyberplace.social&#x2F;@GossiTheDog&#x2F;117528831681803563https:&#x2F;&#x2F;doublepulsar.com&#x2F;",
+      "desc": "https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;claude-code-extension-security-notic...",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793344152,
-      "score": 92,
+      "score": 600,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: I Turned DOOM into a Transformer",
-      "url": "https://github.com/mottopanikeiku/doomformer",
-      "desc": "Instead of trying to run DOOM on things, I have instead decided to use DOOM (many, many, many doom games actually) to create a transformer. For a lot of the math required I essentially had to use DOOM",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793316346,
-      "score": 118,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-      "url": "https://journal.animationstudies.org/article/id/66/",
+      "title": "Building an AI-native engineering org",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793312798,
-      "score": 137,
-      "category": "llm",
+      "ts": 1793311114,
+      "score": 59,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,34 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793310028,
-      "score": 344,
+      "score": 386,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-      "url": "https://news.ycombinator.com/item?id=50291116",
-      "desc": "Hi HN, we&#x27;re Ahnaf and Seungmin from Simantic (https:&#x2F;&#x2F;simantic.com). We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware.",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793289392,
-      "score": 75,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793285875,
-      "score": 539,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,21 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793283201,
-      "score": 1613,
-      "category": "tools",
+      "score": 1661,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "What we know so far about Spain train crash",
-      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
-      "desc": "",
+      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "desc": "https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2606.03979",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793264108,
-      "score": 233,
-      "category": "tools",
+      "ts": 1793190265,
+      "score": 105,
+      "category": "research",
       "tags": [
         "国际"
       ]
