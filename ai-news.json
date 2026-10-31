@@ -1,55 +1,94 @@
 {
-  "updated": "2026-10-31 14:19 UTC",
-  "count": 11,
+  "updated": "2026-10-31 19:44 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "Retired professor arrested for blocking delivery robot. Will do it again",
-      "url": "https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec",
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793453997,
-      "score": 3,
+      "ts": 1793472634,
+      "score": 41,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-      "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+      "title": "I post trained a model on Demoscenes",
+      "url": "https://datavorous.com/writing/demoscener/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793453110,
-      "score": 40,
+      "ts": 1793470104,
+      "score": 24,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "desc": "https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;research&#x2F;wp-content&#x2F;uploads&#x2F;...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793469749,
+      "score": 53,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Why Anthropic's Filing Crushed Tech Stocks",
-      "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
-      "desc": "",
+      "title": "Show HN: Jointter – A daily word puzzle using dots and lines",
+      "url": "https://www.jointter.com/",
+      "desc": "Hello everyone. I’m a mathematician by training, and I love mathematical and logical puzzles and brain-teasers. Inspired by popular games like Sudoku and Wordle, I decided to come up with an engaging ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793449930,
-      "score": 34,
+      "ts": 1793463864,
+      "score": 9,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "We Took over ChatGPT Accounts",
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793456943,
+      "score": 196,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: A language model that lives in a boot sector",
+      "url": "https://github.com/kerlenton/bootgpt",
+      "desc": "All the ideas came from the boot sector demo scene where people had been writing chess and BASIC games in 512 bytes, even a C compiler. I wondered what one can do using a neural network instead of a p",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793451509,
+      "score": 4,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Do the math: How we took over ChatGPT accounts",
       "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793442611,
-      "score": 104,
-      "category": "industry",
+      "score": 269,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793442090,
-      "score": 460,
-      "category": "industry",
+      "score": 721,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793414796,
-      "score": 271,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793391810,
-      "score": 338,
-      "category": "llm",
+      "score": 325,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793369300,
-      "score": 230,
+      "score": 294,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,20 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793344152,
-      "score": 929,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Building an AI-native engineering org",
-      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793311114,
-      "score": 169,
+      "score": 959,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793287788,
-      "score": 98,
-      "category": "llm",
+      "score": 164,
+      "category": "industry",
       "tags": [
         "国际"
       ]
