@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-31 19:44 UTC",
-  "count": 12,
+  "updated": "2026-10-31 23:06 UTC",
+  "count": 11,
   "items": [
+    {
+      "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+      "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793480878,
+      "score": 75,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793475559,
+      "score": 115,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+      "url": "https://epoyraz.github.io/nes-contra-us/",
+      "desc": "Based on vermiceli&#x27;s annotated disassembly of Contra: https:&#x2F;&#x2F;github.com&#x2F;vermiceli&#x2F;nes-contra-us. Thanks for the great work.I ported it in two steps. First to C: the game logi",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793474328,
+      "score": 31,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
       "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
@@ -9,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793472634,
-      "score": 41,
-      "category": "llm",
+      "score": 145,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,34 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793470104,
-      "score": 24,
+      "score": 41,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
-      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
-      "desc": "https:&#x2F;&#x2F;www.microsoft.com&#x2F;en-us&#x2F;research&#x2F;wp-content&#x2F;uploads&#x2F;...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793469749,
-      "score": 53,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Jointter – A daily word puzzle using dots and lines",
-      "url": "https://www.jointter.com/",
-      "desc": "Hello everyone. I’m a mathematician by training, and I love mathematical and logical puzzles and brain-teasers. Inspired by popular games like Sudoku and Wordle, I decided to come up with an engaging ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793463864,
-      "score": 9,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793456943,
-      "score": 196,
-      "category": "tools",
+      "score": 225,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793451509,
-      "score": 4,
-      "category": "industry",
+      "score": 42,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793442611,
-      "score": 269,
+      "score": 293,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,46 +113,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793442090,
-      "score": 721,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Tell HN: Scribd Breached",
-      "url": "https://news.ycombinator.com/item?id=50312756",
-      "desc": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026:Subject: Notice of Security IncidentThis notice is being sent on behalf of Scribd, Inc., the parent company of Scri",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793414796,
-      "score": 325,
+      "score": 788,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "title": "5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet",
+      "url": "https://oqtadrive.org/10.other/5-years/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793369300,
-      "score": 294,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "desc": "https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;claude-code-extension-security-notic...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793344152,
-      "score": 959,
+      "ts": 1793349003,
+      "score": 13,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793287788,
-      "score": 164,
-      "category": "industry",
+      "score": 186,
+      "category": "llm",
       "tags": [
         "国际"
       ]
