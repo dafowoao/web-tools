@@ -1,16 +1,68 @@
 {
-  "updated": "2026-10-30 20:26 UTC",
-  "count": 10,
+  "updated": "2026-10-31 04:19 UTC",
+  "count": 14,
   "items": [
     {
-      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+      "title": "OpenAI raises less than half of $30B target",
+      "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793381245,
-      "score": 163,
+      "ts": 1793416964,
+      "score": 13,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Tell HN: Scribd Breached",
+      "url": "https://news.ycombinator.com/item?id=50312756",
+      "desc": "Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026:Subject: Notice of Security IncidentThis notice is being sent on behalf of Scribd, Inc., the parent company of Scri",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793414796,
+      "score": 70,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
+      "url": "https://news.ycombinator.com/item?id=50312174",
+      "desc": "One year after I posted this last time[0], they&#x27;re doing it again. My traffic from X has shot way up from people who only ever viewed a full tweet, without pressing the link inside.[0] https:&#x2",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793408306,
+      "score": 15,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AO3 Down for Maintenance",
+      "url": "https://www.otwstatus.org",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793395043,
+      "score": 114,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793391810,
+      "score": 253,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,47 +74,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793375538,
-      "score": 378,
+      "score": 535,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-      "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793374745,
-      "score": 150,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
-      "url": "https://catcopter.com",
-      "desc": "Hi everyone!I had the idea for catcopter on my mind for a long time (got the domain ~13 years ago). It&#x27;s a web multiplayer game where you can fly a dangerous cat and engage in competition with ot",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793374180,
-      "score": 64,
-      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
       "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-      "url": "https://sketch.wakeshift.ai/",
+      "url": "https://sketch.wakeshift.ai/games/q5ucru",
       "desc": "tl;dr: Agents can play Pictionary. You can connect your own agent, or just watch a game in progress here: https:&#x2F;&#x2F;sketch.wakeshift.ai&#x2F;games&#x2F;q5ucruHi folks! I initially built this a",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793373791,
-      "score": 10,
-      "category": "tools",
+      "score": 31,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793369300,
+      "score": 135,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793344152,
-      "score": 600,
+      "score": 829,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793311114,
-      "score": 59,
-      "category": "industry",
+      "score": 122,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793310028,
-      "score": 386,
-      "category": "llm",
+      "score": 400,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,7 +152,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793283201,
-      "score": 1661,
+      "score": 1687,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Wonderful Weather: Floods and Foreboding in 17th-Century Britain",
+      "url": "https://publicdomainreview.org/essay/wonderful-weather/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793208899,
+      "score": 14,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,7 +178,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793190265,
-      "score": 105,
+      "score": 184,
       "category": "research",
       "tags": [
         "国际"
