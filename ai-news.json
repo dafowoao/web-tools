@@ -1,16 +1,68 @@
 {
-  "updated": "2026-10-31 04:19 UTC",
-  "count": 14,
+  "updated": "2026-10-31 14:19 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "OpenAI raises less than half of $30B target",
-      "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+      "title": "Retired professor arrested for blocking delivery robot. Will do it again",
+      "url": "https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793416964,
-      "score": 13,
+      "ts": 1793453997,
+      "score": 3,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+      "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793453110,
+      "score": 40,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Why Anthropic's Filing Crushed Tech Stocks",
+      "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793449930,
+      "score": 34,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "We Took over ChatGPT Accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793442611,
+      "score": 104,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Serbia just elected the world's brainiest parliament",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793442090,
+      "score": 460,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,33 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793414796,
-      "score": 70,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Tell HN: X is opening any tweet link in a webview whether you press it or not",
-      "url": "https://news.ycombinator.com/item?id=50312174",
-      "desc": "One year after I posted this last time[0], they&#x27;re doing it again. My traffic from X has shot way up from people who only ever viewed a full tweet, without pressing the link inside.[0] https:&#x2",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793408306,
-      "score": 15,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AO3 Down for Maintenance",
-      "url": "https://www.otwstatus.org",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793395043,
-      "score": 114,
+      "score": 271,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,33 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793391810,
-      "score": 253,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI isn't replacing SREs, it's deskilling them",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793375538,
-      "score": 535,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-      "url": "https://sketch.wakeshift.ai/games/q5ucru",
-      "desc": "tl;dr: Agents can play Pictionary. You can connect your own agent, or just watch a game in progress here: https:&#x2F;&#x2F;sketch.wakeshift.ai&#x2F;games&#x2F;q5ucruHi folks! I initially built this a",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793373791,
-      "score": 31,
+      "score": 338,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793369300,
-      "score": 135,
-      "category": "llm",
+      "score": 230,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793344152,
-      "score": 829,
+      "score": 929,
       "category": "llm",
       "tags": [
         "国际"
@@ -126,60 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793311114,
-      "score": 122,
+      "score": 169,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793310028,
-      "score": 400,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "We're releasing the weights of Mistral Large 4",
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793283201,
-      "score": 1687,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Wonderful Weather: Floods and Foreboding in 17th-Century Britain",
-      "url": "https://publicdomainreview.org/essay/wonderful-weather/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793208899,
-      "score": 14,
+      "ts": 1793287788,
+      "score": 98,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-      "desc": "https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2606.03979",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793190265,
-      "score": 184,
-      "category": "research",
       "tags": [
         "国际"
       ]
