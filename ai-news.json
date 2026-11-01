@@ -1,16 +1,55 @@
 {
-  "updated": "2026-10-31 23:06 UTC",
-  "count": 11,
+  "updated": "2026-11-01 04:39 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
-      "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+      "url": "https://arxiv.org/abs/2409.02292",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793480878,
-      "score": 75,
+      "ts": 1793497589,
+      "score": 19,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+      "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+      "desc": "Hi HN,I kept wiring Ben Eater&#x27;s 8-bit computer wrong, so I built a realistic virtual breadboard editor.Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-router (B",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793491830,
+      "score": 13,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI text watermarking and quality loss",
+      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793483413,
+      "score": 37,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "ChatGPT and Codex usage limits merging",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793483347,
+      "score": 31,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793475559,
-      "score": 115,
-      "category": "tools",
+      "score": 265,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,47 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793474328,
-      "score": 31,
+      "score": 71,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793472634,
-      "score": 145,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "I post trained a model on Demoscenes",
-      "url": "https://datavorous.com/writing/demoscener/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793470104,
-      "score": 41,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Malware uses LLMs to rank victims by how much they're worth",
-      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793456943,
-      "score": 225,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793451509,
-      "score": 42,
+      "score": 64,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793442611,
-      "score": 293,
+      "score": 312,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793442090,
-      "score": 788,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet",
-      "url": "https://oqtadrive.org/10.other/5-years/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793349003,
-      "score": 13,
-      "category": "llm",
+      "score": 838,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793287788,
-      "score": 186,
-      "category": "llm",
+      "score": 194,
+      "category": "industry",
       "tags": [
         "国际"
       ]
