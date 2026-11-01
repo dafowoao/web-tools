@@ -1,7 +1,85 @@
 {
-  "updated": "2026-11-01 14:46 UTC",
-  "count": 13,
+  "updated": "2026-11-01 20:13 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "url": "https://news.ycombinator.com/item?id=50328896",
+      "desc": "I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at l",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793561727,
+      "score": 13,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Heretic 2.0 Released: Training-free language model modification",
+      "url": "https://news.ycombinator.com/item?id=50328567",
+      "desc": "https:&#x2F;&#x2F;github.com&#x2F;p-e-w&#x2F;-p-e-w- Posted this from Reddit.&quot;Dear fellow Llamas,after almost 5 months of development, I finally have the pleasure of announcing to you the immedia",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793559702,
+      "score": 3,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "It wasn't AI that flipped Proton's charge",
+      "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793559235,
+      "score": 41,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793559089,
+      "score": 14,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Frontier Airlines Likely Breached",
+      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793551593,
+      "score": 116,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "desc": "Saw Karpathy&#x27;s HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).It&#x27;s ~16.5k books that at least two different HN commenters brought up, from 2007 till now",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793548708,
+      "score": 498,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
@@ -9,60 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793540844,
-      "score": 22,
-      "category": "llm",
+      "score": 125,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The question we should all be asking about AI",
-      "url": "https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt",
-      "desc": "",
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "desc": "I have been researching what the ultimate diff tool would look like, based on actual diffs in open source repositories.OmniDiff can diff: code (25 languages), config, images, PDFs, archives, cursors, ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793537076,
-      "score": 12,
+      "ts": 1793538150,
+      "score": 70,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "noyb win: French electronics retailer Fnac Darty fined €7M",
-      "url": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793531835,
-      "score": 39,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Norway makes shithouses great again",
-      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793530078,
-      "score": 515,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Domain hacks with unusual Unicode characters (2018)",
-      "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793529860,
-      "score": 31,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793513179,
-      "score": 167,
-      "category": "industry",
+      "score": 248,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,47 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793497589,
-      "score": 125,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "ChatGPT and Codex usage limits merging",
-      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793483347,
-      "score": 192,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793475559,
-      "score": 413,
+      "score": 165,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Do the math: How we took over ChatGPT accounts",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793442611,
-      "score": 350,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793393756,
-      "score": 58,
+      "score": 105,
       "category": "industry",
       "tags": [
         "国际"
@@ -152,20 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793287361,
-      "score": 52,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
-      "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793287204,
-      "score": 96,
+      "score": 114,
       "category": "tools",
       "tags": [
         "国际"
