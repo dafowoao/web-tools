@@ -1,7 +1,20 @@
 {
-  "updated": "2026-11-01 20:13 UTC",
-  "count": 12,
+  "updated": "2026-11-02 04:41 UTC",
+  "count": 11,
   "items": [
+    {
+      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793584027,
+      "score": 48,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Ask HN: Which TV do you recommend for privacy?",
       "url": "https://news.ycombinator.com/item?id=50328896",
@@ -9,46 +22,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793561727,
-      "score": 13,
-      "category": "industry",
+      "score": 209,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Heretic 2.0 Released: Training-free language model modification",
-      "url": "https://news.ycombinator.com/item?id=50328567",
-      "desc": "https:&#x2F;&#x2F;github.com&#x2F;p-e-w&#x2F;-p-e-w- Posted this from Reddit.&quot;Dear fellow Llamas,after almost 5 months of development, I finally have the pleasure of announcing to you the immedia",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793559702,
-      "score": 3,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "It wasn't AI that flipped Proton's charge",
-      "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+      "title": "I Am the Reason OpenAI Is Killing Unlimited Chats",
+      "url": "https://chaosmanage.github.io/i-killed-unlimited-chatgpt/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793559235,
-      "score": 41,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-31/us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793559089,
-      "score": 14,
+      "ts": 1793552494,
+      "score": 33,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793551593,
-      "score": 116,
-      "category": "llm",
+      "score": 191,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793548708,
-      "score": 498,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793540844,
-      "score": 125,
-      "category": "industry",
+      "score": 1087,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,7 +74,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793538150,
-      "score": 70,
+      "score": 188,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793529860,
+      "score": 65,
       "category": "tools",
       "tags": [
         "国际"
@@ -113,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793513179,
-      "score": 248,
-      "category": "tools",
+      "score": 329,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,21 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793497589,
-      "score": 165,
-      "category": "tools",
+      "score": 188,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Understanding Email Encryption",
+      "title": "Understanding Email Encryption (2025)",
       "url": "https://www.fastmail.com/blog/email-encryption/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793393756,
-      "score": 105,
-      "category": "industry",
+      "score": 129,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793287361,
-      "score": 114,
-      "category": "tools",
+      "score": 171,
+      "category": "llm",
       "tags": [
         "国际"
       ]
