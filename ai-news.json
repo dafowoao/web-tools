@@ -1,28 +1,28 @@
 {
-  "updated": "2026-11-03 02:01 UTC",
-  "count": 13,
+  "updated": "2026-11-03 11:38 UTC",
+  "count": 7,
   "items": [
     {
-      "title": "WorkOS reports security breach",
-      "url": "https://news.ycombinator.com/item?id=50345712",
-      "desc": "It&#x27;s not on their website or Trust center yet, but we received the following breach notification from WorkOS:We are writing to notify you of a data security incident that we detected on October 3",
+      "title": "Mass attempted replication of old findings of LLMs with new models",
+      "url": "https://zou-group.github.io/llm-claims-shelf-life/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793662259,
-      "score": 41,
-      "category": "industry",
+      "ts": 1793677289,
+      "score": 11,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Anthropic's growth just flattened",
-      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793658800,
-      "score": 164,
+      "ts": 1793663276,
+      "score": 236,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,21 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793658647,
-      "score": 198,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793647657,
-      "score": 156,
-      "category": "industry",
+      "score": 365,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793645684,
-      "score": 113,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Agentic backdoors via pretraining poisoning",
-      "url": "https://arxiv.org/abs/2610.37741",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793644258,
-      "score": 92,
-      "category": "tools",
+      "score": 166,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793639777,
-      "score": 556,
-      "category": "tools",
+      "score": 714,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793639125,
-      "score": 124,
-      "category": "llm",
+      "score": 146,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,60 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793635297,
-      "score": 176,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
-      "url": "https://longcat.ai/blog/longcat-2.5/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793631626,
-      "score": 79,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
-      "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793631381,
-      "score": 68,
+      "score": 221,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "When Modernization Breaks Working Code: A Study of LLMs on Legacy PHP",
-      "url": "https://arxiv.org/abs/2610.40269",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793568148,
-      "score": 18,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-      "url": "https://hackerbooks.org",
-      "desc": "Saw Karpathy&#x27;s HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).It&#x27;s ~16.5k books that at least two different HN commenters brought up, from 2007 till now",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793548708,
-      "score": 1809,
-      "category": "tools",
       "tags": [
         "国际"
       ]
