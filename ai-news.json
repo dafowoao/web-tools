@@ -1,7 +1,33 @@
 {
-  "updated": "2026-11-04 00:24 UTC",
-  "count": 15,
+  "updated": "2026-11-04 11:52 UTC",
+  "count": 12,
   "items": [
+    {
+      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793787814,
+      "score": 50,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "desc": "If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sess",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793787027,
+      "score": 62,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
       "url": "https://arxiv.org/abs/2605.29713",
@@ -9,21 +35,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793742053,
-      "score": 174,
-      "category": "llm",
+      "score": 350,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-      "desc": "",
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "url": "https://uncracked.city",
+      "desc": "To give you some context on the project. I&#x27;m a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793741204,
-      "score": 158,
-      "category": "llm",
+      "ts": 1793740803,
+      "score": 78,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793740608,
-      "score": 38,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "macOS 27 does not support CoreStorage volumes",
-      "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793734073,
-      "score": 88,
-      "category": "tools",
+      "score": 96,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793729471,
-      "score": 70,
-      "category": "industry",
+      "score": 184,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,59 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793726557,
-      "score": 977,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Gitbook Breached",
-      "url": "https://news.ycombinator.com/item?id=50354336",
-      "desc": "We opened a ticket with support about Gitbook availability issues and got this in reply. We have yet to see any official customer communication or breach notification. Apologies for the formatting, di",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793724349,
-      "score": 140,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
-      "url": "https://arxiv.org/abs/2611.02618",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793724002,
-      "score": 44,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Google will turn off search for schools that reject AI",
-      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;RuwsBhttps:&#x2F;&#x2F;blog.google&#x2F;products-and-platforms&#x2F;products&#x2F;educatio...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793719547,
-      "score": 544,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-      "url": "https://news.ycombinator.com/item?id=50352757",
-      "desc": "My company is pretty paranoid about leaking IP to the frontier labs through prompts, so we&#x27;ve all been diligent about disabling data sharing in Codex&#x2F;Claude Code&#x2F;etc. But yesterday my c",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793717621,
-      "score": 421,
+      "score": 1327,
       "category": "tools",
       "tags": [
         "国际"
@@ -139,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793717147,
-      "score": 5,
-      "category": "tools",
+      "score": 82,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793668689,
-      "score": 141,
-      "category": "llm",
+      "score": 351,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -165,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793636959,
-      "score": 581,
-      "category": "llm",
+      "score": 852,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -178,21 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793628162,
-      "score": 361,
-      "category": "tools",
+      "score": 487,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "We're Training a Figma-Fluent Editing Model",
+      "title": "We're training a Figma-fluent editing model",
       "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793505923,
-      "score": 60,
-      "category": "tools",
+      "score": 124,
+      "category": "industry",
       "tags": [
         "国际"
       ]
