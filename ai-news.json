@@ -1,7 +1,111 @@
 {
-  "updated": "2026-11-05 11:53 UTC",
+  "updated": "2026-11-05 19:33 UTC",
   "count": 11,
   "items": [
+    {
+      "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793901601,
+      "score": 108,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "url": "https://github.com/rivet-dev/rivet",
+      "desc": "Hey HN, this is Nathan and Nicholas from Rivet (https:&#x2F;&#x2F;rivet.dev) – a fast, high-density, and scalable orchestrator for agentic workloads using the actor model. Rather than running a heavyw",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793899062,
+      "score": 30,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793898083,
+      "score": 1,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
+      "url": "https://github.com/AGGIB/Stroq",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793894081,
+      "score": 31,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
+      "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793893917,
+      "score": 41,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793892703,
+      "score": 9,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Offline survival assistant – local LLM and Kiwix, runs from a USB stick",
+      "url": "https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793892336,
+      "score": 14,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "MCP Explained",
+      "url": "https://mcp-explained.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793887715,
+      "score": 173,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Baidu released ERNIE 5.5 Flash Base",
       "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
@@ -9,137 +113,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793870952,
-      "score": 54,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793822114,
-      "score": 158,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "url": "https://www.ricursive.com/ripple",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793818409,
-      "score": 304,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-      "url": "https://news.ycombinator.com/item?id=50368804",
-      "desc": "Hi HN! I&#x27;m Luke from Kino (https:&#x2F;&#x2F;kino.ai). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links fo",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793813513,
-      "score": 89,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
-      "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793808693,
-      "score": 134,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI to acquire Pierre Computer Company",
-      "url": "https://openai.com/index/openai-to-acquire-pierre/",
-      "desc": "https:&#x2F;&#x2F;twitter.com&#x2F;pierrecomputer&#x2F;status&#x2F;211799903617518818...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793805681,
-      "score": 247,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: What's your current AI agentic setup?",
-      "url": "https://news.ycombinator.com/item?id=50366117",
-      "desc": "I&#x27;m curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793803042,
-      "score": 362,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793793137,
-      "score": 1206,
+      "score": 150,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-      "url": "https://news.ycombinator.com/item?id=50363461",
-      "desc": "If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sess",
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793787027,
-      "score": 673,
+      "ts": 1793864670,
+      "score": 212,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Future Maintenance of Mbed TLS",
-      "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
-      "desc": "",
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "url": "https://www.linum.ai/field-notes/pjit-21k",
+      "desc": "My brother and I run a 2-person lab that trains our own generative video models from scratch. The ultimate goal is a set of creative tools that make it easier for anyone to make animation.Video models",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793691545,
-      "score": 53,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Basically no one is using AI agents for their DoorDash orders",
-      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793634525,
-      "score": 144,
+      "ts": 1793810711,
+      "score": 67,
       "category": "tools",
       "tags": [
         "国际"
