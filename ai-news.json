@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-05 00:44 UTC",
-  "count": 14,
+  "updated": "2026-11-05 11:53 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
-      "url": "https://github.com/gauge-sh/gauge-cli",
-      "desc": "Hi HN, I’m Evan from Gauge. We’re open-sourcing our CLI to recursively improve your docs for coding agents. The CLI includes a local execution backend, so you don&#x27;t need an account to try it. Exp",
+      "title": "Baidu released ERNIE 5.5 Flash Base",
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793824290,
-      "score": 10,
+      "ts": 1793870952,
+      "score": 54,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,8 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793822114,
-      "score": 91,
-      "category": "llm",
+      "score": 158,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,20 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793818409,
-      "score": 206,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "From wild to mild: Friendly foxes show changes in brain region",
-      "url": "https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793816656,
-      "score": 36,
+      "score": 304,
       "category": "industry",
       "tags": [
         "国际"
@@ -61,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793813513,
-      "score": 67,
+      "score": 89,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,34 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793808693,
-      "score": 54,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793806111,
-      "score": 58,
+      "score": 134,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I built a tool that prices a pre-built PC part by part",
-      "url": "https://pcdealcheck.com/",
-      "desc": "I&#x27;ve missed out on an awesome computer that I could use for a project because figuring out value took too long. Users paste a listing and receive a value grade, dated component estimates and a sh",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793805933,
-      "score": 92,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793805681,
-      "score": 169,
-      "category": "llm",
+      "score": 247,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -126,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793803042,
-      "score": 96,
-      "category": "tools",
+      "score": 362,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -139,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793793137,
-      "score": 1039,
+      "score": 1206,
       "category": "tools",
       "tags": [
         "国际"
@@ -152,21 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793787027,
-      "score": 624,
-      "category": "tools",
+      "score": 673,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: The DNA of DOOM – How code structure survives across 44 ports",
-      "url": "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/",
-      "desc": "I used my custom built structural extraction engine to analyze 44 DOOM ports across history to see what functions remain, if the keyword structure of those functions remained, if comparable call netwo",
+      "title": "Future Maintenance of Mbed TLS",
+      "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793636617,
-      "score": 16,
-      "category": "industry",
+      "ts": 1793691545,
+      "score": 53,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -178,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793634525,
-      "score": 58,
+      "score": 144,
       "category": "tools",
       "tags": [
         "国际"
