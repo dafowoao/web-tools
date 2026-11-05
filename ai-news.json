@@ -1,7 +1,59 @@
 {
-  "updated": "2026-11-04 19:25 UTC",
-  "count": 7,
+  "updated": "2026-11-05 00:44 UTC",
+  "count": 14,
   "items": [
+    {
+      "title": "Show HN: Gauge – Open-Source CLI to recursively improve your docs",
+      "url": "https://github.com/gauge-sh/gauge-cli",
+      "desc": "Hi HN, I’m Evan from Gauge. We’re open-sourcing our CLI to recursively improve your docs for coding agents. The CLI includes a local execution backend, so you don&#x27;t need an account to try it. Exp",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793824290,
+      "score": 10,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793822114,
+      "score": 91,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://www.ricursive.com/ripple",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793818409,
+      "score": 206,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "From wild to mild: Friendly foxes show changes in brain region",
+      "url": "https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793816656,
+      "score": 36,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
       "url": "https://news.ycombinator.com/item?id=50368804",
@@ -9,34 +61,73 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793813513,
-      "score": 24,
+      "score": 67,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
+      "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793808693,
+      "score": 54,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793806111,
+      "score": 58,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
+      "title": "Show HN: I built a tool that prices a pre-built PC part by part",
       "url": "https://pcdealcheck.com/",
       "desc": "I&#x27;ve missed out on an awesome computer that I could use for a project because figuring out value took too long. Users paste a listing and receive a value grade, dated component estimates and a sh",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793805933,
-      "score": 61,
+      "score": 92,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Pierre Computer is being acquired by OpenAI",
-      "url": "https://twitter.com/pierrecomputer/status/2117999036175188183",
-      "desc": "",
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "desc": "https:&#x2F;&#x2F;twitter.com&#x2F;pierrecomputer&#x2F;status&#x2F;211799903617518818...",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793805681,
-      "score": 72,
+      "score": 169,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "desc": "I&#x27;m curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793803042,
+      "score": 96,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793793137,
-      "score": 805,
-      "category": "industry",
+      "score": 1039,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,34 +152,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793787027,
-      "score": 523,
-      "category": "llm",
+      "score": 624,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-      "url": "https://uncracked.city",
-      "desc": "To give you some context on the project. I&#x27;m a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is",
+      "title": "Show HN: The DNA of DOOM – How code structure survives across 44 ports",
+      "url": "https://squid-protocol.github.io/gitgalaxy/museum-of-code/doom-dna/",
+      "desc": "I used my custom built structural extraction engine to analyze 44 DOOM ports across history to see what functions remain, if the keyword structure of those functions remained, if comparable call netwo",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793740803,
-      "score": 119,
-      "category": "llm",
+      "ts": 1793636617,
+      "score": 16,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
-      "url": "https://hackertv.org",
-      "desc": "I saw HackerTube (https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50319510) a few days ago, the YouTube videos HN keeps\nrecommending, pulled from 19 years of comments. It made me want to flip\nthro",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793668689,
-      "score": 440,
-      "category": "llm",
+      "ts": 1793634525,
+      "score": 58,
+      "category": "tools",
       "tags": [
         "国际"
       ]
