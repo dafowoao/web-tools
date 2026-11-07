@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-06 23:57 UTC",
-  "count": 14,
+  "updated": "2026-11-07 05:35 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "Outbound SIP calling is now available to all organizations",
-      "url": "https://developers.openai.com/api/docs/guides/voice-sip",
-      "desc": "",
+      "title": "Show HN: Did prediction markets do any predicting this midterms?",
+      "url": "https://app.artifactbin.dev/@vivek/AQTt2H-did-prediction-markets-predict-the-midterms",
+      "desc": "I&#x27;ve heard so much about how prediction markets are the guiding light in this dark world. But when put head to head against polls or Nate Silver&#x27;s FLIPR model, they are really a wash. Especi",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794006235,
-      "score": 3,
+      "ts": 1794023421,
+      "score": 16,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+      "title": "The AI sell-off compared to well-known stock market crashes",
+      "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794005443,
-      "score": 38,
-      "category": "tools",
+      "ts": 1794018006,
+      "score": 35,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,21 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793996843,
-      "score": 162,
+      "score": 249,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
-      "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
-      "desc": "Hi there :)Around a month ago, I released LDraw Nova, an agentic toolset for assembling LEGO CAD models by generating LDraw source code files.For more details, here&#x27;s the Show HN post:https:&#x2F",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793994080,
-      "score": 24,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793993061,
-      "score": 33,
-      "category": "tools",
+      "score": 100,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793992767,
-      "score": 72,
-      "category": "tools",
+      "score": 107,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793989003,
-      "score": 38,
-      "category": "llm",
+      "score": 49,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793988213,
-      "score": 75,
+      "score": 101,
       "category": "tools",
       "tags": [
         "国际"
@@ -114,7 +101,7 @@
       "sourceColor": "#ff6600",
       "ts": 1793984613,
       "score": 1,
-      "category": "llm",
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793984076,
-      "score": 201,
+      "score": 263,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793973440,
-      "score": 42,
-      "category": "industry",
+      "score": 60,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -152,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793972127,
-      "score": 289,
+      "score": 309,
       "category": "llm",
       "tags": [
         "国际"
@@ -165,7 +152,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793937628,
-      "score": 256,
+      "score": 307,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793917035,
+      "score": 1563,
       "category": "industry",
       "tags": [
         "国际"
@@ -178,8 +178,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793887591,
-      "score": 31,
-      "category": "tools",
+      "score": 55,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+      "url": "https://github.com/andrewboldi/tmux-restore",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793726721,
+      "score": 22,
+      "category": "industry",
       "tags": [
         "国际"
       ]
