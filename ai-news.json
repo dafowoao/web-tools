@@ -1,7 +1,72 @@
 {
-  "updated": "2026-11-07 14:41 UTC",
-  "count": 11,
+  "updated": "2026-11-07 19:54 UTC",
+  "count": 9,
   "items": [
+    {
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "desc": "https:&#x2F;&#x2F;archive.is&#x2F;AaY5Ohttps:&#x2F;&#x2F;businessexaminer.ca&#x2F;victoria-articles&#x2F;item&#x2F;microsoft...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794074537,
+      "score": 145,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "url": "https://github.com/hedgerow-dev/coldframe",
+      "desc": "I built Coldframe, a honeypot that pretends to be a supermarket refrigeration controller. Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794072450,
+      "score": 102,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "How Long Can Life Wait?",
+      "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794068579,
+      "score": 77,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794064561,
+      "score": 31,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
+      "url": "https://news.ycombinator.com/item?id=50405250",
+      "desc": "I love open-source software and open protocols, but my family and friends primarily communicate through SMS for exactly the reasons in https:&#x2F;&#x2F;xkcd.com&#x2F;2365&#x2F;Whenever XMPP or Matrix",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794064480,
+      "score": 59,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "The Components of Agent Memory",
       "url": "https://www.anthropic.com/research/components-of-agent-memory",
@@ -9,86 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794033544,
-      "score": 84,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI is dramatically accelerating AI research",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793996843,
-      "score": 337,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GitHub's new Git storage architecture",
-      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793993061,
-      "score": 174,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Restaurant Delivery Payment-Skimming Campaign",
-      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793992767,
-      "score": 144,
+      "score": 132,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
-      "url": "https://up.codes/careers?utm_source=HN",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793984613,
-      "score": 1,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ozempic-style drugs now in trials for heart failure, addiction and even aging",
-      "url": "https://maccus.fr/en/ozempic-drugs-trials-beyond-diabetes/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793978674,
-      "score": 88,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Gemini Omni 1.2 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793972127,
-      "score": 350,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,34 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793937628,
-      "score": 363,
+      "score": 399,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793917035,
-      "score": 1579,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
-      "url": "https://github.com/piercefreeman/waymark",
-      "desc": "Hey everyone! @mozgiii and I have been working on Waymark for the better part of the last year. Waymark’s an open source durable execution library with similar functionality to Temporal or DBOS.I fell",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793887591,
-      "score": 78,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,7 +100,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793875528,
-      "score": 19,
+      "score": 51,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Optimising the Rail Cube",
+      "url": "https://owenlacey.dev/railcube-optimisation/post",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793737886,
+      "score": 18,
       "category": "llm",
       "tags": [
         "国际"
