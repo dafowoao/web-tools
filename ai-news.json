@@ -1,7 +1,46 @@
 {
-  "updated": "2026-11-08 04:42 UTC",
-  "count": 9,
+  "updated": "2026-11-08 14:47 UTC",
+  "count": 10,
   "items": [
+    {
+      "title": "Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+      "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794141685,
+      "score": 11,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794133324,
+      "score": 77,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794127223,
+      "score": 90,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Goodbye Claude, Hello Pi",
       "url": "https://caleb.software/posts/claude-to-pi.html",
@@ -9,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794107508,
-      "score": 8,
-      "category": "tools",
+      "score": 459,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794103358,
-      "score": 6,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-      "url": "https://eyesrhythm.com/",
-      "desc": "Profession like software engineer, mechanical &#x2F; graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rat",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794088067,
-      "score": 28,
-      "category": "llm",
+      "score": 88,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794084332,
-      "score": 262,
-      "category": "industry",
+      "score": 466,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794074537,
-      "score": 424,
+      "score": 477,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,33 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794072450,
-      "score": 207,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How Long Can Life Wait?",
-      "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794068579,
-      "score": 132,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Components of Agent Memory",
-      "url": "https://www.anthropic.com/research/components-of-agent-memory",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794033544,
-      "score": 154,
+      "score": 258,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,8 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793875924,
-      "score": 91,
-      "category": "tools",
+      "score": 163,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Quadrillion-parameter transformers and how to train them",
+      "url": "https://qlabs.sh/research/parameters",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1793716637,
+      "score": 21,
+      "category": "llm",
       "tags": [
         "国际"
       ]
