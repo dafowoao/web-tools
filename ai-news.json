@@ -1,7 +1,33 @@
 {
-  "updated": "2026-11-07 23:26 UTC",
-  "count": 8,
+  "updated": "2026-11-08 04:42 UTC",
+  "count": 9,
   "items": [
+    {
+      "title": "Goodbye Claude, Hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794107508,
+      "score": 8,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Consumer brain wave headsets threaten privacy",
+      "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794103358,
+      "score": 6,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
       "url": "https://eyesrhythm.com/",
@@ -9,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794088067,
-      "score": 12,
+      "score": 28,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794084332,
-      "score": 79,
+      "score": 262,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794074537,
-      "score": 314,
+      "score": 424,
       "category": "industry",
       "tags": [
         "国际"
@@ -48,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794072450,
-      "score": 172,
+      "score": 207,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794068579,
-      "score": 112,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794064561,
-      "score": 52,
-      "category": "industry",
+      "score": 132,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794033544,
-      "score": 146,
+      "score": 154,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1793875924,
-      "score": 32,
-      "category": "llm",
+      "score": 91,
+      "category": "tools",
       "tags": [
         "国际"
       ]
