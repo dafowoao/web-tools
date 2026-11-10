@@ -1,15 +1,41 @@
 {
-  "updated": "2026-11-10 02:33 UTC",
-  "count": 13,
+  "updated": "2026-11-10 12:09 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "Indie Game Development with AI",
-      "url": "https://www.sandromaglione.com/articles/indie-game-development-with-ai",
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794260035,
-      "score": 13,
+      "ts": 1794306358,
+      "score": 74,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794295178,
+      "score": 70,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794280806,
+      "score": 174,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794254695,
-      "score": 296,
+      "score": 351,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
-      "url": "https://someonewashere.app/",
-      "desc": "Many thanks to my ex for inspiring my new MacOS app, Someone Was Here.It takes a photo of whoever uses your Mac while you&#x27;re away, whether you left it unlocked or they know your password, and sen",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794250256,
-      "score": 65,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794249562,
-      "score": 76,
+      "score": 110,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "DeepX claims inference up to 100B parameters at less than 5 W",
-      "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794249238,
-      "score": 138,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,20 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794248678,
-      "score": 441,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-      "url": "https://github.com/Dodaios/ste80-humanizer",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794247544,
-      "score": 60,
+      "score": 633,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,33 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794247270,
-      "score": 176,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
-      "url": "https://www.watched.earth",
-      "desc": "hey HN, i built this because i wanted to know what had actually photographed my street.type in any place and it finds every satellite that passed over it in the last 7 days (SGP4 on the CelesTrak cata",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794246691,
-      "score": 236,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
-      "url": "https://news.ycombinator.com/item?id=50427934",
-      "desc": "Hi HN, I’m Shayan and a few months ago I started building a DB Client DBDelve with a focus on performance and just making something that feels good to use (in the spirit of Zed, Ghostty, and other too",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794242198,
-      "score": 96,
+      "score": 663,
       "category": "industry",
       "tags": [
         "国际"
@@ -139,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794240045,
-      "score": 476,
-      "category": "llm",
+      "score": 538,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794234699,
-      "score": 284,
-      "category": "llm",
+      "score": 323,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -165,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794226762,
-      "score": 860,
-      "category": "industry",
+      "score": 1060,
+      "category": "llm",
       "tags": [
         "国际"
       ]
