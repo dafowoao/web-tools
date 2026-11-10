@@ -1,185 +1,172 @@
 {
-  "updated": "2026-11-09 04:52 UTC",
-  "count": 14,
+  "updated": "2026-11-10 02:33 UTC",
+  "count": 13,
   "items": [
     {
-      "title": "A Bit about Email",
-      "url": "https://maurycyz.com/misc/email/",
+      "title": "Indie Game Development with AI",
+      "url": "https://www.sandromaglione.com/articles/indie-game-development-with-ai",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794192381,
-      "score": 12,
+      "ts": 1794260035,
+      "score": 13,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "I'm not convinced the AI bubble exists",
-      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794181476,
-      "score": 99,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
-      "desc": "https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;11&#x2F;08&#x2F;nvidia-ceo-jensen-huang-aff..., https:&#x2F;&#x2F;archive.ph&#x2F;Hxn5hhttps:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;11&#x2F;06&#x2F;u",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794176409,
-      "score": 432,
+      "ts": 1794254695,
+      "score": 296,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "How I Fight AI Brain Fry",
-      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "desc": "",
+      "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
+      "url": "https://someonewashere.app/",
+      "desc": "Many thanks to my ex for inspiring my new MacOS app, Someone Was Here.It takes a photo of whoever uses your Mac while you&#x27;re away, whether you left it unlocked or they know your password, and sen",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794166662,
-      "score": 190,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794165632,
-      "score": 308,
+      "ts": 1794250256,
+      "score": 65,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "desc": "",
+      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+      "url": "https://meowdisplay.app/",
+      "desc": "Hey HN and Cats, thank you for checking this out!Github:\nhttps:&#x2F;&#x2F;github.com&#x2F;raiseCatError&#x2F;meowdisplayEDIT 2: I should&#x27;ve mentioned that MeowDisplay started as a fork of OpenDi",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794161767,
-      "score": 672,
+      "ts": 1794249562,
+      "score": 76,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "url": "https://github.com/synchopate/llama-modchip",
+      "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+      "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794133324,
-      "score": 392,
+      "ts": 1794249238,
+      "score": 138,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794248678,
+      "score": 441,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794247544,
+      "score": 60,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794247270,
+      "score": 176,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Goodbye Claude, hello Pi",
-      "url": "https://caleb.software/posts/claude-to-pi.html",
-      "desc": "",
+      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+      "url": "https://www.watched.earth",
+      "desc": "hey HN, i built this because i wanted to know what had actually photographed my street.type in any place and it finds every satellite that passed over it in the last 7 days (SGP4 on the CelesTrak cata",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794107508,
-      "score": 718,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794084332,
-      "score": 596,
+      "ts": 1794246691,
+      "score": 236,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
-      "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
+      "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
+      "url": "https://news.ycombinator.com/item?id=50427934",
+      "desc": "Hi HN, I’m Shayan and a few months ago I started building a DB Client DBDelve with a focus on performance and just making something that feels good to use (in the spirit of Zed, Ghostty, and other too",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794242198,
+      "score": 96,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794063100,
-      "score": 37,
+      "ts": 1794240045,
+      "score": 476,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
-      "url": "https://news.ycombinator.com/item?id=50403153",
-      "desc": "Hi Guys,\nlike many of you I work with AI agents every day and across several clients.\nThe major time cost for me is to re-explaining context and past decisions, client rules, that we already do. To fi",
+      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "desc": "https:&#x2F;&#x2F;www.cell.com&#x2F;cell-reports-physical-science&#x2F;fulltext&#x2F;...",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794045708,
-      "score": 20,
-      "category": "tools",
+      "ts": 1794234699,
+      "score": 284,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: JavaScript web apps with WASM layout and GPU rendering in 280 KB",
-      "url": "https://github.com/rkaehn/uniform",
-      "desc": "Over the past year, I have been working to find a better way to write cross-platform apps.The problems I am trying to solve:- Native frameworks only work on a subset of platforms, so a different imple",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794028591,
-      "score": 13,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
-      "url": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "url": "https://www.foldableflight.com",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1793834588,
-      "score": 85,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Declarative Dragging",
-      "url": "https://declarative-dragging.github.io/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1793811907,
-      "score": 423,
-      "category": "tools",
+      "ts": 1794226762,
+      "score": 860,
+      "category": "industry",
       "tags": [
         "国际"
       ]
