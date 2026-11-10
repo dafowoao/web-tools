@@ -1,7 +1,111 @@
 {
-  "updated": "2026-11-10 12:09 UTC",
-  "count": 10,
+  "updated": "2026-11-10 21:39 UTC",
+  "count": 11,
   "items": [
+    {
+      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+      "url": "https://github.com/0xdeadf1sh/T1DMAI",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794337673,
+      "score": 9,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Businesses in ChatGPT – OpenAI",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794334240,
+      "score": 13,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Work at the Frontier: AI's effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794333774,
+      "score": 24,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794333722,
+      "score": 194,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "desc": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without &lt;span&gt;s everywhere, `&lt;dialog&gt;` and showModal() gi",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794333675,
+      "score": 170,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794333307,
+      "score": 110,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Life on Claude Nine",
+      "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794332684,
+      "score": 48,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+      "url": "https://tinyvalencia.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794323536,
+      "score": 144,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "AI usage generates a fragile codebase",
       "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
@@ -9,125 +113,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794306358,
-      "score": 74,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Fireworks AI security breach impacts Notion and their customers",
-      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794295178,
-      "score": 70,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794280806,
-      "score": 174,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794254695,
-      "score": 351,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-      "url": "https://meowdisplay.app/",
-      "desc": "Hey HN and Cats, thank you for checking this out!Github:\nhttps:&#x2F;&#x2F;github.com&#x2F;raiseCatError&#x2F;meowdisplayEDIT 2: I should&#x27;ve mentioned that MeowDisplay started as a fork of OpenDi",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794249562,
-      "score": 110,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "url": "https://github.com/thisisme6598/gemini_files/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794248678,
-      "score": 633,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794247270,
-      "score": 663,
+      "score": 282,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "title": "Show HN: Ghanaian street games you can play in the browser",
+      "url": "https://www.ghanastreetgames.com/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794240045,
-      "score": 538,
+      "ts": 1794151912,
+      "score": 99,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-      "desc": "https:&#x2F;&#x2F;www.cell.com&#x2F;cell-reports-physical-science&#x2F;fulltext&#x2F;...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794234699,
-      "score": 323,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "url": "https://www.foldableflight.com",
+      "title": "A failed experiment in laptop cooling (2025)",
+      "url": "https://kevinboone.me/failed_cooling.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794226762,
-      "score": 1060,
-      "category": "llm",
+      "ts": 1794067049,
+      "score": 54,
+      "category": "tools",
       "tags": [
         "国际"
       ]
