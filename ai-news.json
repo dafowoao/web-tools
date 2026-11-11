@@ -1,42 +1,55 @@
 {
-  "updated": "2026-11-10 21:39 UTC",
-  "count": 11,
+  "updated": "2026-11-11 04:54 UTC",
+  "count": 9,
   "items": [
     {
-      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
-      "url": "https://github.com/0xdeadf1sh/T1DMAI",
+      "title": "Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai",
+      "url": "https://taipeiledger.com/gpu/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794337673,
-      "score": 9,
-      "category": "tools",
+      "ts": 1794365401,
+      "score": 6,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Businesses in ChatGPT – OpenAI",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt/",
+      "title": "LLMs Play Zachtronics' TIS-100",
+      "url": "https://tis-100.wincon.dev/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794334240,
-      "score": 13,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Work at the Frontier: AI's effect on freelance work",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794333774,
-      "score": 24,
+      "ts": 1794357425,
+      "score": 25,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
+      "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794356133,
+      "score": 30,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794349076,
+      "score": 355,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794333722,
-      "score": 194,
-      "category": "llm",
+      "score": 329,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,34 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794333675,
-      "score": 170,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794333307,
-      "score": 110,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Life on Claude Nine",
-      "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794332684,
-      "score": 48,
-      "category": "llm",
+      "score": 310,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794323536,
-      "score": 144,
+      "score": 214,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
+      "url": "https://aircad.com",
+      "desc": "Aircad is a professional CAD system running in the browser with deep AI integration. It includes professional grade drafting and documentation tools, NURBS-based solid modeling, and a lot more. You ca",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794322879,
+      "score": 31,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,33 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794306358,
-      "score": 282,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Ghanaian street games you can play in the browser",
-      "url": "https://www.ghanastreetgames.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794151912,
-      "score": 99,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "A failed experiment in laptop cooling (2025)",
-      "url": "https://kevinboone.me/failed_cooling.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794067049,
-      "score": 54,
+      "score": 439,
       "category": "tools",
       "tags": [
         "国际"
