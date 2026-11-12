@@ -1,15 +1,67 @@
 {
-  "updated": "2026-11-12 05:56 UTC",
-  "count": 14,
+  "updated": "2026-11-12 16:36 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS",
-      "url": "https://github.com/DaleFranks/ramasite",
-      "desc": "I&#x27;m new here, and little nervous about posting, but here goes.I&#x27;m not a newbie. I started programming in BASIC when my dad bought home a TRS-80 Model I in 1980, when I was 16. Other than a 9",
+      "title": "Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in",
+      "url": "https://getvale.org",
+      "desc": "We used WordPress ourselves but struggled with ongoing maintenance. So we built an internal alternative CMS that met our needs. After two years of development, we decided to make it open source.You ca",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794452002,
-      "score": 6,
+      "ts": 1794497754,
+      "score": 4,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794496990,
+      "score": 20,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: AI Red Lines – write down what would make you act on AI",
+      "url": "https://yourairedlines.com",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794493881,
+      "score": 8,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "NVIDIA Announces CEO Transition",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "desc": "https:&#x2F;&#x2F;www.reuters.com&#x2F;live&#x2F;nvidia-live-board-meets-fate-ce...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794491549,
+      "score": 1245,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794484001,
+      "score": 438,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,20 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794436463,
-      "score": 309,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Jensen Huang said to have had relationship with executive who reports to him",
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794434638,
-      "score": 326,
+      "score": 535,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794432275,
-      "score": 494,
+      "score": 636,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794421962,
-      "score": 353,
-      "category": "tools",
+      "score": 525,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,112 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794421298,
-      "score": 766,
+      "score": 931,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-      "url": "https://news.ycombinator.com/item?id=50455811",
-      "desc": "Hi HN, we’re Alan and Akshay from Pomerado (https:&#x2F;&#x2F;pomerado.ai&#x2F;). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-se",
+      "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
+      "url": "https://aircad.com",
+      "desc": "Aircad is a professional CAD system running in the browser with deep AI integration. It includes professional grade drafting and documentation tools, NURBS-based solid modeling, and a lot more. You ca",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794417116,
-      "score": 53,
+      "ts": 1794322879,
+      "score": 79,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Faster Retrieval for Better, More Efficient RAG",
-      "url": "https://machinelearning.apple.com/research/faster-retrieval",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794416265,
-      "score": 187,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "desc": "Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794411186,
-      "score": 211,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Atuin Threads: All your agent sessions on every machine",
-      "url": "https://blog.atuin.sh/threads-agent-sessions/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794406246,
-      "score": 208,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "My AI agents found an unmapped Maya site?",
-      "url": "https://pietromiotti.com/latest/maya-site",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794398722,
-      "score": 958,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
-      "url": "https://news.ycombinator.com/item?id=50452404",
-      "desc": "About TinfoilTinfoil: https:&#x2F;&#x2F;tinfoil.sh&#x2F; is a security research lab building an AI cloud for private, verifiable computation. Our customers include DuckDuckGo, Mozilla, financial insti",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794398435,
-      "score": 1,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Apple has new Mac app coming to make running local AI models easy",
-      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794345903,
-      "score": 526,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)",
-      "url": "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794196677,
-      "score": 6,
-      "category": "industry",
       "tags": [
         "国际"
       ]
