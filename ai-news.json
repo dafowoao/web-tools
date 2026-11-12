@@ -1,16 +1,42 @@
 {
-  "updated": "2026-11-11 22:29 UTC",
-  "count": 16,
+  "updated": "2026-11-12 05:56 UTC",
+  "count": 14,
   "items": [
     {
-      "title": "Jensen Huang Said to Have Had Relationship with Nvidia Executive",
+      "title": "Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS",
+      "url": "https://github.com/DaleFranks/ramasite",
+      "desc": "I&#x27;m new here, and little nervous about posting, but here goes.I&#x27;m not a newbie. I started programming in BASIC when my dad bought home a TRS-80 Model I in 1980, when I was 16. Other than a 9",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794452002,
+      "score": 6,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794436463,
+      "score": 309,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Jensen Huang said to have had relationship with executive who reports to him",
       "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794434638,
-      "score": 41,
-      "category": "tools",
+      "score": 326,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794432275,
-      "score": 127,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Retirement Savings Are Fueling the AI Bubble",
-      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794424003,
-      "score": 120,
-      "category": "llm",
+      "score": 494,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794421962,
-      "score": 165,
-      "category": "industry",
+      "score": 353,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794421298,
-      "score": 512,
+      "score": 766,
       "category": "tools",
       "tags": [
         "国际"
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794417116,
-      "score": 39,
-      "category": "llm",
+      "score": 53,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,33 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794416265,
-      "score": 120,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI, activity, and outcomes in software engineering",
-      "url": "https://cabird.com/talks/shipping-faster/",
-      "desc": "https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0wumMeZsNsI",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794414808,
-      "score": 100,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
-      "url": "https://github.com/klad-app/klad",
-      "desc": "I&#x27;ve been developing applications for a long time and have turned to game development as well lately. One of the things that frustrated me the most was that using AI agents for game development i",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794412850,
-      "score": 67,
+      "score": 187,
       "category": "tools",
       "tags": [
         "国际"
@@ -126,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794411186,
-      "score": 134,
-      "category": "industry",
+      "score": 211,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -139,21 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794406246,
-      "score": 174,
+      "score": 208,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "My AI agents found an unmapped Maya site",
+      "title": "My AI agents found an unmapped Maya site?",
       "url": "https://pietromiotti.com/latest/maya-site",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794398722,
-      "score": 890,
-      "category": "llm",
+      "score": 958,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -178,34 +165,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794345903,
-      "score": 508,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "TimeNet: Open-source data infrastructure for Temporal Foundation Models",
-      "url": "https://github.com/OpenTSLM/TimeNet",
-      "desc": "Hi HN,Current frontier LLMs show incredible results across text, video, and audio, but don&#x27;t do as well with real-world scenarios like production lines, trading, drilling operations, or demand su",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794330969,
-      "score": 43,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Micron – Oberon with the Power of C",
-      "url": "https://github.com/rochus-keller/Micron",
-      "desc": "I have been developing Micron (for &quot;MicroOberon&quot;), a lean, statically typed, modular systems programming language that combines Oberon’s simplicity and explicit module structure with C’s low",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794145208,
-      "score": 43,
+      "score": 526,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)",
+      "url": "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794196677,
+      "score": 6,
+      "category": "industry",
       "tags": [
         "国际"
       ]
