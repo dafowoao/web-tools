@@ -1,16 +1,133 @@
 {
-  "updated": "2026-11-12 16:36 UTC",
-  "count": 10,
+  "updated": "2026-11-13 00:54 UTC",
+  "count": 13,
   "items": [
     {
-      "title": "Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in",
-      "url": "https://getvale.org",
-      "desc": "We used WordPress ourselves but struggled with ongoing maintenance. So we built an internal alternative CMS that met our needs. After two years of development, we decided to make it open source.You ca",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794497754,
-      "score": 4,
+      "ts": 1794524777,
+      "score": 18,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794520571,
+      "score": 136,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794517789,
+      "score": 72,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
+      "url": "https://github.com/cerulion-inc/cerulion",
+      "desc": "Hey HN! I&#x27;m Lakshay. Raveen and I have built Cerulion, a ROS2-compatible robotics runtime written in Rust. We&#x27;ve worked hard on lowering IPC transport latencies without making the single pro",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794516784,
+      "score": 7,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Distributed Ray Tracer",
+      "url": "https://ray.hatchet.run",
+      "desc": "Hey HN, I&#x27;m Julius, I&#x27;m a backend engineer at Hatchet and created this demo to show off some of Hatchet&#x27;s new features, primarily durable streams and serverless endpoints. Those, howeve",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794510383,
+      "score": 35,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794509521,
+      "score": 281,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "desc": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https:&#x2F;&#x2F;agentrun.ai&#x2F;blog&#x2F;introducing-agentrun-r",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794507348,
+      "score": 74,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794506508,
+      "score": 451,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Kapso – Iterative learning from enterprise data",
+      "url": "https://news.ycombinator.com/item?id=50471281",
+      "desc": "Hey HN! We&#x27;re Alireza and Majid building Leeroo (https:&#x2F;&#x2F;leeroo.com&#x2F;). Previously we’ve built AI systems for products with millions of users, including at LinkedIn and Meta. We’re ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794505883,
+      "score": 37,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Apron Chat Protocol",
+      "url": "https://apron.chat/",
+      "desc": "Hi HN friends - I&#x27;ve been obsessed with chat protocols for ages - one previous project is ssh-chat (https:&#x2F;&#x2F;ssh.chat&#x2F;)I come bringing a new kind of chat protocol that I&#x27;ve bee",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794502351,
+      "score": 28,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,34 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794496990,
-      "score": 20,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: AI Red Lines – write down what would make you act on AI",
-      "url": "https://yourairedlines.com",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794493881,
-      "score": 8,
+      "score": 275,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "NVIDIA Announces CEO Transition",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-      "desc": "https:&#x2F;&#x2F;www.reuters.com&#x2F;live&#x2F;nvidia-live-board-meets-fate-ce...",
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "desc": "https:&#x2F;&#x2F;nvidianews.nvidia.com&#x2F;news&#x2F;nvidia-announces-ceo-tran...https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;retail-consumer&#x2F;nvidia-ceo-..., https:&#x2F;&#x2F;www.reute",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794491549,
-      "score": 1245,
-      "category": "tools",
+      "score": 2869,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,73 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794484001,
-      "score": 438,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "url": "https://www.mcmillen.dev/sigbovik/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794436463,
-      "score": 535,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794432275,
-      "score": 636,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Gemini Decisions API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794421962,
-      "score": 525,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AWS emulator",
-      "url": "https://github.com/aws/aws-emulator",
-      "desc": "https:&#x2F;&#x2F;www.aboutamazon.com&#x2F;news&#x2F;aws&#x2F;how-autonomous-ai-agent...https:&#x2F;&#x2F;www.allthingsdistributed.com&#x2F;2026&#x2F;11&#x2F;aws-emulator-an...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794421298,
-      "score": 931,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
-      "url": "https://aircad.com",
-      "desc": "Aircad is a professional CAD system running in the browser with deep AI integration. It includes professional grade drafting and documentation tools, NURBS-based solid modeling, and a lot more. You ca",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794322879,
-      "score": 79,
-      "category": "tools",
+      "score": 804,
+      "category": "industry",
       "tags": [
         "国际"
       ]
