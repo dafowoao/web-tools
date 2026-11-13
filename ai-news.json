@@ -1,16 +1,107 @@
 {
-  "updated": "2026-11-13 11:53 UTC",
-  "count": 16,
+  "updated": "2026-11-13 19:15 UTC",
+  "count": 17,
   "items": [
     {
-      "title": "Claude Is Down",
-      "url": "https://status.claude.com/history",
+      "title": "Are we just going to ignore that books are destroyed for AI?",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794565209,
-      "score": 111,
+      "ts": 1794593678,
+      "score": 13,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+      "url": "https://isometricsf.com/",
+      "desc": "Technical Write-up: https:&#x2F;&#x2F;www.justinchavez.com&#x2F;blog&#x2F;isometric-sf-how&#x2F;Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealist",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794592717,
+      "score": 36,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "OpenAI disbands its robotics team as its general models start running robots",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794592523,
+      "score": 33,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794591010,
+      "score": 159,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Gnomon. Git for Postgres data, built for agents",
+      "url": "https://github.com/bitsinfra/gnomon",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794589792,
+      "score": 17,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+      "url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794585124,
+      "score": 142,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "url": "https://text.npr.org/nx-s1-6029408",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794583750,
+      "score": 97,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI is destroying the trust between writers and readers",
+      "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794568426,
+      "score": 253,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794565093,
-      "score": 222,
+      "score": 458,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Scientists claim the universe is twice as old as believed",
-      "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794546810,
-      "score": 88,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794539288,
-      "score": 127,
-      "category": "industry",
+      "score": 242,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,34 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794524777,
-      "score": 272,
-      "category": "tools",
+      "score": 328,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794520571,
-      "score": 307,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794517789,
-      "score": 179,
-      "category": "industry",
+      "ts": 1794520989,
+      "score": 533,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,21 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794513093,
-      "score": 301,
+      "score": 436,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Vibes Don't Maintain",
-      "url": "https://roll.bybacon.com/2026/10/14/vibes-dont-maintain.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794510389,
-      "score": 86,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,47 +178,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794509521,
-      "score": 425,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-      "desc": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https:&#x2F;&#x2F;agentrun.ai&#x2F;blog&#x2F;introducing-agentrun-r",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794507348,
-      "score": 109,
+      "score": 490,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Gemini 4 Hydrogen",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794506508,
-      "score": 535,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Kapso – Iterative learning from enterprise data",
-      "url": "https://news.ycombinator.com/item?id=50471281",
-      "desc": "Hey HN! We&#x27;re Alireza and Majid building Leeroo (https:&#x2F;&#x2F;leeroo.com&#x2F;). Previously we’ve built AI systems for products with millions of users, including at LinkedIn and Meta. We’re ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794505883,
-      "score": 47,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -178,7 +191,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794496990,
-      "score": 390,
+      "score": 462,
       "category": "industry",
       "tags": [
         "国际"
@@ -191,21 +204,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794491549,
-      "score": 3638,
-      "category": "tools",
+      "score": 3974,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Anthropic IPO",
-      "url": "https://ipo.anthropic.com/us/",
-      "desc": "",
+      "title": "Show HN: Log every LLM call with tokens, cost, latency, and time to first token",
+      "url": "https://github.com/garritfra/llmtee",
+      "desc": "Hi HN,Llmtee is a lightweight llm proxy. I built this project because I needed a simple way to log llm calls across my agents.Existing options require running Postgres, ClickHouse and Redis, or have m",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794484001,
-      "score": 951,
-      "category": "tools",
+      "ts": 1794394546,
+      "score": 5,
+      "category": "industry",
       "tags": [
         "国际"
       ]
