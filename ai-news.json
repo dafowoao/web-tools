@@ -1,7 +1,59 @@
 {
-  "updated": "2026-11-13 00:54 UTC",
-  "count": 13,
+  "updated": "2026-11-13 11:53 UTC",
+  "count": 16,
   "items": [
+    {
+      "title": "Claude Is Down",
+      "url": "https://status.claude.com/history",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794565209,
+      "score": 111,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794565093,
+      "score": 222,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Scientists claim the universe is twice as old as believed",
+      "url": "https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794546810,
+      "score": 88,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794539288,
+      "score": 127,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
       "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
@@ -9,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794524777,
-      "score": 18,
-      "category": "llm",
+      "score": 272,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794520571,
-      "score": 136,
-      "category": "industry",
+      "score": 307,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,33 +87,33 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794517789,
-      "score": 72,
+      "score": 179,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
-      "url": "https://github.com/cerulion-inc/cerulion",
-      "desc": "Hey HN! I&#x27;m Lakshay. Raveen and I have built Cerulion, a ROS2-compatible robotics runtime written in Rust. We&#x27;ve worked hard on lowering IPC transport latencies without making the single pro",
+      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "desc": "https:&#x2F;&#x2F;www.forbes.com&#x2F;sites&#x2F;alisondurkee&#x2F;2026&#x2F;11&#x2F;12&#x2F;jensen-...",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794516784,
-      "score": 7,
-      "category": "tools",
+      "ts": 1794513093,
+      "score": 301,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Distributed Ray Tracer",
-      "url": "https://ray.hatchet.run",
-      "desc": "Hey HN, I&#x27;m Julius, I&#x27;m a backend engineer at Hatchet and created this demo to show off some of Hatchet&#x27;s new features, primarily durable streams and serverless endpoints. Those, howeve",
+      "title": "Vibes Don't Maintain",
+      "url": "https://roll.bybacon.com/2026/10/14/vibes-dont-maintain.html",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794510383,
-      "score": 35,
+      "ts": 1794510389,
+      "score": 86,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794509521,
-      "score": 281,
+      "score": 425,
       "category": "llm",
       "tags": [
         "国际"
@@ -87,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794507348,
-      "score": 74,
-      "category": "industry",
+      "score": 109,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,7 +152,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794506508,
-      "score": 451,
+      "score": 535,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,20 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794505883,
-      "score": 37,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Apron Chat Protocol",
-      "url": "https://apron.chat/",
-      "desc": "Hi HN friends - I&#x27;ve been obsessed with chat protocols for ages - one previous project is ssh-chat (https:&#x2F;&#x2F;ssh.chat&#x2F;)I come bringing a new kind of chat protocol that I&#x27;ve bee",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794502351,
-      "score": 28,
+      "score": 47,
       "category": "industry",
       "tags": [
         "国际"
@@ -139,7 +178,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794496990,
-      "score": 275,
+      "score": 390,
       "category": "industry",
       "tags": [
         "国际"
@@ -152,8 +191,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794491549,
-      "score": 2869,
-      "category": "llm",
+      "score": 3638,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -165,8 +204,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794484001,
-      "score": 804,
-      "category": "industry",
+      "score": 951,
+      "category": "tools",
       "tags": [
         "国际"
       ]
