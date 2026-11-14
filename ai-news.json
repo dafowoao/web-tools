@@ -1,42 +1,29 @@
 {
-  "updated": "2026-11-14 00:40 UTC",
-  "count": 12,
+  "updated": "2026-11-14 11:13 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Doc-foundry – AI writes Security detection rules, then proves they work",
-      "url": "https://github.com/mjha-arya/DOC-foundry",
-      "desc": "",
+      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+      "url": "https://news.ycombinator.com/item?id=50494696",
+      "desc": "Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities?What is acces",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794613212,
-      "score": 4,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Tell HN: Google Search to start locking down search behind a login wall",
-      "url": "https://news.ycombinator.com/item?id=50491617",
-      "desc": "Usually, when I used Google Search on some ISP CGNAT IP addresses (not even a VPN), I usually get countless CAPTCHAs evertime I initiate a new session to Google Search on a new private browsing window",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794612384,
-      "score": 7,
+      "ts": 1794639402,
+      "score": 34,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Claude Meetings",
-      "url": "https://claude.com/resources/articles/claude-meetings",
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794609555,
-      "score": 64,
-      "category": "industry",
+      "ts": 1794624779,
+      "score": 615,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794607464,
-      "score": 150,
+      "score": 268,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794604012,
-      "score": 151,
+      "score": 201,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794597887,
-      "score": 92,
-      "category": "tools",
+      "score": 131,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794592717,
-      "score": 144,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI disbands its robotics team as its general models start running robots",
-      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794592523,
-      "score": 140,
-      "category": "tools",
+      "score": 216,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,21 +100,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794591010,
-      "score": 316,
+      "score": 395,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794565093,
-      "score": 484,
-      "category": "llm",
+      "ts": 1794582524,
+      "score": 307,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,8 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794520989,
-      "score": 665,
+      "score": 757,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+      "url": "https://github.com/0xdeadf1sh/T1DMAI",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794337673,
+      "score": 36,
+      "category": "llm",
       "tags": [
         "国际"
       ]
