@@ -1,7 +1,20 @@
 {
-  "updated": "2026-11-14 17:41 UTC",
-  "count": 10,
+  "updated": "2026-11-14 23:39 UTC",
+  "count": 8,
   "items": [
+    {
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794678190,
+      "score": 569,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
       "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
@@ -9,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794665365,
-      "score": 78,
+      "score": 125,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794665292,
-      "score": 47,
-      "category": "industry",
+      "score": 85,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794665154,
-      "score": 75,
-      "category": "llm",
+      "score": 125,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,60 +61,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794660345,
-      "score": 236,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794624779,
-      "score": 941,
+      "score": 424,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "url": "https://orcasairband.com/",
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794607464,
-      "score": 287,
+      "ts": 1794407529,
+      "score": 60,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-      "url": "https://atg.science/careers",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794603671,
-      "score": 1,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794597887,
-      "score": 143,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794337673,
-      "score": 81,
-      "category": "industry",
+      "score": 100,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794323248,
-      "score": 95,
-      "category": "llm",
+      "score": 167,
+      "category": "tools",
       "tags": [
         "国际"
       ]
