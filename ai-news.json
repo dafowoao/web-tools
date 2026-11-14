@@ -1,15 +1,54 @@
 {
-  "updated": "2026-11-14 11:13 UTC",
-  "count": 11,
+  "updated": "2026-11-14 17:41 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-      "url": "https://news.ycombinator.com/item?id=50494696",
-      "desc": "Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities?What is acces",
+      "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794639402,
-      "score": 34,
+      "ts": 1794665365,
+      "score": 78,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+      "url": "https://github.com/paul-nameless/agweb",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794665292,
+      "score": 47,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "desc": "Hey HN readers!I&#x27;m snipedbywifi (https:&#x2F;&#x2F;gitlab.com&#x2F;snipedbywifi), and i&#x27;ve been working on terminactory. Please try it out if you&#x27;d like to play a cozy factory game whil",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794665154,
+      "score": 75,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794660345,
+      "score": 236,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794624779,
-      "score": 615,
-      "category": "llm",
+      "score": 941,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,20 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794607464,
-      "score": 268,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "All US airports are currently ground stopped",
-      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794604012,
-      "score": 201,
+      "score": 287,
       "category": "tools",
       "tags": [
         "国际"
@@ -62,7 +88,7 @@
       "sourceColor": "#ff6600",
       "ts": 1794603671,
       "score": 1,
-      "category": "industry",
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,60 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794597887,
-      "score": 131,
+      "score": 143,
       "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
-      "url": "https://isometricsf.com/",
-      "desc": "Technical Write-up: https:&#x2F;&#x2F;www.justinchavez.com&#x2F;blog&#x2F;isometric-sf-how&#x2F;Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealist",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794592717,
-      "score": 216,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794591010,
-      "score": 395,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794582524,
-      "score": 307,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794520989,
-      "score": 757,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,7 +113,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794337673,
-      "score": 36,
+      "score": 81,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794323248,
+      "score": 95,
       "category": "llm",
       "tags": [
         "国际"
