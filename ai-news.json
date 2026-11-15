@@ -1,7 +1,59 @@
 {
-  "updated": "2026-11-14 23:39 UTC",
-  "count": 8,
+  "updated": "2026-11-15 05:01 UTC",
+  "count": 10,
   "items": [
+    {
+      "title": "Kiri – The Modern Container Runtime",
+      "url": "https://runkiri.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794717641,
+      "score": 5,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Gawain – Require type hints on all Python variables",
+      "url": "https://github.com/matheuzgomes/gawain",
+      "desc": "Yes, i really hate &quot;dict[str, ANY]&quot;",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794717565,
+      "score": 8,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+      "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794711954,
+      "score": 32,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+      "url": "https://bobbiec.github.io/jamaican-font.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794704205,
+      "score": 17,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Lovable apps expose passport details and more than 200K private messages",
       "url": "https://www.crissyfield.de/research/lovable-en/",
@@ -9,33 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794678190,
-      "score": 569,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794665365,
-      "score": 125,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-      "url": "https://github.com/paul-nameless/agweb",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794665292,
-      "score": 85,
+      "score": 715,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,21 +74,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794665154,
-      "score": 125,
+      "score": 147,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "title": "Tech companies are trying to shift the concept of privacy again",
       "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794660345,
-      "score": 424,
-      "category": "tools",
+      "score": 512,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "desc": "https:&#x2F;&#x2F;twitter.com&#x2F;willdepue&#x2F;status&#x2F;2120992457630326841",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794520571,
+      "score": 394,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,20 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794407529,
-      "score": 60,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
-      "url": "https://github.com/0xdeadf1sh/T1DMAI",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794337673,
-      "score": 100,
+      "score": 86,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794323248,
-      "score": 167,
+      "score": 190,
       "category": "tools",
       "tags": [
         "国际"
