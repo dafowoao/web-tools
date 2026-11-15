@@ -1,7 +1,46 @@
 {
-  "updated": "2026-11-15 05:01 UTC",
-  "count": 10,
+  "updated": "2026-11-15 15:23 UTC",
+  "count": 7,
   "items": [
+    {
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794754018,
+      "score": 33,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794744846,
+      "score": 68,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "DKIM2 – Every system that handles an email signs for what it did",
+      "url": "https://dkim2.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794733995,
+      "score": 10,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Kiri – The Modern Container Runtime",
       "url": "https://runkiri.com/",
@@ -9,46 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794717641,
-      "score": 5,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Gawain – Require type hints on all Python variables",
-      "url": "https://github.com/matheuzgomes/gawain",
-      "desc": "Yes, i really hate &quot;dict[str, ANY]&quot;",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794717565,
-      "score": 8,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
-      "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794711954,
-      "score": 32,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
-      "url": "https://bobbiec.github.io/jamaican-font.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794704205,
-      "score": 17,
+      "score": 74,
       "category": "tools",
       "tags": [
         "国际"
@@ -61,60 +61,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794678190,
-      "score": 715,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-      "url": "https://gitlab.com/snipedbywifi/terminactory",
-      "desc": "Hey HN readers!I&#x27;m snipedbywifi (https:&#x2F;&#x2F;gitlab.com&#x2F;snipedbywifi), and i&#x27;ve been working on terminactory. Please try it out if you&#x27;d like to play a cozy factory game whil",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794665154,
-      "score": 147,
+      "score": 920,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Tech companies are trying to shift the concept of privacy again",
-      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-      "desc": "",
+      "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
+      "url": "https://www.niklasroy.com/carton-clock/",
+      "desc": "After my last trash clock (https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49930439), I wanted to see how low I could go. My latest clock is built mainly from empty drink cartons, plus a few skewe",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794660345,
-      "score": 512,
+      "ts": 1794571218,
+      "score": 27,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "desc": "https:&#x2F;&#x2F;twitter.com&#x2F;willdepue&#x2F;status&#x2F;2120992457630326841",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794520571,
-      "score": 394,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Seagate's new hybrid drive raises some old questions",
-      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794407529,
-      "score": 86,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794323248,
-      "score": 190,
+      "score": 224,
       "category": "tools",
       "tags": [
         "国际"
