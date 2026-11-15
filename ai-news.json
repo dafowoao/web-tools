@@ -1,7 +1,46 @@
 {
-  "updated": "2026-11-15 15:23 UTC",
-  "count": 7,
+  "updated": "2026-11-15 20:50 UTC",
+  "count": 10,
   "items": [
+    {
+      "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+      "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794771586,
+      "score": 36,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "A short explainer on how El Niño works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794767001,
+      "score": 85,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794765211,
+      "score": 74,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "All AI-generated code should be Open Source",
       "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
@@ -9,8 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794754018,
-      "score": 33,
+      "score": 919,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
+      "url": "https://github.com/db-branch/db-branch",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794750651,
+      "score": 26,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,34 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794744846,
-      "score": 68,
+      "score": 167,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "DKIM2 – Every system that handles an email signs for what it did",
-      "url": "https://dkim2.com/",
-      "desc": "",
+      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+      "desc": "https:&#x2F;&#x2F;wallhop.io&#x2F;https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;11&#x2F;15&#x2F;us&#x2F;pol...",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794733995,
-      "score": 10,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Kiri – The Modern Container Runtime",
-      "url": "https://runkiri.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794717641,
-      "score": 74,
-      "category": "tools",
+      "ts": 1794742851,
+      "score": 380,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794678190,
-      "score": 920,
-      "category": "industry",
+      "score": 967,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,21 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794571218,
-      "score": 27,
-      "category": "llm",
+      "score": 68,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Generative AI uses more energy on non-English text",
-      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794323248,
-      "score": 224,
-      "category": "tools",
+      "ts": 1794461364,
+      "score": 217,
+      "category": "llm",
       "tags": [
         "国际"
       ]
