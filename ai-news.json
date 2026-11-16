@@ -1,15 +1,67 @@
 {
-  "updated": "2026-11-15 20:50 UTC",
+  "updated": "2026-11-16 04:59 UTC",
   "count": 10,
   "items": [
     {
-      "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
-      "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+      "title": "Tell HN: HN is being scraped for emails to scam",
+      "url": "https://news.ycombinator.com/item?id=50513451",
+      "desc": "I know that many folks here post their personal emails in the Who&#x27;s for Hire monthly pages and other places, and want to remind you that this public site gets views from folks with ill intent (or",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794797610,
+      "score": 35,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794771586,
-      "score": 36,
+      "ts": 1794788514,
+      "score": 85,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Parcel: A desktop mail client for Linux, built with Zig",
+      "url": "https://tangled.org/rockorager.dev/parcel",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794786879,
+      "score": 11,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794775048,
+      "score": 142,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "url": "https://baron.by.dai.studio/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794774005,
+      "score": 107,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794767001,
-      "score": 85,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794765211,
-      "score": 74,
-      "category": "tools",
+      "score": 204,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794754018,
-      "score": 919,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS",
-      "url": "https://github.com/db-branch/db-branch",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794750651,
-      "score": 26,
-      "category": "industry",
+      "score": 1119,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,47 +100,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794744846,
-      "score": 167,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-      "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-      "desc": "https:&#x2F;&#x2F;wallhop.io&#x2F;https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;11&#x2F;15&#x2F;us&#x2F;pol...",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794742851,
-      "score": 380,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "url": "https://www.crissyfield.de/research/lovable-en/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794678190,
-      "score": 967,
+      "score": 221,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
-      "url": "https://www.niklasroy.com/carton-clock/",
-      "desc": "After my last trash clock (https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49930439), I wanted to see how low I could go. My latest clock is built mainly from empty drink cartons, plus a few skewe",
+      "title": "Artificial Intelligence for the Z80",
+      "url": "https://www.dfsantos.com/en/libro-ia-z80",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794571218,
-      "score": 68,
-      "category": "industry",
+      "ts": 1794585043,
+      "score": 11,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794461364,
-      "score": 217,
+      "score": 379,
       "category": "llm",
       "tags": [
         "国际"
