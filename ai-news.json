@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-16 04:59 UTC",
-  "count": 10,
+  "updated": "2026-11-16 17:58 UTC",
+  "count": 6,
   "items": [
     {
-      "title": "Tell HN: HN is being scraped for emails to scam",
-      "url": "https://news.ycombinator.com/item?id=50513451",
-      "desc": "I know that many folks here post their personal emails in the Who&#x27;s for Hire monthly pages and other places, and want to remind you that this public site gets views from folks with ill intent (or",
+      "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+      "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794797610,
-      "score": 35,
+      "ts": 1794814699,
+      "score": 221,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,34 +22,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794788514,
-      "score": 85,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Parcel: A desktop mail client for Linux, built with Zig",
-      "url": "https://tangled.org/rockorager.dev/parcel",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794786879,
-      "score": 11,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794775048,
-      "score": 142,
-      "category": "industry",
+      "score": 226,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -61,7 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794774005,
-      "score": 107,
+      "score": 222,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,34 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794767001,
-      "score": 204,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "All AI-generated code should be Open Source",
-      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794754018,
-      "score": 1119,
+      "score": 294,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Understanding Positional Embeddings in Modern LLMs",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794744846,
-      "score": 221,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -113,21 +61,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794585043,
-      "score": 11,
+      "score": 72,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-      "desc": "",
+      "title": "Show HN: ThingStudio, Node-RED style programming for microcontrollers",
+      "url": "https://thingstudio.net/",
+      "desc": "Hi, I&#x27;m Mike,\nI&#x27;ve made ThingStudio, a flow programing environment for microcontrollers. It allows drag and drop programming Node-RED style, but emits MicroPython which it uploads to the mic",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794461364,
-      "score": 379,
-      "category": "llm",
+      "ts": 1794397155,
+      "score": 33,
+      "category": "tools",
       "tags": [
         "国际"
       ]
