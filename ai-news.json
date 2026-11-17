@@ -1,81 +1,55 @@
 {
-  "updated": "2026-11-17 02:46 UTC",
-  "count": 9,
+  "updated": "2026-11-17 12:48 UTC",
+  "count": 7,
   "items": [
     {
-      "title": "Show HN: A free interactive course on AI agent governance",
-      "url": "https://studio.sinapsdata.com.br",
+      "title": "How the Claude Code team thinks about verification",
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794881533,
-      "score": 6,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794879316,
-      "score": 13,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Running coding agents without handing them my credentials",
-      "url": "https://blog.antonio.cx/running-agents-with-lend",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794878336,
-      "score": 26,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
-      "url": "https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794875001,
-      "score": 43,
+      "ts": 1794910840,
+      "score": 58,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "title": "Show HN: Pulsar – cross-harness agent to agent communication and messaging",
+      "url": "https://github.com/yocontra/pulsar",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794885533,
+      "score": 18,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
       "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794869900,
-      "score": 283,
-      "category": "llm",
+      "score": 645,
+      "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "United Airlines experiencing a widespread system outage, airline says",
-      "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
-      "desc": "https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50524260",
+      "title": "Spamhaus new email sender requirements in November",
+      "url": "https://www.spamhaus.org/sender-guidelines/",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794867278,
-      "score": 181,
-      "category": "industry",
+      "ts": 1794865639,
+      "score": 123,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,20 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794860988,
-      "score": 29,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Strengthening the fight against online child sexual abuse",
-      "url": "https://openai.com/index/strengthening-online-child-safety/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794852768,
-      "score": 108,
+      "score": 47,
       "category": "industry",
       "tags": [
         "国际"
@@ -113,8 +74,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794835102,
-      "score": 231,
-      "category": "industry",
+      "score": 353,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+      "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794814699,
+      "score": 307,
+      "category": "llm",
       "tags": [
         "国际"
       ]
