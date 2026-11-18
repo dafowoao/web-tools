@@ -1,29 +1,55 @@
 {
-  "updated": "2026-11-17 23:20 UTC",
-  "count": 12,
+  "updated": "2026-11-18 06:05 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "Nvidia Chair Harvey Jones says board doesn't intend to reinstate Huang as CEO",
-      "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+      "title": "I had AI read my field",
+      "url": "https://science.caseyhandmer.com/physics/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794953314,
-      "score": 19,
-      "category": "llm",
+      "ts": 1794979601,
+      "score": 5,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "California bans Waymo autonomous vehicles from state freeways",
-      "url": "https://apnews.com/article/waymo-driverless-vehicle-california-freeway-ban-37bcd5371a4699a1850b7666b271946b",
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794952841,
-      "score": 25,
-      "category": "llm",
+      "ts": 1794975244,
+      "score": 24,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude was trained on protein sequences at scale",
+      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794973663,
+      "score": 6,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794961078,
+      "score": 263,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794950172,
-      "score": 14,
-      "category": "industry",
+      "score": 132,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,20 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794942103,
-      "score": 41,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Advancing computer-use agents for healthcare teams",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794939965,
-      "score": 32,
+      "score": 64,
       "category": "industry",
       "tags": [
         "国际"
@@ -74,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794939913,
-      "score": 244,
-      "category": "llm",
+      "score": 324,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794939378,
-      "score": 60,
-      "category": "industry",
+      "score": 139,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,60 +113,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794937603,
-      "score": 1000,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
-      "url": "https://news.ycombinator.com/item?id=50534429",
-      "desc": "We ran an intern expo last summer to help students get jobs for 2027 (and help our companies hire!) and we nerded out with software. We built lookbooks, AI-powered matching, 15-minute speed interviews",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794934824,
-      "score": 1,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
-      "url": "https://github.com/RunanywhereAI/trnrt",
-      "desc": "Hi HN, Sanchit here from RunAnywhere (YC W26). We just open-sourced TrnRT: Trainium RunTime, our inference engine for AWS Trainium. We started 3 weeks back, and currently we’re able to serve and run G",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794931264,
-      "score": 39,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "How the Claude Code team thinks about verification",
-      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794910840,
-      "score": 247,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Fixing a WebKit bug to see if promises are made of train tracks",
-      "url": "https://alistair.sh/thenables",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794681346,
-      "score": 25,
+      "score": 1194,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Fun with Constrained Programming",
+      "url": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794710757,
+      "score": 47,
+      "category": "tools",
       "tags": [
         "国际"
       ]
