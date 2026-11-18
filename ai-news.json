@@ -1,16 +1,68 @@
 {
-  "updated": "2026-11-18 06:05 UTC",
-  "count": 10,
+  "updated": "2026-11-18 16:57 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "I had AI read my field",
-      "url": "https://science.caseyhandmer.com/physics/",
+      "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+      "url": "https://rshekhar.com/voyager/",
+      "desc": "Voyager 1 reached one light-day from Earth today.On the site you can:- see where both Voyagers are right now- open a nuclear battery to its 24 plutonium spheres- go into the data computer, down to a s",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795018731,
+      "score": 10,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794979601,
-      "score": 5,
-      "category": "tools",
+      "ts": 1795018104,
+      "score": 38,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI Agents Ask Better Questions Than KPMG Accountants in Landmark Audit Trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795016974,
+      "score": 7,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
+      "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795016144,
+      "score": 50,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI is killing All About Berlin",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794984446,
+      "score": 677,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -22,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794975244,
-      "score": 24,
-      "category": "tools",
+      "score": 231,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794973663,
-      "score": 6,
-      "category": "tools",
+      "score": 137,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794961078,
-      "score": 263,
-      "category": "tools",
+      "score": 647,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794950172,
-      "score": 132,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-      "url": "https://starsling.dev",
-      "desc": "We’re Yonas and Daniel and we’re building StarSling (https:&#x2F;&#x2F;starsling.dev), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows.Every C",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794942103,
-      "score": 64,
-      "category": "industry",
+      "score": 297,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,47 +126,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794939913,
-      "score": 324,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Not Everything Needs an LLM",
-      "url": "https://newsletter.posthog.com/p/decision-models",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794939378,
-      "score": 139,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "GPT‑6.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794937603,
-      "score": 1194,
+      "score": 409,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Fun with Constrained Programming",
-      "url": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
+      "title": "IPv6 delegation, an unusually subtle failure mode",
+      "url": "https://savyasacheejha.com/posts/why-odhcpd/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794710757,
-      "score": 47,
-      "category": "tools",
+      "ts": 1794765973,
+      "score": 54,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "When AI Knows More Than It Can Offer",
+      "url": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794758363,
+      "score": 70,
+      "category": "llm",
       "tags": [
         "国际"
       ]
