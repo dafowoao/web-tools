@@ -1,16 +1,29 @@
 {
-  "updated": "2026-11-19 01:43 UTC",
+  "updated": "2026-11-19 12:31 UTC",
   "count": 15,
   "items": [
     {
-      "title": "Black high school students sue after AI mistakes Doritos bag for gun",
-      "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795049840,
-      "score": 8,
-      "category": "llm",
+      "ts": 1795077585,
+      "score": 94,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "url": "https://verialabs.com/ruby2shell/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795064951,
+      "score": 195,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,20 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795048185,
-      "score": 52,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Fable: Written, painted and directed by Claude Fable 5.2",
-      "url": "https://claudia.gallery/fable/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795047498,
-      "score": 24,
+      "score": 235,
       "category": "llm",
       "tags": [
         "国际"
@@ -48,7 +48,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795044609,
-      "score": 40,
+      "score": 270,
       "category": "llm",
       "tags": [
         "国际"
@@ -61,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795040953,
-      "score": 58,
-      "category": "tools",
+      "score": 245,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795037647,
-      "score": 437,
-      "category": "llm",
+      "score": 875,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795030756,
-      "score": 136,
-      "category": "tools",
+      "score": 226,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -100,20 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795027791,
-      "score": 187,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795023947,
-      "score": 161,
+      "score": 267,
       "category": "industry",
       "tags": [
         "国际"
@@ -126,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795022788,
-      "score": 43,
+      "score": 55,
       "category": "llm",
       "tags": [
         "国际"
@@ -139,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795020822,
-      "score": 82,
+      "score": 107,
       "category": "llm",
       "tags": [
         "国际"
@@ -152,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795018731,
-      "score": 149,
-      "category": "llm",
+      "score": 216,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -165,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795016974,
-      "score": 354,
-      "category": "llm",
+      "score": 469,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -178,7 +165,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794872846,
-      "score": 37,
+      "score": 137,
       "category": "tools",
       "tags": [
         "国际"
@@ -191,7 +178,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794863679,
-      "score": 45,
+      "score": 108,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Garage Door Spam",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794845616,
+      "score": 61,
       "category": "industry",
       "tags": [
         "国际"
