@@ -1,7 +1,137 @@
 {
-  "updated": "2026-11-19 12:31 UTC",
-  "count": 15,
+  "updated": "2026-11-19 22:54 UTC",
+  "count": 16,
   "items": [
+    {
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795114036,
+      "score": 52,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795113317,
+      "score": 141,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI Came for the Coders. Understanding Why Tells Us Who's Next",
+      "url": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795110218,
+      "score": 27,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude solves two open problems in the physics of black holes",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795109444,
+      "score": 321,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795107760,
+      "score": 765,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Chrome AI features wasting much bandwidth",
+      "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795107265,
+      "score": 119,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "url": "https://github.com/onlook-dev/onlook/",
+      "desc": "Hey HN, I&#x27;m Daniel, founder of Onlook (https:&#x2F;&#x2F;github.com&#x2F;onlook-dev&#x2F;onlook and onlook.com).Onlook is a desktop app that puts a canvas on top of your real codebase, letting yo",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795106044,
+      "score": 73,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Fuck Your AI Safeguards",
+      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795105818,
+      "score": 431,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "url": "https://thedataexchange.media/pete-warden-moonshine/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795102692,
+      "score": 195,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Watch weight-space programming in action with WebGPU",
+      "url": "https://tabbyml.github.io/weight-space-playground/",
+      "desc": "I wanted to build a full weight-space programming loop entirely in the browser with WebGPU: let an LLM inspect Qwen3.5-0.8B, edit its weights, evaluate, and repeat.the full loop needed too much VRAM. ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795102367,
+      "score": 32,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Distributed, high-performance blob storage on SQLite",
       "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
@@ -9,8 +139,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795077585,
-      "score": 94,
-      "category": "industry",
+      "score": 243,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,47 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795064951,
-      "score": 195,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795048185,
-      "score": 235,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Anthropic prices initial public offering",
-      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795044609,
-      "score": 270,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LLM assisted reverse engineering",
-      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795040953,
-      "score": 245,
-      "category": "llm",
+      "score": 366,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,47 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795037647,
-      "score": 875,
+      "score": 1006,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "DaisyRose-27B",
-      "url": "https://www.radixark.com/blog/daisyrose-27b",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795030756,
-      "score": 226,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Genie 4 is now available",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795027791,
-      "score": 267,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
-      "url": "https://news.ycombinator.com/item?id=50549188",
-      "desc": "Hi HN, we&#x27;re Ary and Maria, co-founders of Maritime (https:&#x2F;&#x2F;maritime.sh). We&#x27;re building an agent-native cloud that handles everything from custom environments to lifecycle manage",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795022788,
-      "score": 55,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -126,60 +178,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795020822,
-      "score": 107,
+      "score": 136,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "An Oregon library ditched Dewey Decimal and got people excited about books again",
+      "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794944112,
+      "score": 171,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
-      "url": "https://rshekhar.com/voyager/",
-      "desc": "Voyager 1 reached one light-day from Earth today.On the site you can:- see where both Voyagers are right now- open a nuclear battery to its 24 plutonium spheres- go into the data computer, down to a s",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795018731,
-      "score": 216,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795016974,
-      "score": 469,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
-      "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794872846,
-      "score": 137,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Open-source, real-time object tracking for live video feeds",
-      "url": "https://github.com/aryamandarda/tamserve",
-      "desc": "I type &quot;forklift&quot; on a live warehouse camera, and tamserve finds and tracks both forklifts, including the one driving in. Then I add &quot;person&quot; without stopping it.tamserve runs Meta",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794863679,
-      "score": 108,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -191,8 +204,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794845616,
-      "score": 61,
-      "category": "industry",
+      "score": 698,
+      "category": "llm",
       "tags": [
         "国际"
       ]
