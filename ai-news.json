@@ -1,7 +1,59 @@
 {
-  "updated": "2026-11-19 22:54 UTC",
-  "count": 16,
+  "updated": "2026-11-20 05:54 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795152062,
+      "score": 35,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+      "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795135051,
+      "score": 41,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "ChatGPT for SNES",
+      "url": "https://www.bxfoundry.com/chatgpt_snes/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795134359,
+      "score": 34,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "url": "https://git-aarvin.github.io/mei/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795131335,
+      "score": 327,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
       "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
@@ -9,7 +61,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795114036,
-      "score": 52,
+      "score": 93,
       "category": "llm",
       "tags": [
         "国际"
@@ -22,21 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795113317,
-      "score": 141,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI Came for the Coders. Understanding Why Tells Us Who's Next",
-      "url": "https://www.robertpeake.com/archives/104254-ai-came-for-the-coders-understanding-why-tells-us-whos-next.html",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795110218,
-      "score": 27,
-      "category": "tools",
+      "score": 244,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,34 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795109444,
-      "score": 321,
+      "score": 449,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Anthropic hits $2T in Nasdaq debut",
+      "title": "Anthropic’s Nasdaq debut",
       "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795107760,
-      "score": 765,
+      "score": 1027,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Chrome AI features wasting much bandwidth",
-      "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795107265,
-      "score": 119,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,46 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795106044,
-      "score": 73,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Fuck Your AI Safeguards",
-      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795105818,
-      "score": 431,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-      "url": "https://thedataexchange.media/pete-warden-moonshine/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795102692,
-      "score": 195,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Watch weight-space programming in action with WebGPU",
-      "url": "https://tabbyml.github.io/weight-space-playground/",
-      "desc": "I wanted to build a full weight-space programming loop entirely in the browser with WebGPU: let an LLM inspect Qwen3.5-0.8B, edit its weights, evaluate, and repeat.the full loop needed too much VRAM. ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795102367,
-      "score": 32,
+      "score": 101,
       "category": "tools",
       "tags": [
         "国际"
@@ -139,46 +126,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795077585,
-      "score": 243,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-      "url": "https://verialabs.com/ruby2shell/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795064951,
-      "score": 366,
+      "score": 277,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Gemini 4 Neon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
+      "url": "https://notesbylex.com/weight-space-programming-1990s",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795037647,
-      "score": 1006,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
-      "url": "https://news.ycombinator.com/item?id=50548660",
-      "desc": "Hi HN, we&#x27;re Shane, Sam, and Abhi.Almost two years ago, we shared Mastra, our open-source TypeScript agent framework, on Show HN: https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43103073. It ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795020822,
-      "score": 136,
+      "ts": 1794953506,
+      "score": 46,
       "category": "tools",
       "tags": [
         "国际"
@@ -191,8 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794944112,
-      "score": 171,
-      "category": "llm",
+      "score": 221,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -204,8 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794845616,
-      "score": 698,
-      "category": "llm",
+      "score": 810,
+      "category": "industry",
       "tags": [
         "国际"
       ]
