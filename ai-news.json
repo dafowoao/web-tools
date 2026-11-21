@@ -1,42 +1,81 @@
 {
-  "updated": "2026-11-20 16:43 UTC",
-  "count": 15,
+  "updated": "2026-11-21 01:05 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "I'll never buy Framework hardware again",
-      "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+      "title": "AI may have solved the most important problem in mathematics",
+      "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795190790,
-      "score": 138,
-      "category": "tools",
+      "ts": 1795214819,
+      "score": 22,
+      "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-      "url": "https://alpo.ge/remark.pdf",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://ninlive.com/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795184181,
-      "score": 1095,
+      "ts": 1795213847,
+      "score": 95,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+      "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795213100,
+      "score": 11,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "title": "Show HN: OpenComputer – an open source alternative to Devin",
+      "url": "https://github.com/diggerhq/opencomputer",
+      "desc": "Hi HN!Utpal here, I&#x27;m one of the founders of OpenComputer.OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure).We run the agent har",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795205996,
+      "score": 56,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795181399,
-      "score": 134,
+      "ts": 1795193967,
+      "score": 260,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795184181,
+      "score": 2331,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795168901,
-      "score": 440,
+      "score": 618,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "What people are building, discovered through new domains",
-      "url": "https://startups.novumsignals.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795168473,
-      "score": 115,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,85 +100,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795167799,
-      "score": 385,
+      "score": 618,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "desc": "",
+      "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
+      "url": "https://quebec.yarn.so",
+      "desc": "Hey HN, we&#x27;re Yarn (W24) and we make a video editing app for startups, and we built Quebec (https:&#x2F;&#x2F;quebec.yarn.so), an API that gives you accurate word timestamps from speech. We neede",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795113317,
-      "score": 322,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Claude solves two open problems in the physics of black holes",
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795109444,
-      "score": 527,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Anthropic’s Nasdaq debut",
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795107760,
-      "score": 1112,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-      "url": "https://github.com/onlook-dev/onlook/",
-      "desc": "Hey HN, I&#x27;m Daniel, founder of Onlook (https:&#x2F;&#x2F;github.com&#x2F;onlook-dev&#x2F;onlook and onlook.com).Onlook is a desktop app that puts a canvas on top of your real codebase, letting yo",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795106044,
-      "score": 122,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
-      "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
-      "desc": "I want to show you HippoMaps. It is a fully featured map and navigation app built on OpenStreetMap with a custom Overpass API engine for really fast search of POIs, areas and ways.My aim with HippoMap",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795101362,
-      "score": 95,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
-      "url": "https://notesbylex.com/weight-space-programming-1990s",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794953506,
-      "score": 114,
+      "ts": 1794928605,
+      "score": 59,
       "category": "industry",
       "tags": [
         "国际"
@@ -165,33 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794877385,
-      "score": 115,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Radiotherapy Delivery Demo",
-      "url": "https://tps.neuralrad.com",
-      "desc": "The treatment planning station (TPS) software field is currently monopolized by Varian&#x27;s Eclipse and Raystation from Raysearch. Current software is still using technology stack 2 decades old.At U",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794684616,
-      "score": 17,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
-      "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794647604,
-      "score": 71,
+      "score": 230,
       "category": "tools",
       "tags": [
         "国际"
