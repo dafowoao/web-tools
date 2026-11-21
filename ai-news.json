@@ -1,16 +1,42 @@
 {
-  "updated": "2026-11-21 01:05 UTC",
-  "count": 10,
+  "updated": "2026-11-21 12:09 UTC",
+  "count": 14,
   "items": [
     {
-      "title": "AI may have solved the most important problem in mathematics",
-      "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+      "title": "Surprisingly Adorable Insect Portraits",
+      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795214819,
-      "score": 22,
-      "category": "llm",
+      "ts": 1795243454,
+      "score": 60,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "url": "http://ricapar.net/ClawDOS/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795239481,
+      "score": 85,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "url": "https://news.ycombinator.com/item?id=50583761",
+      "desc": "I&#x27;m Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can&#x27;t find a job, within",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795216712,
+      "score": 249,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,47 +48,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795213847,
-      "score": 95,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-      "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795213100,
-      "score": 11,
+      "score": 276,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: OpenComputer – an open source alternative to Devin",
-      "url": "https://github.com/diggerhq/opencomputer",
-      "desc": "Hi HN!Utpal here, I&#x27;m one of the founders of OpenComputer.OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure).We run the agent har",
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "desc": "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50574968",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795205996,
-      "score": 56,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
-      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795193967,
-      "score": 260,
-      "category": "llm",
+      "ts": 1795199594,
+      "score": 2166,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -70,12 +70,25 @@
     {
       "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
       "url": "https://alpo.ge/remark.pdf",
-      "desc": "",
+      "desc": "Related: Hurried Announcement: Alessandro Masullo GRH - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50579568",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795184181,
-      "score": 2331,
-      "category": "industry",
+      "score": 2687,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795181399,
+      "score": 341,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,7 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795168901,
-      "score": 618,
+      "score": 650,
       "category": "tools",
       "tags": [
         "国际"
@@ -100,21 +113,47 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795167799,
-      "score": 618,
+      "score": 666,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
-      "url": "https://quebec.yarn.so",
-      "desc": "Hey HN, we&#x27;re Yarn (W24) and we make a video editing app for startups, and we built Quebec (https:&#x2F;&#x2F;quebec.yarn.so), an API that gives you accurate word timestamps from speech. We neede",
+      "title": "Fewer slides, more dragons",
+      "url": "https://www.breakingchange.blog/p/fewer-slides-more-dragons",
+      "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794928605,
-      "score": 59,
+      "ts": 1795067196,
+      "score": 40,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Microsoft's SideWinder Strategic Commander was a failed attempt",
+      "url": "https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794993491,
+      "score": 17,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+      "url": "https://trynotched.com/find",
+      "desc": "I&#x27;ve had tinnitus for about a year and a half. There&#x27;s no cure, so I&#x27;m trying anything that looks promising. One idea people are researching is listening to sound with a notch cut out r",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794973201,
+      "score": 185,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -126,7 +165,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794877385,
-      "score": 230,
+      "score": 284,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
+      "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1794647604,
+      "score": 124,
       "category": "tools",
       "tags": [
         "国际"
