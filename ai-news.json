@@ -1,7 +1,20 @@
 {
-  "updated": "2026-11-21 12:09 UTC",
-  "count": 14,
+  "updated": "2026-11-21 21:27 UTC",
+  "count": 13,
   "items": [
+    {
+      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+      "url": "https://tasklet.ai/careers",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795295468,
+      "score": 1,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Surprisingly Adorable Insect Portraits",
       "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
@@ -9,7 +22,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795243454,
-      "score": 60,
+      "score": 139,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795239481,
-      "score": 85,
-      "category": "industry",
+      "score": 150,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795216712,
-      "score": 249,
-      "category": "tools",
+      "score": 541,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,8 +61,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795213847,
-      "score": 276,
+      "score": 346,
       "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795208592,
+      "score": 161,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795199594,
-      "score": 2166,
-      "category": "industry",
+      "score": 2355,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795184181,
-      "score": 2687,
-      "category": "llm",
+      "score": 2849,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -87,99 +113,60 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795181399,
-      "score": 341,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-      "url": "https://architectlabs.com/blog/frostbite",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795168901,
-      "score": 650,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795167799,
-      "score": 666,
+      "score": 482,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Fewer slides, more dragons",
-      "url": "https://www.breakingchange.blog/p/fewer-slides-more-dragons",
+      "title": "Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust",
+      "url": "https://contextgeneric.dev/blog/v0.8.0-release/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795067196,
-      "score": 40,
+      "ts": 1795018661,
+      "score": 3,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Microsoft's SideWinder Strategic Commander was a failed attempt",
-      "url": "https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it",
+      "title": "LLMs can read and write executables byte by byte from a hex dump",
+      "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794993491,
-      "score": 17,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Tinnitus frequency finder and audio notch tool",
-      "url": "https://trynotched.com/find",
-      "desc": "I&#x27;ve had tinnitus for about a year and a half. There&#x27;s no cure, so I&#x27;m trying anything that looks promising. One idea people are researching is listening to sound with a notch cut out r",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794973201,
-      "score": 185,
+      "ts": 1795011358,
+      "score": 150,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
-      "url": "https://kobi.music/research/dettato",
-      "desc": "I released dettato, my open weight audio to midi transcription model. It beats muscriptor 1.3b on every set and is roughly 60x smaller, without training on copyrighted recordings. Feel free to ask que",
+      "title": "Show HN: An ASCII cell aquarium for your terminal",
+      "url": "https://github.com/kborer/cells/",
+      "desc": "I made a virtual microscope slide for your terminal (inspired by asciiquarium and cbonsai). Cells divide, immune cells chase bacteria, and bacteriophages occasionally cause trouble.  You can try it wi",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794877385,
-      "score": 284,
+      "ts": 1794968309,
+      "score": 36,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
-      "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
+      "title": "Tropical Rainforests Species may be surprisingly young",
+      "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1794647604,
-      "score": 124,
-      "category": "tools",
+      "ts": 1794928134,
+      "score": 21,
+      "category": "llm",
       "tags": [
         "国际"
       ]
