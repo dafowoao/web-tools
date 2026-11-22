@@ -1,7 +1,33 @@
 {
-  "updated": "2026-11-22 15:57 UTC",
-  "count": 11,
+  "updated": "2026-11-22 21:38 UTC",
+  "count": 8,
   "items": [
+    {
+      "title": "Harvard CS 2881R AI Safety",
+      "url": "https://boazbk.github.io/mltheoryseminar/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795370514,
+      "score": 6,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
+      "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795363199,
+      "score": 37,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Show HN: I built a game where you are an LLM's subagent",
       "url": "https://github.com/gulivan/worker755",
@@ -9,20 +35,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795355818,
-      "score": 61,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI is becoming a disaster for the climate",
-      "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795349986,
-      "score": 31,
+      "score": 235,
       "category": "industry",
       "tags": [
         "国际"
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795341421,
-      "score": 35,
-      "category": "tools",
+      "score": 67,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795337854,
-      "score": 398,
-      "category": "llm",
+      "score": 776,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,33 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795313402,
-      "score": 115,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-      "url": "https://tasklet.ai/careers",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795295468,
-      "score": 1,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Pandex – Official European Law for AI Agents, over MCP",
-      "url": "https://www.pandex.io",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795294061,
-      "score": 123,
+      "score": 154,
       "category": "industry",
       "tags": [
         "国际"
@@ -100,47 +87,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795208592,
-      "score": 1202,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "url": "https://alpo.ge/remark.pdf",
-      "desc": "Related: Hurried Announcement: Alessandro Masullo GRH - https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=50579568",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795184181,
-      "score": 2892,
+      "score": 1312,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Celliad – a daily Excel game (French)",
-      "url": "https://celliad.com/",
+      "title": "Agentics: Mushy Software",
+      "url": "https://12gramsofcarbon.com/p/agentics-mushy-software",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795127836,
-      "score": 11,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "LLMs can read and write executables byte by byte from a hex dump",
-      "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795011358,
-      "score": 290,
-      "category": "llm",
+      "ts": 1795064529,
+      "score": 22,
+      "category": "tools",
       "tags": [
         "国际"
       ]
