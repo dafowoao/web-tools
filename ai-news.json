@@ -1,7 +1,33 @@
 {
-  "updated": "2026-11-21 21:27 UTC",
-  "count": 13,
+  "updated": "2026-11-22 05:21 UTC",
+  "count": 10,
   "items": [
+    {
+      "title": "Together.ai: Prompt Leakage for Requests",
+      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795316847,
+      "score": 9,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+      "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795316795,
+      "score": 21,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
       "url": "https://tasklet.ai/careers",
@@ -10,33 +36,20 @@
       "sourceColor": "#ff6600",
       "ts": 1795295468,
       "score": 1,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "url": "https://www.pandex.io",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795294061,
+      "score": 54,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Surprisingly Adorable Insect Portraits",
-      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795243454,
-      "score": 139,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "ClawDOS – An AI coding agent for DOS",
-      "url": "http://ricapar.net/ClawDOS/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795239481,
-      "score": 150,
-      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795216712,
-      "score": 541,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "NINLIVE: The Nine Inch Nails live archive",
-      "url": "https://ninlive.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795213847,
-      "score": 346,
-      "category": "industry",
+      "score": 654,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -74,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795208592,
-      "score": 161,
+      "score": 818,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,7 +87,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795199594,
-      "score": 2355,
+      "score": 2400,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,33 +100,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795184181,
-      "score": 2849,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795181399,
-      "score": 482,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Context-Generic Programming v0.8.0 – Pluggable trait implementations for Rust",
-      "url": "https://contextgeneric.dev/blog/v0.8.0-release/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795018661,
-      "score": 3,
+      "score": 2867,
       "category": "tools",
       "tags": [
         "国际"
@@ -139,21 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795011358,
-      "score": 150,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: An ASCII cell aquarium for your terminal",
-      "url": "https://github.com/kborer/cells/",
-      "desc": "I made a virtual microscope slide for your terminal (inspired by asciiquarium and cbonsai). Cells divide, immune cells chase bacteria, and bacteriophages occasionally cause trouble.  You can try it wi",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1794968309,
-      "score": 36,
-      "category": "llm",
+      "score": 219,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -165,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1794928134,
-      "score": 21,
-      "category": "llm",
+      "score": 48,
+      "category": "industry",
       "tags": [
         "国际"
       ]
