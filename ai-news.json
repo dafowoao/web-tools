@@ -1,7 +1,46 @@
 {
-  "updated": "2026-11-22 21:38 UTC",
+  "updated": "2026-11-23 05:58 UTC",
   "count": 8,
   "items": [
+    {
+      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "url": "https://0rwx.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795391580,
+      "score": 34,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Localcode, open source agentic coding on your Mac with one command",
+      "url": "https://github.com/mjwsolo/localcode",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795385928,
+      "score": 46,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795381276,
+      "score": 372,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Harvard CS 2881R AI Safety",
       "url": "https://boazbk.github.io/mltheoryseminar/",
@@ -9,21 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795370514,
-      "score": 6,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
-      "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795363199,
-      "score": 37,
-      "category": "llm",
+      "score": 63,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795355818,
-      "score": 235,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-      "url": "https://simonwillison.net/2026/Nov/21/muru/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795341421,
-      "score": 67,
-      "category": "llm",
+      "score": 297,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,20 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795337854,
-      "score": 776,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The Mythology of Conscious AI",
-      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795313402,
-      "score": 154,
+      "score": 934,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795208592,
-      "score": 1312,
-      "category": "tools",
+      "score": 1349,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -100,8 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795064529,
-      "score": 22,
-      "category": "tools",
+      "score": 44,
+      "category": "llm",
       "tags": [
         "国际"
       ]
