@@ -1,16 +1,68 @@
 {
-  "updated": "2026-11-23 19:52 UTC",
-  "count": 7,
+  "updated": "2026-11-24 04:37 UTC",
+  "count": 10,
   "items": [
     {
-      "title": "How should an LLM see a computer?",
-      "url": "https://www.greptile.com/blog/trex-computer-use",
+      "title": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
+      "url": "https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795454365,
-      "score": 17,
+      "ts": 1795490218,
+      "score": 5,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Declare is a UI language for you and your AI",
+      "url": "https://davidtemkin.github.io/declarelang/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795487816,
+      "score": 6,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "url": "https://arxiv.org/abs/2602.20031",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795472988,
+      "score": 43,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "VP ≠ VNP over Every Field",
+      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "desc": "Paper: https:&#x2F;&#x2F;github.com&#x2F;anthropics&#x2F;formal-math&#x2F;blob&#x2F;11b6c7e3c927d...",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795471750,
+      "score": 295,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+      "url": "https://openai.com/index/introducing-shirudo/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795469441,
+      "score": 51,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -22,7 +74,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795454221,
-      "score": 180,
+      "score": 380,
       "category": "llm",
       "tags": [
         "国际"
@@ -35,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795441358,
-      "score": 45,
-      "category": "industry",
+      "score": 140,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,47 +100,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795428403,
-      "score": 896,
+      "score": 1084,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "title": "C++26 is done (again): ISO C++ meeting trip report",
+      "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795381276,
-      "score": 709,
+      "ts": 1795363199,
+      "score": 109,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
-      "url": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
+      "title": "Developing the perception to separate the form of a place from what it contains",
+      "url": "https://www.thedeletedscenes.com/p/blight-and-entrepreneurship-in-manassas",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795208236,
-      "score": 85,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Drive around my village in 3D",
-      "url": "https://cherwellvalleymotorclub.app",
-      "desc": "So this started out just over a week ago, could I drive around my village in my old car on the web, and its expanded into a massive map, with races, events, different cars and multiplayer.I&#x27;m a w",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795181562,
-      "score": 79,
-      "category": "tools",
+      "ts": 1795294458,
+      "score": 12,
+      "category": "industry",
       "tags": [
         "国际"
       ]
