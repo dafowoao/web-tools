@@ -1,16 +1,68 @@
 {
-  "updated": "2026-11-24 19:21 UTC",
-  "count": 10,
+  "updated": "2026-11-25 03:22 UTC",
+  "count": 12,
   "items": [
     {
-      "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
-      "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795546512,
-      "score": 33,
+      "ts": 1795568089,
+      "score": 89,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Fable 5.2 tries less on some hard tasks when a shortcut is available",
+      "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795559201,
+      "score": 49,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795554142,
+      "score": 192,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "desc": "Hey HN, we’re Harshith, Param, and Vishnu and we&#x27;re building Versine (https:&#x2F;&#x2F;versine.com). Versine lets you send and request money just by talking or texting with your AI (think Venmo ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795553055,
+      "score": 73,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Ternary Bonsai 2.5 27B",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795550883,
+      "score": 366,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -23,45 +75,32 @@
       "sourceColor": "#ff6600",
       "ts": 1795539655,
       "score": 1,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-      "url": "https://news.ycombinator.com/item?id=50630809",
-      "desc": "Basically the title.Anthropic is accusing me and my company of using their API for distillation. We are not. We do not train our own models.Our only usage which I think could get us flagged is automat",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795538744,
-      "score": 23,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
-      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795537937,
-      "score": 187,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage",
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795537937,
+      "score": 270,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
       "url": "https://masondata.ai/",
       "desc": "Hi HN! TLDR: we’ve built an open-source drop-in replacement for a postgres read-replica, powered by duckdb’s columnar compute engine. It’s very fast. And it looks like postgres.So, this started out as",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795536712,
-      "score": 39,
+      "score": 88,
       "category": "llm",
       "tags": [
         "国际"
@@ -74,7 +113,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795532620,
-      "score": 98,
+      "score": 188,
       "category": "tools",
       "tags": [
         "国际"
@@ -87,7 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795526627,
-      "score": 153,
+      "score": 359,
       "category": "llm",
       "tags": [
         "国际"
@@ -100,34 +139,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795524015,
-      "score": 738,
+      "score": 934,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Declare is a UI language for you and your AI",
-      "url": "https://davidtemkin.github.io/declarelang/",
+      "title": "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
+      "url": "https://statwonk.com/hierarchical-bayesian-neural-network.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795487816,
-      "score": 97,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance",
-      "url": "https://dl.acm.org/doi/10.1145/3828523.3857112",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795416848,
-      "score": 52,
-      "category": "industry",
+      "ts": 1795399839,
+      "score": 26,
+      "category": "tools",
       "tags": [
         "国际"
       ]
