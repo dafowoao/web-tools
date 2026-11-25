@@ -1,7 +1,59 @@
 {
-  "updated": "2026-11-25 03:22 UTC",
-  "count": 12,
+  "updated": "2026-11-25 13:54 UTC",
+  "count": 14,
   "items": [
+    {
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795581108,
+      "score": 204,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Taking over US Treasury subdomains for $3 each",
+      "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795580875,
+      "score": 140,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795578462,
+      "score": 165,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+      "url": "https://www.proofatlas.ai/open-problems/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795575696,
+      "score": 72,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
       "url": "https://greydanus.github.io/2026/11/12/pengpt/",
@@ -9,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795568089,
-      "score": 89,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Fable 5.2 tries less on some hard tasks when a shortcut is available",
-      "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795559201,
-      "score": 49,
-      "category": "tools",
+      "score": 309,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795554142,
-      "score": 192,
-      "category": "tools",
+      "score": 303,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -48,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795553055,
-      "score": 73,
-      "category": "llm",
+      "score": 94,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -61,21 +100,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795550883,
-      "score": 366,
+      "score": 490,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "url": "https://jobs.ashbyhq.com/weave-os",
-      "desc": "",
+      "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+      "url": "https://news.ycombinator.com/item?id=50630809",
+      "desc": "Basically the title.Anthropic is accusing me and my company of using their API for distillation. We are not. We do not train our own models.Our only usage which I think could get us flagged is automat",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795539655,
-      "score": 1,
-      "category": "tools",
+      "ts": 1795538744,
+      "score": 359,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,20 +126,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795537937,
-      "score": 270,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
-      "url": "https://masondata.ai/",
-      "desc": "Hi HN! TLDR: we’ve built an open-source drop-in replacement for a postgres read-replica, powered by duckdb’s columnar compute engine. It’s very fast. And it looks like postgres.So, this started out as",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795536712,
-      "score": 88,
+      "score": 291,
       "category": "llm",
       "tags": [
         "国际"
@@ -113,47 +139,47 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795532620,
-      "score": 188,
+      "score": 221,
       "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Anthropic breaks below $83 IPO price",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "title": "Getting old Java phones online again",
+      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795526627,
-      "score": 359,
+      "ts": 1795526077,
+      "score": 93,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "LLM agents work for their parent companies, not for you",
-      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "title": "When in Doubt, Flail About",
+      "url": "https://www.seangoedecke.com/when-in-doubt-flail-about/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795524015,
-      "score": 934,
-      "category": "industry",
+      "ts": 1795448711,
+      "score": 68,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Hierarchical Bayesian Neural Networks: When Structure Meets Flexibility",
-      "url": "https://statwonk.com/hierarchical-bayesian-neural-network.html",
+      "title": "The short age of dragon riders",
+      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795399839,
-      "score": 26,
-      "category": "tools",
+      "ts": 1795412014,
+      "score": 86,
+      "category": "llm",
       "tags": [
         "国际"
       ]
