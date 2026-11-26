@@ -1,7 +1,33 @@
 {
-  "updated": "2026-11-25 23:59 UTC",
-  "count": 8,
+  "updated": "2026-11-26 08:01 UTC",
+  "count": 10,
   "items": [
+    {
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795664218,
+      "score": 183,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Tell HN: Lots of Ask HNs again",
+      "url": "https://news.ycombinator.com/item?id=50649864",
+      "desc": "There have been questions about why the &#x2F;ask page (https:&#x2F;&#x2F;news.ycombinator.com&#x2F;ask) was running dry of Ask HNs - e.g.:Ask HN: Why is Ask HN only showing me 14 posts? - https:&#x2F",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795653814,
+      "score": 241,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
     {
       "title": "Much shorter version of GRH Lean verification from Anthropic",
       "url": "https://github.com/lsernau/grh-lean",
@@ -9,7 +35,20 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795643290,
-      "score": 195,
+      "score": 425,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;pcUgy",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795641482,
+      "score": 337,
       "category": "tools",
       "tags": [
         "国际"
@@ -22,47 +61,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795628626,
-      "score": 85,
+      "score": 120,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-      "url": "https://gpu-demo-gallery.pages.dev/",
+      "title": "Marginal Grains",
+      "url": "https://asteriskmag.com/issues/16/marginal-grains",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795581108,
-      "score": 330,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
-      "url": "https://news.ycombinator.com/item?id=50634426",
-      "desc": "Hey HN, we’re Harshith, Param, and Vishnu and we&#x27;re building Versine (https:&#x2F;&#x2F;versine.com). Versine lets you send and request money just by talking or texting with your AI (think Venmo ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795553055,
-      "score": 103,
+      "ts": 1795552818,
+      "score": 16,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Rchive – Every drive I've owned since the 90s, searchable in one window",
-      "url": "https://www.rchive.computer/",
-      "desc": "RCHIVE is a cross-platform desktop app for cataloging, searching and reorganizing files on your computers and drives. Like, all of &#x27;em: internal, external, network shares, USB sticks, loose SD ca",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795503813,
-      "score": 28,
-      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,21 +87,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795501356,
-      "score": 212,
-      "category": "llm",
+      "score": 254,
+      "category": "tools",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
-      "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
-      "desc": "Hi all, I am a professor in algorithm engineering. In our field we use a method of falsifiable hypothesis testing to improve algorithms. More precisely, this is a cycle consisting of designing an algo",
+      "title": "Show HN: Synth Patch Hero",
+      "url": "https://swarkentin.github.io/synth-patch-hero/",
+      "desc": "I wanted to be more deliberate and systematic in how I approach working on synth patches. With the help of our friend Claude, I put together a game that runs through exercises that builds that muscle ",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795442535,
-      "score": 63,
-      "category": "llm",
+      "ts": 1795490662,
+      "score": 18,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "The short age of dragon riders",
+      "url": "https://atilloy.com/2026/11/16/the-short-age-of-dragon-riders/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795412014,
+      "score": 275,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -100,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795365888,
-      "score": 194,
-      "category": "llm",
+      "score": 357,
+      "category": "tools",
       "tags": [
         "国际"
       ]
