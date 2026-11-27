@@ -1,16 +1,94 @@
 {
-  "updated": "2026-11-27 06:57 UTC",
-  "count": 16,
+  "updated": "2026-11-27 17:51 UTC",
+  "count": 15,
   "items": [
     {
-      "title": "The group chat where your AI talks behind your back",
+      "title": "I'm Scared of AI",
+      "url": "https://thesoapbox.email/archive/3",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795801531,
+      "score": 10,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795791797,
+      "score": 106,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "desc": "a ball will fall. trade on where it lands.I made this game! Some technical details:The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795791710,
+      "score": 219,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "US Air Force's cloud computing platform hacked",
+      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795784051,
+      "score": 211,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "AI on brink of making online security useless, mathematicians fear",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;4hRp8",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795777744,
+      "score": 101,
+      "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Claude sabotaging ML research tasks?",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795768088,
+      "score": 327,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Group chat where your AI talks behind your back",
       "url": "https://construct22.com/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795761874,
-      "score": 5,
-      "category": "industry",
+      "score": 577,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -22,34 +100,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795756926,
-      "score": 60,
+      "score": 239,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "\"What's Claude's Fursona?\" and Other Questions",
+      "title": "\"What's Claude's fursona?\" and other questions",
       "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795755378,
-      "score": 67,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
-      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795737798,
-      "score": 51,
-      "category": "industry",
+      "score": 114,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -61,8 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795729665,
-      "score": 547,
-      "category": "tools",
+      "score": 984,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,7 +139,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795719890,
-      "score": 56,
+      "score": 131,
       "category": "industry",
       "tags": [
         "国际"
@@ -87,21 +152,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795713089,
-      "score": 330,
+      "score": 422,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
-      "url": "https://github.com/rxliuli/sim-drop",
-      "desc": "Hi HN, I made a small macOS utility for my own iOS simulator workflow.I kept running into two annoyances: getting config files in and out of a simulator is clunky (digging into CoreSimulator UUID fold",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795711898,
-      "score": 44,
-      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -113,21 +165,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795704262,
-      "score": 125,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Head of Software Engineering – NOX Metals",
-      "url": "https://news.ycombinator.com/item?id=50654353",
-      "desc": "I&#x27;m hiring a Head of Software Engineering! In the last year we have:\n&gt;Scaled from $100k - $30M+ run rate \n&gt;Scaled from 0 to 75 people\n&gt;Sold to over 600 manufacturers \n&gt;Scaled from 4,0",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795694400,
-      "score": 1,
-      "category": "llm",
+      "score": 274,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -139,20 +178,7 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795686263,
-      "score": 312,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "OpenAI may be in cost control mode",
-      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795678392,
-      "score": 316,
+      "score": 403,
       "category": "tools",
       "tags": [
         "国际"
@@ -165,47 +191,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795671471,
-      "score": 232,
+      "score": 263,
       "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The USAID Files",
-      "url": "https://reclaimthenet.org/usaid-files",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795648552,
-      "score": 225,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;pcUgy",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795641482,
-      "score": 663,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Synth Patch Hero",
-      "url": "https://swarkentin.github.io/synth-patch-hero/",
-      "desc": "I wanted to be more deliberate and systematic in how I approach working on synth patches. With the help of our friend Claude, I put together a game that runs through exercises that builds that muscle ",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795490662,
-      "score": 137,
-      "category": "industry",
       "tags": [
         "国际"
       ]
