@@ -1,15 +1,28 @@
 {
-  "updated": "2026-11-28 02:29 UTC",
-  "count": 13,
+  "updated": "2026-11-28 12:43 UTC",
+  "count": 11,
   "items": [
     {
-      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
-      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+      "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795829576,
-      "score": 35,
+      "ts": 1795867024,
+      "score": 6,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+      "url": "https://fleetlayer.ai/",
+      "desc": "Hi HN! I ran into many problems when I started running lots of Claude Code sessions in parallel. I quickly ran out of usage, so I signed up for more Claude subs (which Anthropic terms allow.)Running s",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795855029,
+      "score": 10,
       "category": "industry",
       "tags": [
         "国际"
@@ -22,8 +35,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795813654,
-      "score": 32,
-      "category": "industry",
+      "score": 68,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -35,8 +48,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795810994,
-      "score": 37,
-      "category": "llm",
+      "score": 81,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -48,21 +61,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795807861,
-      "score": 394,
-      "category": "industry",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
-      "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795805995,
-      "score": 43,
-      "category": "tools",
+      "score": 576,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -74,8 +74,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795802188,
-      "score": 107,
-      "category": "industry",
+      "score": 154,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -87,21 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795791710,
-      "score": 330,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "US Air Force's cloud computing platform hacked",
-      "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795784051,
-      "score": 331,
-      "category": "industry",
+      "score": 387,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,34 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795768088,
-      "score": 616,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Group chat where your AI talks behind your back",
-      "url": "https://construct22.com/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795761874,
-      "score": 685,
-      "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "\"What's Claude's fursona?\" and other questions",
-      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795755378,
-      "score": 186,
-      "category": "llm",
+      "score": 723,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -152,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795619813,
-      "score": 331,
-      "category": "industry",
+      "score": 467,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -165,8 +126,21 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795549614,
-      "score": 58,
+      "score": 103,
       "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Loom seamlessly combines weaving, knitting and braiding",
+      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795543845,
+      "score": 166,
+      "category": "tools",
       "tags": [
         "国际"
       ]
