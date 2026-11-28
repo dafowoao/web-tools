@@ -1,29 +1,81 @@
 {
-  "updated": "2026-11-27 17:51 UTC",
-  "count": 15,
+  "updated": "2026-11-28 02:29 UTC",
+  "count": 13,
   "items": [
     {
-      "title": "I'm Scared of AI",
-      "url": "https://thesoapbox.email/archive/3",
+      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795801531,
-      "score": 10,
+      "ts": 1795829576,
+      "score": 35,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "url": "https://sessiongraph.ai/",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795791797,
-      "score": 106,
+      "ts": 1795813654,
+      "score": 32,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "url": "https://github.com/skeeto/prospero",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795810994,
+      "score": 37,
+      "category": "llm",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Michael Nielsen took down his book on neural nets",
+      "url": "https://neuralnetworksanddeeplearning.com/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795807861,
+      "score": 394,
+      "category": "industry",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+      "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+      "desc": "",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795805995,
+      "score": 43,
       "category": "tools",
+      "tags": [
+        "国际"
+      ]
+    },
+    {
+      "title": "Show HN: DragDropMath – Learn math by feel",
+      "url": "https://dragdropmath.com/",
+      "desc": "Hi HN!I am a professional physicist and I shuffle symbols in equations and mathematical expressions all day long. During my PhD (almost 20 years ago) I noticed that it is as if the symbols have their ",
+      "source": "Hacker News",
+      "sourceColor": "#ff6600",
+      "ts": 1795802188,
+      "score": 107,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -35,8 +87,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795791710,
-      "score": 219,
-      "category": "llm",
+      "score": 330,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -48,21 +100,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795784051,
-      "score": 211,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI on brink of making online security useless, mathematicians fear",
-      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-      "desc": "https:&#x2F;&#x2F;archive.ph&#x2F;4hRp8",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795777744,
-      "score": 101,
-      "category": "tools",
+      "score": 331,
+      "category": "industry",
       "tags": [
         "国际"
       ]
@@ -74,8 +113,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795768088,
-      "score": 327,
-      "category": "industry",
+      "score": 616,
+      "category": "tools",
       "tags": [
         "国际"
       ]
@@ -87,21 +126,8 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795761874,
-      "score": 577,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "The need for a formally verifiable mainstream programming language",
-      "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795756926,
-      "score": 239,
-      "category": "industry",
+      "score": 685,
+      "category": "llm",
       "tags": [
         "国际"
       ]
@@ -113,86 +139,34 @@
       "source": "Hacker News",
       "sourceColor": "#ff6600",
       "ts": 1795755378,
-      "score": 114,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "AI made self-hosting fun again",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795729665,
-      "score": 984,
+      "score": 186,
       "category": "llm",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "An introduction to uncertainty in machine learning",
-      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
       "desc": "",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795719890,
-      "score": 131,
+      "ts": 1795619813,
+      "score": 331,
       "category": "industry",
       "tags": [
         "国际"
       ]
     },
     {
-      "title": "AMD-specific fork of llama.cpp",
-      "url": "https://devnull.land/amd-specific-llama-cpp",
-      "desc": "",
+      "title": "Show HN: Analysis of Hacker News predictions since 2008",
+      "url": "https://hnpredictions.com/",
+      "desc": "I&#x27;ve always been curious about market and technology predictions so I made HN Predictions.I made it (prompted) in Antigravity using Gemini 4 Neon (High) orchestrator, and it took about 4 to 6 hou",
       "source": "Hacker News",
       "sourceColor": "#ff6600",
-      "ts": 1795713089,
-      "score": 422,
+      "ts": 1795549614,
+      "score": 58,
       "category": "llm",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Show HN: I wrote an entire Vim manual over 4 years",
-      "url": "http://themouseless.dev/vim/",
-      "desc": "I&#x27;m glad to announce that I&#x27;m releasing my new book, Learning to Play Vim.When I started using Vim more than a decade ago, I wished there was a manual out there teaching how to use this fant",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795704262,
-      "score": 274,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795686263,
-      "score": 403,
-      "category": "tools",
-      "tags": [
-        "国际"
-      ]
-    },
-    {
-      "title": "An algebraic quantization of gravity from the null cone",
-      "url": "https://arxiv.org/abs/2611.34924",
-      "desc": "",
-      "source": "Hacker News",
-      "sourceColor": "#ff6600",
-      "ts": 1795671471,
-      "score": 263,
-      "category": "tools",
       "tags": [
         "国际"
       ]
